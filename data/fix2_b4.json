@@ -1,0 +1,32 @@
+[
+ {
+  "key": "Nguyễn Xuân Trường - Hoa Hùng - 07-09-2026",
+  "field": "muc5",
+  "gia_tri_moi": "Dự kiến hàng về trước 20/9, DS bán tốt hàng T9 lớn hơn 15 thùng, lên kế hoạch phát triển hàng ra theo tiến độ",
+  "ly_do": "Ảnh ghi 'Dự kiến hàng về trước 20/9 ... T/9 lớn 15 thùng' — bản cũ thiếu số 15 thùng, sai 'đủ chuẩn'"
+ },
+ {
+  "key": "Nguyễn Đức Tôn - Liêm Xuân việt trì - 08-09-2026",
+  "field": "ton_kho",
+  "gia_tri_moi": "1.502 thùng; Công ty nợ 241 thùng",
+  "ly_do": "Ảnh ghi '1.502T Công Ty Nợ 241T' — là công ty nợ 241 thùng, không phải 'còn tại NPP 2,4 thùng'"
+ },
+ {
+  "key": "Nguyễn Đức Tôn - Thảo Nam Phú Thọ - 07-09-2026",
+  "field": "ton_kho",
+  "gia_tri_moi": "1.025 thùng; Công ty nợ 21 thùng",
+  "ly_do": "Ảnh ghi '1.025T Công Ty Nợ 21T' — là công ty nợ 21 thùng, không phải 'còn tại NPP 2,1 thùng'"
+ },
+ {
+  "key": "Nhữ Hồng Huy - Cường Long - 10-09-2026",
+  "field": "m2_doanh_so",
+  "gia_tri_moi": "Doanh số nhập tháng 9: 50 thùng; Doanh số bán tháng 9: 40 thùng",
+  "ly_do": "Phóng to đọc rõ '50 thùng' (bản cũ ghi '5..')"
+ },
+ {
+  "key": "Phan Thị Thanh Hải - Phúc Thành Đạt - 11-09-2026",
+  "field": "muc5",
+  "gia_tri_moi": "Nhập bù đủ lượng tháng 5 cho NPP",
+  "ly_do": "Ảnh ghi 'tháng 5' (chữ số 5 khác hẳn số 9 có vòng kín của người viết ở dòng ngày tháng); bản cũ ghi 'ATN lượng tháng 9'"
+ }
+]

@@ -1,0 +1,21 @@
+[
+ {
+  "file": "Lại Văn Thịnh - Ngọc Bích - 26-09-2026 - Ảnh 02.jpg",
+  "status": "cropped",
+  "orig": [
+   1802,
+   2688
+  ],
+  "crop": [
+   1802,
+   2120
+  ],
+  "box": [
+   0,
+   297,
+   1802,
+   2417
+  ],
+  "area_reduction_pct": 21.1
+ }
+]

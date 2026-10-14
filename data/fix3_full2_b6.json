@@ -1,0 +1,49 @@
+[
+ {"key": "Đinh Xuân Mỹ - Tuấn Huyền - 09-09-2026", "field": "ngay", "gia_tri_moi": "08", "ly_do": "giấy ghi ngày 8"},
+ {"key": "Đinh Xuân Mỹ - Tuấn Huyền - 09-09-2026", "field": "muc1.khac", "gia_tri_moi": "NPP báo, giao hàng đúng đủ theo chương trình Cty", "ly_do": "giấy ghi 'theo chương trình Cty'"},
+ {"key": "Đinh Xuân Mỹ - Tuấn Huyền - 09-09-2026", "field": "muc3", "gia_tri_moi": "Tập trung bao phủ, mở mới, tăng SKU tại điểm bán", "ly_do": "giấy ghi 'bao phủ, mở mới'"},
+ {"key": "Đinh Xuân Mỹ - Tuấn Huyền - 09-09-2026", "field": "muc4", "gia_tri_moi": "Đề xuất Cty hỗ trợ chương trình khuyến mại cháo để thúc đẩy bán ra", "ly_do": "đọc lại nguyên văn 2 dòng"},
+
+ {"key": "Đàm Ngọc Sơn - Long Minh Trang - 11-09-2026", "field": "dia_chi", "gia_tri_moi": "P. Trà Lý - Hưng Yên", "ly_do": "giấy ghi Hưng Yên"},
+ {"key": "Đàm Ngọc Sơn - Long Minh Trang - 11-09-2026", "field": "m1", "gia_tri_moi": "Thị trường bình thường; Bao phủ đầy đủ SKU trên điểm bán", "ly_do": "dòng 2 đọc sai"},
+ {"key": "Đàm Ngọc Sơn - Long Minh Trang - 11-09-2026", "field": "m4", "gia_tri_moi": "Chưa có", "ly_do": "giấy ghi 'Chưa có'"},
+ {"key": "Đàm Ngọc Sơn - Long Minh Trang - 11-09-2026", "field": "m6", "gia_tri_moi": "01 NVBH tốt; GSBH có hỗ trợ nhập và bán hàng", "ly_do": "giấy ghi 01"},
+ {"key": "Đàm Ngọc Sơn - Long Minh Trang - 11-09-2026", "field": "m7", "gia_tri_moi": "- Thu công nợ các điểm sỉ\n- Luân chuyển các SKU cho bán", "ly_do": "đọc lại nguyên văn"},
+ {"key": "Đàm Ngọc Sơn - Long Minh Trang - 11-09-2026", "field": "m9", "gia_tri_moi": "Cân lại biểu bảng NPP (do bận)", "ly_do": "đọc lại nguyên văn"},
+
+ {"key": "Đàm Ngọc Sơn - Trung Hiếu - 08-09-2026", "field": "muc1.thi_truong", "gia_tri_moi": "Tập trung chào bán các SKU khó còn tồn trong kho", "ly_do": "đọc lại nguyên văn"},
+ {"key": "Đàm Ngọc Sơn - Trung Hiếu - 08-09-2026", "field": "muc2.hang_hoa", "gia_tri_moi": "Thiếu SKU đậu đỏ và nếp cẩm", "ly_do": "giấy ghi SKU không phải sữa"},
+ {"key": "Đàm Ngọc Sơn - Trung Hiếu - 08-09-2026", "field": "muc2.thi_truong", "gia_tri_moi": "Bao phủ đầy đủ các SKU vào điểm bán", "ly_do": "giấy ghi 'các SKU'"},
+ {"key": "Đàm Ngọc Sơn - Trung Hiếu - 08-09-2026", "field": "muc3", "gia_tri_moi": "- Thu công nợ và vào hàng các điểm sỉ\n- Kiểm tra các điểm bán lẻ", "ly_do": "đọc lại nguyên văn 2 dòng"},
+ {"key": "Đàm Ngọc Sơn - Trung Hiếu - 08-09-2026", "field": "muc4", "gia_tri_moi": "Tập trung trưng bày quầy kệ điểm bán; Vào đơn đa dạng các SKU", "ly_do": "đọc lại nguyên văn 2 dòng"},
+ {"key": "Đàm Ngọc Sơn - Trung Hiếu - 08-09-2026", "field": "muc5", "gia_tri_moi": "Đã lên đơn hàng tháng 9 - Kế hoạch bán đạt 120%", "ly_do": "giấy ghi 'lên đơn hàng'"},
+
+ {"key": "Đào Văn Sơn - Thịnh Long - 07-09-2026", "field": "dia_ban", "gia_tri_moi": "Yên Bái cũ", "ly_do": "giấy ghi 'Yên Bái cũ'"},
+ {"key": "Đào Văn Sơn - Thịnh Long - 07-09-2026", "field": "muc1.thi_truong", "gia_tri_moi": "Trời chuyển lạnh nên bán ra chậm", "ly_do": "giấy ghi 'nên'"},
+ {"key": "Đào Văn Sơn - Thịnh Long - 07-09-2026", "field": "muc1.khac", "gia_tri_moi": "Hàng mốc meo và xước vỡ xuất hiện, yêu cầu C.Ty xem xét khâu vận chuyển và đóng gói", "ly_do": "giấy ghi 'khâu vận chuyển'"},
+ {"key": "Đào Văn Sơn - Thịnh Long - 07-09-2026", "field": "muc2.chinh_sach", "gia_tri_moi": "Báo cáo nhiều loại trùng lặp, chưa đồng bộ cơ chế lương", "ly_do": "giấy ghi 'chưa đồng bộ cơ chế lg'"},
+ {"key": "Đào Văn Sơn - Thịnh Long - 07-09-2026", "field": "muc5", "gia_tri_moi": "NPP và NVBH + GSBH đang nỗ lực bán hàng ra giảm tồn kho để nhập hàng tháng 9, dự kiến hoàn thành trước 20/9", "ly_do": "giấy ghi 'nỗ lực' không phải 'lo lắng'"},
+
+ {"key": "Đào Xuân Chung - Tùng Anh - 07-09-2026", "field": "muc1.khac", "gia_tri_moi": "Súp lạc sữa & nước sấu khách yêu cầu đổi sang cháo", "ly_do": "đọc lại nguyên văn"},
+ {"key": "Đào Xuân Chung - Tùng Anh - 07-09-2026", "field": "muc2.thi_truong", "gia_tri_moi": "Giá cháo cao, đề nghị Cty hỗ trợ KM", "ly_do": "thiếu chữ 'cháo'"},
+ {"key": "Đào Xuân Chung - Tùng Anh - 07-09-2026", "field": "muc2.chinh_sach", "gia_tri_moi": "Đề nghị Cty trả lương đúng theo quy định", "ly_do": "đọc lại nguyên văn"},
+ {"key": "Đào Xuân Chung - Tùng Anh - 07-09-2026", "field": "muc4", "gia_tri_moi": "Không", "ly_do": "giấy ghi 'K.Hông'"},
+
+ {"key": "Đỗ Quang Tý - Hiếu Thảo - 07-09-2026", "field": "muc1.khac", "gia_tri_moi": "Một số SKU tại điểm bán không ra được hàng", "ly_do": "giấy ghi 'tại điểm bán'"},
+ {"key": "Đỗ Quang Tý - Hiếu Thảo - 07-09-2026", "field": "muc3", "gia_tri_moi": "Chuẩn bị kế hoạch nhập hàng T9", "ly_do": "giấy ghi 'Chuẩn bị'"},
+ {"key": "Đỗ Quang Tý - Hiếu Thảo - 07-09-2026", "field": "muc4", "gia_tri_moi": "Mở rộng thị trường tuyến, điểm bán mới, tăng độ phủ SKU, sự khác biệt tự động", "ly_do": "giấy ghi 'điểm bán mới, tăng độ phủ SKU'"},
+ {"key": "Đỗ Quang Tý - Hiếu Thảo - 07-09-2026", "field": "muc5", "gia_tri_moi": "Làm việc với NPP lên đơn hàng T9", "ly_do": "giấy ghi 'lên đơn hàng'"},
+
+ {"key": "Bùi Thị Thái Hà - Vạn An Lộc - 11-09-2026", "field": "lam_viec_voi", "gia_tri_moi": "NV Tạ P. Hoa - Gia Lâm - LB - HM", "ly_do": "giấy ghi địa bàn 'Gia Lâm - LB - HM', tên lấy theo chữ ký"},
+ {"key": "Bùi Thị Thái Hà - Vạn An Lộc - 11-09-2026", "field": "dia_chi", "gia_tri_moi": "Sài Đồng - LB - HN", "ly_do": "giấy ghi LB - HN"},
+ {"key": "Bùi Thị Thái Hà - Vạn An Lộc - 11-09-2026", "field": "m1", "gia_tri_moi": "Hàng ra đều, độ phủ tốt", "ly_do": "giấy ghi 'độ phủ tốt'"},
+ {"key": "Bùi Thị Thái Hà - Vạn An Lộc - 11-09-2026", "field": "m3", "gia_tri_moi": "NPP hỗ trợ 2,5 => 3% cho sỉ vào bao bì", "ly_do": "giấy ghi 'cho sỉ'"},
+ {"key": "Bùi Thị Thái Hà - Vạn An Lộc - 11-09-2026", "field": "m7", "gia_tri_moi": "Y/c tăng cường chăm sóc độ phủ lên cao. Hoàn thành KH đề ra sớm", "ly_do": "giấy ghi 'đề ra sớm'"},
+ {"key": "Bùi Thị Thái Hà - Vạn An Lộc - 11-09-2026", "field": "m8", "gia_tri_moi": "Kính mong quý Cty có nhiều hỗ trợ CT cho các SP cháo để ra TT mạnh hơn", "ly_do": "đọc lại nguyên văn"},
+ {"key": "Bùi Thị Thái Hà - Vạn An Lộc - 11-09-2026", "field": "m9", "gia_tri_moi": "Hoàn thành nhập T09, lên KH bán T9", "ly_do": "giấy ghi 'lên KH bán'"},
+
+ {"key": "Lê Văn Thế - Phương Nam - 11-09-2026", "field": "m1", "gia_tri_moi": "Ảnh hưởng Trung Thu, 1 số điểm bán có tồn kho thấp, 1 số điểm tạm dừng chưa lấy lại", "ly_do": "giấy ghi 'có tồn kho thấp'"},
+ {"key": "Lê Văn Thế - Phương Nam - 11-09-2026", "field": "m7", "gia_tri_moi": "Không", "ly_do": "giấy ghi 'Ko'"},
+ {"key": "Lê Văn Thế - Phương Nam - 11-09-2026", "field": "m8", "gia_tri_moi": "Đề xuất nhập bù tháng 6 hưởng 1% đơn hàng", "ly_do": "giấy ghi 'hưởng 1% đơn hàng'"},
+ {"key": "Lê Văn Thế - Phương Nam - 11-09-2026", "field": "m9", "gia_tri_moi": "Không", "ly_do": "giấy ghi 'Ko'"}
+]

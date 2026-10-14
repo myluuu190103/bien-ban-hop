@@ -1,0 +1,160 @@
+[
+ {
+  "key": "Nguyễn Xuân Trường - Kiên Cường - 22-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Kiên Cường",
+  "asm": "",
+  "gsbh": "Nguyễn Xuân Trường",
+  "nvbh": [
+   "Nguyễn Bá Cường"
+  ],
+  "npp_nguoi_ky": "Nguyễn Văn Kiên",
+  "ton_kho_thung": "160",
+  "ghi_chu": ""
+ },
+ {
+  "key": "Nguyễn Xuân Vinh - Thành Thanh - 22-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Thành Thanh",
+  "asm": "",
+  "gsbh": "Nguyễn Xuân Vinh",
+  "nvbh": [],
+  "npp_nguoi_ky": "Phạm Thị Lụa",
+  "ton_kho_thung": "104",
+  "ghi_chu": "Dòng NVBH để trống; chỉ GSBH và NPP ký"
+ },
+ {
+  "key": "Nguyễn Đình Trọng - Hồng Minh - 20-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Minh Hồng",
+  "asm": "Nguyễn Đình Trọng",
+  "gsbh": "Lê Văn Thể",
+  "nvbh": [
+   "Nghiêm Thị Nhung"
+  ],
+  "npp_nguoi_ky": "Nguyễn Văn Nhiệt",
+  "ton_kho_thung": "",
+  "ghi_chu": "Bản GĐ02 rút gọn (NỘI DUNG HỌP BÀN), không có ô +Tồn kho; chân trang có thêm chữ ký ASM Đinh Thị Huệ"
+ },
+ {
+  "key": "Nguyễn Đình Trọng - Phương Nam - 20-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Phương Nam",
+  "asm": "Nguyễn Đình Trọng",
+  "gsbh": "Lê Văn Thể",
+  "nvbh": [
+   "Hà Thị Dung"
+  ],
+  "npp_nguoi_ky": "Lê Văn Cường",
+  "ton_kho_thung": "",
+  "ghi_chu": "Bản GĐ02 rút gọn, không có ô +Tồn kho; chân trang có thêm chữ ký ASM Đinh Thị Huệ"
+ },
+ {
+  "key": "Nguyễn Đình Trọng - Tâm An - 21-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Tâm An",
+  "asm": "Nguyễn Đình Trọng",
+  "gsbh": "Lê Thị Trâm",
+  "nvbh": [
+   "Mai Thị Tuyết"
+  ],
+  "npp_nguoi_ky": "Nguyễn Minh Tuấn",
+  "ton_kho_thung": "",
+  "ghi_chu": "Bản GĐ02 rút gọn, không có ô +Tồn kho; chân trang có thêm chữ ký ASM Đinh Thị Huệ"
+ },
+ {
+  "key": "Nguyễn Đình Trọng - Đức Mạnh - 19-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Đức Mạnh",
+  "asm": "Nguyễn Đình Trọng",
+  "gsbh": "Trần Ngọc Lâm",
+  "nvbh": [
+   "Lê Thị Vân"
+  ],
+  "npp_nguoi_ky": "Nguyễn Thị Thuỷ",
+  "ton_kho_thung": "",
+  "ghi_chu": "Bản GĐ02 rút gọn, không có ô +Tồn kho"
+ },
+ {
+  "key": "Nguyễn Đức Tôn - Họp nv tại Npp Liêm Xuân - 17-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Liêm Xuân",
+  "asm": "",
+  "gsbh": "Nguyễn Đức Tôn",
+  "nvbh": [
+   "Nguyễn Xuân Thể"
+  ],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "1295",
+  "ghi_chu": "Tồn kho ghi '1.295 T, còn kho nhà máy 268 T'; cột Xác nhận NPP bỏ trống không ký"
+ },
+ {
+  "key": "Nguyễn Đức Tôn - Thảo Nam - 22-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Thảo Nam",
+  "asm": "",
+  "gsbh": "Nguyễn Đức Tôn",
+  "nvbh": [
+   "Đào Văn Tài"
+  ],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "663",
+  "ghi_chu": "Ảnh mờ; trùng nội dung với bản 'Thảo Nam Phú Thọ' (cùng tờ, ngày 19/8) - số tồn kho đọc từ bản rõ hơn; ghi thêm 'hàng kho nhà máy 227 T'; NPP không ký"
+ },
+ {
+  "key": "Nguyễn Đức Tôn - Thảo Nam Phú Thọ - 22-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Thảo Nam",
+  "asm": "",
+  "gsbh": "Nguyễn Đức Tôn",
+  "nvbh": [
+   "Đào Văn Tài"
+  ],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "663",
+  "ghi_chu": "Trùng tờ với bản 'Thảo Nam' cùng người gửi; tờ ghi ngày 19/8/2026; tồn kho '663 T kho NPP, hàng kho nhà máy 227 T'; NPP không ký"
+ },
+ {
+  "key": "Ngô Huy Thanh - Phương Đông Bắc Ninh - 17-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Phương Đông Bắc Ninh",
+  "asm": "",
+  "gsbh": "Ngô Huy Thanh",
+  "nvbh": [
+   "Nguyễn Thị Thu Hương",
+   "Phạm Thị Vân Anh",
+   "Ngô Thị Ngần",
+   "Hà Thị Vinh"
+  ],
+  "npp_nguoi_ky": "Nguyễn Thị Điệp",
+  "ton_kho_thung": "3736",
+  "ghi_chu": "Phần thành phần dự họp đánh máy sẵn"
+ },
+ {
+  "key": "Nhữ Hồng Huy - Cường Long - 22-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Cường Long HD",
+  "asm": "",
+  "gsbh": "Nhữ Hồng Huy",
+  "nvbh": [
+   "Nguyễn Đình Phương"
+  ],
+  "npp_nguoi_ky": "Nguyễn Thị Chi",
+  "ton_kho_thung": "",
+  "ghi_chu": "Ảnh nhòe toàn trang; ô tồn kho ghi '... thùng (đã chốt đợt đó)' không đọc rõ con số"
+ },
+ {
+  "key": "Nhữ Hồng Huy - Minh Phúc HD - 21-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Minh Phúc",
+  "asm": "",
+  "gsbh": "Nhữ Hồng Huy",
+  "nvbh": [
+   "Lê Văn Tuyến",
+   "Lê Quý Quỳnh"
+  ],
+  "npp_nguoi_ky": "Đỗ Chí Tâm",
+  "ton_kho_thung": "",
+  "ghi_chu": "Ô tồn kho ghi chữ 'thiếu đậu xanh, nếp cẩm', không có con số"
+ }
+]

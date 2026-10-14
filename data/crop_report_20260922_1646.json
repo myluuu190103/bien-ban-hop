@@ -1,0 +1,40 @@
+[
+ {
+  "file": "Nguyễn Văn Toàn - An Viên Phát - 22-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1455,
+   2633
+  ],
+  "crop": [
+   1455,
+   2359
+  ],
+  "box": [
+   0,
+   45,
+   1455,
+   2404
+  ],
+  "area_reduction_pct": 10.4
+ },
+ {
+  "file": "Trần Đức Phong - Minh Lâm - 22-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1724,
+   2676
+  ],
+  "crop": [
+   1465,
+   2003
+  ],
+  "box": [
+   259,
+   0,
+   1724,
+   2003
+  ],
+  "area_reduction_pct": 36.4
+ }
+]

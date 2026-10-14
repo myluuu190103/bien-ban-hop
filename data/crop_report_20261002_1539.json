@@ -1,0 +1,173 @@
+[
+ {
+  "file": "Hoàng Thu Thủy - Đức Thủy - 02-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1574,
+   2652
+  ],
+  "crop": [
+   1574,
+   1823
+  ],
+  "box": [
+   0,
+   168,
+   1574,
+   1991
+  ],
+  "area_reduction_pct": 31.3
+ },
+ {
+  "file": "Lê Thị Trâm - Tâm An - 02-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1403,
+   2624
+  ],
+  "crop": [
+   1299,
+   941
+  ],
+  "box": [
+   42,
+   326,
+   1341,
+   1267
+  ],
+  "area_reduction_pct": 66.8
+ },
+ {
+  "file": "Lê Văn Thế - Phương Nam - 02-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1536,
+   2188
+  ],
+  "crop": [
+   1536,
+   1956
+  ],
+  "box": [
+   0,
+   0,
+   1536,
+   1956
+  ],
+  "area_reduction_pct": 10.6
+ },
+ {
+  "file": "Mai Thị Hạnh - Hiền Tuệ - 02-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1605,
+   2657
+  ],
+  "crop": [
+   1605,
+   2263
+  ],
+  "box": [
+   0,
+   33,
+   1605,
+   2296
+  ],
+  "area_reduction_pct": 14.8
+ },
+ {
+  "file": "Nguyễn Thị Liên - Hùng Mạnh - 02-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1648,
+   2664
+  ],
+  "crop": [
+   1338,
+   1531
+  ],
+  "box": [
+   0,
+   407,
+   1338,
+   1938
+  ],
+  "area_reduction_pct": 53.3
+ },
+ {
+  "file": "Nguyễn Thị Phương Thúy - Huệ Phát - 02-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1371,
+   2619
+  ],
+  "crop": [
+   1371,
+   2203
+  ],
+  "box": [
+   0,
+   170,
+   1371,
+   2373
+  ],
+  "area_reduction_pct": 15.9
+ },
+ {
+  "file": "Nguyễn Đình Trọng - Đức Thủy - 02-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1350,
+   2616
+  ],
+  "crop": [
+   1350,
+   2091
+  ],
+  "box": [
+   0,
+   0,
+   1350,
+   2091
+  ],
+  "area_reduction_pct": 20.1
+ },
+ {
+  "file": "Nhữ Hồng Huy - Cường Long - 02-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1673,
+   2668
+  ],
+  "crop": [
+   1445,
+   1765
+  ],
+  "box": [
+   228,
+   347,
+   1673,
+   2112
+  ],
+  "area_reduction_pct": 42.9
+ },
+ {
+  "file": "Trần Ngọc Lâm - Phương Anh - 02-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   960,
+   1434
+  ],
+  "crop": [
+   954,
+   1287
+  ],
+  "box": [
+   0,
+   0,
+   954,
+   1287
+  ],
+  "area_reduction_pct": 10.8
+ }
+]

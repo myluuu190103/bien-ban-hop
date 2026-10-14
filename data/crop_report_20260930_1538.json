@@ -1,0 +1,40 @@
+[
+ {
+  "file": "Nguyễn Văn Đồng - Long Minh Trang - 29-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1778,
+   2684
+  ],
+  "crop": [
+   1557,
+   2417
+  ],
+  "box": [
+   221,
+   0,
+   1778,
+   2417
+  ],
+  "area_reduction_pct": 21.1
+ },
+ {
+  "file": "Phan Ngọc Bích - Minh Hưng - 29-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1473,
+   2636
+  ],
+  "crop": [
+   1473,
+   2413
+  ],
+  "box": [
+   0,
+   0,
+   1473,
+   2413
+  ],
+  "area_reduction_pct": 8.5
+ }
+]

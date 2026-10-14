@@ -1,0 +1,156 @@
+[
+  {
+    "key": "Phan Ngọc Bích - Minh Hưng - 25-09-2026",
+    "gsbh_ky": "Phan Ngọc Bích",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu biên bản này không có cột ký NPP; chỉ có chữ ký NVBH (Vũ Hồng Sơn, không ghi ở đầu trang) và GSBH"
+  },
+  {
+    "key": "Nguyễn Tuệ Tuấn - Mạnh Lực - 25-09-2026",
+    "gsbh_ky": "Nguyễn Tuệ Tuấn",
+    "asm_ky": null,
+    "npp_ky": "Phạm Thị Hòa",
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Cột chữ ký không ghi nhãn vai trò (GSBH/NPP) trong ảnh; suy ra người ký còn lại (Phạm Thị Hòa) là NPP theo cấu trúc biên bản thông thường, không chắc chắn hoàn toàn"
+  },
+  {
+    "key": "Trần Hữu Đoàn - Đại Dương - 25-09-2026",
+    "gsbh_ky": "Trần Hữu Đoàn",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Nguyễn Quốc Đại",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Ô NPP có chữ ký thật nhưng tên viết tay quá mờ, không đọc rõ"
+  },
+  {
+    "key": "Phạm Thanh Sơn - Bảo Thắm - 26-09-2026",
+    "gsbh_ky": "Phạm Thanh Sơn",
+    "asm_ky": null,
+    "npp_ky": "Nguyễn Thị Thắm",
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "NVBH Nguyễn Văn Đỗ cũng ký ở cột riêng (không ghi tên NVBH ở đầu trang nên để trống nvbh_du_hop)"
+  },
+  {
+    "key": "Đinh Thị Huệ - Hà Sơn - 26-09-2026",
+    "gsbh_ky": null,
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": true,
+    "ghi_chu": "Ảnh là mẫu 'Biên bản kiểm tra thị trường (ASM, GS, NVBH)' về định hình/tuyển NPP mới (Mai Quang Hùng), không có cột ký GSBH/ASM/NPP theo chuẩn GĐ02/KTTT; chỉ có 2 chữ ký là Mai Quang Hùng và Đinh Thị Hiếu (tên trên biên bản là 'Đinh Thị Hiếu', khác với tên trong key 'Đinh Thị Huệ')"
+  },
+  {
+    "key": "Nguyễn Xuân Trường - Kiên Cường - 26-09-2026",
+    "gsbh_ky": "Nguyễn Xuân Trường",
+    "asm_ky": null,
+    "npp_ky": "Nguyễn Văn Kiên",
+    "nvbh_du_hop": "Nguyễn Bá Cường",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": ""
+  },
+  {
+    "key": "Nguyễn Văn Đồng - Minh Ý - 26-09-2026",
+    "gsbh_ky": "Trần Hữu Đoàn",
+    "asm_ky": "Nguyễn Văn Đồng",
+    "npp_ky": "Đinh Xuân Liêm",
+    "nvbh_du_hop": "Nguyễn Thanh Nhân",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Đây là biên bản họp AJM/ASM cùng GSBH+NVBH tại NPP Minh Ý; GSBH ghi đầu trang là Trần Hữu Đoàn, ASM là Nguyễn Văn Đồng"
+  },
+  {
+    "key": "Trần Hữu Đoàn - Minh Ý - 26-09-2026",
+    "gsbh_ky": "Trần Hữu Đoàn",
+    "asm_ky": "Nguyễn Văn Đồng",
+    "npp_ky": "Đinh Xuân Liêm",
+    "nvbh_du_hop": "Nguyễn Thanh Nhân",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Ảnh giống hệt (cùng 1 biên bản) với key 'Nguyễn Văn Đồng - Minh Ý - 26-09-2026'"
+  },
+  {
+    "key": "Lại Văn Thịnh - Ngọc Bích - 26-09-2026",
+    "gsbh_ky": "Lại Văn Thịnh",
+    "asm_ky": null,
+    "npp_ky": "Vũ Đình Công",
+    "nvbh_du_hop": "Hoàng Đức Quang, Nguyễn Văn Thắng",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu không in sẵn nhãn vai trò ký rõ ràng (GSBH/NVBH/NPP) ở cuối trang; vai trò được suy luận từ thông tin 'Làm việc với' ở đầu trang, độ tin cậy không tuyệt đối"
+  },
+  {
+    "key": "Lê Văn Thế - Phương Nam - 26-09-2026",
+    "gsbh_ky": "Lê Văn Thế",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Hà Thị Dung",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Ô NPP có chữ ký thật nhưng tên viết tay không đọc rõ"
+  },
+  {
+    "key": "Mai Thị Hạnh - Phạm Bảo Khánh - 26-09-2026",
+    "gsbh_ky": "Mai Thị Hạnh",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Nguyễn Thị Hiền",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Ô NPP có chữ ký thật nhưng tên viết tay không đọc rõ"
+  },
+  {
+    "key": "Lê Thị Trâm - Tâm An - 26-09-2026",
+    "gsbh_ky": "Lê Thị Trâm",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Hoài Thị Duyệt",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Không thấy cột chữ ký NPP trong khung ảnh (có thể bị cắt ở lề phải); tên NVBH ở đầu trang ghi 'Hoài Thị Duyệt', chữ ký cuối trang viết hơi khác dạng (có thể đọc là 'Nguyệt')"
+  },
+  {
+    "key": "Hoàng Thu Thủy - Đức Thủy - 26-09-2026",
+    "gsbh_ky": "Hoàng Thu Thủy",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mục 'Xác nhận NPP' có chữ ký thật nhưng tên không đọc rõ"
+  },
+  {
+    "key": "Nguyễn Văn Toàn - An Viên Phát - 28-09-2026",
+    "gsbh_ky": "Nguyễn Văn Toàn",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Ô NPP có chữ ký thật nhưng không ghi rõ họ tên bên dưới chữ ký"
+  }
+]

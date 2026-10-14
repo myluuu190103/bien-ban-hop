@@ -1,0 +1,48 @@
+[
+  {
+    "results": [
+      {
+        "role": "ASM",
+        "n": 4
+      },
+      {
+        "role": "Admin",
+        "n": 3
+      },
+      {
+        "role": "GĐBH",
+        "n": 2
+      },
+      {
+        "role": "Nhân viên",
+        "n": 79
+      },
+      {
+        "role": "Quản lý",
+        "n": 46
+      },
+      {
+        "role": "Theo dõi",
+        "n": 1
+      }
+    ],
+    "success": true,
+    "meta": {
+      "served_by": "v3-prod",
+      "served_by_region": "APAC",
+      "served_by_colo": "SIN",
+      "served_by_primary": true,
+      "timings": {
+        "sql_duration_ms": 0.2498
+      },
+      "duration": 0.2498,
+      "changes": 0,
+      "last_row_id": 0,
+      "changed_db": false,
+      "size_after": 104226816,
+      "rows_read": 149,
+      "rows_written": 0,
+      "total_attempts": 1
+    }
+  }
+]

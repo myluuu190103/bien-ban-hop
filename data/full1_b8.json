@@ -1,0 +1,381 @@
+[
+ {
+  "key": "Trịnh Văn Dũng - Trình Oanh - 31-08-2026",
+  "loai": "GD02",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Trịnh Văn Dũng - Trình Oanh - 31-08-2026 - Ảnh 01.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\trinh_van_dung_trinh_oanh_31_08_2026_1.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\trinh_van_dung_trinh_oanh_31_08_2026_2.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\trinh_van_dung_trinh_oanh_31_08_2026_3.jpg"
+  ],
+  "nguoi_gui": "Trịnh Văn Dũng",
+  "nvbh_trong_tuyen": [
+   "Vũ Thị Lan Oanh"
+  ],
+  "gsbh_tuyen": "Tuyên Quang, Hà Giang",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ],
+  "du_lieu_hien_co": {
+   "ngay": "31",
+   "thang": "8",
+   "nam": "2026",
+   "tai_npp": "Trình Oanh",
+   "dia_ban": "Tuyên Quang",
+   "asm": "",
+   "gsbh": "Trịnh Văn Dũng",
+   "nvbh": "Vũ Thị Lan Oanh",
+   "muc1": {
+    "ton_kho": "6,87 thùng",
+    "thi_truong": "Hồ Thác, thị trấn, huyện chợ đồ đó, hoa trà và gửi điện buôn bán + nước hai",
+    "nhan_su": "Ổn định",
+    "khac": "Trách nhiệm tiếp Tùng mua sự chọn, đưa cho lô, kho tại D.V.H và vào; GSBH tổ mới mỗi tháng phần chào riêng và tổ phủ bổ"
+   },
+   "muc2": {
+    "hang_hoa": "Đưa hàng tại các đủ phủ hàng, giữ phủ tốt sản phẩm",
+    "thi_truong": "Hàng hóa bán chạy tốt, đẩy mạnh bán hàng quảng bá",
+    "chinh_sach": "",
+    "bao_cao": "Theo tuần, đúng báo cáo và chuẩn giờ ngày báo cáo",
+    "ho_tro": "Có"
+   },
+   "muc3": "Hỗ trợ NVBH giao bán, đôn đốc, mở mới, nhắc nhở chào đón nhiều điểm mua; ASM chỉ đạo chung quy trình thực hiện báo cáo tổ",
+   "muc4": "Xu hướng thị trường ngành hàng cạnh tranh khá lớn, cần vươn lên bán hàng và gia tăng khu vực; hỗ trợ thúc đẩy tăng doanh thu, có thể phù hợp đến tự nhiên",
+   "muc5": "NVBH và GSBH cố gắng, bám sát hàng hóa, nhập hàng liên tục theo kế hoạch"
+  }
+ },
+ {
+  "key": "Đinh Văn Huấn - Tuấn Anh - 04-09-2026",
+  "loai": "GD02",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Đinh Văn Huấn - Tuấn Anh - 04-09-2026 - Ảnh 01.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\đinh_van_huan_tuan_anh_04_09_2026_1.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\đinh_van_huan_tuan_anh_04_09_2026_2.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\đinh_van_huan_tuan_anh_04_09_2026_3.jpg"
+  ],
+  "nguoi_gui": "Đinh Văn Huấn",
+  "nvbh_trong_tuyen": [
+   "Bùi Thái Toàn",
+   "Lê Văn Thỏa"
+  ],
+  "gsbh_tuyen": "Nghệ An",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ],
+  "du_lieu_hien_co": {
+   "ngay": "04",
+   "thang": "09",
+   "nam": "2026",
+   "tai_npp": "Tuấn Anh",
+   "dia_ban": "Nghệ An",
+   "asm": "",
+   "gsbh": "Đinh Văn Huấn",
+   "nvbh": "Bùi Thái Toàn, Lê Văn Thỏa",
+   "muc1": {
+    "ton_kho": "1.255",
+    "thi_truong": "KH cầu đủ thời gian bán SP, cao so với hàng +",
+    "nhan_su": "Ổn định",
+    "khac": ""
+   },
+   "muc2": {
+    "hang_hoa": "Đậu đỏ, sen, tiêu, cho bơ",
+    "thi_truong": "Giá bán không cạnh tranh, đắt hơn 10k giá cây trồng",
+    "chinh_sach": "BT",
+    "bao_cao": "Đầy đủ, kịp thời",
+    "ho_tro": "Có"
+   },
+   "muc3": "Hỗ trợ NVBH & NPP cùng nhau T9/T10. Mở thêm 1-2 điểm bán mới",
+   "muc4": "",
+   "muc5": "Tháng 9 tăng nhập bán, T9/T10 sản phẩm mới cho tiêu"
+  }
+ },
+ {
+  "key": "Đinh Xuân Mỹ - Tuấn Huyền - 05-09-2026",
+  "loai": "GD02",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Đinh Xuân Mỹ - Tuấn Huyền - 05-09-2026 - Ảnh 01.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\đinh_xuan_my_tuan_huyen_05_09_2026_1.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\đinh_xuan_my_tuan_huyen_05_09_2026_2.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\đinh_xuan_my_tuan_huyen_05_09_2026_3.jpg"
+  ],
+  "nguoi_gui": "Đinh Xuân Mỹ",
+  "nvbh_trong_tuyen": [],
+  "gsbh_tuyen": "Cao Bằng",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ],
+  "du_lieu_hien_co": {
+   "ngay": "05",
+   "thang": "09",
+   "nam": "2026",
+   "tai_npp": "Tuấn Huyền",
+   "dia_ban": "Cao Bằng",
+   "asm": "",
+   "gsbh": "Đinh Xuân Mỹ",
+   "nvbh": "",
+   "muc1": {
+    "ton_kho": "3.527 thùng",
+    "thi_truong": "Bao phủ tốt, hàng mới về, khó khăn",
+    "nhan_su": "Ổn định",
+    "khac": "NPP hợp tác việc giao hàng tại phòng, chi tiết chưa rõ"
+   },
+   "muc2": {
+    "hang_hoa": "",
+    "thi_truong": "",
+    "chinh_sach": "",
+    "bao_cao": "",
+    "ho_tro": ""
+   },
+   "muc3": "Đại lý đẩy mạnh Sale Out",
+   "muc4": "Đề nghị công ty hỗ trợ, chính sách tồn kho VM chậm",
+   "muc5": "Giảm tồn kho, đẩy hàng nhanh trong T9"
+  }
+ },
+ {
+  "key": "Đàm Ngọc Sơn - Long Minh Trang - 04-09-2026",
+  "loai": "GD02",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Đàm Ngọc Sơn - Long Minh Trang - 04-09-2026 - Ảnh 01.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\đam_ngoc_son_long_minh_trang_04_09_2026_1.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\đam_ngoc_son_long_minh_trang_04_09_2026_2.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\đam_ngoc_son_long_minh_trang_04_09_2026_3.jpg"
+  ],
+  "nguoi_gui": "Đàm Ngọc Sơn",
+  "nvbh_trong_tuyen": [
+   "Nguyễn Hải Dương",
+   "Nguyễn Quang Chinh"
+  ],
+  "gsbh_tuyen": "Thái Bình",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ],
+  "du_lieu_hien_co": {
+   "ngay": "04",
+   "thang": "09",
+   "nam": "2026",
+   "tai_npp": "Long Minh Trang",
+   "dia_ban": "Thái Bình",
+   "asm": "",
+   "gsbh": "Đàm Ngọc Sơn",
+   "nvbh": "Nguyễn Hải Dương",
+   "muc1": {
+    "ton_kho": "MB thừa",
+    "thi_truong": "Hộ hộ cầu đơn bán, luân chuyển hàng date ngắn",
+    "nhan_su": "Cụ NVBH chuyển trại",
+    "khac": "Thu chợ và cải điểm bí giữ hàng"
+   },
+   "muc2": {
+    "hang_hoa": "Thiếu 02 sen chân đậu đỏ và nếp cẩm",
+    "thi_truong": "Bổ sung đầy đủ hàng vào cửa điểm bán sau lễ",
+    "chinh_sach": "Bán theo chỉ đạo của công ty và NPP",
+    "bao_cao": "Làm báo cáo đầy đủ",
+    "ho_tro": "Có"
+   },
+   "muc3": "Ép kín và đẩy giá cửa điểm bí",
+   "muc4": "Bán sát các chỉ tiêu ngày. Thực hiện chấm công, đầy tuần, MTMC thu quả chè",
+   "muc5": "Lên đơn hàng thứ 9 cân - bao phủ hàng - hoàn thành 110% chỉ tiêu bán ra"
+  }
+ },
+ {
+  "key": "Đàm Ngọc Sơn - Trung Hiếu - 03-09-2026",
+  "loai": "GD02",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Đàm Ngọc Sơn - Trung Hiếu - 03-09-2026 - Ảnh 01.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\đam_ngoc_son_trung_hieu_03_09_2026_1.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\đam_ngoc_son_trung_hieu_03_09_2026_2.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\đam_ngoc_son_trung_hieu_03_09_2026_3.jpg"
+  ],
+  "nguoi_gui": "Đàm Ngọc Sơn",
+  "nvbh_trong_tuyen": [
+   "Nguyễn Hải Dương",
+   "Nguyễn Quang Chinh"
+  ],
+  "gsbh_tuyen": "Thái Bình",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ],
+  "du_lieu_hien_co": {
+   "ngay": "03",
+   "thang": "09",
+   "nam": "2026",
+   "tai_npp": "Trung Hiếu",
+   "dia_ban": "Thái Bình",
+   "asm": "",
+   "gsbh": "Đàm Ngọc Sơn",
+   "nvbh": "Nguyễn Quang Chinh",
+   "muc1": {
+    "ton_kho": "8,73 thùng",
+    "thi_truong": "Duy trì hỗ trợ các cửa điểm bán lớn",
+    "nhan_su": "01 NVBH chuyên trách",
+    "khac": ""
+   },
+   "muc2": {
+    "hang_hoa": "Thiếu 2 sen chân đậu đỏ và nếp cẩm",
+    "thi_truong": "Luân chuyển các sản phẩm date sâu, cà tệ",
+    "chinh_sach": "Bán theo chỉ đạo của công ty và NPP",
+    "bao_cao": "Làm báo cáo đầy đủ",
+    "ho_tro": "Có"
+   },
+   "muc3": "Phủ hàng vào các cửa điểm bán sau lễ. Thu cơ vụ các điểm sỉ",
+   "muc4": "Bám sát chỉ tiêu ngày để hoàn thành kế hoạch tháng",
+   "muc5": "Lên đơn hàng thứ 9 cân - chỉ tiêu bán ra 120%"
+  }
+ },
+ {
+  "key": "Đào Văn Sơn - Thịnh Long - 31-08-2026",
+  "loai": "GD02",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Đào Văn Sơn - Thịnh Long - 31-08-2026 - Ảnh 01.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\đao_van_son_thinh_long_31_08_2026_1.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\đao_van_son_thinh_long_31_08_2026_2.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\đao_van_son_thinh_long_31_08_2026_3.jpg"
+  ],
+  "nguoi_gui": "Đào Văn Sơn",
+  "nvbh_trong_tuyen": [
+   "Đinh Thị Thuỳ Linh",
+   "Đào Thị Hằng"
+  ],
+  "gsbh_tuyen": "Nghĩa Lộ, Yên Bái",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ],
+  "du_lieu_hien_co": {
+   "ngay": "31",
+   "thang": "08",
+   "nam": "2026",
+   "tai_npp": "Thịnh Long",
+   "dia_ban": "Yên Bái",
+   "asm": "",
+   "gsbh": "Đào Văn Sơn",
+   "nvbh": "Đinh Thị Thuỳ Linh",
+   "muc1": {
+    "ton_kho": "NPP: 1.186 thùng",
+    "thi_truong": "Giá cháo túi kênh T.M.P.T dày thấp, T.T Yên Bái bình thường",
+    "nhan_su": "Địa bàn đủ nhân sự bám sát thị trường",
+    "khac": "Một số hàng khó bán, bán ra chậm, khách hay thay đổi khẩu vị chuyển sang cháo đỗ hạt hoàn"
+   },
+   "muc2": {
+    "hang_hoa": "NPP đủ hàng bán, hàng mốp mèo và sức nhiều",
+    "thi_truong": "Giá cháo sen và màu ổn định T.T chậm",
+    "chinh_sach": "Không nhiều yêu cầu so với các hãng",
+    "bao_cao": "Nhân sự báo cáo đầy đủ, đúng tiến độ",
+    "ho_tro": "Có"
+   },
+   "muc3": "Bám sát thị trường và chỉ tiêu của NPP khu vực quản lý, kịp thời giải quyết các vướng mắc trên địa bàn",
+   "muc4": "Hiện tại NPP đủ hàng bán tốt, khá cao mảng bán lẻ, đảm quản lý chặt giá trên kênh T.M.Đ.T",
+   "muc5": "NPP đã hoàn thành đơn tháng 8, đang thúc đẩy bán ra, giảm tồn kho để hoàn thành chỉ tiêu tháng 9"
+  }
+ },
+ {
+  "key": "Đào Xuân Chung - Tùng Anh - 31-08-2026",
+  "loai": "GD02",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Đào Xuân Chung - Tùng Anh - 31-08-2026 - Ảnh 01.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\đao_xuan_chung_tung_anh_31_08_2026_1.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\đao_xuan_chung_tung_anh_31_08_2026_2.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\đao_xuan_chung_tung_anh_31_08_2026_3.jpg"
+  ],
+  "nguoi_gui": "Đào Xuân Chung",
+  "nvbh_trong_tuyen": [
+   "Lê Thị Hoà",
+   "Trần Văn Quân"
+  ],
+  "gsbh_tuyen": "Mộc Châu, Sơn La",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ],
+  "du_lieu_hien_co": {
+   "ngay": "31",
+   "thang": "08",
+   "nam": "2026",
+   "tai_npp": "Tùng Anh",
+   "dia_ban": "Mộc Châu",
+   "asm": "",
+   "gsbh": "Đào Xuân Chung",
+   "nvbh": "Trần Văn Quân",
+   "muc1": {
+    "ton_kho": "309 thùng",
+    "thi_truong": "Giá chào kênh, thiếu một vài thắc mắc của hàng kêu đắt",
+    "nhan_su": "Ổn định",
+    "khac": "Khách lấy hàng súp lắc sữa không bán ra được. Yêu cầu đổi sang hàng khác"
+   },
+   "muc2": {
+    "hang_hoa": "Hàng mùa mưa, mưa nhiều",
+    "thi_truong": "Giá chiết khấu cao của hàng, xin thêm KM",
+    "chinh_sach": "Đề nghị công ty trả lương sớm, gồm theo quy định",
+    "bao_cao": "Đầy đủ, đúng theo quy định của công ty",
+    "ho_tro": "Có"
+   },
+   "muc3": "GS và NV tập trung thúc đẩy bán ra, giảm tồn kho cho NPP",
+   "muc4": "Không",
+   "muc5": "Nhập, xử lý bán trong tháng 8, hoàn thành 10/9"
+  }
+ },
+ {
+  "key": "Đỗ Quang Tý - Hiếu Thảo - 31-08-2026",
+  "loai": "GD02",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Đỗ Quang Tý - Hiếu Thảo - 31-08-2026 - Ảnh 01.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\đo_quang_ty_hieu_thao_31_08_2026_1.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\đo_quang_ty_hieu_thao_31_08_2026_2.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\đo_quang_ty_hieu_thao_31_08_2026_3.jpg"
+  ],
+  "nguoi_gui": "Đỗ Quang Tý",
+  "nvbh_trong_tuyen": [
+   "Nguyễn Văn Thắng"
+  ],
+  "gsbh_tuyen": "Điện Biên",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ],
+  "du_lieu_hien_co": {
+   "ngay": "31",
+   "thang": "08",
+   "nam": "2026",
+   "tai_npp": "Hiếu Thảo",
+   "dia_ban": "Điện Biên",
+   "asm": "",
+   "gsbh": "Đỗ Quang Tý",
+   "nvbh": "Nguyễn Văn Thắng",
+   "muc1": {
+    "ton_kho": "26.26",
+    "thi_truong": "Khách hàng phản ánh giá cháo cao so với CTKM",
+    "nhan_su": "Đủ nhân sự",
+    "khac": "Các sản phẩm cháo sữa, phổ hoa quả, đại lý lấy chưa ra được hàng"
+   },
+   "muc2": {
+    "hang_hoa": "NPP đủ hàng hoá",
+    "thi_truong": "Đại lý chưa cho tiêu thụ ở Tuần Giáo",
+    "chinh_sach": "",
+    "bao_cao": "Báo cáo đầy đủ",
+    "ho_tro": "Có"
+   },
+   "muc3": "Chuẩn bị kế hoạch cho sản lượng T9",
+   "muc4": "Cần có chi phí hỗ trợ đi lại cho NVBH",
+   "muc5": "Kế hoạch nhập bán T8/26, đủ hoàn thành"
+  }
+ }
+]

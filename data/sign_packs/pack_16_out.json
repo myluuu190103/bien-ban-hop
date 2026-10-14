@@ -1,0 +1,156 @@
+[
+  {
+    "key": "Lê Quốc Việt - Vy Đức Anh - 22-09-2026",
+    "gsbh_ky": "Lê Quốc Việt",
+    "asm_ky": "Đinh Thị Huệ",
+    "npp_ky": null,
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu Kiểm tra thị trường NPP (GSBH), không có ô ký riêng cho NPP; có thêm NVBH Vũ Thị Phương Lê ký tên ở dưới"
+  },
+  {
+    "key": "Đinh Thị Huệ - Vy Đức Anh - 22-09-2026",
+    "gsbh_ky": "Lê Quốc Việt",
+    "asm_ky": "Đinh Thị Huệ",
+    "npp_ky": null,
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu Kiểm tra thị trường (ASM, GS, NVBH), không có ô ký riêng cho NPP; NVBH Vũ Thị Phương Lê ký tên ở dưới"
+  },
+  {
+    "key": "Cầm Thế Khái - Vĩnh Hoàn - 22-09-2026",
+    "gsbh_ky": "Cầm Thị Khái",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Ảnh mờ, chữ viết tay khó đọc. Tên GSBH trên biên bản viết gần giống 'Cầm Thị Khái' (có thể là Cầm Thế Khái). Có chữ ký ở ô NVBH và ô NPP nhưng nét chữ quá mờ, không đọc rõ họ tên đầy đủ nên để trống"
+  },
+  {
+    "key": "Lê Văn Thế - Hồng Minh - 23-09-2026",
+    "gsbh_ky": "Lê Văn Thế",
+    "asm_ky": null,
+    "npp_ky": "Nguyễn Văn Minh",
+    "nvbh_du_hop": "Nguyễn Thị Nhung",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": ""
+  },
+  {
+    "key": "Nguyễn Quốc Thắm - Linh Anh - 23-09-2026",
+    "gsbh_ky": null,
+    "asm_ky": "Nguyễn Quốc Thắm",
+    "npp_ky": null,
+    "nvbh_du_hop": "Thái",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Ảnh chụp nghiêng, nhiều chữ mờ. Đầu trang ghi làm việc với GSBH (tên không đọc rõ) phụ trách địa bàn Sơn Tây; chữ ký NPP có nhưng không đọc rõ họ tên, không ghi"
+  },
+  {
+    "key": "Lê Thị Trâm - Minh Anh - 23-09-2026",
+    "gsbh_ky": "Lê Thị Tâm",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Lê Thị Dung",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu không có ô ký cho NPP. Tên trên biên bản đọc là 'Lê Thị Tâm', hơi khác tên trong key 'Lê Thị Trâm' - có thể cùng một người nhưng chữ viết tay khó phân biệt Tâm/Trâm"
+  },
+  {
+    "key": "Nhữ Hồng Huy - Minh Phúc HD - 23-09-2026",
+    "gsbh_ky": "Nhữ Hồng Huy",
+    "asm_ky": null,
+    "npp_ky": "Đỗ Thị Tâm",
+    "nvbh_du_hop": "Vũ Thị Huyền, Vũ Ngọc Quyết",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Tên NPP ký (Đỗ Thị Tâm) đọc không chắc chắn hoàn toàn do chữ ký nhỏ"
+  },
+  {
+    "key": "Nguyễn Đình Trọng - Vĩnh Hoàn - 23-09-2026",
+    "gsbh_ky": "Cầm Thị Khái",
+    "asm_ky": null,
+    "npp_ky": "Hoàng Thị Hoan",
+    "nvbh_du_hop": "Dương Văn Ngọ, Nông Thị Nhung",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu GĐ02 (biên bản họp GĐKD và NPP). Thành phần dự họp ghi ASM: Nguyễn Đình Trọng nhưng chữ ký ở ô ASM không đọc rõ họ tên nên để trống. Ô 'Xác nhận NPP' có 3 chữ ký (2 NVBH + đại diện NPP Hoàng Thị Hoan)"
+  },
+  {
+    "key": "Nguyễn Thị Phương Thúy - Đặng Tiến Trung - 23-09-2026",
+    "gsbh_ky": "Nguyễn Thị Phương Thúy",
+    "asm_ky": null,
+    "npp_ky": "Trần Thị Thu Trầm",
+    "nvbh_du_hop": "Trần Thị Thu Trầm",
+    "chi_dong_dau": false,
+    "ky_thay": true,
+    "khong_doc_duoc": false,
+    "ghi_chu": "NVBH Trần Thị Thu Trầm ký cả vào ô NVBH và ô 'Đại diện NPP' (ký thay cho NPP)"
+  },
+  {
+    "key": "Trần Ngọc Lâm - Đức Mạnh - 23-09-2026",
+    "gsbh_ky": "Trần Ngọc Lâm",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Lê Thị Vân",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu chỉ có ô ký cho GSBH và NVBH, không có ô ký cho NPP"
+  },
+  {
+    "key": "Lê Quốc Việt - An Vy - 24-09-2026",
+    "gsbh_ky": "Lê Quốc Việt",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "NVBH Đinh Xuân Đương ký tên (không có tên ở đầu trang). Có một chữ ký thứ 3 ở bên phải, không có nhãn rõ ràng và nét chữ mờ, không đọc được tên (có thể là của NPP)"
+  },
+  {
+    "key": "Đinh Thị Huệ - Hà Sơn - 24-09-2026",
+    "gsbh_ky": null,
+    "asm_ky": "Đinh Thị Huệ",
+    "npp_ky": null,
+    "nvbh_du_hop": "Nguyễn Thị Hồng",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu Kiểm tra thị trường (ASM, GS, NVBH): chỉ có ô ký ASM và NVBH, không có ô ký GSBH hay NPP"
+  },
+  {
+    "key": "Đàm Ngọc Sơn - Long Minh Trang - 24-09-2026",
+    "gsbh_ky": "Đàm Ngọc Sơn",
+    "asm_ky": null,
+    "npp_ky": "Vũ Thị Nhâm",
+    "nvbh_du_hop": "Nguyễn Hoài Dương",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Tên NPP ghi ở đầu trang đọc không thật rõ (gần giống 'Long Minh Trang' trong key); tên người ký NPP cũng chỉ đọc tương đối chắc chắn"
+  },
+  {
+    "key": "Phan Thị Thanh Hải - Phúc Thành Đạt - 24-09-2026",
+    "gsbh_ky": "Phan Thị Thanh Hải",
+    "asm_ky": null,
+    "npp_ky": "Hoàng Thị Linh",
+    "nvbh_du_hop": "Trần Thị Dung, Đỗ Thị Nhung",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu GĐ02, không có ASM dự họp (ô ASM bị gạch chéo); NVBH Đỗ Thị Nhung ký tên vào đúng vị trí ASM bị gạch bỏ thay vì ô NPP, nên không tính là ký_thay cho NPP"
+  }
+]

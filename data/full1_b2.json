@@ -1,0 +1,373 @@
+[
+ {
+  "key": "Lê Quốc Việt - Vy Đức Anh - 31-08-2026",
+  "loai": "GD02",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Lê Quốc Việt - Vy Đức Anh - 31-08-2026 - Ảnh 01.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\le_quoc_viet_vy_đuc_anh_31_08_2026_1.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\le_quoc_viet_vy_đuc_anh_31_08_2026_2.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\le_quoc_viet_vy_đuc_anh_31_08_2026_3.jpg"
+  ],
+  "nguoi_gui": "Lê Quốc Việt",
+  "nvbh_trong_tuyen": [
+   "Vũ Thị Phương Lê",
+   "Đinh Xuân Dương"
+  ],
+  "gsbh_tuyen": "Ninh Bình",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ],
+  "du_lieu_hien_co": {
+   "ngay": "31",
+   "thang": "8",
+   "nam": "2026",
+   "tai_npp": "Vy Đức Anh",
+   "dia_ban": "Ninh Bình",
+   "asm": "Đinh Thị Huệ",
+   "gsbh": "Lê Quốc Việt",
+   "nvbh": "Vũ Thị Phương Lê",
+   "muc1": {
+    "ton_kho": "",
+    "thi_truong": "phát triển thêm SKU",
+    "nhan_su": "đủ",
+    "khac": "thanh toán công nợ của tháng 8; nhập hàng nguyên nhập về trong tháng 9"
+   },
+   "muc2": {
+    "hang_hoa": "kinh doanh SKU",
+    "thi_truong": "",
+    "chinh_sach": "",
+    "bao_cao": "đầy đủ",
+    "ho_tro": ""
+   },
+   "muc3": "cùng hỗ trợ NV bán hàng phát triển SKU",
+   "muc4": "",
+   "muc5": "nhập hàng trước ngày 5 hàng tháng"
+  }
+ },
+ {
+  "key": "Lê Thị Trâm - Minh Anh - 31-08-2026",
+  "loai": "KTTT",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Lê Thị Trâm - Minh Anh - 31-08-2026 - Ảnh 01.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\le_thi_tram_minh_anh_31_08_2026_1.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\le_thi_tram_minh_anh_31_08_2026_2.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\le_thi_tram_minh_anh_31_08_2026_3.jpg"
+  ],
+  "nguoi_gui": "Lê Thị Trâm",
+  "nvbh_trong_tuyen": [
+   "Lê Thị Dung",
+   "Mai Thị Tuyết"
+  ],
+  "gsbh_tuyen": "Thanh Hóa, Quảng Xương",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ],
+  "du_lieu_hien_co": {
+   "ngay": "31",
+   "thang": "08",
+   "nam": "2026",
+   "ho_ten": "Lê Thị Trâm",
+   "chuc_vu": "GSBH",
+   "lam_viec_voi": "TP. Thanh Hóa",
+   "npp": "Minh Anh",
+   "dia_chi": "TP. Thanh Hóa",
+   "m1": "Khách hàng xin có KM để giữ giá, chưa ổn định với hộ dưỡng",
+   "m2": "Đủ hàng, thứ chỉ tiêu nhập bán",
+   "m3": "Xin KM chưa nhiều chị",
+   "m4": "",
+   "m5": "Đủ, nhập khẩu",
+   "m6": "Ổn định",
+   "m7": "",
+   "m8": "NPP xin hỗ trợ các KM để gia tăng chiết khấu bán",
+   "m9": ""
+  }
+ },
+ {
+  "key": "Lê Thị Trâm - Tâm An - 03-09-2026",
+  "loai": "KTTT",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Lê Thị Trâm - Tâm An - 03-09-2026 - Ảnh 01.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\le_thi_tram_tam_an_03_09_2026_1.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\le_thi_tram_tam_an_03_09_2026_2.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\le_thi_tram_tam_an_03_09_2026_3.jpg"
+  ],
+  "nguoi_gui": "Lê Thị Trâm",
+  "nvbh_trong_tuyen": [
+   "Lê Thị Dung",
+   "Mai Thị Tuyết"
+  ],
+  "gsbh_tuyen": "Thanh Hóa, Quảng Xương",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ],
+  "du_lieu_hien_co": {
+   "ngay": "03",
+   "thang": "09",
+   "nam": "2026",
+   "ho_ten": "Lê Thị Trâm",
+   "chuc_vu": "GSBH",
+   "lam_viec_voi": "Mai Thị Tuyết - NVBH - Quảng Xương",
+   "npp": "Tâm An",
+   "dia_chi": "Quảng Xương - TH",
+   "m1": "Hàng ổn định, đáp ứng đủ nhu cầu",
+   "m2": "Hàng đủ, chưa rõ",
+   "m3": "Xin KM chưa được, cần thêm",
+   "m4": "",
+   "m5": "Que test, sữa, bột",
+   "m6": "Đang ổn",
+   "m7": "",
+   "m8": "Xin hỗ trợ TK và KM",
+   "m9": ""
+  }
+ },
+ {
+  "key": "Lê Văn Thế - Hồng Minh - 03-09-2026",
+  "loai": "GD02",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Lê Văn Thế - Hồng Minh - 03-09-2026 - Ảnh 01.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\le_van_the_hong_minh_03_09_2026_1.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\le_van_the_hong_minh_03_09_2026_2.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\le_van_the_hong_minh_03_09_2026_3.jpg"
+  ],
+  "nguoi_gui": "Lê Văn Thế",
+  "nvbh_trong_tuyen": [
+   "Hà Thị Dung",
+   "Nghiêm Thị Nhung"
+  ],
+  "gsbh_tuyen": "Bỉm Sơn, Thọ Xuân",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ],
+  "du_lieu_hien_co": {
+   "ngay": "3",
+   "thang": "9",
+   "nam": "2026",
+   "tai_npp": "Hồng Minh",
+   "dia_ban": "Bỉm Sơn",
+   "asm": "",
+   "gsbh": "Lê Văn Thế",
+   "nvbh": "Nghiêm Thị Nhung",
+   "muc1": {
+    "ton_kho": "160",
+    "thi_truong": "bao phủ tốt",
+    "nhan_su": "ổn định",
+    "khac": "bán thêm các sản phẩm shop"
+   },
+   "muc2": {
+    "hang_hoa": "đủ mẫu, giá bao phủ tốt",
+    "thi_truong": "một số khách bị đối thủ chiếm bám",
+    "chinh_sach": "",
+    "bao_cao": "thực hiện đầy đủ",
+    "ho_tro": "Có"
+   },
+   "muc3": "đưa ra các giải pháp gia tăng doanh số",
+   "muc4": "",
+   "muc5": "nhập bổ sung số T7"
+  }
+ },
+ {
+  "key": "Lê Văn Thế - Phương Nam - 04-09-2026",
+  "loai": "GD02",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Lê Văn Thế - Phương Nam - 04-09-2026 - Ảnh 01.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\le_van_the_phuong_nam_04_09_2026_1.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\le_van_the_phuong_nam_04_09_2026_2.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\le_van_the_phuong_nam_04_09_2026_3.jpg"
+  ],
+  "nguoi_gui": "Lê Văn Thế",
+  "nvbh_trong_tuyen": [
+   "Hà Thị Dung",
+   "Nghiêm Thị Nhung"
+  ],
+  "gsbh_tuyen": "Bỉm Sơn, Thọ Xuân",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ],
+  "du_lieu_hien_co": {
+   "ngay": "4",
+   "thang": "9",
+   "nam": "2026",
+   "tai_npp": "Phương Nam",
+   "dia_ban": "Thọ Xuân",
+   "asm": "",
+   "gsbh": "Lê Văn Thế",
+   "nvbh": "Hà Thị Dung",
+   "muc1": {
+    "ton_kho": "131",
+    "thi_truong": "khu vực đặc thù khó khăn",
+    "nhan_su": "đầy đủ",
+    "khac": ""
+   },
+   "muc2": {
+    "hang_hoa": "đầy đủ SKU",
+    "thi_truong": "cần tập trung hơn để phát triển thêm các SKU",
+    "chinh_sach": "",
+    "bao_cao": "thực hiện đầy đủ theo quy định công ty",
+    "ho_tro": "Có"
+   },
+   "muc3": "khai thác thêm các kênh nhỏ như cạnh siêu thị, mẹ và bé",
+   "muc4": "",
+   "muc5": "đã hoàn thiện chỉ tiêu tháng 5"
+  }
+ },
+ {
+  "key": "Lại Văn Thịnh - Ngọc Bích - 05-09-2026",
+  "loai": "GD02",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Lại Văn Thịnh - Ngọc Bích - 05-09-2026 - Ảnh 02.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\lai_van_thinh_ngoc_bich_05_09_2026_1.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\lai_van_thinh_ngoc_bich_05_09_2026_2.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\lai_van_thinh_ngoc_bich_05_09_2026_3.jpg"
+  ],
+  "nguoi_gui": "Lại Văn Thịnh",
+  "nvbh_trong_tuyen": [
+   "Trần Đức Quang"
+  ],
+  "gsbh_tuyen": "Hà Nam",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ],
+  "du_lieu_hien_co": {
+   "ngay": "05",
+   "thang": "09",
+   "nam": "2026",
+   "tai_npp": "Ngọc Bích",
+   "dia_ban": "Tỉnh Hà Nam cũ",
+   "asm": "",
+   "gsbh": "Lại Văn Thịnh",
+   "nvbh": "Nguyễn Văn Thắng & Trần Đức Quang",
+   "muc1": {
+    "ton_kho": "1402, Công ty hàng còn nợ 130T",
+    "thi_truong": "Vùng đại ra tại các điểm đơn hàng tốt, thu ngân có đủ hoàn đủ định",
+    "nhan_su": "Ổn định, đảm bảo chỉ tiêu doanh số bán",
+    "khac": "Theo dõi rõ cái thêm bao đơn sản phẩm khác (chú trọng hàng, khai nghiệp mới), có phương án chăm sóc, giữ đủ tồn kho"
+   },
+   "muc2": {
+    "hang_hoa": "Duy trì lượng bán ra. Sản khoản hoạt chỉ tiêu tháng: 900T/1NV",
+    "thi_truong": "Tiếp tục bám sát thị trường, chăm sóc điểm bán, chủ động khai thác điểm bán mới và xử lý các điểm bán có cạnh tranh",
+    "chinh_sach": "Hợp tác hỗ trợ khách hàng Nam Sách 1,1",
+    "bao_cao": "Đầy đủ, kịp thời, đúng hạn",
+    "ho_tro": ""
+   },
+   "muc3": "Ngày trao đổi kế hoạch NVBH, tiếp tục mở rộng điểm bán mới và xử lý các điểm bán có cạnh tranh",
+   "muc4": "Đề nghị công ty xem xét giá cả cạnh tranh, kênh phân phối mới đối với các đơn hàng có sức giá với NPP",
+   "muc5": "Tiếp tục phát huy kết quả tháng 08, bám sát thị trường và theo dõi sản lượng bán ra hàng tuần, đảm bảo mục tiêu tháng 09"
+  }
+ },
+ {
+  "key": "Mai Thị Hạnh - Hiền Tuệ - 03-09-2026",
+  "loai": "GD02",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Mai Thị Hạnh - Hiền Tuệ - 03-09-2026 - Ảnh 01.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\mai_thi_hanh_hien_tue_03_09_2026_1.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\mai_thi_hanh_hien_tue_03_09_2026_2.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\mai_thi_hanh_hien_tue_03_09_2026_3.jpg"
+  ],
+  "nguoi_gui": "Mai Thị Hạnh",
+  "nvbh_trong_tuyen": [
+   "Bùi Thị Thủy Chung",
+   "Nguyễn Thị Hiền",
+   "Đào Thị Diệu"
+  ],
+  "gsbh_tuyen": "Cẩm Phả, Móng Cái",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ],
+  "du_lieu_hien_co": {
+   "ngay": "03",
+   "thang": "9",
+   "nam": "2026",
+   "tai_npp": "Hiền Tuệ",
+   "dia_ban": "Cẩm Phả",
+   "asm": "",
+   "gsbh": "Mai Thị Hạnh",
+   "nvbh": "Đào Thị Diệu, Bùi Thị Thủy Chung",
+   "muc1": {
+    "ton_kho": "852",
+    "thi_truong": "gặp nhiều rào cản",
+    "nhan_su": "ổn định",
+    "khac": "thị trường có nhiều cửa hàng tạp hoá giá rẻ"
+   },
+   "muc2": {
+    "hang_hoa": "thiếu nhiều SKU",
+    "thi_truong": "nhiều khách hàng bị đối thủ chào giá cao hơn",
+    "chinh_sach": "cần công ty quan tâm hỗ trợ đền bù toàn bộ",
+    "bao_cao": "tốt",
+    "ho_tro": "Có"
+   },
+   "muc3": "GS đã ghi nhận sự cố gãy [tay] của chị em nhân viên và đang đẩy hỗ trợ cho chị em nhân viên",
+   "muc4": "NVBH đi tuyên truyền nhiều cho khách hàng tiêu dùng phân biệt đúng loại sản phẩm",
+   "muc5": "NPP rất hợp tác và cố gắng hoàn thiện chỉ tiêu doanh số tháng 08"
+  }
+ },
+ {
+  "key": "Mai Thị Hạnh - Phạm Bảo Khánh - 05-09-2026",
+  "loai": "GD02",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Mai Thị Hạnh - Phạm Bảo Khánh - 05-09-2026 - Ảnh 01.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\mai_thi_hanh_pham_bao_khanh_05_09_2026_1.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\mai_thi_hanh_pham_bao_khanh_05_09_2026_2.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\mai_thi_hanh_pham_bao_khanh_05_09_2026_3.jpg"
+  ],
+  "nguoi_gui": "Mai Thị Hạnh",
+  "nvbh_trong_tuyen": [
+   "Bùi Thị Thủy Chung",
+   "Nguyễn Thị Hiền",
+   "Đào Thị Diệu"
+  ],
+  "gsbh_tuyen": "Cẩm Phả, Móng Cái",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ],
+  "du_lieu_hien_co": {
+   "ngay": "05",
+   "thang": "09",
+   "nam": "2026",
+   "tai_npp": "Phạm Bảo Khánh",
+   "dia_ban": "Móng Cái",
+   "asm": "",
+   "gsbh": "Mai Thị Hạnh",
+   "nvbh": "Nguyễn Thị Hiền",
+   "muc1": {
+    "ton_kho": "561",
+    "thi_truong": "khó khăn",
+    "nhan_su": "ổn định",
+    "khac": "do thị trường mới lên, NPP đang hợp tác cùng công ty để hỗ trợ nhân viên bán hàng"
+   },
+   "muc2": {
+    "hang_hoa": "đủ các SKU",
+    "thi_truong": "nhiều cạnh tranh với chào giá rẻ hơn",
+    "chinh_sach": "cần xin hỗ trợ",
+    "bao_cao": "làm tốt",
+    "ho_tro": "Có"
+   },
+   "muc3": "",
+   "muc4": "NV bán hàng tuyến gặp nhiều khó khăn do địa bàn có nhiều chào giá rẻ",
+   "muc5": "NPP đã có đơn hàng T08"
+  }
+ }
+]

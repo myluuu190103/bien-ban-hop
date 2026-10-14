@@ -1,0 +1,156 @@
+[
+  {
+    "key": "Bùi Thị Thái Hà - Hùng Phát lẻ - 08-09-2026",
+    "gsbh_ky": "Bùi Thị Thái Hà",
+    "asm_ky": null,
+    "npp_ky": "Trần Thị Thủy",
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu Biên bản kiểm tra thị trường NPP (không phải GĐ02), không có mục ASM; tên người ký ở ô NV khó đọc nên để trống."
+  },
+  {
+    "key": "Nguyễn Văn Toàn - Hùng Phát sỉ - 08-09-2026",
+    "gsbh_ky": "Nguyễn Văn Toàn",
+    "asm_ky": null,
+    "npp_ky": "Nguyễn Văn Đạt",
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": ""
+  },
+  {
+    "key": "Nguyễn Quốc Thắm - Hồng Hạnh - 08-09-2026",
+    "gsbh_ky": "Nguyễn Quốc Thắm",
+    "asm_ky": null,
+    "npp_ky": "Vũ Dung",
+    "nvbh_du_hop": "Nguyễn Thị Thanh Nga",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Chữ ký NPP khó đọc, chỉ đọc được một phần tên."
+  },
+  {
+    "key": "Trần Đức Phong - Long Giang - 08-09-2026",
+    "gsbh_ky": null,
+    "asm_ky": "Lượng",
+    "npp_ky": "Trần Đức Phong",
+    "nvbh_du_hop": "Lượng",
+    "chi_dong_dau": false,
+    "ky_thay": true,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Bố cục chữ ký không chuẩn: người ghi là GSBH (Trần Đức Phong) ở đầu trang lại ký vào ô NPP (ky_thay); NVBH (Lượng) ký vào ô ghi 'ASM N.V.' thay vì ô riêng; không thấy chữ ký GSBH riêng."
+  },
+  {
+    "key": "Chu Công Kiên - Mạnh Long - 08-09-2026",
+    "gsbh_ky": "Chu Công Kiên",
+    "asm_ky": null,
+    "npp_ky": "Lý Thị Kim Huệ",
+    "nvbh_du_hop": "Vũ Xuân Toàn, Kiều Đức Tiệp",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": ""
+  },
+  {
+    "key": "Đàm Ngọc Sơn - Trung Hiếu - 08-09-2026",
+    "gsbh_ky": null,
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Nguyễn Quang Chính",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": true,
+    "ghi_chu": "Ảnh bị cắt mất phần chữ ký ở cuối trang (chỉ thấy nhãn NVBH/GSBH/Xác nhận NPP, không thấy nét ký nào)."
+  },
+  {
+    "key": "Nguyễn Đức Tôn - Liêm Xuân việt trì - 08-09-2026",
+    "gsbh_ky": "Nguyễn Đức Tôn",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Nguyễn Xuân Thế",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Ô Xác nhận NPP không có chữ ký."
+  },
+  {
+    "key": "Đinh Xuân Mỹ - Tuấn Huyền - 09-09-2026",
+    "gsbh_ky": "Đinh Xuân Mỹ",
+    "asm_ky": null,
+    "npp_ky": "Đào Thị Thanh Huyền",
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": ""
+  },
+  {
+    "key": "Nguyễn Xuân Trường - AI - 10-09-2026",
+    "gsbh_ky": "Nguyễn Xuân Trường",
+    "asm_ky": null,
+    "npp_ky": "Trịnh Thiên Hoàng",
+    "nvbh_du_hop": "Phạm Thị Liên",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": ""
+  },
+  {
+    "key": "Nguyễn Văn Toàn - An Viên Phát - 10-09-2026",
+    "gsbh_ky": "Nguyễn Văn Toàn",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu Biên bản kiểm tra thị trường NPP; NPP có ký nhưng không đọc được tên."
+  },
+  {
+    "key": "Nhữ Hồng Huy - Cường Long - 10-09-2026",
+    "gsbh_ky": "Nhữ Hồng Huy",
+    "asm_ky": null,
+    "npp_ky": "Ngô Thị Chi",
+    "nvbh_du_hop": "Ngô Đình Phước",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu Biên bản kiểm tra thị trường NPP (không phải GĐ02)."
+  },
+  {
+    "key": "Mai Thị Hạnh - Hiền Tuệ - 10-09-2026",
+    "gsbh_ky": "Mai Thị Hạnh",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Đào Thị Diễm, Bùi Thị Thủy Chung",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Chữ ký ở ô Xác nhận NPP không đọc rõ tên."
+  },
+  {
+    "key": "Đinh Thị Huệ - Hà Sơn - 10-09-2026",
+    "gsbh_ky": null,
+    "asm_ky": "Đinh Thị Huệ",
+    "npp_ky": "Cao Thị Hà",
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu Biên bản kiểm tra thị trường NPP; người ghi ở đầu trang là ASM (Đinh Thị Huệ), không phải GSBH."
+  },
+  {
+    "key": "Lê Văn Thế - Hồng Minh - 10-09-2026",
+    "gsbh_ky": "Lê Văn Thế",
+    "asm_ky": null,
+    "npp_ky": "Nguyễn Văn Minh",
+    "nvbh_du_hop": "Phạm Thị Nhung",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu Biên bản kiểm tra thị trường NPP (không phải GĐ02)."
+  }
+]

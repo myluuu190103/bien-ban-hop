@@ -1,0 +1,134 @@
+[
+ {
+  "key": "Nguyễn Xuân Thắng - Hoàng Phát - 29-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Hoa Thắng",
+  "asm": "",
+  "gsbh": "Nguyễn Xuân Thắng",
+  "nvbh": ["Hồ Văn Sang"],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "380",
+  "ghi_chu": "Tên NPP trên giấy viết 'Hoa Thắng', lệch với tên file 'Hoàng Phát'. Ô 'Xác nhận NPP' chỉ có chữ ký của NVBH (ghi 'NV Sang'), không có tên chủ NPP."
+ },
+ {
+  "key": "Nguyễn Xuân Thắng - Minh Khuê - 29-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Minh Khuê",
+  "asm": "",
+  "gsbh": "Nguyễn Xuân Thắng",
+  "nvbh": ["Đào Văn Tắc"],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "583",
+  "ghi_chu": "Ô 'Xác nhận NPP' là chữ ký NVBH Đào Văn Tắc (ghi 'NV Tắc'), không có tên chủ NPP."
+ },
+ {
+  "key": "Nguyễn Xuân Trường - AI - 25-08-2026",
+  "mau": "GD02",
+  "tai_npp": "AI",
+  "asm": "",
+  "gsbh": "Nguyễn Xuân Trường",
+  "nvbh": ["Phạm Thị Lưu"],
+  "npp_nguoi_ky": "Trịnh Thiên Hương",
+  "ton_kho_thung": "240",
+  "ghi_chu": ""
+ },
+ {
+  "key": "Nguyễn Xuân Trường - Hoa Hùng - 27-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Hoa Hùng",
+  "asm": "",
+  "gsbh": "Nguyễn Xuân Trường",
+  "nvbh": ["Nguyễn Hữu Bằng"],
+  "npp_nguoi_ky": "Đỗ Văn Lý",
+  "ton_kho_thung": "519",
+  "ghi_chu": "NVBH Nguyễn Hữu Bằng không có trong danh sách NVBH của tuyến trong gói (ký rõ ở chân trang)."
+ },
+ {
+  "key": "Nguyễn Xuân Trường - Kiên Cường - 26-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Kiên Cường",
+  "asm": "",
+  "gsbh": "Nguyễn Xuân Trường",
+  "nvbh": ["Nguyễn Bá Cường"],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "67",
+  "ghi_chu": "Ô 'Xác nhận NPP' chỉ đóng dấu Công ty TNHH Kiên Cường Food, không ghi tên người ký."
+ },
+ {
+  "key": "Nguyễn Xuân Vinh - Thành Thanh - 28-08-2026",
+  "mau": "GD02",
+  "tai_npp": "THÀNH THANH",
+  "asm": "",
+  "gsbh": "Nguyễn Xuân Vinh",
+  "nvbh": [],
+  "npp_nguoi_ky": "Phạm Thị Lụa",
+  "ton_kho_thung": "99",
+  "ghi_chu": "Dòng NVBH để trống; người dự họp phía NPP là Phạm Thị Lụa (ghi ở dòng NPP và ký chân trang)."
+ },
+ {
+  "key": "Nguyễn Đình Trọng - Cường Long - 27-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Cường Long + Tuyến",
+  "asm": "Nguyễn Đình Trọng",
+  "gsbh": "Nhữ Hồng Huy",
+  "nvbh": ["Nguyễn Đình Phương"],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "680",
+  "ghi_chu": "Bản GĐ02 bố cục khác (NỘI DUNG HỌP BÀN, ASM in sẵn Nguyễn Đình Trọng). Tồn kho ghi 680T, thiếu 60T đơn đỏ. Ô 'Xác nhận NPP' chỉ có chữ ký, không ghi tên. Trùng NPP Cường Long ngày 27/08 với biên bản của Nhữ Hồng Huy (2 tờ khác nhau)."
+ },
+ {
+  "key": "Nguyễn Đình Trọng - Minh Phúc HD - 26-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Minh Phúc",
+  "asm": "Nguyễn Đình Trọng",
+  "gsbh": "Nhữ Hồng Huy",
+  "nvbh": ["Lê Văn Tuyến", "Lê Quý Quỳnh"],
+  "npp_nguoi_ky": "Đỗ Văn Tuyên",
+  "ton_kho_thung": "",
+  "ghi_chu": "Bản GĐ02 bố cục khác (NỘI DUNG HỌP BÀN, ASM in sẵn). Nội dung chỉ ghi 'kiểm tồn kho, ghi nhận thực tế', không có con số tồn kho."
+ },
+ {
+  "key": "Nguyễn Đức Tôn - Liêm Xuân - 24-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Liêm Xuân",
+  "asm": "",
+  "gsbh": "Nguyễn Đức Tôn",
+  "nvbh": ["Nguyễn Xuân Thể"],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "1537",
+  "ghi_chu": "Tồn kho ghi '1.537T, hàng Công ty NB 613T'. Cột 'Xác nhận NPP' bỏ trống, chưa có chữ ký."
+ },
+ {
+  "key": "Nguyễn Đức Tôn - Thảo Nam Phú Thọ - 25-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Thảo Nam",
+  "asm": "",
+  "gsbh": "Nguyễn Đức Tôn",
+  "nvbh": ["Đào Văn Tài"],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "312",
+  "ghi_chu": "Tồn kho ghi '312 thùng, Công ty NB 833T'. Ảnh bị cắt ngay dưới dòng 'Xác nhận NPP' nên không thấy chữ ký/tên người ký."
+ },
+ {
+  "key": "Ngô Huy Thanh - Phương Đông - 24-08-2026",
+  "mau": "GD02",
+  "tai_npp": "PHƯƠNG ĐÔNG",
+  "asm": "",
+  "gsbh": "Ngô Huy Thanh",
+  "nvbh": ["Nguyễn Thị Thu Hương", "Phạm Thị Vân Anh", "Ngô Thị Ngần", "Hà Thị Vinh"],
+  "npp_nguoi_ky": "Nguyễn Thị Điệp",
+  "ton_kho_thung": "2228",
+  "ghi_chu": "Phần thành phần dự họp được đánh máy sẵn; 4 NVBH đều ký ở chân trang (Vân Anh, Ngần, Hương, Vinh)."
+ },
+ {
+  "key": "Nhữ Hồng Huy - Cường Long - 27-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Cường Long NS",
+  "asm": "Nguyễn Đình Trọng",
+  "gsbh": "Nhữ Hồng Huy",
+  "nvbh": ["Nguyễn Đình Phương"],
+  "npp_nguoi_ky": "Nguyễn Thị Chi",
+  "ton_kho_thung": "680",
+  "ghi_chu": "Giấy in trên nền xanh. Ảnh bị cắt ngay dòng chữ ký nên tên ở dòng NPP (Nguyễn Thị Chi, phần Thành phần dự họp) được dùng làm người NPP. Trùng NPP Cường Long ngày 27/08 với biên bản của Nguyễn Đình Trọng (2 tờ khác nhau)."
+ }
+]

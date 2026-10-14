@@ -1,0 +1,85 @@
+[
+ {
+  "key": "Nguyễn Thị Phương Thúy - Huệ Phát - 11-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Nguyễn Thị Phương Thúy - Huệ Phát - 11-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "PS nhập tháng 9: 400 thùng, PS bán T9: 400 thùng",
+   "m1_tinh_hinh": "Bắt đầu vào mùa cụ Trung Thu nên tồn kho tại đại lý bị cao, hàng với ế chậm",
+   "m3_khuyen_mai": "Chưa áp dụng CT KM"
+  }
+ },
+ {
+  "key": "Nguyễn Thị Phương Thúy - Hương Nhài - 07-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Nguyễn Thị Phương Thúy - Hương Nhài - 07-09-2026 - Ảnh 01.jpg",
+  "loai": "GD02",
+  "so_lieu_hien_co": {
+   "ton_kho": "658 thùng",
+   "bao_cao": "Mọi thứ ổn",
+   "muc5": "KH nhập tháng 9: dự 10; KH bán: 100",
+   "muc1_khac": ""
+  }
+ },
+ {
+  "key": "Nguyễn Tuệ Tuấn - Mạnh Lực - 11-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Nguyễn Tuệ Tuấn - Mạnh Lực - 11-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Nhập 1400 thùng - Bán 1000 thùng",
+   "m1_tinh_hinh": "Lên đơn hàng tháng 9",
+   "m3_khuyen_mai": "Không có"
+  }
+ },
+ {
+  "key": "Nguyễn Tuệ Tuấn - Đức Nam - 07-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Nguyễn Tuệ Tuấn - Đức Nam - 07-09-2026 - Ảnh 01.jpg",
+  "loai": "GD02",
+  "so_lieu_hien_co": {
+   "ton_kho": "",
+   "bao_cao": "Bình thường",
+   "muc5": "10.1%",
+   "muc1_khac": ""
+  }
+ },
+ {
+  "key": "Nguyễn Văn Toàn - An Viên Phát - 10-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Nguyễn Văn Toàn - An Viên Phát - 10-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Nhập 5050 - Bán 3050, tháng 9",
+   "m1_tinh_hinh": "",
+   "m3_khuyen_mai": "Không có chương trình khuyến mại tháng 9"
+  }
+ },
+ {
+  "key": "Nguyễn Văn Toàn - Hùng Phát sỉ - 08-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Nguyễn Văn Toàn - Hùng Phát sỉ - 08-09-2026 - Ảnh 01.jpg",
+  "loai": "GD02",
+  "so_lieu_hien_co": {
+   "ton_kho": "189 thùng",
+   "bao_cao": "",
+   "muc5": "Tháng chủ nhập chờ tháng 9, giờ tốt",
+   "muc1_khac": "Đàm sản chỉ liên doanh giá không, đẩy CT00 với hợp chốt xử lý lóng đi lại"
+  }
+ },
+ {
+  "key": "Nguyễn Văn Tuấn - Hữu Hiền - 11-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Nguyễn Văn Tuấn - Hữu Hiền - 11-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Đại lý đang tồn kho ứ đọng của 02 NPP, bán ra chậm. Bán sát PS khoảng cùng kỳ",
+   "m1_tinh_hinh": "Thời gian ổn định, sản phẩm không có gì đến. Cuối tháng thu tiền, công nợ khách hàng",
+   "m3_khuyen_mai": "Không có, đang chờ xin kem hỗ trợ phí thị trường"
+  }
+ },
+ {
+  "key": "Nguyễn Xuân Thắng - Hoa Thắng - 08-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Nguyễn Xuân Thắng - Hoa Thắng - 08-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Hàng ra bán vẫn tốt cửa đại lý",
+   "m1_tinh_hinh": "Ổn định, chưa thay đổi giá bán tiến",
+   "m3_khuyen_mai": "Không có khuyến mại"
+  }
+ }
+]

@@ -1,0 +1,43 @@
+[
+ {"key": "Phan Thị Thanh Hải - Phượng Hoàn - 07-09-2026", "field": "muc1.thi_truong", "gia_tri_moi": "Đang ổn định", "ly_do": "giấy ghi 'Đang ổn định', không phải 'Hàng ổn định'"},
+ {"key": "Phan Thị Thanh Hải - Phượng Hoàn - 07-09-2026", "field": "muc2.hang_hoa", "gia_tri_moi": "Trên TT đầy đủ các SKU", "ly_do": "giấy ghi 'Trên TT', không phải 'Nên ĐT'"},
+ {"key": "Phan Thị Thanh Hải - Phượng Hoàn - 07-09-2026", "field": "muc3", "gia_tri_moi": "Đi hỗ trợ NVBH", "ly_do": "giấy ghi 'Đi hỗ trợ NVBH'"},
+
+ {"key": "Trần Hữu Đoàn - Mạnh Nam - 10-09-2026", "field": "m1", "gia_tri_moi": "- Hàng bán ra vẫn ổn định\n- Bị ảnh hưởng 1 phần kênh TMĐT bán SP bán giá rẻ bán qua kênh chợ", "ly_do": "giấy ghi '1 phần' không phải 'do phần'"},
+ {"key": "Trần Hữu Đoàn - Mạnh Nam - 10-09-2026", "field": "m2", "gia_tri_moi": "Đã nhập đơn lần 4 của T9: 200 thùng; Kế hoạch bán 100%", "ly_do": "giấy ghi 'của T9' không phải 'của kỳ'"},
+ {"key": "Trần Hữu Đoàn - Mạnh Nam - 10-09-2026", "field": "m5", "gia_tri_moi": "Dầu Tường An, Mỳ Cung Đình, cà phê Phố VN", "ly_do": "'Mỳ Cung Đình' (mì), không phải 'Mỹ'"},
+ {"key": "Trần Hữu Đoàn - Mạnh Nam - 10-09-2026", "field": "m7", "gia_tri_moi": "- Cty xem xét CTKM đến điểm bán\n- Hàng hóa SX đang đủ dùng tiến độ", "ly_do": "dòng 1 chỉ 'đến điểm bán', không có 'tăng thêm cho hàng khó bán'; dòng 2 'tiến độ'"},
+ {"key": "Trần Hữu Đoàn - Mạnh Nam - 10-09-2026", "field": "m8", "gia_tri_moi": "- Cty xem xét đến CTKM & tăng thêm KM cho hàng khó bán\n- Có thêm CTTB tại điểm bán", "ly_do": "giấy ghi 'đến CTKM & tăng thêm KM', 'tại điểm bán'"},
+ {"key": "Trần Hữu Đoàn - Mạnh Nam - 10-09-2026", "field": "m9", "gia_tri_moi": "- Cty xem xét xử lý dứt điểm & nhanh hàng bị bẹp méo\n- Quan tâm hơn đến CTBH tại điểm bán\n- Tăng thêm CTKM của các SP hàng khó bán", "ly_do": "'dứt điểm & nhanh', 'Quan tâm hơn đến'"},
+
+ {"key": "Trần Ngọc Lâm - Phương Anh - 07-09-2026", "field": "m4", "gia_tri_moi": "Các shop buôn đang nhập cháo máy ngoài KV", "ly_do": "'cháo máy' không phải 'chào máy'"},
+ {"key": "Trần Ngọc Lâm - Phương Anh - 07-09-2026", "field": "m5", "gia_tri_moi": "Cháo sen, YM, Xanh, đỏ, cẩm, ngô nếp, Long nhãn", "ly_do": "giấy ghi 'YM, Xanh, đỏ, cẩm, ngô nếp'; không có 'Xạ đen, tổ yến, nghệ nếp'"},
+ {"key": "Trần Ngọc Lâm - Phương Anh - 07-09-2026", "field": "m7", "gia_tri_moi": "- Mục tiêu sell out 450 thùng/T9 đạt 120%\n- Ra tăng bao phủ đa dạng SKU/điểm bán, bù quân 5 SKU/shop", "ly_do": "'Mục tiêu', 'SKU/điểm bán', '5 SKU/shop' (không phải 5-8 shop)"},
+ {"key": "Trần Ngọc Lâm - Phương Anh - 07-09-2026", "field": "m8", "gia_tri_moi": "- Cty cung ứng đủ hàng không để thiếu hàng\n- Đơn hàng trả đủ trên 1 xe và sau 2 ngày NPP CK", "ly_do": "'trả đủ' không phải 'trả chỉ'"},
+
+ {"key": "Trần Ngọc Lâm - Đức Mạnh - 10-09-2026", "field": "lam_viec_voi", "gia_tri_moi": "Lê Thị Văn - NVBH", "ly_do": "tên chuẩn trong tuyến là 'Lê Thị Văn'"},
+ {"key": "Trần Ngọc Lâm - Đức Mạnh - 10-09-2026", "field": "m1", "gia_tri_moi": "Giá cả ổn định, bao phủ đạt", "ly_do": "'Giá cả' không phải 'Cửa cả'"},
+ {"key": "Trần Ngọc Lâm - Đức Mạnh - 10-09-2026", "field": "m5", "gia_tri_moi": "Cháo sen, nếp cẩm, đậu xanh, đậu đỏ, yến mạch, ngô, Long nhãn, đậu đen, sườn", "ly_do": "giấy ghi 'ngô' và 'đậu đen', không có 'ngũ cốc', 'atiso'"},
+ {"key": "Trần Ngọc Lâm - Đức Mạnh - 10-09-2026", "field": "m8", "gia_tri_moi": "- Cty cung ứng đủ đơn hàng NPP đặt\n- Trả đơn đủ số lượng, SKU trong 1 lần trả", "ly_do": "'đủ số lượng, SKU' không phải 'chỉ số lượng, sau'"},
+
+ {"key": "Trần Đức Phong - Long Giang - 08-09-2026", "field": "muc1.nhan_su", "gia_tri_moi": "1 NV", "ly_do": "giấy ghi '1 NV'"},
+ {"key": "Trần Đức Phong - Long Giang - 08-09-2026", "field": "muc2.hang_hoa", "gia_tri_moi": "Có đầy đủ SKU hàng hóa, bị móp", "ly_do": "'SKU hàng hóa' không phải 'SKU cháo'"},
+ {"key": "Trần Đức Phong - Long Giang - 08-09-2026", "field": "muc2.bao_cao", "gia_tri_moi": "Báo cáo hình ảnh và BC giấy", "ly_do": "'hình ảnh' không phải 'hằng ngày'"},
+ {"key": "Trần Đức Phong - Long Giang - 08-09-2026", "field": "muc4", "gia_tri_moi": "Thúc đẩy các SKU cháo mặn", "ly_do": "'cháo mặn' không phải 'cháo mẫu'"},
+
+ {"key": "Trịnh Văn Dũng - Trình Oanh - 07-09-2026", "field": "muc1.thi_truong", "gia_tri_moi": "Bắt đầu bán chậm, giá cả đang ổn định", "ly_do": "giấy ghi 'giá cả đang ổn định', không có 'cao, ế ẩm'"},
+ {"key": "Trịnh Văn Dũng - Trình Oanh - 07-09-2026", "field": "muc1.khac", "gia_tri_moi": "Đại lý bán tạp hoá đang Trung thu, nhiều hàng cho bán hết date", "ly_do": "'đang Trung thu' không phải 'đang tăng thu'"},
+ {"key": "Trịnh Văn Dũng - Trình Oanh - 07-09-2026", "field": "muc2.bao_cao", "gia_tri_moi": "Đầy đủ, đúng hạn", "ly_do": "giấy ghi 'Đầy đủ, đúng hạn'"},
+ {"key": "Trịnh Văn Dũng - Trình Oanh - 07-09-2026", "field": "muc3", "gia_tri_moi": "- Triển đi tuyến hỗ trợ NVBH đổi trả hàng hết date\n- Thúc đẩy hàng hóa từ kho cho các cửa hàng buôn", "ly_do": "'đổi trả hàng hết date', 'hàng hóa từ kho ... cửa hàng buôn'"},
+ {"key": "Trịnh Văn Dũng - Trình Oanh - 07-09-2026", "field": "muc4", "gia_tri_moi": "NPP, NVBH mong công ty có chính sách hỗ trợ về giá bán và hỗ trợ thị trường Tuyên Quang", "ly_do": "giấy ghi 'và hỗ trợ thị trường Tuyên Quang'"},
+ {"key": "Trịnh Văn Dũng - Trình Oanh - 07-09-2026", "field": "muc5", "gia_tri_moi": "Cố gắng đẩy bán tiêu thụ, nhập hàng đủ Tết năm 2026", "ly_do": "'tiêu thụ', 'đủ Tết' không phải 'hàng tồn', 'gối đầu'"},
+
+ {"key": "Đinh Thị Huệ - Hà Sơn - 10-09-2026", "field": "npp", "gia_tri_moi": "Sơn Hà", "ly_do": "giấy ghi NPP 'Sơn Hà'"},
+ {"key": "Đinh Thị Huệ - Hà Sơn - 10-09-2026", "field": "m1", "gia_tri_moi": "- TT đợt này chậm, khách hàng xa chậm lấy\n- Không có nhân sự", "ly_do": "'Không có nhân sự' không phải 'Chưa có'"},
+ {"key": "Đinh Thị Huệ - Hà Sơn - 10-09-2026", "field": "m3", "gia_tri_moi": "5 SKU: Cháo giải cảm, nước sấu, 2 loại cà phê, chè ngô", "ly_do": "'5 SKU', 'nước sấu', thêm 'chè ngô' ở dòng 2"},
+ {"key": "Đinh Thị Huệ - Hà Sơn - 10-09-2026", "field": "m5", "gia_tri_moi": "Cháo sen, đậu đen, chè sen, nước tăng lực Number One, sữa Vinamilk", "ly_do": "thiếu dòng 2 'Number One, sữa Vinamilk'"},
+ {"key": "Đinh Thị Huệ - Hà Sơn - 10-09-2026", "field": "m6", "gia_tri_moi": "Hiện tại chưa có nhân sự nên không hỗ trợ thị trường được", "ly_do": "giấy ghi 'nên ko hỗ trợ thị trường được'"},
+ {"key": "Đinh Thị Huệ - Hà Sơn - 10-09-2026", "field": "m7", "gia_tri_moi": "- Hiện tại tồn TT chưa nhập. Thu Nam mới nhập 10 thùng\n- Các khách lẻ đợt này chậm\n- Con buôn nhập ít hơn trước", "ly_do": "'tồn TT', 'đợt này chậm', 'Con buôn'"},
+
+ {"key": "Đinh Thị Huệ - Hà Sơn - 11-09-2026", "field": "muc1.khac", "gia_tri_moi": "Thông tin trao đổi với nhà phân phối: Ngô Xuân Nam, sinh 25.11.1980. 1. Làm việc tại: Công ty CP Bình Đạt (thùng đông lạnh) NPP Bắc Á. 2. Cty Hùng Hà (vận chuyển phân phối) NPP Nhất Việt đt 090.225.1789. 3. Chủ thực phẩm Thiên Hương (phân bón) NPP Vĩnh Thành đt 033.242.3098. Địa chỉ: SN 15A, 15B, xóm Mới, xã Đông Diễn, tỉnh Nghệ An. Thành phần gia đình: có 2 cháu, vợ kinh doanh cửa hàng thiết bị. Bạn: chị tiếp nhận công văn đã nghỉ ở công ty từ tháng 11/2026.", "ly_do": "bỏ '(?)'; giấy đánh số 1/2/3: 'Cty Hùng Hà', 'NPP Nhất Việt', 'Chủ thực phẩm Thiên Hương'"}
+]

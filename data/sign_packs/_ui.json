@@ -1,0 +1,249 @@
+[
+  {
+    "results": [
+      {
+        "manager_name": "",
+        "role": "ASM",
+        "n": 3
+      },
+      {
+        "manager_name": "",
+        "role": "Admin",
+        "n": 3
+      },
+      {
+        "manager_name": "",
+        "role": "GĐBH",
+        "n": 2
+      },
+      {
+        "manager_name": "",
+        "role": "Quản lý",
+        "n": 1
+      },
+      {
+        "manager_name": "",
+        "role": "Theo dõi",
+        "n": 1
+      },
+      {
+        "manager_name": "Bùi Thị Thái Hà",
+        "role": "Nhân viên",
+        "n": 3
+      },
+      {
+        "manager_name": "Chu Công Kiên",
+        "role": "Nhân viên",
+        "n": 4
+      },
+      {
+        "manager_name": "Cầm Thế Khái",
+        "role": "Nhân viên",
+        "n": 2
+      },
+      {
+        "manager_name": "Lê Quốc Việt",
+        "role": "Nhân viên",
+        "n": 2
+      },
+      {
+        "manager_name": "Lê Thị Trâm",
+        "role": "Nhân viên",
+        "n": 1
+      },
+      {
+        "manager_name": "Lê Văn Thế",
+        "role": "Nhân viên",
+        "n": 2
+      },
+      {
+        "manager_name": "Lại Văn Thịnh",
+        "role": "Nhân viên",
+        "n": 2
+      },
+      {
+        "manager_name": "Mai Thị Hạnh",
+        "role": "Nhân viên",
+        "n": 2
+      },
+      {
+        "manager_name": "Nguyễn Hữu Dực",
+        "role": "Nhân viên",
+        "n": 6
+      },
+      {
+        "manager_name": "Nguyễn Phú Lộc",
+        "role": "Quản lý",
+        "n": 6
+      },
+      {
+        "manager_name": "Nguyễn Quốc Thắm",
+        "role": "Nhân viên",
+        "n": 3
+      },
+      {
+        "manager_name": "Nguyễn Thị Hồng",
+        "role": "Nhân viên",
+        "n": 1
+      },
+      {
+        "manager_name": "Nguyễn Thị Phương Thuý",
+        "role": "Nhân viên",
+        "n": 2
+      },
+      {
+        "manager_name": "Nguyễn Thị Phương Thúy",
+        "role": "Nhân viên",
+        "n": 1
+      },
+      {
+        "manager_name": "Nguyễn Tuệ Tuấn",
+        "role": "Nhân viên",
+        "n": 3
+      },
+      {
+        "manager_name": "Nguyễn Văn Tuấn",
+        "role": "Nhân viên",
+        "n": 2
+      },
+      {
+        "manager_name": "Nguyễn Văn Đồng",
+        "role": "Quản lý",
+        "n": 11
+      },
+      {
+        "manager_name": "Nguyễn Xuân Thắng",
+        "role": "Nhân viên",
+        "n": 3
+      },
+      {
+        "manager_name": "Nguyễn Xuân Trường",
+        "role": "Nhân viên",
+        "n": 3
+      },
+      {
+        "manager_name": "Nguyễn Đình Trọng",
+        "role": "Nhân viên",
+        "n": 1
+      },
+      {
+        "manager_name": "Nguyễn Đình Trọng",
+        "role": "Quản lý",
+        "n": 15
+      },
+      {
+        "manager_name": "Nguyễn Đức Tôn",
+        "role": "Nhân viên",
+        "n": 2
+      },
+      {
+        "manager_name": "Ngô Huy Thanh",
+        "role": "Nhân viên",
+        "n": 4
+      },
+      {
+        "manager_name": "Nhữ Hồng Huy",
+        "role": "Nhân viên",
+        "n": 3
+      },
+      {
+        "manager_name": "Phan Ngọc Bích",
+        "role": "Nhân viên",
+        "n": 2
+      },
+      {
+        "manager_name": "Phan Thị Thanh Hải",
+        "role": "Nhân viên",
+        "n": 3
+      },
+      {
+        "manager_name": "Phạm Thanh Sơn",
+        "role": "Nhân viên",
+        "n": 3
+      },
+      {
+        "manager_name": "Phạm Văn Hùng",
+        "role": "ASM",
+        "n": 1
+      },
+      {
+        "manager_name": "Toàn Văn Thuận",
+        "role": "Nhân viên",
+        "n": 1
+      },
+      {
+        "manager_name": "Trần Hữu Đoàn",
+        "role": "Nhân viên",
+        "n": 3
+      },
+      {
+        "manager_name": "Trần Ngọc Lâm",
+        "role": "Nhân viên",
+        "n": 2
+      },
+      {
+        "manager_name": "Trần Đức Phong",
+        "role": "Nhân viên",
+        "n": 2
+      },
+      {
+        "manager_name": "Trịnh Văn Dũng",
+        "role": "Nhân viên",
+        "n": 1
+      },
+      {
+        "manager_name": "test q",
+        "role": "Nhân viên",
+        "n": 1
+      },
+      {
+        "manager_name": "Đinh Thị Huệ",
+        "role": "Quản lý",
+        "n": 13
+      },
+      {
+        "manager_name": "Đinh Văn Huấn",
+        "role": "Nhân viên",
+        "n": 2
+      },
+      {
+        "manager_name": "Đàm Ngọc Sơn",
+        "role": "Nhân viên",
+        "n": 2
+      },
+      {
+        "manager_name": "Đào Văn Sơn",
+        "role": "Nhân viên",
+        "n": 2
+      },
+      {
+        "manager_name": "Đào Xuân Chung",
+        "role": "Nhân viên",
+        "n": 2
+      },
+      {
+        "manager_name": "Đỗ Quang Tý",
+        "role": "Nhân viên",
+        "n": 1
+      }
+    ],
+    "success": true,
+    "meta": {
+      "served_by": "v3-prod",
+      "served_by_region": "APAC",
+      "served_by_colo": "SIN",
+      "served_by_primary": true,
+      "timings": {
+        "sql_duration_ms": 0.7885
+      },
+      "duration": 0.7885,
+      "changes": 0,
+      "last_row_id": 0,
+      "changed_db": false,
+      "size_after": 104226816,
+      "rows_read": 329,
+      "rows_written": 0,
+      "total_attempts": 1
+    }
+  }
+]

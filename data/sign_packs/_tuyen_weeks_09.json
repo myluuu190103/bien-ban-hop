@@ -1,0 +1,1998 @@
+{
+ "31/08-06/09": [
+  {
+   "gsbh": "Trần Ngọc Lâm",
+   "npp": "Đức Mạnh",
+   "dia_chi": "Đông Anh",
+   "ngay_hop": "31/08/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Trần Ngọc Lâm",
+   "npp": "Phương Anh",
+   "dia_chi": "Sóc Sơn",
+   "ngay_hop": "04/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Phan Ngọc Bích",
+   "npp": "Minh Hưng",
+   "dia_chi": "Thanh Xuân",
+   "ngay_hop": "05/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Phan Ngọc Bích",
+   "npp": "Hoa Hồng",
+   "dia_chi": "Cầu Giấy",
+   "ngay_hop": "04/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Cầm Thế Khải",
+   "npp": "Vĩnh Hoàn",
+   "dia_chi": "Lào Cai",
+   "ngay_hop": "03/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Đào Văn Sơn",
+   "npp": "Đức Long",
+   "dia_chi": "Lào cai mới",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Đào Văn Sơn",
+   "npp": "Thịnh Long",
+   "dia_chi": "Lào cai mới",
+   "ngay_hop": "31/08/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Đức Tôn",
+   "npp": "Thảo Nam",
+   "dia_chi": "Phú Thọ",
+   "ngay_hop": "31/08/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Đức Tôn",
+   "npp": "Xuân Liêm",
+   "dia_chi": "Phú Thọ",
+   "ngay_hop": "03/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Chu Công Kiên",
+   "npp": "Mạnh Long",
+   "dia_chi": "Phú Thọ mới",
+   "ngay_hop": "04/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Chu Công Kiên",
+   "npp": "Huy Đạt",
+   "dia_chi": "Phú Thọ mới",
+   "ngay_hop": "31/08/2026, 03/09/2026",
+   "ghi_chu": "Họp 2 lần"
+  },
+  {
+   "gsbh": "Nguyễn Tuệ Tuấn",
+   "npp": "Mạnh Lực",
+   "dia_chi": "Thái Nguyên",
+   "ngay_hop": "04/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Tuệ Tuấn",
+   "npp": "Đức Nam",
+   "dia_chi": "Thái Nguyên",
+   "ngay_hop": "05/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Xuân Vinh",
+   "npp": "Thành Thanh",
+   "dia_chi": "Thái Nguyên mới",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Trịnh Văn Dũng",
+   "npp": "Trình Oanh",
+   "dia_chi": "Tuyên Quang",
+   "ngay_hop": "31/08/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Hoàng Thu Thủy",
+   "npp": "Đức Thủy",
+   "dia_chi": "Tuyên Quang mới",
+   "ngay_hop": "05/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nhữ Hồng Huy",
+   "npp": "Minh Phúc HD",
+   "dia_chi": "Hải Phòng mới",
+   "ngay_hop": "03/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nhữ Hồng Huy",
+   "npp": "Cường Long",
+   "dia_chi": "Hải Phòng mới",
+   "ngay_hop": "04/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Lê Văn Thế",
+   "npp": "Hồng Minh",
+   "dia_chi": "Bỉm Sơn - T.Hóa",
+   "ngay_hop": "03/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Lê Văn Thế",
+   "npp": "Phương Nam",
+   "dia_chi": "Thọ Xuân - T.Hóa",
+   "ngay_hop": "04/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Lê Thị Trâm",
+   "npp": "Minh Anh",
+   "dia_chi": "Thanh Hóa",
+   "ngay_hop": "31/08/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Lê Thị Trâm",
+   "npp": "Tâm An",
+   "dia_chi": "Quảng Xương - T.Hóa",
+   "ngay_hop": "03/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Thị Phương Thúy",
+   "npp": "Hương Nhài",
+   "dia_chi": "Đống Đa",
+   "ngay_hop": "31/08/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Thị Phương Thúy",
+   "npp": "Huệ Phát",
+   "dia_chi": "Tây Hồ",
+   "ngay_hop": "04/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Thị Phương Thúy",
+   "npp": "Đặng Tiến Trung",
+   "dia_chi": "Hoàn Kiếm",
+   "ngay_hop": "04/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Đinh Xuân Mỹ",
+   "npp": "Tuấn Huyền",
+   "dia_chi": "Cao Bằng",
+   "ngay_hop": "05/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Toàn Văn Thuận",
+   "npp": "Thành Trung LS",
+   "dia_chi": "Lạng Sơn",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Hữu Dực",
+   "npp": "Ánh Thu",
+   "dia_chi": "Bắc Ninh mới",
+   "ngay_hop": "31/08/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Hữu Dực",
+   "npp": "Thi Hương",
+   "dia_chi": "Bắc Ninh mới",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Ngô Huy Thanh",
+   "npp": "Phương Đông",
+   "dia_chi": "Bắc Ninh",
+   "ngay_hop": "31/08/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Phan Thị Thanh Hải",
+   "npp": "Phượng Hoàn",
+   "dia_chi": "Uông Bí",
+   "ngay_hop": "31/08/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Phan Thị Thanh Hải",
+   "npp": "Phúc Thành Đạt",
+   "dia_chi": "Hạ Long",
+   "ngay_hop": "03/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Mai Thị Hạnh",
+   "npp": "Hiền Tuệ",
+   "dia_chi": "Cẩm Phả",
+   "ngay_hop": "03/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Mai Thị Hạnh",
+   "npp": "Phạm Bảo Khánh",
+   "dia_chi": "Móng Cái",
+   "ngay_hop": "05/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Lê Quốc Việt",
+   "npp": "Vy Đức Anh",
+   "dia_chi": "Ninh Bình",
+   "ngay_hop": "31/08/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Lê Quốc Việt",
+   "npp": "An Vy",
+   "dia_chi": "Ninh Bình",
+   "ngay_hop": "03/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Đào Xuân Chung",
+   "npp": "Tùng Anh",
+   "dia_chi": "Mộc Châu",
+   "ngay_hop": "31/08/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Đào Xuân Chung",
+   "npp": "Nam Huệ",
+   "dia_chi": "Sơn La",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Đỗ Quang Tý",
+   "npp": "Hiếu Thảo",
+   "dia_chi": "Điện Biên",
+   "ngay_hop": "31/08/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Thị Liên",
+   "npp": "Hùng Mạnh",
+   "dia_chi": "Lai Châu",
+   "ngay_hop": "04/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Thị Hồng",
+   "npp": "Hà Sơn",
+   "dia_chi": "Vinh - Nghệ An",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Thị Hồng",
+   "npp": "Quân Phát",
+   "dia_chi": "Hà Tĩnh",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Xuân Trường",
+   "npp": "Hoa Hùng",
+   "dia_chi": "Hà Đông",
+   "ngay_hop": "03/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Xuân Trường",
+   "npp": "AI",
+   "dia_chi": "Bắc Từ Liêm",
+   "ngay_hop": "04/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Xuân Trường",
+   "npp": "Kiên Cường",
+   "dia_chi": "Nam Từ Liêm",
+   "ngay_hop": "31/08/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Bùi Thị Thái Hà",
+   "npp": "Vạn An Lộc",
+   "dia_chi": "Long Biên",
+   "ngay_hop": "03/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Bùi Thị Thái Hà",
+   "npp": "Hùng Phát lẻ",
+   "dia_chi": "Hoàng Mai - HBT",
+   "ngay_hop": "31/08/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Bùi Thị Thái Hà",
+   "npp": "Anh Thư",
+   "dia_chi": "Gia Lâm",
+   "ngay_hop": "04/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Trần Hữu Đoàn",
+   "npp": "Minh Ý",
+   "dia_chi": "Thanh Trì",
+   "ngay_hop": "04/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Trần Hữu Đoàn",
+   "npp": "Đại Dương",
+   "dia_chi": "Thường Tín",
+   "ngay_hop": "05/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Trần Hữu Đoàn",
+   "npp": "Mạnh Nam",
+   "dia_chi": "Thanh Oai",
+   "ngay_hop": "31/08/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Quốc Thắm",
+   "npp": "Linh Anh",
+   "dia_chi": "Sơn Tây",
+   "ngay_hop": "05/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Quốc Thắm",
+   "npp": "Bảo Cường",
+   "dia_chi": "Xuân Mai",
+   "ngay_hop": "04/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Quốc Thắm",
+   "npp": "Hồng Hạnh",
+   "dia_chi": "Đan Phượng",
+   "ngay_hop": "31/08/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Xuân Thắng",
+   "npp": "Hoàng Phát",
+   "dia_chi": "Hưng Yên",
+   "ngay_hop": "04/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Xuân Thắng",
+   "npp": "Minh Khuê",
+   "dia_chi": "Hưng Yên",
+   "ngay_hop": "05/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Xuân Thắng",
+   "npp": "Hoa Thắng",
+   "dia_chi": "Hưng Yên",
+   "ngay_hop": "05/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Phạm Thanh Sơn",
+   "npp": "Duyên Hùng",
+   "dia_chi": "Hải Phòng",
+   "ngay_hop": "31/08/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Phạm Thanh Sơn",
+   "npp": "Bảo Thắm",
+   "dia_chi": "Hải Phòng",
+   "ngay_hop": "05/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Lại Văn Thịnh",
+   "npp": "Ngọc Bích",
+   "dia_chi": "Ninh Bình mới",
+   "ngay_hop": "05/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Trần Đức Phong",
+   "npp": "Minh Lâm",
+   "dia_chi": "Ninh Bình mới",
+   "ngay_hop": "31/08/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Trần Đức Phong",
+   "npp": "Long Giang",
+   "dia_chi": "Ninh Bình mới",
+   "ngay_hop": "05/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Đàm Ngọc Sơn",
+   "npp": "Trung Hiếu",
+   "dia_chi": "Hưng Yên mới",
+   "ngay_hop": "03/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Đàm Ngọc Sơn",
+   "npp": "Long Minh Trang",
+   "dia_chi": "Hưng Yên mới",
+   "ngay_hop": "04/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Văn Tuấn",
+   "npp": "Định Nhuận",
+   "dia_chi": "Phú Thọ mới",
+   "ngay_hop": "05/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Văn Tuấn",
+   "npp": "Hữu Hiền",
+   "dia_chi": "Phú Thọ mới",
+   "ngay_hop": "04/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Đinh Văn Huấn",
+   "npp": "Tuấn Anh",
+   "dia_chi": "Quỳnh Lưu - Nghệ An",
+   "ngay_hop": "04/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Văn Đồng",
+   "npp": "Hoài Đức",
+   "dia_chi": "Hà Nội",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Văn Toàn",
+   "npp": "An Viên Phát",
+   "dia_chi": "La Phù- Hà Nội",
+   "ngay_hop": "04/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Văn Toàn",
+   "npp": "Hùng Phát sỉ",
+   "dia_chi": "Mạc Thị Bưởi",
+   "ngay_hop": "05/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "3 ASM",
+   "npp": "Dương Thị Thơm",
+   "dia_chi": "La Phù- Hà Nội",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  }
+ ],
+ "07-13/09": [
+  {
+   "gsbh": "Trần Ngọc Lâm",
+   "npp": "Đức Mạnh",
+   "dia_chi": "Đông Anh",
+   "ngay_hop": "10/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Trần Ngọc Lâm",
+   "npp": "Phương Anh",
+   "dia_chi": "Sóc Sơn",
+   "ngay_hop": "07/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Phan Ngọc Bích",
+   "npp": "Minh Hưng",
+   "dia_chi": "Thanh Xuân",
+   "ngay_hop": "12/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Phan Ngọc Bích",
+   "npp": "Hoa Hồng",
+   "dia_chi": "Cầu Giấy",
+   "ngay_hop": "11/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Cầm Thế Khải",
+   "npp": "Vĩnh Hoàn",
+   "dia_chi": "Lào Cai",
+   "ngay_hop": "10/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Đào Văn Sơn",
+   "npp": "Đức Long",
+   "dia_chi": "Lào cai mới",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Đào Văn Sơn",
+   "npp": "Thịnh Long",
+   "dia_chi": "Lào cai mới",
+   "ngay_hop": "07/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Đức Tôn",
+   "npp": "Thảo Nam",
+   "dia_chi": "Phú Thọ",
+   "ngay_hop": "07/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Đức Tôn",
+   "npp": "Xuân Liêm",
+   "dia_chi": "Phú Thọ",
+   "ngay_hop": "08/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Chu Công Kiên",
+   "npp": "Mạnh Long",
+   "dia_chi": "Phú Thọ mới",
+   "ngay_hop": "08/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Chu Công Kiên",
+   "npp": "Huy Đạt",
+   "dia_chi": "Phú Thọ mới",
+   "ngay_hop": "07/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Tuệ Tuấn",
+   "npp": "Mạnh Lực",
+   "dia_chi": "Thái Nguyên",
+   "ngay_hop": "11/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Tuệ Tuấn",
+   "npp": "Đức Nam",
+   "dia_chi": "Thái Nguyên",
+   "ngay_hop": "07/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Xuân Vinh",
+   "npp": "Thành Thanh",
+   "dia_chi": "Thái Nguyên mới",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Trịnh Văn Dũng",
+   "npp": "Trình Oanh",
+   "dia_chi": "Tuyên Quang",
+   "ngay_hop": "07/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Hoàng Thu Thủy",
+   "npp": "Đức Thủy",
+   "dia_chi": "Tuyên Quang mới",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nhữ Hồng Huy",
+   "npp": "Minh Phúc HD",
+   "dia_chi": "Hải Phòng mới",
+   "ngay_hop": "11/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nhữ Hồng Huy",
+   "npp": "Cường Long",
+   "dia_chi": "Hải Phòng mới",
+   "ngay_hop": "10/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Lê Văn Thế",
+   "npp": "Hồng Minh",
+   "dia_chi": "Bỉm Sơn - T.Hóa",
+   "ngay_hop": "10/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Lê Văn Thế",
+   "npp": "Phương Nam",
+   "dia_chi": "Thọ Xuân - T.Hóa",
+   "ngay_hop": "11/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Lê Thị Trâm",
+   "npp": "Minh Anh",
+   "dia_chi": "Thanh Hóa",
+   "ngay_hop": "07/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Lê Thị Trâm",
+   "npp": "Tâm An",
+   "dia_chi": "Quảng Xương - T.Hóa",
+   "ngay_hop": "11/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Thị Phương Thúy",
+   "npp": "Hương Nhài",
+   "dia_chi": "Đống Đa",
+   "ngay_hop": "07/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Thị Phương Thúy",
+   "npp": "Huệ Phát",
+   "dia_chi": "Tây Hồ",
+   "ngay_hop": "11/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Thị Phương Thúy",
+   "npp": "Đặng Tiến Trung",
+   "dia_chi": "Hoàn Kiếm",
+   "ngay_hop": "12/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Đinh Xuân Mỹ",
+   "npp": "Tuấn Huyền",
+   "dia_chi": "Cao Bằng",
+   "ngay_hop": "09/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Toàn Văn Thuận",
+   "npp": "Thành Trung LS",
+   "dia_chi": "Lạng Sơn",
+   "ngay_hop": "12/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Hữu Dực",
+   "npp": "Ánh Thu",
+   "dia_chi": "Bắc Ninh mới",
+   "ngay_hop": "07/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Hữu Dực",
+   "npp": "Thi Hương",
+   "dia_chi": "Bắc Ninh mới",
+   "ngay_hop": "11/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Ngô Huy Thanh",
+   "npp": "Phương Đông",
+   "dia_chi": "Bắc Ninh",
+   "ngay_hop": "07/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Phan Thị Thanh Hải",
+   "npp": "Phượng Hoàn",
+   "dia_chi": "Uông Bí",
+   "ngay_hop": "07/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Phan Thị Thanh Hải",
+   "npp": "Phúc Thành Đạt",
+   "dia_chi": "Hạ Long",
+   "ngay_hop": "11/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Mai Thị Hạnh",
+   "npp": "Hiền Tuệ",
+   "dia_chi": "Cẩm Phả",
+   "ngay_hop": "10/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Mai Thị Hạnh",
+   "npp": "Phạm Bảo Khánh",
+   "dia_chi": "Móng Cái",
+   "ngay_hop": "12/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Lê Quốc Việt",
+   "npp": "Vy Đức Anh",
+   "dia_chi": "Ninh Bình",
+   "ngay_hop": "07/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Lê Quốc Việt",
+   "npp": "An Vy",
+   "dia_chi": "Ninh Bình",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Đào Xuân Chung",
+   "npp": "Tùng Anh",
+   "dia_chi": "Mộc Châu",
+   "ngay_hop": "07/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Đào Xuân Chung",
+   "npp": "Nam Huệ",
+   "dia_chi": "Sơn La",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Đỗ Quang Tý",
+   "npp": "Hiếu Thảo",
+   "dia_chi": "Điện Biên",
+   "ngay_hop": "07/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Thị Liên",
+   "npp": "Hùng Mạnh",
+   "dia_chi": "Lai Châu",
+   "ngay_hop": "12/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Thị Hồng",
+   "npp": "Hà Sơn",
+   "dia_chi": "Vinh - Nghệ An",
+   "ngay_hop": "10/09/2026, 11/09/2026",
+   "ghi_chu": "Họp 2 lần"
+  },
+  {
+   "gsbh": "Nguyễn Thị Hồng",
+   "npp": "Quân Phát",
+   "dia_chi": "Hà Tĩnh",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Xuân Trường",
+   "npp": "Hoa Hùng",
+   "dia_chi": "Hà Đông",
+   "ngay_hop": "07/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Xuân Trường",
+   "npp": "AI",
+   "dia_chi": "Bắc Từ Liêm",
+   "ngay_hop": "10/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Xuân Trường",
+   "npp": "Kiên Cường",
+   "dia_chi": "Nam Từ Liêm",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Bùi Thị Thái Hà",
+   "npp": "Vạn An Lộc",
+   "dia_chi": "Long Biên",
+   "ngay_hop": "11/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Bùi Thị Thái Hà",
+   "npp": "Hùng Phát lẻ",
+   "dia_chi": "Hoàng Mai - HBT",
+   "ngay_hop": "08/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Bùi Thị Thái Hà",
+   "npp": "Anh Thư",
+   "dia_chi": "Gia Lâm",
+   "ngay_hop": "07/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Trần Hữu Đoàn",
+   "npp": "Minh Ý",
+   "dia_chi": "Thanh Trì",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Trần Hữu Đoàn",
+   "npp": "Đại Dương",
+   "dia_chi": "Thường Tín",
+   "ngay_hop": "12/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Trần Hữu Đoàn",
+   "npp": "Mạnh Nam",
+   "dia_chi": "Thanh Oai",
+   "ngay_hop": "10/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Quốc Thắm",
+   "npp": "Linh Anh",
+   "dia_chi": "Sơn Tây",
+   "ngay_hop": "11/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Quốc Thắm",
+   "npp": "Bảo Cường",
+   "dia_chi": "Xuân Mai",
+   "ngay_hop": "07/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Quốc Thắm",
+   "npp": "Hồng Hạnh",
+   "dia_chi": "Đan Phượng",
+   "ngay_hop": "08/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Xuân Thắng",
+   "npp": "Hoàng Phát",
+   "dia_chi": "Hưng Yên",
+   "ngay_hop": "07/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Xuân Thắng",
+   "npp": "Minh Khuê",
+   "dia_chi": "Hưng Yên",
+   "ngay_hop": "12/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Xuân Thắng",
+   "npp": "Hoa Thắng",
+   "dia_chi": "Hưng Yên",
+   "ngay_hop": "08/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Phạm Thanh Sơn",
+   "npp": "Duyên Hùng",
+   "dia_chi": "Hải Phòng",
+   "ngay_hop": "11/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Phạm Thanh Sơn",
+   "npp": "Bảo Thắm",
+   "dia_chi": "Hải Phòng",
+   "ngay_hop": "12/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Lại Văn Thịnh",
+   "npp": "Ngọc Bích",
+   "dia_chi": "Ninh Bình mới",
+   "ngay_hop": "12/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Trần Đức Phong",
+   "npp": "Minh Lâm",
+   "dia_chi": "Ninh Bình mới",
+   "ngay_hop": "11/09/2026, 12/09/2026",
+   "ghi_chu": "Họp 2 lần"
+  },
+  {
+   "gsbh": "Trần Đức Phong",
+   "npp": "Long Giang",
+   "dia_chi": "Ninh Bình mới",
+   "ngay_hop": "08/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Đàm Ngọc Sơn",
+   "npp": "Trung Hiếu",
+   "dia_chi": "Hưng Yên mới",
+   "ngay_hop": "08/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Đàm Ngọc Sơn",
+   "npp": "Long Minh Trang",
+   "dia_chi": "Hưng Yên mới",
+   "ngay_hop": "11/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Văn Tuấn",
+   "npp": "Định Nhuận",
+   "dia_chi": "Phú Thọ mới",
+   "ngay_hop": "12/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Văn Tuấn",
+   "npp": "Hữu Hiền",
+   "dia_chi": "Phú Thọ mới",
+   "ngay_hop": "11/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Đinh Văn Huấn",
+   "npp": "Tuấn Anh",
+   "dia_chi": "Quỳnh Lưu - Nghệ An",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Văn Đồng",
+   "npp": "Hoài Đức",
+   "dia_chi": "Hà Nội",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Văn Toàn",
+   "npp": "An Viên Phát",
+   "dia_chi": "La Phù- Hà Nội",
+   "ngay_hop": "10/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Văn Toàn",
+   "npp": "Hùng Phát sỉ",
+   "dia_chi": "Mạc Thị Bưởi",
+   "ngay_hop": "08/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "3 ASM",
+   "npp": "Dương Thị Thơm",
+   "dia_chi": "La Phù- Hà Nội",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  }
+ ],
+ "14-20/09": [
+  {
+   "gsbh": "Trần Ngọc Lâm",
+   "npp": "Đức Mạnh",
+   "dia_chi": "Đông Anh",
+   "ngay_hop": "16/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Trần Ngọc Lâm",
+   "npp": "Phương Anh",
+   "dia_chi": "Sóc Sơn",
+   "ngay_hop": "18/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Phan Ngọc Bích",
+   "npp": "Minh Hưng",
+   "dia_chi": "Thanh Xuân",
+   "ngay_hop": "19/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Phan Ngọc Bích",
+   "npp": "Hoa Hồng",
+   "dia_chi": "Cầu Giấy",
+   "ngay_hop": "17/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Cầm Thế Khải",
+   "npp": "Vĩnh Hoàn",
+   "dia_chi": "Lào Cai",
+   "ngay_hop": "15/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Đào Văn Sơn",
+   "npp": "Đức Long",
+   "dia_chi": "Lào cai mới",
+   "ngay_hop": "18/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Đào Văn Sơn",
+   "npp": "Thịnh Long",
+   "dia_chi": "Lào cai mới",
+   "ngay_hop": "14/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Đức Tôn",
+   "npp": "Thảo Nam",
+   "dia_chi": "Phú Thọ",
+   "ngay_hop": "16/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Đức Tôn",
+   "npp": "Xuân Liêm",
+   "dia_chi": "Phú Thọ",
+   "ngay_hop": "14/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Chu Công Kiên",
+   "npp": "Mạnh Long",
+   "dia_chi": "Phú Thọ mới",
+   "ngay_hop": "15/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Chu Công Kiên",
+   "npp": "Huy Đạt",
+   "dia_chi": "Phú Thọ mới",
+   "ngay_hop": "14/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Tuệ Tuấn",
+   "npp": "Mạnh Lực",
+   "dia_chi": "Thái Nguyên",
+   "ngay_hop": "18/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Tuệ Tuấn",
+   "npp": "Đức Nam",
+   "dia_chi": "Thái Nguyên",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Xuân Vinh",
+   "npp": "Thành Thanh",
+   "dia_chi": "Thái Nguyên mới",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Trịnh Văn Dũng",
+   "npp": "Trình Oanh",
+   "dia_chi": "Tuyên Quang",
+   "ngay_hop": "15/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Hoàng Thu Thủy",
+   "npp": "Đức Thủy",
+   "dia_chi": "Tuyên Quang mới",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nhữ Hồng Huy",
+   "npp": "Minh Phúc HD",
+   "dia_chi": "Hải Phòng mới",
+   "ngay_hop": "17/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nhữ Hồng Huy",
+   "npp": "Cường Long",
+   "dia_chi": "Hải Phòng mới",
+   "ngay_hop": "19/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Lê Văn Thế",
+   "npp": "Hồng Minh",
+   "dia_chi": "Bỉm Sơn - T.Hóa",
+   "ngay_hop": "16/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Lê Văn Thế",
+   "npp": "Phương Nam",
+   "dia_chi": "Thọ Xuân - T.Hóa",
+   "ngay_hop": "18/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Lê Thị Trâm",
+   "npp": "Minh Anh",
+   "dia_chi": "Thanh Hóa",
+   "ngay_hop": "15/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Lê Thị Trâm",
+   "npp": "Tâm An",
+   "dia_chi": "Quảng Xương - T.Hóa",
+   "ngay_hop": "19/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Thị Phương Thúy",
+   "npp": "Hương Nhài",
+   "dia_chi": "Đống Đa",
+   "ngay_hop": "14/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Thị Phương Thúy",
+   "npp": "Huệ Phát",
+   "dia_chi": "Tây Hồ",
+   "ngay_hop": "18/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Thị Phương Thúy",
+   "npp": "Đặng Tiến Trung",
+   "dia_chi": "Hoàn Kiếm",
+   "ngay_hop": "19/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Đinh Xuân Mỹ",
+   "npp": "Tuấn Huyền",
+   "dia_chi": "Cao Bằng",
+   "ngay_hop": "18/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Toàn Văn Thuận",
+   "npp": "Thành Trung LS",
+   "dia_chi": "Lạng Sơn",
+   "ngay_hop": "19/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Hữu Dực",
+   "npp": "Ánh Thu",
+   "dia_chi": "Bắc Ninh mới",
+   "ngay_hop": "18/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Hữu Dực",
+   "npp": "Thi Hương",
+   "dia_chi": "Bắc Ninh mới",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Ngô Huy Thanh",
+   "npp": "Phương Đông",
+   "dia_chi": "Bắc Ninh",
+   "ngay_hop": "14/09/2026, 17/09/2026",
+   "ghi_chu": "Họp 2 lần"
+  },
+  {
+   "gsbh": "Phan Thị Thanh Hải",
+   "npp": "Phượng Hoàn",
+   "dia_chi": "Uông Bí",
+   "ngay_hop": "15/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Phan Thị Thanh Hải",
+   "npp": "Phúc Thành Đạt",
+   "dia_chi": "Hạ Long",
+   "ngay_hop": "17/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Mai Thị Hạnh",
+   "npp": "Hiền Tuệ",
+   "dia_chi": "Cẩm Phả",
+   "ngay_hop": "14/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Mai Thị Hạnh",
+   "npp": "Phạm Bảo Khánh",
+   "dia_chi": "Móng Cái",
+   "ngay_hop": "19/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Lê Quốc Việt",
+   "npp": "Vy Đức Anh",
+   "dia_chi": "Ninh Bình",
+   "ngay_hop": "17/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Lê Quốc Việt",
+   "npp": "An Vy",
+   "dia_chi": "Ninh Bình",
+   "ngay_hop": "16/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Đào Xuân Chung",
+   "npp": "Tùng Anh",
+   "dia_chi": "Mộc Châu",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Đào Xuân Chung",
+   "npp": "Nam Huệ",
+   "dia_chi": "Sơn La",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Đỗ Quang Tý",
+   "npp": "Hiếu Thảo",
+   "dia_chi": "Điện Biên",
+   "ngay_hop": "14/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Thị Liên",
+   "npp": "Hùng Mạnh",
+   "dia_chi": "Lai Châu",
+   "ngay_hop": "16/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Thị Hồng",
+   "npp": "Hà Sơn",
+   "dia_chi": "Vinh - Nghệ An",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Thị Hồng",
+   "npp": "Quân Phát",
+   "dia_chi": "Hà Tĩnh",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Xuân Trường",
+   "npp": "Hoa Hùng",
+   "dia_chi": "Hà Đông",
+   "ngay_hop": "18/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Xuân Trường",
+   "npp": "AI",
+   "dia_chi": "Bắc Từ Liêm",
+   "ngay_hop": "17/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Xuân Trường",
+   "npp": "Kiên Cường",
+   "dia_chi": "Nam Từ Liêm",
+   "ngay_hop": "19/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Bùi Thị Thái Hà",
+   "npp": "Vạn An Lộc",
+   "dia_chi": "Long Biên",
+   "ngay_hop": "17/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Bùi Thị Thái Hà",
+   "npp": "Hùng Phát lẻ",
+   "dia_chi": "Hoàng Mai - HBT",
+   "ngay_hop": "17/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Bùi Thị Thái Hà",
+   "npp": "Anh Thư",
+   "dia_chi": "Gia Lâm",
+   "ngay_hop": "16/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Trần Hữu Đoàn",
+   "npp": "Minh Ý",
+   "dia_chi": "Thanh Trì",
+   "ngay_hop": "19/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Trần Hữu Đoàn",
+   "npp": "Đại Dương",
+   "dia_chi": "Thường Tín",
+   "ngay_hop": "18/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Trần Hữu Đoàn",
+   "npp": "Mạnh Nam",
+   "dia_chi": "Thanh Oai",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Quốc Thắm",
+   "npp": "Linh Anh",
+   "dia_chi": "Sơn Tây",
+   "ngay_hop": "16/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Quốc Thắm",
+   "npp": "Bảo Cường",
+   "dia_chi": "Xuân Mai",
+   "ngay_hop": "14/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Quốc Thắm",
+   "npp": "Hồng Hạnh",
+   "dia_chi": "Đan Phượng",
+   "ngay_hop": "15/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Xuân Thắng",
+   "npp": "Hoàng Phát",
+   "dia_chi": "Hưng Yên",
+   "ngay_hop": "19/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Xuân Thắng",
+   "npp": "Minh Khuê",
+   "dia_chi": "Hưng Yên",
+   "ngay_hop": "17/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Xuân Thắng",
+   "npp": "Hoa Thắng",
+   "dia_chi": "Hưng Yên",
+   "ngay_hop": "15/09/2026, 16/09/2026",
+   "ghi_chu": "Họp 2 lần"
+  },
+  {
+   "gsbh": "Phạm Thanh Sơn",
+   "npp": "Duyên Hùng",
+   "dia_chi": "Hải Phòng",
+   "ngay_hop": "18/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Phạm Thanh Sơn",
+   "npp": "Bảo Thắm",
+   "dia_chi": "Hải Phòng",
+   "ngay_hop": "19/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Lại Văn Thịnh",
+   "npp": "Ngọc Bích",
+   "dia_chi": "Ninh Bình mới",
+   "ngay_hop": "19/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Trần Đức Phong",
+   "npp": "Minh Lâm",
+   "dia_chi": "Ninh Bình mới",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Trần Đức Phong",
+   "npp": "Long Giang",
+   "dia_chi": "Ninh Bình mới",
+   "ngay_hop": "17/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Đàm Ngọc Sơn",
+   "npp": "Trung Hiếu",
+   "dia_chi": "Hưng Yên mới",
+   "ngay_hop": "15/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Đàm Ngọc Sơn",
+   "npp": "Long Minh Trang",
+   "dia_chi": "Hưng Yên mới",
+   "ngay_hop": "17/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Văn Tuấn",
+   "npp": "Định Nhuận",
+   "dia_chi": "Phú Thọ mới",
+   "ngay_hop": "19/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Văn Tuấn",
+   "npp": "Hữu Hiền",
+   "dia_chi": "Phú Thọ mới",
+   "ngay_hop": "17/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Đinh Văn Huấn",
+   "npp": "Tuấn Anh",
+   "dia_chi": "Quỳnh Lưu - Nghệ An",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Văn Đồng",
+   "npp": "Hoài Đức",
+   "dia_chi": "Hà Nội",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Văn Toàn",
+   "npp": "An Viên Phát",
+   "dia_chi": "La Phù- Hà Nội",
+   "ngay_hop": "14/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Văn Toàn",
+   "npp": "Hùng Phát sỉ",
+   "dia_chi": "Mạc Thị Bưởi",
+   "ngay_hop": "19/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "3 ASM",
+   "npp": "Dương Thị Thơm",
+   "dia_chi": "La Phù- Hà Nội",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  }
+ ],
+ "21-27/09": [
+  {
+   "gsbh": "Trần Ngọc Lâm",
+   "npp": "Đức Mạnh",
+   "dia_chi": "Đông Anh",
+   "ngay_hop": "23/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Trần Ngọc Lâm",
+   "npp": "Phương Anh",
+   "dia_chi": "Sóc Sơn",
+   "ngay_hop": "24/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Phan Ngọc Bích",
+   "npp": "Minh Hưng",
+   "dia_chi": "Thanh Xuân",
+   "ngay_hop": "25/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Phan Ngọc Bích",
+   "npp": "Hoa Hồng",
+   "dia_chi": "Cầu Giấy",
+   "ngay_hop": "26/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Cầm Thế Khải",
+   "npp": "Vĩnh Hoàn",
+   "dia_chi": "Lào Cai",
+   "ngay_hop": "22/09/2026, 23/09/2026",
+   "ghi_chu": "Họp 2 lần"
+  },
+  {
+   "gsbh": "Đào Văn Sơn",
+   "npp": "Đức Long",
+   "dia_chi": "Lào cai mới",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Đào Văn Sơn",
+   "npp": "Thịnh Long",
+   "dia_chi": "Lào cai mới",
+   "ngay_hop": "21/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Đức Tôn",
+   "npp": "Thảo Nam",
+   "dia_chi": "Phú Thọ",
+   "ngay_hop": "22/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Đức Tôn",
+   "npp": "Xuân Liêm",
+   "dia_chi": "Phú Thọ",
+   "ngay_hop": "21/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Chu Công Kiên",
+   "npp": "Mạnh Long",
+   "dia_chi": "Phú Thọ mới",
+   "ngay_hop": "22/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Chu Công Kiên",
+   "npp": "Huy Đạt",
+   "dia_chi": "Phú Thọ mới",
+   "ngay_hop": "21/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Tuệ Tuấn",
+   "npp": "Mạnh Lực",
+   "dia_chi": "Thái Nguyên",
+   "ngay_hop": "25/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Tuệ Tuấn",
+   "npp": "Đức Nam",
+   "dia_chi": "Thái Nguyên",
+   "ngay_hop": "21/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Xuân Vinh",
+   "npp": "Thành Thanh",
+   "dia_chi": "Thái Nguyên mới",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Trịnh Văn Dũng",
+   "npp": "Trình Oanh",
+   "dia_chi": "Tuyên Quang",
+   "ngay_hop": "21/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Hoàng Thu Thủy",
+   "npp": "Đức Thủy",
+   "dia_chi": "Tuyên Quang mới",
+   "ngay_hop": "26/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nhữ Hồng Huy",
+   "npp": "Minh Phúc HD",
+   "dia_chi": "Hải Phòng mới",
+   "ngay_hop": "23/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nhữ Hồng Huy",
+   "npp": "Cường Long",
+   "dia_chi": "Hải Phòng mới",
+   "ngay_hop": "25/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Lê Văn Thế",
+   "npp": "Hồng Minh",
+   "dia_chi": "Bỉm Sơn - T.Hóa",
+   "ngay_hop": "23/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Lê Văn Thế",
+   "npp": "Phương Nam",
+   "dia_chi": "Thọ Xuân - T.Hóa",
+   "ngay_hop": "26/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Lê Thị Trâm",
+   "npp": "Minh Anh",
+   "dia_chi": "Thanh Hóa",
+   "ngay_hop": "23/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Lê Thị Trâm",
+   "npp": "Tâm An",
+   "dia_chi": "Quảng Xương - T.Hóa",
+   "ngay_hop": "26/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Thị Phương Thúy",
+   "npp": "Hương Nhài",
+   "dia_chi": "Đống Đa",
+   "ngay_hop": "21/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Thị Phương Thúy",
+   "npp": "Huệ Phát",
+   "dia_chi": "Tây Hồ",
+   "ngay_hop": "25/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Thị Phương Thúy",
+   "npp": "Đặng Tiến Trung",
+   "dia_chi": "Hoàn Kiếm",
+   "ngay_hop": "23/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Đinh Xuân Mỹ",
+   "npp": "Tuấn Huyền",
+   "dia_chi": "Cao Bằng",
+   "ngay_hop": "26/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Toàn Văn Thuận",
+   "npp": "Thành Trung LS",
+   "dia_chi": "Lạng Sơn",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Hữu Dực",
+   "npp": "Ánh Thu",
+   "dia_chi": "Bắc Ninh mới",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Hữu Dực",
+   "npp": "Thi Hương",
+   "dia_chi": "Bắc Ninh mới",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Ngô Huy Thanh",
+   "npp": "Phương Đông",
+   "dia_chi": "Bắc Ninh",
+   "ngay_hop": "21/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Phan Thị Thanh Hải",
+   "npp": "Phượng Hoàn",
+   "dia_chi": "Uông Bí",
+   "ngay_hop": "22/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Phan Thị Thanh Hải",
+   "npp": "Phúc Thành Đạt",
+   "dia_chi": "Hạ Long",
+   "ngay_hop": "24/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Mai Thị Hạnh",
+   "npp": "Hiền Tuệ",
+   "dia_chi": "Cẩm Phả",
+   "ngay_hop": "21/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Mai Thị Hạnh",
+   "npp": "Phạm Bảo Khánh",
+   "dia_chi": "Móng Cái",
+   "ngay_hop": "26/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Lê Quốc Việt",
+   "npp": "Vy Đức Anh",
+   "dia_chi": "Ninh Bình",
+   "ngay_hop": "22/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Lê Quốc Việt",
+   "npp": "An Vy",
+   "dia_chi": "Ninh Bình",
+   "ngay_hop": "24/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Đào Xuân Chung",
+   "npp": "Tùng Anh",
+   "dia_chi": "Mộc Châu",
+   "ngay_hop": "21/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Đào Xuân Chung",
+   "npp": "Nam Huệ",
+   "dia_chi": "Sơn La",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Đỗ Quang Tý",
+   "npp": "Hiếu Thảo",
+   "dia_chi": "Điện Biên",
+   "ngay_hop": "22/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Thị Liên",
+   "npp": "Hùng Mạnh",
+   "dia_chi": "Lai Châu",
+   "ngay_hop": "25/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Thị Hồng",
+   "npp": "Hà Sơn",
+   "dia_chi": "Vinh - Nghệ An",
+   "ngay_hop": "24/09/2026, 26/09/2026",
+   "ghi_chu": "Họp 2 lần"
+  },
+  {
+   "gsbh": "Nguyễn Thị Hồng",
+   "npp": "Quân Phát",
+   "dia_chi": "Hà Tĩnh",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Xuân Trường",
+   "npp": "Hoa Hùng",
+   "dia_chi": "Hà Đông",
+   "ngay_hop": "25/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Xuân Trường",
+   "npp": "AI",
+   "dia_chi": "Bắc Từ Liêm",
+   "ngay_hop": "22/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Xuân Trường",
+   "npp": "Kiên Cường",
+   "dia_chi": "Nam Từ Liêm",
+   "ngay_hop": "26/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Bùi Thị Thái Hà",
+   "npp": "Vạn An Lộc",
+   "dia_chi": "Long Biên",
+   "ngay_hop": "24/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Bùi Thị Thái Hà",
+   "npp": "Hùng Phát lẻ",
+   "dia_chi": "Hoàng Mai - HBT",
+   "ngay_hop": "22/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Bùi Thị Thái Hà",
+   "npp": "Anh Thư",
+   "dia_chi": "Gia Lâm",
+   "ngay_hop": "25/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Trần Hữu Đoàn",
+   "npp": "Minh Ý",
+   "dia_chi": "Thanh Trì",
+   "ngay_hop": "26/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Trần Hữu Đoàn",
+   "npp": "Đại Dương",
+   "dia_chi": "Thường Tín",
+   "ngay_hop": "25/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Trần Hữu Đoàn",
+   "npp": "Mạnh Nam",
+   "dia_chi": "Thanh Oai",
+   "ngay_hop": "21/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Quốc Thắm",
+   "npp": "Linh Anh",
+   "dia_chi": "Sơn Tây",
+   "ngay_hop": "23/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Quốc Thắm",
+   "npp": "Bảo Cường",
+   "dia_chi": "Xuân Mai",
+   "ngay_hop": "21/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Quốc Thắm",
+   "npp": "Hồng Hạnh",
+   "dia_chi": "Đan Phượng",
+   "ngay_hop": "22/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Xuân Thắng",
+   "npp": "Hoàng Phát",
+   "dia_chi": "Hưng Yên",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Xuân Thắng",
+   "npp": "Minh Khuê",
+   "dia_chi": "Hưng Yên",
+   "ngay_hop": "26/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Xuân Thắng",
+   "npp": "Hoa Thắng",
+   "dia_chi": "Hưng Yên",
+   "ngay_hop": "25/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Phạm Thanh Sơn",
+   "npp": "Duyên Hùng",
+   "dia_chi": "Hải Phòng",
+   "ngay_hop": "21/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Phạm Thanh Sơn",
+   "npp": "Bảo Thắm",
+   "dia_chi": "Hải Phòng",
+   "ngay_hop": "26/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Lại Văn Thịnh",
+   "npp": "Ngọc Bích",
+   "dia_chi": "Ninh Bình mới",
+   "ngay_hop": "26/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Trần Đức Phong",
+   "npp": "Minh Lâm",
+   "dia_chi": "Ninh Bình mới",
+   "ngay_hop": "22/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Trần Đức Phong",
+   "npp": "Long Giang",
+   "dia_chi": "Ninh Bình mới",
+   "ngay_hop": "25/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Đàm Ngọc Sơn",
+   "npp": "Trung Hiếu",
+   "dia_chi": "Hưng Yên mới",
+   "ngay_hop": "21/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Đàm Ngọc Sơn",
+   "npp": "Long Minh Trang",
+   "dia_chi": "Hưng Yên mới",
+   "ngay_hop": "24/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Văn Tuấn",
+   "npp": "Định Nhuận",
+   "dia_chi": "Phú Thọ mới",
+   "ngay_hop": "24/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Văn Tuấn",
+   "npp": "Hữu Hiền",
+   "dia_chi": "Phú Thọ mới",
+   "ngay_hop": "21/09/2026, 25/09/2026",
+   "ghi_chu": "Họp 2 lần"
+  },
+  {
+   "gsbh": "Đinh Văn Huấn",
+   "npp": "Tuấn Anh",
+   "dia_chi": "Quỳnh Lưu - Nghệ An",
+   "ngay_hop": "26/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Văn Đồng",
+   "npp": "Hoài Đức",
+   "dia_chi": "Hà Nội",
+   "ngay_hop": "22/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Văn Toàn",
+   "npp": "An Viên Phát",
+   "dia_chi": "La Phù- Hà Nội",
+   "ngay_hop": "22/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "Nguyễn Văn Toàn",
+   "npp": "Hùng Phát sỉ",
+   "dia_chi": "Mạc Thị Bưởi",
+   "ngay_hop": "25/09/2026",
+   "ghi_chu": ""
+  },
+  {
+   "gsbh": "3 ASM",
+   "npp": "Dương Thị Thơm",
+   "dia_chi": "La Phù- Hà Nội",
+   "ngay_hop": "",
+   "ghi_chu": ""
+  }
+ ]
+}

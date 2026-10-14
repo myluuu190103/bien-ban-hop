@@ -1,0 +1,45 @@
+Bạn đang đọc PHẦN CHỮ KÝ trên ảnh biên bản họp GĐKD–NPP viết tay (mẫu GĐ02/KTTT/GĐ03).
+Với MỖI ảnh trong danh sách (đường dẫn tuyệt đối, dùng tool Read để xem ảnh — Read đọc được ảnh), hãy nhìn vào:
+1. Dòng "Thành phần dự họp" / phần đầu trang: tên ASM, GSBH, NVBH được GHI (có thể nhiều NVBH).
+2. Phần cuối trang (thường có các ô "Xác nhận" / "Ký tên" của GSBH, ASM, NPP/chủ NPP, có khi cả NVBH):
+   - Với mỗi ô, xác định: CÓ chữ ký thật (viết tay, ký ngoáy cũng tính) hay KHÔNG.
+   - Nếu có chữ ký nhưng không đọc được rõ họ tên đầy đủ, vẫn ghi "có ký" + tên nếu đọc được, để trống tên nếu không đọc được.
+   - Nếu ô đó CHỈ có dấu mộc/dấu tròn công ty mà không có nét ký tay, đánh dấu riêng "chi_dong_dau": true, KHÔNG tính là ký tên.
+   - Nếu dòng NPP ghi rõ "vắng mặt" / "nghỉ" thì ghi text đó vào npp_ky thay vì tên.
+   - Nếu NVBH ký thay vào đúng ô của NPP (not ô riêng của NVBH), ghi tên NVBH đó vào npp_ky NHƯNG thêm "ky_thay": true.
+3. Nếu ảnh KHÔNG phải mẫu biên bản GĐ02/KTTT/GĐ03 (ảnh selfie/ảnh họp/ảnh mờ không đọc được gì), đánh dấu "khong_doc_duoc": true và ghi lý do ngắn vào "ghi_chu".
+
+Trả về DUY NHẤT một JSON array, mỗi phần tử đúng key gốc đã cho, theo schema:
+{
+  "key": "<giữ nguyên key đã cho>",
+  "gsbh_ky": "<tên nếu ký, hoặc null>",
+  "asm_ky": "<tên nếu ký, hoặc null>",
+  "npp_ky": "<tên/nội dung nếu ký hoặc vắng mặt, hoặc null>",
+  "nvbh_du_hop": "<tên NVBH ghi ở đầu trang, có thể nhiều tên cách nhau dấu phẩy, hoặc null>",
+  "chi_dong_dau": true/false,
+  "ky_thay": true/false,
+  "khong_doc_duoc": true/false,
+  "ghi_chu": "<ghi chú ngắn nếu có gì bất thường, hoặc rỗng>"
+}
+
+Quy tắc: không dùng "(?)" — đọc được thì ghi, không đọc được thì để null/rỗng. Không suy đoán tên khi chữ quá mờ.
+Chỉ trả JSON, không giải thích thêm bên ngoài JSON.
+
+
+DANH SACH ANH CAN DOC (goi 3):
+- key: Nguyễn Đình Trọng - Mạnh Long - 04-09-2026 | image_path: C:\Users\desig\Downloads\Anh_bien_ban_da_cat\Chu Công Kiên - Mạnh Long - 04-09-2026 - Ảnh 01.jpg
+- key: Nguyễn Tuệ Tuấn - Mạnh Lực - 04-09-2026 | image_path: C:\Users\desig\Downloads\Anh_bien_ban_da_cat\Nguyễn Tuệ Tuấn - Mạnh Lực - 04-09-2026 - Ảnh 01.jpg
+- key: Trần Ngọc Lâm - Phương Anh - 04-09-2026 | image_path: C:\Users\desig\Downloads\Anh_bien_ban_da_cat\Trần Ngọc Lâm - Phương Anh - 04-09-2026 - Ảnh 01.jpg
+- key: Lê Văn Thế - Phương Nam - 04-09-2026 | image_path: C:\Users\desig\Downloads\Anh_bien_ban_da_cat\Lê Văn Thế - Phương Nam - 04-09-2026 - Ảnh 01.jpg
+- key: Đinh Văn Huấn - Tuấn Anh - 04-09-2026 | image_path: C:\Users\desig\Downloads\Anh_bien_ban_da_cat\Đinh Văn Huấn - Tuấn Anh - 04-09-2026 - Ảnh 01.jpg
+- key: Nguyễn Thị Phương Thúy - Đặng Tiến Trung - 04-09-2026 | image_path: C:\Users\desig\Downloads\Anh_bien_ban_da_cat\Nguyễn Thị Phương Thúy - Đặng Tiến Trung - 04-09-2026 - Ảnh 01.jpg
+- key: Đinh Thị Huệ - Đặng Tiến Trung - 04-09-2026 | image_path: C:\Users\desig\Downloads\Anh_bien_ban_da_cat\Nguyễn Thị Phương Thúy - Đặng Tiến Trung - 04-09-2026 - Ảnh 01.jpg
+- key: Phạm Thanh Sơn - Bảo Thắm - 05-09-2026 | image_path: C:\Users\desig\Downloads\Anh_bien_ban_da_cat\Phạm Thanh Sơn - Bảo Thắm - 05-09-2026 - Ảnh 01.jpg
+- key: Nguyễn Xuân Thắng - Hoa Thắng - 05-09-2026 | image_path: C:\Users\desig\Downloads\Anh_bien_ban_da_cat\Nguyễn Xuân Thắng - Hoa Thắng - 05-09-2026 - Ảnh 01.jpg
+- key: Nguyễn Văn Toàn - Hùng Phát sỉ - 05-09-2026 | image_path: C:\Users\desig\Downloads\Anh_bien_ban_da_cat\Nguyễn Văn Toàn - Hùng Phát sỉ - 05-09-2026 - Ảnh 01.jpg
+- key: Nguyễn Quốc Thắm - Linh Anh - 05-09-2026 | image_path: C:\Users\desig\Downloads\Anh_bien_ban_da_cat\Nguyễn Quốc Thắm - Linh Anh - 05-09-2026 - Ảnh 01.jpg
+- key: Trần Đức Phong - Long Giang - 05-09-2026 | image_path: C:\Users\desig\Downloads\Anh_bien_ban_da_cat\Trần Đức Phong - Long Giang - 05-09-2026 - Ảnh 01.jpg
+- key: Phan Ngọc Bích - Minh Hưng - 05-09-2026 | image_path: C:\Users\desig\Downloads\Anh_bien_ban_da_cat\Phan Ngọc Bích - Minh Hưng - 05-09-2026 - Ảnh 01.jpg
+- key: Nguyễn Xuân Thắng - Minh Khuê - 05-09-2026 | image_path: C:\Users\desig\Downloads\Anh_bien_ban_da_cat\Nguyễn Xuân Thắng - Minh Khuê - 05-09-2026 - Ảnh 01.jpg
+
+Sau khi doc xong, dung tool Write ghi ket qua (JSON array) ra file: C:\NVAI\Claude\bien-ban-hop\data\sign_packs\pack_03_out.json

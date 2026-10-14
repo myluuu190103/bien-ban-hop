@@ -1,0 +1,48 @@
+[
+ {
+  "key": "Lê Quốc Việt - Vy Đức Anh - 07-10-2026",
+  "loai": "KTTT hoặc GD02 (xem tiêu đề tờ giấy)",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Lê Quốc Việt - Vy Đức Anh - 07-10-2026 - Ảnh 01.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\bien-ban-hop\\data\\zoom\\le_quoc_viet_vy_đuc_anh_07_10_2026_1.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\data\\zoom\\le_quoc_viet_vy_đuc_anh_07_10_2026_2.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\data\\zoom\\le_quoc_viet_vy_đuc_anh_07_10_2026_3.jpg"
+  ],
+  "nguoi_gui": "Lê Quốc Việt",
+  "npp_theo_ten_file": "Vy Đức Anh",
+  "nvbh_trong_tuyen": [
+   "Vũ Thị Phương Lê",
+   "Đinh Xuân Dương"
+  ],
+  "gsbh_tuyen": "Ninh Bình",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ]
+ },
+ {
+  "key": "Đào Văn Sơn - Đức Long - 07-10-2026",
+  "loai": "KTTT hoặc GD02 (xem tiêu đề tờ giấy)",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Đào Văn Sơn - Đức Long - 07-10-2026 - Ảnh 02.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\bien-ban-hop\\data\\zoom\\đao_van_son_đuc_long_07_10_2026_1.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\data\\zoom\\đao_van_son_đuc_long_07_10_2026_2.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\data\\zoom\\đao_van_son_đuc_long_07_10_2026_3.jpg"
+  ],
+  "nguoi_gui": "Đào Văn Sơn",
+  "npp_theo_ten_file": "Đức Long",
+  "nvbh_trong_tuyen": [
+   "Đinh Thị Thuỳ Linh",
+   "Đào Thị Hằng"
+  ],
+  "gsbh_tuyen": "Nghĩa Lộ, Yên Bái",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ]
+ }
+]

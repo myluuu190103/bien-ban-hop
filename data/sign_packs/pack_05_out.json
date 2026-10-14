@@ -1,0 +1,156 @@
+[
+  {
+    "key": "Nguyễn Phú Lộc - Họp Kinh doanh siêu thị - 07-09-2026",
+    "gsbh_ky": "Hoàng Tiến Linh, Lê Anh Xuân, Nguyễn Thị Hồng Điệp, Vũ Hải Yến",
+    "asm_ky": "có ký",
+    "npp_ky": null,
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu GĐ03 (Biên bản họp bộ phận kinh doanh siêu thị), không có mục NPP/NVBH. GSBH có 5 người (Điệp, Yến, Huyền, Xuân, Linh) nhưng chỉ thấy 4 chữ ký ghi rõ tên (thiếu Huyền). Chữ ký ASM không ghi tên kèm theo. Ô GĐBH siêu thị để trống, không ký."
+  },
+  {
+    "key": "Lê Thị Trâm - Minh Anh - 07-09-2026",
+    "gsbh_ky": "Lê Thị Trâm",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Lê Thị Dung",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu Biên bản kiểm tra thị trường NPP chỉ có ô ký NVBH và GSBH, không có ô ASM/NPP."
+  },
+  {
+    "key": "Nguyễn Đình Trọng - Phương Anh - 07-09-2026",
+    "gsbh_ky": "Trần Ngọc Lâm",
+    "asm_ky": "có ký",
+    "npp_ky": "Nguyễn Phương Anh",
+    "nvbh_du_hop": "Nguyễn Thị Minh",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Chữ ký ASM (Nguyễn Đình Trọng) viết tên quá ngoáy không đọc được rõ, chỉ xác nhận có ký."
+  },
+  {
+    "key": "Trần Ngọc Lâm - Phương Anh - 07-09-2026",
+    "gsbh_ky": "Trần Ngọc Lâm",
+    "asm_ky": "có ký",
+    "npp_ky": null,
+    "nvbh_du_hop": "Nguyễn Thị Minh",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu không có ô ký NPP. Chữ ký ASM (Nguyễn Đình Trọng) viết tên quá ngoáy không đọc được rõ, chỉ xác nhận có ký."
+  },
+  {
+    "key": "Ngô Huy Thanh - Phương Đông - 07-09-2026",
+    "gsbh_ky": "Ngô Huy Thanh",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Nguyễn Thị Thu Hương, Phạm Thị Vân Anh, Ngô Thị Ngần, Hà Thị Vinh",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Ô Xác nhận NPP để trống, không ký. NVBH ghi đầu trang 4 người nhưng chỉ thấy 3 chữ ký (Vân Anh, Ngần, Hương), thiếu chữ ký Hà Thị Vinh."
+  },
+  {
+    "key": "Phan Thị Thanh Hải - Phượng Hoàn - 07-09-2026",
+    "gsbh_ky": "Phan Thị Thanh Hải",
+    "asm_ky": null,
+    "npp_ky": "Mai Thị Phượng",
+    "nvbh_du_hop": "Lê Thị Lan",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": ""
+  },
+  {
+    "key": "Nguyễn Đức Tôn - Thảo Nam Phú Thọ - 07-09-2026",
+    "gsbh_ky": "Nguyễn Đức Tôn",
+    "asm_ky": null,
+    "npp_ky": "Nguyễn Tấn Thảo",
+    "nvbh_du_hop": "Đào Văn Tài",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": ""
+  },
+  {
+    "key": "Đào Văn Sơn - Thịnh Long - 07-09-2026",
+    "gsbh_ky": "Đào Văn Sơn",
+    "asm_ky": null,
+    "npp_ky": "có ký",
+    "nvbh_du_hop": "Đinh Thị Thùy Linh",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Ô Xác nhận NPP có chữ ký nhưng không ghi tên kèm theo nên không đọc được họ tên."
+  },
+  {
+    "key": "Trịnh Văn Dũng - Trình Oanh - 07-09-2026",
+    "gsbh_ky": "Trịnh Văn Dũng",
+    "asm_ky": null,
+    "npp_ky": "Phạm Văn Trình",
+    "nvbh_du_hop": "Vũ Thị Lan Oanh",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": ""
+  },
+  {
+    "key": "Đào Xuân Chung - Tùng Anh - 07-09-2026",
+    "gsbh_ky": "Đào Xuân Chung",
+    "asm_ky": null,
+    "npp_ky": "Kiều Thị Hiền",
+    "nvbh_du_hop": "Trần Văn Quân",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": ""
+  },
+  {
+    "key": "Lê Quốc Việt - Vy Đức Anh - 07-09-2026",
+    "gsbh_ky": "Lê Quốc Việt",
+    "asm_ky": null,
+    "npp_ky": "có ký",
+    "nvbh_du_hop": "Vũ Thị Phương Tế",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu Biên bản kiểm tra thị trường NPP, không có ô ASM. Chữ ký xác nhận bên trái (đại diện NPP) viết tên không đọc rõ."
+  },
+  {
+    "key": "Nguyễn Hữu Dực - Ánh Thu - 07-09-2026",
+    "gsbh_ky": "Nguyễn Hữu Dực",
+    "asm_ky": null,
+    "npp_ky": "có ký",
+    "nvbh_du_hop": "Tình, Hường, Ngọc, Mai",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Ô Xác nhận NPP có chữ ký nhưng không ghi tên kèm theo. Ô ASM để trống không ký. NVBH ghi đầu trang chỉ có tên riêng (không có họ đầy đủ), chỉ thấy 1 chữ ký (Đinh Thị Tình) trong số các NVBH được liệt kê."
+  },
+  {
+    "key": "Nguyễn Tuệ Tuấn - Đức Nam - 07-09-2026",
+    "gsbh_ky": "Nguyễn Tuệ Tuấn",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Mãi",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu in 3 cột (Xác nhận NPP, GSBH, ASM) nhưng cả 2 chữ ký thực tế (Nguyễn Tuệ Tuấn và Đỗ Thị Mãi - NVBH) đều nằm chung trong khu vực cột GSBH; cột Xác nhận NPP và ASM bỏ trống không ký."
+  },
+  {
+    "key": "Nguyễn Xuân Thắng - Hoa Thắng - 08-09-2026",
+    "gsbh_ky": "Nguyễn Xuân Thắng",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Hồ Văn Sang",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu Biên bản kiểm tra thị trường NPP chỉ có ô ký của GS bán hàng (Nguyễn Xuân Thắng) và NV bán hàng (Hồ Văn Sang), không có ô ký riêng của NPP."
+  }
+]

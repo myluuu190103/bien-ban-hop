@@ -1,0 +1,86 @@
+[
+ {
+  "key": "Phan Thị Thanh Hải - Phượng Hoàn - 07-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Phan Thị Thanh Hải - Phượng Hoàn - 07-09-2026 - Ảnh 01.jpg",
+  "loai": "GD02",
+  "so_lieu_hien_co": {
+   "ton_kho": "Đủ số lượng bán",
+   "bao_cao": "Đầy đủ",
+   "muc5": "Nhập đủ SL, Doanh số tháng 9",
+   "muc1_khac": "Không"
+  }
+ },
+ {
+  "key": "Trần Hữu Đoàn - Mạnh Nam - 10-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Trần Hữu Đoàn - Mạnh Nam - 10-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Đã nhập đơn lần 4 của kỳ: 200 thùng; Kế hoạch bán 100%",
+   "m1_tinh_hinh": "- Hàng bán ra vẫn ổn định\n- Bị ảnh hưởng do phần kênh TMĐT bán sản phẩm giá rẻ bán qua kênh chợ",
+   "m3_khuyen_mai": "Không có CTKM"
+  }
+ },
+ {
+  "key": "Trần Ngọc Lâm - Phương Anh - 07-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Trần Ngọc Lâm - Phương Anh - 07-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Đã hoàn thành nhập đơn hàng T9; Sell out chỉ tiêu 400 thùng/tháng",
+   "m1_tinh_hinh": "Thị trường ổn định về giá",
+   "m3_khuyen_mai": "Ổn định CTKM để giá bán ổn định"
+  }
+ },
+ {
+  "key": "Trần Ngọc Lâm - Đức Mạnh - 10-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Trần Ngọc Lâm - Đức Mạnh - 10-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Đã hoàn thành đơn hàng nhập T9: 490 thùng / 450 thùng",
+   "m1_tinh_hinh": "Cửa cả ổn định, bao phủ đạt",
+   "m3_khuyen_mai": "Ổn định CTKM, ổn định giá"
+  }
+ },
+ {
+  "key": "Trần Đức Phong - Long Giang - 08-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Trần Đức Phong - Long Giang - 08-09-2026 - Ảnh 01.jpg",
+  "loai": "GD02",
+  "so_lieu_hien_co": {
+   "ton_kho": "",
+   "bao_cao": "Báo cáo hằng ngày và BC giấy",
+   "muc5": "Nhập trước ngày 20 và bán",
+   "muc1_khac": "Định hướng thị trường đạt bao phủ, tăng các tuyến bán hàng"
+  }
+ },
+ {
+  "key": "Trịnh Văn Dũng - Trình Oanh - 07-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Trịnh Văn Dũng - Trình Oanh - 07-09-2026 - Ảnh 01.jpg",
+  "loai": "GD02",
+  "so_lieu_hien_co": {
+   "ton_kho": "5-8 thùng",
+   "bao_cao": "Đúng giờ, đủ số lượng",
+   "muc5": "Cố gắng đẩy bán hàng tồn, nhập hàng gối đầu năm 2026",
+   "muc1_khac": "Đại lý bán tạp hoá đang tăng thu, nhiều hàng cho bán hết date"
+  }
+ },
+ {
+  "key": "Đinh Thị Huệ - Hà Sơn - 10-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Đinh Thị Huệ - Hà Sơn - 10-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "600 thùng",
+   "m1_tinh_hinh": "TT đợt này chậm, khách hàng xa chậm lấy; Chưa có nhân sự",
+   "m3_khuyen_mai": "TSICU, Chào giải cảm, nước súc miệng, 2 loại cà phê"
+  }
+ },
+ {
+  "key": "Đinh Thị Huệ - Hà Sơn - 11-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Đinh Thị Huệ - Hà Sơn - 11-09-2026 - Ảnh 01.jpg",
+  "loai": "GD02",
+  "so_lieu_hien_co": {
+   "ton_kho": "",
+   "bao_cao": "",
+   "muc5": "",
+   "muc1_khac": "Thông tin trao đổi với nhà phân phối: Ngô Xuân Nam, sinh 25.11.1970. Làm việc tại: Công ty CP Bình Đạt (Thăng Long?) NPP Bắc Á. Có thăng tiến (vận chuyển phân phối) NPP Nhất Vinh đt 090.225.4789. Chủ thức uống/phân thuộc nhóm NPP Vĩnh Thành đt 035.292.3098. Địa chỉ: số 15A, xóm Mới, xã Đông Diễn, tỉnh Nghệ An. Thành phần gia đình: có 2 người, vợ kinh doanh cửa hàng thiết bị. Bạn: chi tiếp nhận công văn đã nghỉ ở công ty từ tháng 7/2016."
+  }
+ }
+]

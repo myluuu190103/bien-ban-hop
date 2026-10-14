@@ -1,0 +1,156 @@
+[
+  {
+    "key": "Nhữ Hồng Huy - Cường Long - 19-09-2026",
+    "gsbh_ky": "Nhữ Hồng Huy",
+    "asm_ky": null,
+    "npp_ky": "Ngô Thị Chi",
+    "nvbh_du_hop": "Nguyễn Đức Phương",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu Biên bản kiểm tra thị trường NPP (không phải GĐ02), không có mục ASM. Đầu trang ghi đại diện NPP là 'Nguyễn Thị Chi' nhưng chữ ký cuối trang đọc là 'Ngô Thị Chi'."
+  },
+  {
+    "key": "Nguyễn Xuân Thắng - Hoàng Phát - 19-09-2026",
+    "gsbh_ky": "Nguyễn Xuân Thắng",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Chữ viết tay rất mờ/khó đọc ở hầu hết các mục nội dung. Chỉ xác định chắc được chữ ký GSBH khớp tên in 'Nguyễn Xuân Thắng'; còn một chữ ký khác ở cuối trang không có nhãn rõ ràng nên không gán được vai trò."
+  },
+  {
+    "key": "Nguyễn Văn Toàn - Hùng Phát sỉ - 19-09-2026",
+    "gsbh_ky": "Nguyễn Văn Toàn",
+    "asm_ky": null,
+    "npp_ky": "Huy",
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu Biên bản kiểm tra thị trường NPP, không có mục NVBH riêng ở đầu trang. Tên ký ở ô NPP chỉ đọc được 'Huy', không chắc đầy đủ họ tên."
+  },
+  {
+    "key": "Nguyễn Văn Đồng - Kiên Cường - 19-09-2026",
+    "gsbh_ky": "Nguyễn Xuân Trường",
+    "asm_ky": "Nguyễn Văn Đồng",
+    "npp_ky": "Nguyễn Văn Huế",
+    "nvbh_du_hop": "Nguyễn Bá Cường",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": ""
+  },
+  {
+    "key": "Nguyễn Xuân Trường - Kiên Cường - 19-09-2026",
+    "gsbh_ky": "Nguyễn Xuân Trường",
+    "asm_ky": "Nguyễn Văn Đồng",
+    "npp_ky": "Nguyễn Văn Khoa",
+    "nvbh_du_hop": "Nguyễn Bá Cường",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Chữ ký xác nhận NPP khó đọc, đọc tạm là 'Nguyễn Văn Khoa', không chắc chắn hoàn toàn."
+  },
+  {
+    "key": "Phan Ngọc Bích - Minh Hưng - 19-09-2026",
+    "gsbh_ky": "Phan Ngọc Bích",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Đầu trang không ghi tên NVBH (để trống), nhưng cuối trang có người ký ở ô NVBH tên 'Vũ Hồng Sơn'. NPP trong biên bản ghi là 'Lĩnh Hưng', không khớp hẳn với 'Minh Hưng' trong tên file. Không có ô ký NPP trong mẫu này."
+  },
+  {
+    "key": "Trần Đức Phong - Minh Lâm - 19-09-2026",
+    "gsbh_ky": null,
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Ảnh bị bóng tay/bóng đổ che gần hết phần chữ ký cuối trang (NPP, GSBH, ASM/NV) nên không đọc rõ họ tên đầy đủ nào. Đầu trang chỉ đọc được GSBH tên 'Phong', NVBH viết tắt không rõ, mục ASM bỏ trống. NPP ghi 'Minh Lâm' khớp tên file."
+  },
+  {
+    "key": "Trần Hữu Đoàn - Minh Ý - 19-09-2026",
+    "gsbh_ky": "Trần Hữu Đoàn",
+    "asm_ky": null,
+    "npp_ky": "Đinh Xuân Liêm",
+    "nvbh_du_hop": "Ngô Thanh Nhàn",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Tên người ký ở ô NPP đọc không hoàn toàn chắc chắn ('Đinh Xuân Liêm')."
+  },
+  {
+    "key": "Trần Hữu Đoàn - Mạnh Nam - 19-09-2026",
+    "gsbh_ky": "Trần Hữu Đoàn",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Nguyễn Thị Thảo",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Biên bản ghi ngày 17/9/2026 (không khớp '19-09-2026' trong tên file). Ảnh chỉ thấy ô ký của GSBH và NVBH, không thấy ô ký của NPP."
+  },
+  {
+    "key": "Lại Văn Thịnh - Ngọc Bích - 19-09-2026",
+    "gsbh_ky": "Lại Văn Thịnh",
+    "asm_ky": null,
+    "npp_ky": "Vũ Tiến Công",
+    "nvbh_du_hop": "Trần Đức Quang, Nguyễn Văn Thắng",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Chức vụ của người lập biên bản (Lại Văn Thịnh) bỏ trống, nhưng ký ở ô 'GS' cuối trang."
+  },
+  {
+    "key": "Mai Thị Hạnh - Phạm Bảo Khánh - 19-09-2026",
+    "gsbh_ky": "Mai Thị Hạnh",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Nguyễn Thị Hiền",
+    "chi_dong_dau": true,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Biên bản ghi ngày 18/9/2026 (không phải 19-09 như tên file). Ô 'NPP' chỉ thấy dấu mộc tròn đỏ 'PHẠM BẢO KHÁNH' cùng một nét chữ nhỏ không rõ ràng, nên đánh dấu chi_dong_dau=true và không ghi tên vào npp_ky."
+  },
+  {
+    "key": "Toàn Văn Thuận - Thành Trung LS - 19-09-2026",
+    "gsbh_ky": "Toàn Văn Thuận",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Nguyễn Thị Ngọc Anh",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Không thấy ô ký của NPP trong ảnh (chỉ có ô NVBH và GSBH)."
+  },
+  {
+    "key": "Lê Thị Trâm - Tâm An - 19-09-2026",
+    "gsbh_ky": "Lê Thị Trâm",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Tên NVBH ở đầu trang và chữ ký cuối trang (dạng 'Nội/Nguyễn Thị Nghệt') viết quá mờ, không đọc rõ để ghi chắc chắn. Không có ô ký của NPP trong ảnh."
+  },
+  {
+    "key": "Nguyễn Thị Phương Thúy - Đặng Tiến Trung - 19-09-2026",
+    "gsbh_ky": "Nguyễn Thị Phương Thúy",
+    "asm_ky": null,
+    "npp_ky": "Trần Thị Thu Trúc",
+    "nvbh_du_hop": "Trần Thị Thu Trúc",
+    "chi_dong_dau": false,
+    "ky_thay": true,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Chữ ký và tên ở ô 'Đại diện NPP' trùng khớp với chữ ký và tên ở ô NVBH (Trần Thị Thu Trúc) → NVBH có vẻ đã ký thay vào ô của NPP."
+  }
+]

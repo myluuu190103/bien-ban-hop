@@ -1,0 +1,153 @@
+[
+ {
+  "key": "Trần Ngọc Lâm - Đức Mạnh - 25-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Đức Mạnh",
+  "asm": "",
+  "gsbh": "Trần Ngọc Lâm",
+  "nvbh": [
+   "Lê Thị Văn"
+  ],
+  "npp_nguoi_ky": "Nguyễn Thị Hường",
+  "ton_kho_thung": "1140",
+  "ghi_chu": ""
+ },
+ {
+  "key": "Trần Đức Phong - Long Giang - 27-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Long Giang",
+  "asm": "",
+  "gsbh": "Trần Đức Phong",
+  "nvbh": [
+   "Trần Văn Luyến"
+  ],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "864",
+  "ghi_chu": "Ô Xác nhận NPP bỏ trống, không có chữ ký chủ NPP"
+ },
+ {
+  "key": "Trần Đức Phong - Minh Lâm - 25-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Minh Lâm",
+  "asm": "Nguyễn Văn Đồng",
+  "gsbh": "Trần Đức Phong",
+  "nvbh": [
+   "Nguyễn Thị Thu Quyên"
+  ],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "2013",
+  "ghi_chu": "Tồn kho ghi 2013 T, trong ngoặc ghi thêm 505 thùng chia về; ô Xác nhận NPP không có tên người ký"
+ },
+ {
+  "key": "Trịnh Văn Dũng - Trình Oanh - 24-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Trình Oanh",
+  "asm": "",
+  "gsbh": "Trịnh Văn Dũng",
+  "nvbh": [
+   "Vũ Thị Lan Oanh"
+  ],
+  "npp_nguoi_ky": "Phạm Văn Tĩnh",
+  "ton_kho_thung": "150",
+  "ghi_chu": ""
+ },
+ {
+  "key": "Đinh Thị Huệ - Hà Sơn - 28-08-2026",
+  "mau": "GD02",
+  "tai_npp": "",
+  "asm": "Đinh Thị Huệ",
+  "gsbh": "Nguyễn Thị Hồng",
+  "nvbh": [],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "",
+  "ghi_chu": "Bản GD02 biến thể (NỘI DUNG HỌP BÀN, mục Kế hoạch và cam kết thực hiện), không có mục Tồn kho; dòng Tại NPP bỏ trống, chỉ ghi địa bàn K.V Vinh; ô Xác nhận NPP không ai ký"
+ },
+ {
+  "key": "Đinh Thị Huệ - Hà Sơn - 29-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Hà Sơn",
+  "asm": "Đinh Thị Huệ",
+  "gsbh": "Nguyễn Thị Hồng",
+  "nvbh": [],
+  "npp_nguoi_ky": "Cao Thị Hà",
+  "ton_kho_thung": "608",
+  "ghi_chu": "Tồn kho ghi 608 kèm chú thích cả cháo sen và cháo nấu"
+ },
+ {
+  "key": "Đinh Thị Huệ - Lan Thành - 25-08-2026",
+  "mau": "KTTT",
+  "tai_npp": "Lan Thành",
+  "asm": "Đinh Thị Huệ",
+  "gsbh": "",
+  "nvbh": [
+   "Lê Quốc Việt"
+  ],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "",
+  "ghi_chu": "Mẫu Biên bản kiểm tra thị trường NPP (9 mục), không có mục tồn kho; phần ký có thêm Vũ Thị Phương Lê; tên người ký cột NPP không đọc rõ"
+ },
+ {
+  "key": "Đinh Văn Huấn - Tuấn Anh - 28-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Tuấn Anh",
+  "asm": "",
+  "gsbh": "Đinh Văn Huấn",
+  "nvbh": [
+   "Bùi Thái Toàn",
+   "Lê Văn Thỏa"
+  ],
+  "npp_nguoi_ky": "Phạm Chí Anh",
+  "ton_kho_thung": "1050",
+  "ghi_chu": "Chân trang chỉ có Bùi Thái Toàn ký ở cột NVBH"
+ },
+ {
+  "key": "Đinh Xuân Mỹ - Tuấn Huyền - 29-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Tuấn Huyền",
+  "asm": "",
+  "gsbh": "Đinh Xuân Mỹ",
+  "nvbh": [],
+  "npp_nguoi_ky": "Đào Thị Thanh Huyền",
+  "ton_kho_thung": "361",
+  "ghi_chu": "Ngày trên giấy ghi 22/8/2026, lệch với tên file 29-08-2026; dòng NVBH bỏ trống"
+ },
+ {
+  "key": "Đàm Ngọc Sơn - Long Minh Trang - 28-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Long Minh Trang",
+  "asm": "",
+  "gsbh": "Đàm Ngọc Sơn",
+  "nvbh": [
+   "Nguyễn Hải Dương"
+  ],
+  "npp_nguoi_ky": "Vũ Thị Thảo",
+  "ton_kho_thung": "1201",
+  "ghi_chu": "Ảnh chụp nhoè toàn trang, số tồn kho và tên người ký NPP đọc ở mức tương đối"
+ },
+ {
+  "key": "Đàm Ngọc Sơn - Trung Hiếu - 25-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Trung Hiếu",
+  "asm": "",
+  "gsbh": "Đàm Ngọc Sơn",
+  "nvbh": [
+   "Nguyễn Quang Chinh"
+  ],
+  "npp_nguoi_ky": "Vũ Văn Cao",
+  "ton_kho_thung": "937",
+  "ghi_chu": ""
+ },
+ {
+  "key": "Đào Văn Sơn - Thịnh Long - 24-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Thịnh Long",
+  "asm": "",
+  "gsbh": "Đào Văn Sơn",
+  "nvbh": [
+   "Đinh Thị Thuỳ Linh"
+  ],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "1142",
+  "ghi_chu": "Tồn kho ghi 1.142 thùng và CTY nợ 145 thùng; tên người ký cột NPP không đọc rõ"
+ }
+]

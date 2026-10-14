@@ -1,0 +1,156 @@
+[
+  {
+    "key": "Nguyễn Đình Trọng - Mạnh Long - 04-09-2026",
+    "gsbh_ky": "Chu Công Kiên",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Vũ Xuân Tiếp",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Đây là mẫu Biên bản kiểm tra thị trường NPP (không phải mẫu họp GĐ02 chuẩn), không có ô GSBH/ASM/NPP ký tách riêng rõ ràng như các mẫu khác. Đầu trang ghi người kiểm tra là Nguyễn Đình Trọng - ASM, làm việc với Chu Công Kiên (ghi tắt GS = có thể là GSBH) và NV Kim Bắc Tiệp/Vũ Xuân Toàn (chữ mờ, không chắc). Cuối trang có 4 chữ ký: Vũ Xuân Tiếp, Chu Công Kiên, một ô không ghi rõ tên, và Đỗ Thị Bích Hạnh; không có chữ ký nào ghi đúng tên 'Nguyễn Đình Trọng'."
+  },
+  {
+    "key": "Nguyễn Tuệ Tuấn - Mạnh Lực - 04-09-2026",
+    "gsbh_ky": "Nguyễn Tuệ Tuấn",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Lan Anh",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Đầu trang không ghi tên ASM và NPP nên không có chữ ký tương ứng. NVBH Lan Anh ký với tên đầy đủ Nguyễn Thị Lan Anh."
+  },
+  {
+    "key": "Trần Ngọc Lâm - Phương Anh - 04-09-2026",
+    "gsbh_ky": "Trần Ngọc Lâm",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Nguyễn Thị Miền",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu KTTT không có ô ASM. Có một chữ ký thứ 3 ở cuối trang (có thể là đại diện NPP) nhưng tên viết tay quá mờ, không đọc rõ được."
+  },
+  {
+    "key": "Lê Văn Thế - Phương Nam - 04-09-2026",
+    "gsbh_ky": "Lê Văn Thế",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Hà Thị Dung",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Cột 'Xác nhận NPP' có chữ ký nhưng tên viết tay không đọc rõ hoàn toàn (nét chữ hao hao 'Lê Văn Cường' nhưng không chắc chắn nên để trống)."
+  },
+  {
+    "key": "Đinh Văn Huấn - Tuấn Anh - 04-09-2026",
+    "gsbh_ky": "Đinh Văn Thanh",
+    "asm_ky": null,
+    "npp_ky": "Phạm Thị Úc",
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Ảnh/chữ viết tay rất mờ ở nhiều chỗ. Tên GSBH ghi ở đầu trang khó đọc (gần giống 'Đinh Văn Huấn'), trong khi chữ ký cuối trang ở ô GSBH ghi rõ hơn là 'Đinh Văn Thanh' - hai tên không khớp, cần đối chiếu lại. Tên NVBH ở đầu trang quá mờ nên để trống."
+  },
+  {
+    "key": "Nguyễn Thị Phương Thúy - Đặng Tiến Trung - 04-09-2026",
+    "gsbh_ky": "Nguyễn Thị Phương Thúy",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Trần Thị Thu Thủy",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "LƯU Ý: ảnh của key này trùng hoàn toàn với ảnh của key 'Đinh Thị Huệ - Đặng Tiến Trung - 04-09-2026' (cùng một đường dẫn file đầu vào) - cần kiểm tra lại danh sách, có thể một trong hai key bị gán nhầm ảnh. 4 ô ký cuối trang (NVBH/GSBH/ASM/Xác nhận NPP) có nét chữ khá giống nhau, khó phân biệt chắc chắn ai ký ô nào; một trong các ô ký có tên 'Đinh Thị Huệ' nhưng không xác định được chắc chắn đó là ô nào."
+  },
+  {
+    "key": "Đinh Thị Huệ - Đặng Tiến Trung - 04-09-2026",
+    "gsbh_ky": null,
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "LƯU Ý: ảnh của key này trùng hoàn toàn với ảnh của key 'Nguyễn Thị Phương Thúy - Đặng Tiến Trung - 04-09-2026' (cùng một đường dẫn file) - không có ảnh riêng cho 'Đinh Thị Huệ'. Trong ảnh chung đó có một chữ ký ghi tên 'Đinh Thị Huệ' ở một trong 4 ô ký cuối trang, nhưng không xác định chắc chắn đó là ô GSBH, ASM hay NPP do nét chữ giữa các ô khó phân biệt - không tự suy đoán vai trò."
+  },
+  {
+    "key": "Phạm Thanh Sơn - Bảo Thắm - 05-09-2026",
+    "gsbh_ky": "Phạm Thanh Sơn",
+    "asm_ky": null,
+    "npp_ky": "Nguyễn Thị Mai",
+    "nvbh_du_hop": "Nguyễn Văn Đức",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": ""
+  },
+  {
+    "key": "Nguyễn Xuân Thắng - Hoa Thắng - 05-09-2026",
+    "gsbh_ky": null,
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Hồ Văn Sáng",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Chữ ký cuối trang mờ và nhỏ, chỉ thấy 1-2 nét ký không kèm tên đầy đủ rõ ràng; không xác định chắc chắn được ai ký ô GSBH/NPP nên để trống thay vì suy đoán."
+  },
+  {
+    "key": "Nguyễn Văn Toàn - Hùng Phát sỉ - 05-09-2026",
+    "gsbh_ky": "Nguyễn Văn Toàn",
+    "asm_ky": null,
+    "npp_ky": "Huy",
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Đầu trang không ghi tên NVBH (mục 2. NVBH cũng để trống toàn bộ). Tên người ký ở ô 'Xác nhận NPP' chỉ đọc được khoảng 'Huy', không chắc chắn đầy đủ."
+  },
+  {
+    "key": "Nguyễn Quốc Thắm - Linh Anh - 05-09-2026",
+    "gsbh_ky": "Nguyễn Quốc Thắng",
+    "asm_ky": null,
+    "npp_ky": "Nguyễn Hoàng Việt",
+    "nvbh_du_hop": "Hoàng Văn Thời",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Tên GSBH đọc được ở đầu trang gần giống 'Nguyễn Quốc Thắng', trong khi tên key ghi là 'Thắm' - có thể lệch 1 ký tự, cần đối chiếu lại. Chữ ký NVBH cuối trang chỉ ghi 'Thái', khác với tên NVBH đầy đủ ghi ở đầu trang ('Hoàng Văn Thời') - có thể do viết tắt."
+  },
+  {
+    "key": "Trần Đức Phong - Long Giang - 05-09-2026",
+    "gsbh_ky": null,
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Lương",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Đầu trang ghi GSBH viết tắt 'T.Đ.Phong' (khớp Trần Đức Phong) nhưng cuối trang chỉ thấy đúng 1 chữ ký ở góc phải (ghi khoảng 'Lương'/NV), không thấy chữ ký rõ ràng ở các ô GSBH hoặc Xác nhận NPP dù có để ô sẵn."
+  },
+  {
+    "key": "Phan Ngọc Bích - Minh Hưng - 05-09-2026",
+    "gsbh_ky": "Phan Ngọc Bích",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Vũ Hồng Sơn",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Cột 'Xác nhận NPP' không có chữ ký."
+  },
+  {
+    "key": "Nguyễn Xuân Thắng - Minh Khuê - 05-09-2026",
+    "gsbh_ky": "Nguyễn Xuân Thắng",
+    "asm_ky": null,
+    "npp_ky": "Đào Văn Tắc",
+    "nvbh_du_hop": "Đào Văn Tắc",
+    "chi_dong_dau": false,
+    "ky_thay": true,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Không có tên NPP đại diện riêng ở đầu trang; chữ ký ở ô 'Xác nhận NPP' có nét và tên giống với NVBH 'Đào Văn Tắc' (ghi 'Tắc'), nhiều khả năng NVBH đã ký thay vào ô của NPP nên đánh dấu ky_thay."
+  }
+]

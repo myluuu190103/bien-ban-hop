@@ -1,0 +1,52 @@
+[
+ {"key": "Nguyễn Xuân Thắng - Hoàng Phát - 04-09-2026", "field": "muc1.nhan_su", "gia_tri_moi": "Ổn định", "ly_do": "Giấy chỉ ghi 'Ổn định', không có 'Đơn vị'"},
+ {"key": "Nguyễn Xuân Thắng - Hoàng Phát - 04-09-2026", "field": "muc1.khac", "gia_tri_moi": "Hàng khó bán đa dạng", "ly_do": "Giấy ghi 'Hàng khó bán đa dạng' (cùng cách viết 'Hàng' ở biên bản Minh Khuê)"},
+ {"key": "Nguyễn Xuân Thắng - Hoàng Phát - 04-09-2026", "field": "muc3", "gia_tri_moi": "Thúc đẩy bán hàng khó bán, quan tâm kho cho nhà phân phối", "ly_do": "Đọc lại: 'Thúc đẩy bán hàng khó bán quan tâm kho cho nhà phân phối'"},
+
+ {"key": "Nguyễn Xuân Thắng - Minh Khuê - 05-09-2026", "field": "muc1.thi_truong", "gia_tri_moi": "Vẫn bán hàng đều, hàng khó bán đa dạng", "ly_do": "Giấy: 'Vẫn bán hàng đều, hàng khó bán đa dạng' (không phải 'ba ngày')"},
+ {"key": "Nguyễn Xuân Thắng - Minh Khuê - 05-09-2026", "field": "muc2.hang_hoa", "gia_tri_moi": "Đảm bảo thu nhập cho thị trường", "ly_do": "Giấy: 'Đảm bảo thu nhập cho thị trường' (không phải 'thu thập đủ')"},
+ {"key": "Nguyễn Xuân Thắng - Minh Khuê - 05-09-2026", "field": "muc2.bao_cao", "gia_tri_moi": "Báo cáo đầy đủ", "ly_do": "Giấy ghi 'Báo cáo đầy đủ'"},
+ {"key": "Nguyễn Xuân Thắng - Minh Khuê - 05-09-2026", "field": "muc3", "gia_tri_moi": "Thúc đẩy bán hàng khó bán đa thị trường", "ly_do": "Giấy: 'Thúc đẩy bán hàng khó bán đa thị trường'"},
+ {"key": "Nguyễn Xuân Thắng - Minh Khuê - 05-09-2026", "field": "muc4", "gia_tri_moi": "GS và nhân viên cam kết bán hàng khó bán đa thị trường", "ly_do": "Cuối câu là 'thị trường', không phải 'triển khai'"},
+ {"key": "Nguyễn Xuân Thắng - Minh Khuê - 05-09-2026", "field": "muc5", "gia_tri_moi": "Nhập đủ hàng theo tiến độ của công ty", "ly_do": "Giấy: 'Nhập đủ hàng theo tiến độ của công ty'"},
+
+ {"key": "Nguyễn Xuân Trường - AI - 04-09-2026", "field": "muc2.thi_truong", "gia_tri_moi": "Bán khá chậm, còn 1 số SKU khó bán, tháng kém giá cao", "ly_do": "Giấy: 'còn 1 số SKU khó bán tháng kém giá cao' (không có 'cho vay khách tiêu')"},
+ {"key": "Nguyễn Xuân Trường - AI - 04-09-2026", "field": "muc3", "gia_tri_moi": "Tập trung vào SKU khó bán, đẩy tồn kho", "ly_do": "'vào' chứ không phải 'về'"},
+ {"key": "Nguyễn Xuân Trường - AI - 04-09-2026", "field": "muc4", "gia_tri_moi": "Tăng cường bán hàng đầu tháng, tự tạo chương trình cho KH bán các mã SKU khó bán", "ly_do": "Giấy: 'Tăng cường bán hàng đầu tháng, tự tạo chương trình cho KH bán các mã SKU khó bán'"},
+ {"key": "Nguyễn Xuân Trường - AI - 04-09-2026", "field": "muc5", "gia_tri_moi": "Đã lên đơn tháng 9, dự kiến hoàn thành sớm để tập trung đẩy doanh số", "ly_do": "Cuối câu: 'để tập trung đẩy doanh số'"},
+
+ {"key": "Nguyễn Xuân Trường - Hoa Hùng - 03-09-2026", "field": "muc1.ton_kho", "gia_tri_moi": "620 thùng", "ly_do": "Giấy ghi '620 Thùng', thêm đơn vị"},
+ {"key": "Nguyễn Xuân Trường - Hoa Hùng - 03-09-2026", "field": "muc1.khac", "gia_tri_moi": "Tồn 1 số hàng khó bán như chả các loại, súp lạng sữa, rau cây", "ly_do": "Giấy: 'Tồn 1 số hàng khó bán như chả các loại, súp ... sữa, ... cây' (mấy chữ cuối viết mờ)"},
+ {"key": "Nguyễn Xuân Trường - Hoa Hùng - 03-09-2026", "field": "muc2.hang_hoa", "gia_tri_moi": "Đủ hàng SKU bán", "ly_do": "'hàng' chứ không phải 'hay'"},
+ {"key": "Nguyễn Xuân Trường - Hoa Hùng - 03-09-2026", "field": "muc2.thi_truong", "gia_tri_moi": "Biến động về giá cả, khách phản hồi giá cao", "ly_do": "Giấy: 'khách phản hồi giá cao'"},
+ {"key": "Nguyễn Xuân Trường - Hoa Hùng - 03-09-2026", "field": "muc2.chinh_sach", "gia_tri_moi": "Vẫn có 1 số chương trình do NPP triển khai cho khách hàng", "ly_do": "Giấy: 'Vẫn có 1 số chương trình do NPP triển khai cho khách hàng'"},
+ {"key": "Nguyễn Xuân Trường - Hoa Hùng - 03-09-2026", "field": "muc3", "gia_tri_moi": "Hỗ trợ, đào tạo nhân viên sử dụng thành thạo chấm công qua link; Tập trung bán hàng khó bán", "ly_do": "Giấy: 'Hỗ trợ, đào tạo nhân viên sử dụng thành thạo chấm công qua link' + 'Tập trung bán hàng khó bán'"},
+ {"key": "Nguyễn Xuân Trường - Hoa Hùng - 03-09-2026", "field": "muc4", "gia_tri_moi": "Tập trung bán hàng khó bán, có thêm các chương trình cho KH", "ly_do": "Giấy: 'Tập trung bán hàng khó bán, có thêm các chương trình cho KH'"},
+ {"key": "Nguyễn Xuân Trường - Hoa Hùng - 03-09-2026", "field": "muc5", "gia_tri_moi": "Thông báo chỉ tiêu nhập tháng 9 về hoàn thành sớm nhất có thể; Tăng cường đi tuyến nhỏ lẻ, thăm điểm bán thiếu tuyến", "ly_do": "Giấy: 'Thông báo chỉ tiêu nhập tháng 9 về hoàn thành sớm nhất có thể' + 'Tăng cường đi tuyến nhỏ lẻ, thăm điểm bán thiếu tuyến'"},
+
+ {"key": "Nguyễn Xuân Trường - Kiên Cường - 31-08-2026", "field": "muc1.ton_kho", "gia_tri_moi": "235 thùng", "ly_do": "Số cuối bị viết đè, nhìn giống '5'; thêm đơn vị thùng"},
+ {"key": "Nguyễn Xuân Trường - Kiên Cường - 31-08-2026", "field": "muc1.khac", "gia_tri_moi": "Chương trình vỏ thùng, SKU khó bán", "ly_do": "Giấy: 'Chương trình vỏ thùng, SKU khó bán'"},
+ {"key": "Nguyễn Xuân Trường - Kiên Cường - 31-08-2026", "field": "muc2.chinh_sach", "gia_tri_moi": "NPP vẫn đẩy hỗ trợ đổi trả điểm bán", "ly_do": "Cuối câu là 'điểm bán'"},
+ {"key": "Nguyễn Xuân Trường - Kiên Cường - 31-08-2026", "field": "muc3", "gia_tri_moi": "Đào tạo, nhắc nhở nhân viên làm và gửi báo cáo đúng thời gian quy định", "ly_do": "Giấy: 'làm và gửi báo cáo đúng thời gian quy định'"},
+ {"key": "Nguyễn Xuân Trường - Kiên Cường - 31-08-2026", "field": "muc4", "gia_tri_moi": "Rà soát các điểm bán lẻ, bán sỉ; Tập trung vào SKU khó bán", "ly_do": "Giấy: 'Rà soát các điểm bán lẻ, bán sỉ' + 'Tập trung vào SKU khó bán'"},
+ {"key": "Nguyễn Xuân Trường - Kiên Cường - 31-08-2026", "field": "muc5", "gia_tri_moi": "Đã hoàn thành chỉ tiêu nhập tháng 8, đã lên đơn nhập tháng 9; Tiến độ bán 98%, dự kiến hoàn thành 101%", "ly_do": "Giấy: 'đã lên đơn nhập tháng 9' chứ không phải 'đẩy tiến độ'"},
+
+ {"key": "Nguyễn Đình Trọng - Huy Đạt - 03-09-2026", "field": "m1", "gia_tri_moi": "Tốt; Đang phân phối đều các SKU", "ly_do": "Thiếu dòng gạch đầu dòng 'Đang phân phối đều các SKU'"},
+ {"key": "Nguyễn Đình Trọng - Huy Đạt - 03-09-2026", "field": "m2", "gia_tri_moi": "DS tháng 1000T chưa có kế hoạch nhập, xin hỗ trợ chia nhiều đơn", "ly_do": "Giấy: 'xin hỗ trợ chia nhiều đơn'"},
+ {"key": "Nguyễn Đình Trọng - Huy Đạt - 03-09-2026", "field": "m3", "gia_tri_moi": "Xin hỗ trợ bán ra", "ly_do": "Giấy: 'Xin hỗ trợ bán ra'"},
+ {"key": "Nguyễn Đình Trọng - Huy Đạt - 03-09-2026", "field": "m5", "gia_tri_moi": "Cháo sen, cam, xanh, đỏ", "ly_do": "Giấy: 'Cháo sen, cam, xanh, đỏ' (không có giò, xúc xích)"},
+ {"key": "Nguyễn Đình Trọng - Huy Đạt - 03-09-2026", "field": "m7", "gia_tri_moi": "Triển khai các mẫu bán mới loại AE, gói hóa vốn bán; Tình trạng hàng về hộp tiền để bán hàng; Tháng 9 DS 1000T xin chia 2 đơn trước 20", "ly_do": "Giấy: 'gói hóa vốn bán', 'để bán hàng', 'DS 1000T xin chia 2 đơn trước 20'"},
+ {"key": "Nguyễn Đình Trọng - Huy Đạt - 03-09-2026", "field": "m8", "gia_tri_moi": "Hàng về hộp tiền để bán hàng; Có cháo sen Hòa Nghị xuất hiện tại thị trường", "ly_do": "Giấy: 'Hàng về hộp tiền để bán hàng' + 'Có cháo sen Hòa Nghị xuất hiện tại thị trường'"},
+ {"key": "Nguyễn Đình Trọng - Huy Đạt - 03-09-2026", "field": "m9", "gia_tri_moi": "Các NVBH đã thực hiện check in bằng link AI thỉnh thoảng", "ly_do": "Giấy: 'check in bằng link AI thỉnh thoảng'"},
+
+ {"key": "Nguyễn Đức Tôn - Liêm Xuân - 03-09-2026", "field": "tai_npp", "gia_tri_moi": "Liêm Xuân", "ly_do": "Giấy ghi 'Liêm Xuân', không phải 'Xuân Liêm'"},
+ {"key": "Nguyễn Đức Tôn - Liêm Xuân - 03-09-2026", "field": "muc1.thi_truong", "gia_tri_moi": "Cháo mặn, cam, đậu xanh, đỏ; giá buôn bán thấp hơn NPP 15k/1T", "ly_do": "Giấy: 'Cháo mặn, cam, đậu xanh, đỏ'"},
+ {"key": "Nguyễn Đức Tôn - Liêm Xuân - 03-09-2026", "field": "muc1.khac", "gia_tri_moi": "NPP đề xuất công ty hạn chế hàng bãi mì, hàng móp méo, và đổi cho khách hàng", "ly_do": "Giấy: 'đề xuất công ty hạn chế hàng ... hàng móp méo, và đổi cho khách hàng'"},
+ {"key": "Nguyễn Đức Tôn - Liêm Xuân - 03-09-2026", "field": "muc5", "gia_tri_moi": "Nhập hàng T9 trước ngày 20/9. Mục tiêu bán ra đạt CT ngày, tuần, tháng", "ly_do": "Giấy viết 'đạt CT', không phải 'cụ thể'"},
+
+ {"key": "Nguyễn Đức Tôn - Thảo Nam Phú Thọ - 31-08-2026", "field": "muc1.ton_kho", "gia_tri_moi": "910 thùng, Công ty NPP 203 thùng", "ly_do": "Giấy ghi '910T', không phải '9,10'"},
+ {"key": "Nguyễn Đức Tôn - Thảo Nam Phú Thọ - 31-08-2026", "field": "muc1.khac", "gia_tri_moi": "Đề xuất công ty có các CT trưng bày trên quầy kệ cho khách hàng", "ly_do": "Giấy: 'có các CT trưng bày trên quầy kệ cho khách hàng'"},
+ {"key": "Nguyễn Đức Tôn - Thảo Nam Phú Thọ - 31-08-2026", "field": "muc2.hang_hoa", "gia_tri_moi": "Đang cung ứng đủ nhu cầu cho khách hàng", "ly_do": "'nhu cầu', không phải 'như cầu'"},
+ {"key": "Nguyễn Đức Tôn - Thảo Nam Phú Thọ - 31-08-2026", "field": "muc3", "gia_tri_moi": "GSBH luôn hỗ trợ NV huấn luyện kỹ năng BH cùng NV, thúc đẩy doanh số bán hàng để đạt chỉ tiêu bán ra hàng tháng", "ly_do": "Giấy: 'hỗ trợ NV huấn luyện kỹ năng BH cùng NV'"},
+ {"key": "Nguyễn Đức Tôn - Thảo Nam Phú Thọ - 31-08-2026", "field": "muc5", "gia_tri_moi": "Đạt chỉ tiêu nhập vào tháng 8. Mục tiêu bán đạt doanh số bán ra 120% tháng 8", "ly_do": "'Đạt chỉ tiêu', không phải 'Đợt chủ tiêu'"}
+]

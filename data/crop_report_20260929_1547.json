@@ -1,0 +1,154 @@
+[
+ {
+  "file": "Chu Công Kiên - Mạnh Long - 29-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1800,
+   2688
+  ],
+  "crop": [
+   1800,
+   2403
+  ],
+  "box": [
+   0,
+   0,
+   1800,
+   2403
+  ],
+  "area_reduction_pct": 10.6
+ },
+ {
+  "file": "Cầm Thế Khái - Vĩnh Hoàn - 29-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1592,
+   2655
+  ],
+  "crop": [
+   1485,
+   1977
+  ],
+  "box": [
+   107,
+   204,
+   1592,
+   2181
+  ],
+  "area_reduction_pct": 30.5
+ },
+ {
+  "file": "Lê Văn Thế - Hồng Minh - 29-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1536,
+   2188
+  ],
+  "crop": [
+   1536,
+   1956
+  ],
+  "box": [
+   0,
+   0,
+   1536,
+   1956
+  ],
+  "area_reduction_pct": 10.6
+ },
+ {
+  "file": "Nguyễn Quốc Thắm - Hồng Hạnh - 29-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1728,
+   1881
+  ],
+  "crop": [
+   1728,
+   1597
+  ],
+  "box": [
+   0,
+   24,
+   1728,
+   1621
+  ],
+  "area_reduction_pct": 15.1
+ },
+ {
+  "file": "Nguyễn Văn Tuấn - Hữu Hiền - 28-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1458,
+   2633
+  ],
+  "crop": [
+   1332,
+   1844
+  ],
+  "box": [
+   0,
+   27,
+   1332,
+   1871
+  ],
+  "area_reduction_pct": 36.0
+ },
+ {
+  "file": "Nguyễn Xuân Trường - AI - 29-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1371,
+   2619
+  ],
+  "crop": [
+   1371,
+   1982
+  ],
+  "box": [
+   0,
+   278,
+   1371,
+   2260
+  ],
+  "area_reduction_pct": 24.3
+ },
+ {
+  "file": "Nguyễn Đức Tôn - Thảo Nam Phú Thọ - 29-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1826,
+   2692
+  ],
+  "crop": [
+   1826,
+   2063
+  ],
+  "box": [
+   0,
+   0,
+   1826,
+   2063
+  ],
+  "area_reduction_pct": 23.4
+ },
+ {
+  "file": "Đinh Thị Huệ - Hiền Tuệ - 29-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1543,
+   2647
+  ],
+  "crop": [
+   1360,
+   1693
+  ],
+  "box": [
+   183,
+   328,
+   1543,
+   2021
+  ],
+  "area_reduction_pct": 43.6
+ }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "key": "Nguyễn Quốc Thắm - Linh Anh - 30-09-2026",
+    "gsbh_ky": null,
+    "asm_ky": "Nguyễn Quốc Thắm",
+    "npp_ky": "Nguyễn Hồng Vy",
+    "nvbh_du_hop": "Thái",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Biên bản kiểm tra thị trường (ASM, GS, NVBH), không có GSBH tham gia nên ô gsbh_ky để trống"
+  },
+  {
+    "key": "Lê Thị Trâm - Minh Anh - 30-09-2026",
+    "gsbh_ky": "Lê Thị Trâm",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Lê Thị Dung",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Ảnh bị cắt mất phần dưới của bảng ký nên không thấy đủ chữ ký NPP"
+  },
+  {
+    "key": "Phan Thị Thanh Hải - Phúc Thành Đạt - 30-09-2026",
+    "gsbh_ky": "Phan Thị Thanh Hải",
+    "asm_ky": "Đinh Thị Huệ",
+    "npp_ky": "Hoàng Thị Linh",
+    "nvbh_du_hop": "Đỗ Thị Nhung, Trần Thị Dung",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": ""
+  },
+  {
+    "key": "Đinh Thị Huệ - Phúc Thành Đạt - 30-09-2026",
+    "gsbh_ky": "Phan Thị Thanh Hải",
+    "asm_ky": "Đinh Thị Huệ",
+    "npp_ky": "Hoàng Thị Linh",
+    "nvbh_du_hop": "Đỗ Thị Nhung, Trần Thị Dung",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": ""
+  },
+  {
+    "key": "Phan Thị Thanh Hải - Phượng Hoàn - 30-09-2026",
+    "gsbh_ky": "Phan Thị Thanh Hải",
+    "asm_ky": "Đinh Thị Huệ",
+    "npp_ky": null,
+    "nvbh_du_hop": "Lê Thị Lan",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Ô NPP có nét ký tay nhưng họ tên viết không rõ nên để trống"
+  },
+  {
+    "key": "Đinh Thị Huệ - Phượng Hoàn - 30-09-2026",
+    "gsbh_ky": "Phan Thị Thanh Hải",
+    "asm_ky": "Đinh Thị Huệ",
+    "npp_ky": "Trần Thị Phượng",
+    "nvbh_du_hop": "Lê Thị Lan",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": ""
+  },
+  {
+    "key": "Nguyễn Văn Đồng - Trung Hiếu - 30-09-2026",
+    "gsbh_ky": "Đàm Ngọc Sơn",
+    "asm_ky": "Nguyễn Văn Đồng",
+    "npp_ky": "Vũ Văn Hảo",
+    "nvbh_du_hop": "Nguyễn Quang Chải",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Chữ viết tay NVBH và NPP khá khó đọc, tên ghi theo khả năng đọc tốt nhất"
+  },
+  {
+    "key": "Trần Ngọc Lâm - Đức Mạnh - 30-09-2026",
+    "gsbh_ky": "Trần Ngọc Lâm",
+    "asm_ky": null,
+    "npp_ky": "Nguyễn Thị Thủy",
+    "nvbh_du_hop": "Lê Thị Vân",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Biên bản kiểm tra thị trường NPP, không có mục ASM"
+  }
+]

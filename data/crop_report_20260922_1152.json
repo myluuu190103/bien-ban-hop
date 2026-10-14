@@ -1,0 +1,78 @@
+[
+ {
+  "file": "Hoàng Thu Thủy - Đức Thủy - 19-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1816,
+   2691
+  ],
+  "crop": [
+   1539,
+   1994
+  ],
+  "box": [
+   0,
+   270,
+   1539,
+   2264
+  ],
+  "area_reduction_pct": 37.2
+ },
+ {
+  "file": "Nguyễn Tuệ Tuấn - Đức Nam - 19-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1685,
+   2670
+  ],
+  "crop": [
+   1417,
+   1721
+  ],
+  "box": [
+   268,
+   346,
+   1685,
+   2067
+  ],
+  "area_reduction_pct": 45.8
+ },
+ {
+  "file": "Trần Hữu Đoàn - Mạnh Nam - 19-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1785,
+   2686
+  ],
+  "crop": [
+   1785,
+   2417
+  ],
+  "box": [
+   0,
+   0,
+   1785,
+   2417
+  ],
+  "area_reduction_pct": 10.0
+ },
+ {
+  "file": "Trần Đức Phong - Minh Lâm - 19-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1724,
+   2676
+  ],
+  "crop": [
+   1473,
+   1669
+  ],
+  "box": [
+   0,
+   416,
+   1473,
+   2085
+  ],
+  "area_reduction_pct": 46.7
+ }
+]

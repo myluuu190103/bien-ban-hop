@@ -1,0 +1,38 @@
+[
+ {
+  "key": "Bùi Thị Thái Hà - Anh Thư - 07-09-2026",
+  "field": "muc5",
+  "gia_tri_moi": "Nhập T09: 404 thùng (101%); Bán T09: 404 thùng (101%)",
+  "ly_do": "Ảnh ghi rõ '101%' (cả 2 dòng), không phải '10,1%'; thêm đơn vị thùng"
+ },
+ {
+  "key": "Bùi Thị Thái Hà - Hùng Phát lẻ - 08-09-2026",
+  "field": "m2_doanh_so",
+  "gia_tri_moi": "Tỷ lệ nhập: chỉ tiêu 500 thùng, đã bán 508 thùng, 101%. Chỉ tiêu bán: 480 thùng (sửa từ 400), đã đến 480 thùng, về 120%",
+  "ly_do": "'đã bán 508' chứ không phải 'đạt kèm'; bổ sung đơn vị thùng"
+ },
+ {
+  "key": "Bùi Thị Thái Hà - Hùng Phát lẻ - 08-09-2026",
+  "field": "m3_khuyen_mai",
+  "gia_tri_moi": "Hỗ trợ điểm bán mua và sỉ: 2,5 → 3%",
+  "ly_do": "Ảnh ghi '2,5 -> 3%' (mũi tên), không phải '2,5-7,3%'"
+ },
+ {
+  "key": "Chu Công Kiên - Huy Đạt - 07-09-2026",
+  "field": "ton_kho",
+  "gia_tri_moi": "1.974 thùng (515 thùng tháng 9 chưa về)",
+  "ly_do": "Thiếu số tồn kho chính 1.974 ghi trước ngoặc"
+ },
+ {
+  "key": "Chu Công Kiên - Mạnh Long - 08-09-2026",
+  "field": "ton_kho",
+  "gia_tri_moi": "1.298 thùng (330 thùng T9 chưa về)",
+  "ly_do": "Thiếu số tồn kho chính 1.298 T; trong ngoặc là 330 chứ không phải 350"
+ },
+ {
+  "key": "Chu Công Kiên - Mạnh Long - 08-09-2026",
+  "field": "muc5",
+  "gia_tri_moi": "Đã nhập hàng tháng 9 = 330 thùng, phấn đấu hoàn thành chỉ tiêu nhập tháng 9 trước ngày 20",
+  "ly_do": "Ảnh ghi 330 thùng, không phải 350"
+ }
+]

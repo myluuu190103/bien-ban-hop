@@ -1,0 +1,56 @@
+[
+ {
+  "key": "Đinh Xuân Mỹ - Tuấn Huyền - 18-09-2026",
+  "ngay": "18",
+  "thang": "09",
+  "nam": "2026",
+  "tai_npp": "Tuấn Huyền",
+  "dia_ban": "Cao Bằng",
+  "asm": "",
+  "gsbh": "Đinh Xuân Mỹ",
+  "nvbh": "",
+  "muc1": {
+   "ton_kho": "2591 thùng",
+   "thi_truong": "Bao phủ tốt",
+   "nhan_su": "Ổn định",
+   "khac": ""
+  },
+  "muc2": {
+   "hang_hoa": "",
+   "thi_truong": "",
+   "chinh_sach": "",
+   "bao_cao": "",
+   "ho_tro": ""
+  },
+  "muc3": "",
+  "muc4": "NPP cùng GS hỗ trợ thị trường, ổn định",
+  "muc5": "NPP đồng ý nhập hàng tháng 9, cố gắng hoàn thành ngày 20/9"
+ },
+ {
+  "key": "Nguyễn Xuân Trường - Kiên Cường - 19-09-2026",
+  "ngay": "19",
+  "thang": "09",
+  "nam": "2026",
+  "tai_npp": "Kiên Cường",
+  "dia_ban": "Nam Từ Liêm",
+  "asm": "Nguyễn Văn Đồng",
+  "gsbh": "Nguyễn Xuân Trường",
+  "nvbh": "Nguyễn Bá Cường",
+  "muc1": {
+   "ton_kho": "247 thùng",
+   "thi_truong": "Hàng liên tục, một số vài đề nghị chính sách hỗ trợ",
+   "nhan_su": "Ổn định, đi làm đầy đủ",
+   "khac": "Tồn đọng 1 số SKU khó bán"
+  },
+  "muc2": {
+   "hang_hoa": "Đủ SKU bán đầy",
+   "thi_truong": "Bán giá hiện tại, thành phần khó bán giá cao",
+   "chinh_sach": "NPP vẫn đang hỗ trợ",
+   "bao_cao": "Đầy đủ",
+   "ho_tro": "Có"
+  },
+  "muc3": "Đôn đốc thông báo, nhắc nhở nhân viên gửi báo cáo hàng ngày. Tập trung mở SKU khó bán",
+  "muc4": "Tập trung vào 1 số SKU chậm bán ở chợ. Nhân viên đẩy mạnh gửi báo cáo hàng ngày và chủ động",
+  "muc5": "Đã nhập đầy đủ chỉ tiêu tháng 9, đang hoàn thành đủ tiến độ đặt ra"
+ }
+]

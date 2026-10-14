@@ -1,0 +1,156 @@
+[
+  {
+    "key": "Nguyễn Văn Tuấn - Định Nhuận - 19-09-2026",
+    "gsbh_ky": "Nguyễn Văn Tuấn",
+    "asm_ky": null,
+    "npp_ky": "Lê Xuân Thắng",
+    "nvbh_du_hop": "Đinh Xuân Hòa",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Tên NVBH ký cuối trang viết hơi khác phần đầu trang (đọc là Đào Xuân Hoa), có thể là cùng một người do chữ viết tay khó phân biệt."
+  },
+  {
+    "key": "Nguyễn Tuệ Tuấn - Đức Nam - 19-09-2026",
+    "gsbh_ky": "Nguyễn Tuệ Tuấn",
+    "asm_ky": null,
+    "npp_ky": "Đỗ Thị Mến",
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": ""
+  },
+  {
+    "key": "Hoàng Thu Thủy - Đức Thủy - 19-09-2026",
+    "gsbh_ky": "Hoàng Thu Thủy",
+    "asm_ky": null,
+    "npp_ky": "có ký",
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Ô Xác nhận NPP có chữ ký tay nhưng tên viết quá mờ, không đọc rõ đầy đủ họ tên."
+  },
+  {
+    "key": "Nguyễn Quốc Thắm - Bảo Cường - 21-09-2026",
+    "gsbh_ky": "Nguyễn Quốc Thắm",
+    "asm_ky": null,
+    "npp_ky": "Phạm Thị Lan Anh",
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Ngoài 3 ô NPP/GSBH thường gặp, biên bản còn có thêm một ô ký \"NV\" tên Kim không nằm trong schema nên không ghi vào trường nào."
+  },
+  {
+    "key": "Phạm Thanh Sơn - Duyên Hùng - 21-09-2026",
+    "gsbh_ky": "Phạm Thanh Sơn",
+    "asm_ky": null,
+    "npp_ky": "có ký",
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Có đủ 3 ô ký NPP/GSBH/NVBH nhưng chữ ký và tên viết rất nhỏ, mờ, không đọc rõ tên NPP và NVBH."
+  },
+  {
+    "key": "Mai Thị Hạnh - Hiền Tuệ - 21-09-2026",
+    "gsbh_ky": "Mai Thị Hạnh",
+    "asm_ky": null,
+    "npp_ky": "có ký",
+    "nvbh_du_hop": "Đào Thị Diệu, Bùi Thị Thủy",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Đây là mẫu biên bản kiểm tra thị trường (ASM, GS, NVBH) khác với mẫu GĐ02/KTTT/GĐ03 chuẩn, không có mục NPP riêng ở đầu trang. Ô ký cuối trang có NPP ký nhưng tên chỉ đọc được một phần \"...Thị Hiền\", không chắc họ đầy đủ. Dưới cột GSBH có thêm một chữ ký/tên thứ hai không rõ (có thể là Mến Thị...)."
+  },
+  {
+    "key": "Chu Công Kiên - Huy Đạt - 21-09-2026",
+    "gsbh_ky": "Chu Công Kiên",
+    "asm_ky": null,
+    "npp_ky": "Phùng Thị Lê",
+    "nvbh_du_hop": "Đỗ Ngọc Hậu, Phùng Văn Đại",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Cả 2 NVBH (Phùng Văn Đại và Đỗ Ngọc Hậu) đều ký ở ô NVBH."
+  },
+  {
+    "key": "Nguyễn Thị Phương Thúy - Hương Nhài - 21-09-2026",
+    "gsbh_ky": "Nguyễn Thị Phương Thúy",
+    "asm_ky": null,
+    "npp_ky": "có ký",
+    "nvbh_du_hop": "Nguyễn Chu Hằng",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Ô \"Đại diện NPP\" có chữ ký, tên chỉ đọc được một phần \"Trần Thị N...\", không chắc họ tên đầy đủ."
+  },
+  {
+    "key": "Nguyễn Phú Lộc - Họp Kinh doanh siêu thị - 21-09-2026",
+    "gsbh_ky": "Ngô Thị Huyền, Lê Anh Xuân, Vũ Hải Yến",
+    "asm_ky": "Nguyễn Phú Lộc",
+    "npp_ky": null,
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Đây là mẫu GĐ03 \"Biên bản họp bộ phận kinh doanh siêu thị\" (họp nội bộ, không phải biên bản làm việc với một NPP cụ thể nên không có mục ký NPP). Cột GSBH có nhiều người ký, có thể còn thêm tên không đọc chắc chắn ngoài 3 tên đã liệt kê."
+  },
+  {
+    "key": "Nguyễn Văn Tuấn - Hữu Hiền - 21-09-2026",
+    "gsbh_ky": "Nguyễn Văn Tuấn",
+    "asm_ky": null,
+    "npp_ky": "Phan Ngọc An",
+    "nvbh_du_hop": "Phan Thu Thúy",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": ""
+  },
+  {
+    "key": "Trần Hữu Đoàn - Mạnh Nam - 21-09-2026",
+    "gsbh_ky": "Trần Hữu Đoàn",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Nguyễn Thị Thao",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Biên bản này chỉ có 2 ô ký (GSBH và NVBH), không có ô ký dành cho NPP."
+  },
+  {
+    "key": "Ngô Huy Thanh - Phương Đông - 21-09-2026",
+    "gsbh_ky": "Ngô Huy Thanh",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Văn Anh, Huấy, Ngân, Vinh",
+    "chi_dong_dau": true,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Ô NPP chỉ có dấu mộc tròn của Công ty TNHH Thương mại và Dịch vụ Phương Đông Bắc Ninh, không có nét ký tay. Tên các NVBH ở cột trái khó đọc chính xác từng chữ."
+  },
+  {
+    "key": "Đào Văn Sơn - Thịnh Long - 21-09-2026",
+    "gsbh_ky": "Đào Văn Sơn",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Đinh Thị Thùy Linh",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Biên bản này chỉ có 2 ô ký (NVBH và GSBH), không có ô ký dành cho NPP."
+  },
+  {
+    "key": "Đàm Ngọc Sơn - Trung Hiếu - 21-09-2026",
+    "gsbh_ky": "Đàm Ngọc Sơn",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Nguyễn Quang Chiến",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Có đủ 3 ô NVBH/GSBH/NPP nhưng ô NPP bỏ trống, không có chữ ký."
+  }
+]

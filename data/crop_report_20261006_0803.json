@@ -1,0 +1,97 @@
+[
+ {
+  "file": "Bùi Thị Thái Hà - Hùng Phát lẻ - 05-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1800,
+   2688
+  ],
+  "crop": [
+   1800,
+   2417
+  ],
+  "box": [
+   0,
+   0,
+   1800,
+   2417
+  ],
+  "area_reduction_pct": 10.1
+ },
+ {
+  "file": "Phạm Thanh Sơn - Duyên Hùng - 05-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1647,
+   2664
+  ],
+  "crop": [
+   1647,
+   2076
+  ],
+  "box": [
+   0,
+   0,
+   1647,
+   2076
+  ],
+  "area_reduction_pct": 22.1
+ },
+ {
+  "file": "Trần Hữu Đoàn - Mạnh Nam - 05-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1785,
+   2686
+  ],
+  "crop": [
+   1785,
+   2417
+  ],
+  "box": [
+   0,
+   0,
+   1785,
+   2417
+  ],
+  "area_reduction_pct": 10.0
+ },
+ {
+  "file": "Trịnh Văn Dũng - Trình Oanh - 05-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1802,
+   2688
+  ],
+  "crop": [
+   1802,
+   1920
+  ],
+  "box": [
+   0,
+   143,
+   1802,
+   2063
+  ],
+  "area_reduction_pct": 28.6
+ },
+ {
+  "file": "Đàm Ngọc Sơn - Trung Hiếu - 05-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1424,
+   2628
+  ],
+  "crop": [
+   1424,
+   2413
+  ],
+  "box": [
+   0,
+   0,
+   1424,
+   2413
+  ],
+  "area_reduction_pct": 8.2
+ }
+]

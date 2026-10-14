@@ -1,0 +1,68 @@
+[
+ {
+  "key": "Bùi Thị Thái Hà - Anh Thư - 25-09-2026",
+  "field": "muc2.bao_cao",
+  "gia_tri_moi": "Còn nhiều sự cố thị trường từ phía công ty đổi trả hàng méo + phồng",
+  "ly_do": "Ảnh zoom 2 cho thấy câu còn tiếp \"...đổi trả hàng méo + phồng\" (hàng bị méo và phồng), dữ liệu cũ cắt cụt câu trước đoạn này"
+ },
+ {
+  "key": "Bùi Thị Thái Hà - Anh Thư - 25-09-2026",
+  "field": "muc5",
+  "gia_tri_moi": "Hoàn thành chỉ tiêu 79, và đưa ra kế hoạch nhập T10, hướng nhập + bán T10",
+  "ly_do": "Chữ viết rõ là \"Hoàn Thành chỉ tiêu 79\" chứ không phải \"Trong tháng chỉ tiêu 79\""
+ },
+ {
+  "key": "Bùi Thị Thái Hà - Vạn An Lộc - 24-09-2026",
+  "field": "muc5",
+  "gia_tri_moi": "Hoàn thành T9, làm kế hoạch phát triển T10",
+  "ly_do": "Chữ viết là \"Hoàn Thành T9\" (khớp với \"Hoàn thành nhập bán T9\" ở mục 4), không phải \"Hoàn tháng T9\""
+ },
+ {
+  "key": "Hoàng Thu Thủy - Đức Thủy - 26-09-2026",
+  "field": "m1",
+  "gia_tri_moi": "Thị trường ổn định, thời tiết đã vào mùa thu nên lượng hàng bán ra chậm",
+  "ly_do": "Ảnh zoom viết \"...nên lượng hàng bán ra chậm\", không có chữ \"bánh kẹo\" nào trong câu (NPP này bán cháo/đậu/ngũ cốc theo mục 5, không bán bánh kẹo)"
+ },
+ {
+  "key": "Hoàng Thu Thủy - Đức Thủy - 26-09-2026",
+  "field": "m5",
+  "gia_tri_moi": "Cháo sen, đậu đỏ, đậu xanh, nếp cẩm, yến mạch, đậu đen",
+  "ly_do": "Ảnh zoom viết rõ \"Cháo sen, đậu đỏ, đậu xanh, nếp cẩm, yến mạch, đỗ đen\" - không có \"cà phê\", có \"đậu đỏ\" bị thiếu trong dữ liệu cũ"
+ },
+ {
+  "key": "Hoàng Thu Thủy - Đức Thủy - 26-09-2026",
+  "field": "m7",
+  "gia_tri_moi": "Hiện đã vào mùa se lạnh nên các mặt hàng bán ra chậm. Thống nhất kế hoạch làm việc tuần từ 4.01-4.05",
+  "ly_do": "Ảnh zoom không có chữ \"bánh, sữa\" (chỉ \"các mặt hàng bán ra chậm\"); và chữ sau \"kế hoạch làm việc\" là \"tuần\" chứ không phải \"tháng 10\""
+ },
+ {
+  "key": "Hoàng Thu Thủy - Đức Thủy - 26-09-2026",
+  "field": "m8",
+  "gia_tri_moi": "Có chính sách hỗ trợ khi thị trường về hàng mới ra, có thu đổi hàng cận hạn giúp NPP làm sản phẩm Minh Trung",
+  "ly_do": "Ảnh zoom kết câu bằng \"...giúp NPP làm sản phẩm Minh Trung\" (tên công ty/thương hiệu), không thấy chữ \"bán tốt\""
+ },
+ {
+  "key": "Lê Quốc Việt - An Vy - 24-09-2026",
+  "field": "m6",
+  "gia_tri_moi": "GSBH và NVBH đủ",
+  "ly_do": "Ảnh zoom chỉ viết một chữ \"đủ\" sau \"GSBH và NVBH\", không có chữ \"đều tốt\""
+ },
+ {
+  "key": "Lại Văn Thịnh - Ngọc Bích - 26-09-2026",
+  "field": "m8",
+  "gia_tri_moi": "Đề nghị công ty tem xe, giá cả lệnh TMAT (anh Thắng phát triển lớn tại NPP)",
+  "ly_do": "Ảnh zoom viết rõ chữ in hoa \"TMAT\", không phải \"SMAT\""
+ },
+ {
+  "key": "Mai Thị Hạnh - Phạm Bảo Khánh - 26-09-2026",
+  "field": "m7",
+  "gia_tri_moi": "Thị trường mấy hôm gặp nhiều khó khăn do cháo sen giá cao, giá cháo tăng, cuối tháng dẫn đến doanh số ít",
+  "ly_do": "Ảnh zoom không có cụm \"cửa hàng tạp hóa quốc thiếp\" (không có nghĩa); chữ viết là \"...giá cháo tăng, cuối tháng dẫn đến doanh số ít\""
+ },
+ {
+  "key": "Mai Thị Hạnh - Phạm Bảo Khánh - 26-09-2026",
+  "field": "m9",
+  "gia_tri_moi": "NPP rất hỗ trợ tại công ty nhưng do giá cháo tăng, giá cao nên NPP chưa tiêu thụ hết",
+  "ly_do": "Mục 9 \"Về NPP\" trong dữ liệu cũ bị bỏ trống hoàn toàn dù ảnh zoom có 2 dòng chữ viết tay rõ nội dung"
+ }
+]

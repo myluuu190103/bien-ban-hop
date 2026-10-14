@@ -1,0 +1,21 @@
+[
+ {
+  "file": "Lê Văn Thế - Hồng Minh - 06-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1536,
+   2188
+  ],
+  "crop": [
+   1480,
+   1954
+  ],
+  "box": [
+   17,
+   0,
+   1497,
+   1954
+  ],
+  "area_reduction_pct": 14.0
+ }
+]

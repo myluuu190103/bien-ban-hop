@@ -1,0 +1,52 @@
+[
+ {"key": "Nguyễn Hữu Dực - Ánh Thu - 31-08-2026", "field": "nvbh", "gia_tri_moi": "Linh Thị Tình, Nguyễn Thị Hương, Thân Thị Ngọc, Nguyễn Văn Mạnh", "ly_do": "giấy ghi 4 tên: Tình, Hương, Ngọc, Mạnh"},
+ {"key": "Nguyễn Hữu Dực - Ánh Thu - 31-08-2026", "field": "muc1.ton_kho", "gia_tri_moi": "2554 thùng (hàng CT1 nợ tháng 8 = 1136)", "ly_do": "chuẩn hoá đơn vị thùng, ghi chú trong ngoặc"},
+ {"key": "Nguyễn Hữu Dực - Ánh Thu - 31-08-2026", "field": "muc2.hang_hoa", "gia_tri_moi": "Tạm ổn để NVBH cho điểm bán", "ly_do": "giấy ghi 'điểm bán' không phải 'triển bán'"},
+ {"key": "Nguyễn Hữu Dực - Ánh Thu - 31-08-2026", "field": "muc2.thi_truong", "gia_tri_moi": "NV đang ổn định, chỉ khó khăn về giá sản phẩm", "ly_do": "giấy ghi 'NV đang ổn định' không phải 'Nhiều khó khăn'"},
+ {"key": "Nguyễn Hữu Dực - Ánh Thu - 31-08-2026", "field": "muc2.bao_cao", "gia_tri_moi": "NV đầy đủ", "ly_do": "giấy viết NV"},
+ {"key": "Nguyễn Hữu Dực - Ánh Thu - 31-08-2026", "field": "muc3", "gia_tri_moi": "Luôn đồng hành cùng NV xử lý mọi khó khăn thắc mắc của khách hàng khi có vấn đề gì về thị trường", "ly_do": "giấy ghi 'thắc mắc của khách hàng', không phải 'thúc đẩy'"},
+ {"key": "Nguyễn Hữu Dực - Ánh Thu - 31-08-2026", "field": "muc5", "gia_tri_moi": "NPP, GSBH, NVBH đang có kế hoạch từ đầu năm, thực hiện đúng cam kết với tệp hoa hồng thích nào", "ly_do": "giấy ghi 'từ đầu năm' không phải 'từ tháng nào'"},
+
+ {"key": "Nguyễn Phú Lộc - Họp Kinh doanh siêu thị - 31-08-2026", "field": "muc1.khac", "gia_tri_moi": "Hàng hóa: tiếp tục triển khai mở điểm bán kem Rosi và tủ kem. Hàng hóa - lái xe: bình thường. Báo cáo: bình thường. Hỗ trợ của ASM-GDBH: Có", "ly_do": "giấy ghi 'kem Rosi' không phải 'kem tươi'"},
+ {"key": "Nguyễn Phú Lộc - Họp Kinh doanh siêu thị - 31-08-2026", "field": "muc4", "gia_tri_moi": "Chào hàng vào các cửa hàng nhỏ lẻ do diện tích cửa hàng trật hẹp nên không đồng ý nhập tủ đông", "ly_do": "đọc lại: 'diện tích cửa hàng trật hẹp nên không đồng ý nhập tủ đông'"},
+ {"key": "Nguyễn Phú Lộc - Họp Kinh doanh siêu thị - 31-08-2026", "field": "muc5", "gia_tri_moi": "Chào hàng vào siêu thị nhỏ lẻ. Chăm sóc các hệ thống siêu thị thúc đẩy doanh số", "ly_do": "giấy ghi 'Chăm sóc' không phải 'chọn rà soát'"},
+
+ {"key": "Nguyễn Quốc Thắm - Bảo Cường - 04-09-2026", "field": "muc1.ton_kho", "gia_tri_moi": "1455 thùng (hàng giữ)", "ly_do": "chuẩn hoá đơn vị thùng"},
+ {"key": "Nguyễn Quốc Thắm - Bảo Cường - 04-09-2026", "field": "muc1.khac", "gia_tri_moi": "NPP tồn đọng hàng khó bán: ST Explay 84K, 12T nước rửa; ST chưa giải cứu, khuyến mại cho khách chưa bán ra được", "ly_do": "giấy ghi 'chưa giải cứu', không có chữ 'nên'"},
+ {"key": "Nguyễn Quốc Thắm - Bảo Cường - 04-09-2026", "field": "muc2.hang_hoa", "gia_tri_moi": "Tại NPP ổn định, ngoài TT hàng bán ra chậm", "ly_do": "giấy ghi 'Tại NPP ổn định ngoài TT'"},
+ {"key": "Nguyễn Quốc Thắm - Bảo Cường - 04-09-2026", "field": "muc2.chinh_sach", "gia_tri_moi": "Mong cty cùng PKD có chính sách hỗ trợ NVBH", "ly_do": "giấy ghi 'Mong cty cùng PKD có chính sách hỗ trợ NVBH'"},
+ {"key": "Nguyễn Quốc Thắm - Bảo Cường - 04-09-2026", "field": "muc2.bao_cao", "gia_tri_moi": "Tuân thủ đầy đủ mọi bài của PKD", "ly_do": "'mọi bài' không phải 'mời bài'"},
+ {"key": "Nguyễn Quốc Thắm - Bảo Cường - 04-09-2026", "field": "muc3", "gia_tri_moi": "Cùng ASM họp cùng NVBH triển khai chương trình T9, xây dựng kế hoạch bán hàng", "ly_do": "giấy ghi 'họp cùng NVBH', 'xd kế hoạch' = xây dựng"},
+ {"key": "Nguyễn Quốc Thắm - Bảo Cường - 04-09-2026", "field": "muc4", "gia_tri_moi": "Mong PKD hỗ trợ thêm chương trình, giảm nhập những hàng khó bán, những SP không bán ra được thị trường, không hợp thu", "ly_do": "đọc lại toàn dòng theo giấy"},
+ {"key": "Nguyễn Quốc Thắm - Bảo Cường - 04-09-2026", "field": "muc5", "gia_tri_moi": "Đã hoàn thành chỉ tiêu tháng 8, và xây dựng kế hoạch cho tháng 9", "ly_do": "giấy ghi 'Đã hoàn thành chỉ tiêu tháng 8 và xd kế hoạch cho T9'"},
+
+ {"key": "Nguyễn Quốc Thắm - Hồng Hạnh - 31-08-2026", "field": "muc1.ton_kho", "gia_tri_moi": "8380 thùng", "ly_do": "giấy ghi 'Thùng' không phải 'tháng'; chữ số đầu đọc là 8"},
+ {"key": "Nguyễn Quốc Thắm - Hồng Hạnh - 31-08-2026", "field": "muc2.hang_hoa", "gia_tri_moi": "Ổn định, NPP còn tồn cháo giải cứu, NPP thu ngày nào", "ly_do": "giấy ghi 'Ổn định' không phải 'Đủ, chỉ'"},
+ {"key": "Nguyễn Quốc Thắm - Hồng Hạnh - 31-08-2026", "field": "muc2.chinh_sach", "gia_tri_moi": "Còn hỗ trợ từ phía phòng MKT", "ly_do": "giấy ghi 'Còn hỗ trợ từ phía phòng MKT'"},
+ {"key": "Nguyễn Quốc Thắm - Hồng Hạnh - 31-08-2026", "field": "muc2.bao_cao", "gia_tri_moi": "Tuân thủ báo cáo đầy đủ từ phòng KD triển khai", "ly_do": "đọc lại toàn dòng theo giấy"},
+ {"key": "Nguyễn Quốc Thắm - Hồng Hạnh - 31-08-2026", "field": "muc4", "gia_tri_moi": "Hàng tồn thị trường vẫn còn nhiều khó khăn, tồn đọng hàng khó bán, hàng không tiêu bán", "ly_do": "giấy ghi 'Hàng tồn thị trường vẫn còn nhiều khó khăn'"},
+
+ {"key": "Nguyễn Quốc Thắm - Linh Anh - 05-09-2026", "field": "muc1.ton_kho", "gia_tri_moi": "652 thùng", "ly_do": "giấy ghi 'Thùng' không phải 'tháng'"},
+ {"key": "Nguyễn Quốc Thắm - Linh Anh - 05-09-2026", "field": "muc2.hang_hoa", "gia_tri_moi": "Tại NPP ổn định, hàng tuyến phát đều, nhiều hàng bị méo bẹp", "ly_do": "đọc lại theo giấy: 'nhiều hàng bị méo bẹp'"},
+ {"key": "Nguyễn Quốc Thắm - Linh Anh - 05-09-2026", "field": "muc2.chinh_sach", "gia_tri_moi": "Còn có chính sách đãi ngộ hỗ trợ cho NVBH", "ly_do": "giấy có chữ 'đãi ngộ'"},
+ {"key": "Nguyễn Quốc Thắm - Linh Anh - 05-09-2026", "field": "muc2.bao_cao", "gia_tri_moi": "Tuân thủ đầy đủ báo cáo, TT phòng KD triển khai", "ly_do": "giấy ghi 'triển khai' không phải 'thúc đẩy'"},
+ {"key": "Nguyễn Quốc Thắm - Linh Anh - 05-09-2026", "field": "muc3", "gia_tri_moi": "GS cùng NVBH xử lý hàng tồn đọng tại NPP cũng như ngoài thị trường, những SP khó bán", "ly_do": "giấy ghi 'cũng như ngoài thị trường, những SP khó bán'"},
+ {"key": "Nguyễn Quốc Thắm - Linh Anh - 05-09-2026", "field": "muc4", "gia_tri_moi": "Mong PKD có chính sách hỗ trợ cho những SP không bán ra, khách hàng không tiêu thụ được (nước lau kính, Suplac, nước sàn)", "ly_do": "trong ngoặc là tên hàng: nước lau, Suplac, nước sàn"},
+
+ {"key": "Nguyễn Thị Liên - Hùng Mạnh - 04-09-2026", "field": "muc1.ton_kho", "gia_tri_moi": "995 thùng (cùng hủy ĐH 63 thùng)", "ly_do": "chuẩn hoá đơn vị thùng"},
+ {"key": "Nguyễn Thị Liên - Hùng Mạnh - 04-09-2026", "field": "muc1.khac", "gia_tri_moi": "NPP mong công ty có chính sách, chương trình khuyến mại để thúc đẩy cho ra thị trường tốt hơn", "ly_do": "'mong' không phải 'mang'; 'cho ra thị trường'"},
+
+ {"key": "Nguyễn Thị Phương Thúy - Huệ Phát - 04-09-2026", "field": "muc1.ton_kho", "gia_tri_moi": "912 thùng", "ly_do": "chuẩn hoá đơn vị thùng"},
+ {"key": "Nguyễn Thị Phương Thúy - Huệ Phát - 04-09-2026", "field": "muc1.thi_truong", "gia_tri_moi": "Hàng đổi ổn định, về giá, sau tăng chậm", "ly_do": "giấy ghi 'ổn định' không phải 'ứng chưa'"},
+ {"key": "Nguyễn Thị Phương Thúy - Huệ Phát - 04-09-2026", "field": "muc2.hang_hoa", "gia_tri_moi": "Mùa vụ Trung thu nên hàng ra chậm hơn", "ly_do": "đọc lại toàn dòng theo giấy"},
+ {"key": "Nguyễn Thị Phương Thúy - Huệ Phát - 04-09-2026", "field": "muc2.thi_truong", "gia_tri_moi": "Hàng khó bán như sữa, chè, cà phê vào TT không tốt lắm", "ly_do": "giấy liệt kê sữa, chè, cà phê"},
+ {"key": "Nguyễn Thị Phương Thúy - Huệ Phát - 04-09-2026", "field": "muc2.chinh_sach", "gia_tri_moi": "Xin chính sách hỗ trợ hàng sữa, Suplac", "ly_do": "'hàng sữa' và tên hàng 'Suplac'"},
+ {"key": "Nguyễn Thị Phương Thúy - Huệ Phát - 04-09-2026", "field": "muc3", "gia_tri_moi": "ASM Huệ thông qua thông năm báo tới NPP, thông báo CT KM thay đổi tới NPP và NVBH", "ly_do": "ASM là Đinh Thị Huệ; 'CT KM', 'và NVBH'"},
+ {"key": "Nguyễn Thị Phương Thúy - Huệ Phát - 04-09-2026", "field": "muc4", "gia_tri_moi": "Ngoài thị trường hàng sữa siêu, CP, Suplac KH trả lại nhiều", "ly_do": "giấy ghi 'hàng sữa siêu, CP, Suplac KH trả lại nhiều'"},
+
+ {"key": "Nguyễn Thị Phương Thúy - Hương Nhài - 31-08-2026", "field": "muc1.ton_kho", "gia_tri_moi": "781 thùng", "ly_do": "giấy ghi 781T, chuẩn hoá thùng"},
+ {"key": "Nguyễn Thị Phương Thúy - Hương Nhài - 31-08-2026", "field": "muc2.hang_hoa", "gia_tri_moi": "Nhiều sữa giao cho CH", "ly_do": "giấy ghi 'Nhiều sữa giao cho CH'"},
+ {"key": "Nguyễn Thị Phương Thúy - Hương Nhài - 31-08-2026", "field": "muc2.thi_truong", "gia_tri_moi": "Ổn định về giá, khó khăn trong việc mở mới", "ly_do": "giấy ghi 'khó khăn trong việc mở mới'"},
+ {"key": "Nguyễn Thị Phương Thúy - Hương Nhài - 31-08-2026", "field": "muc2.chinh_sach", "gia_tri_moi": "Xin hỗ trợ hàng nước rửa, Suplac", "ly_do": "tên hàng Suplac"},
+ {"key": "Nguyễn Thị Phương Thúy - Hương Nhài - 31-08-2026", "field": "muc5", "gia_tri_moi": "KH nhập: 101% đạt. KH bán: 101% đạt", "ly_do": "giấy ghi 101% đạt"}
+]

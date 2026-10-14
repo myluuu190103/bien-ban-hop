@@ -1,0 +1,49 @@
+[
+ {
+  "key": "Phan Thị Thanh Hải - Phúc Thành Đạt - 17-09-2026",
+  "loai": "KTTT hoặc GD02 (xem tiêu đề tờ giấy)",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Phan Thị Thanh Hải - Phúc Thành Đạt - 17-09-2026 - Ảnh 01.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\bien-ban-hop\\data\\zoom\\phan_thi_thanh_hai_phuc_thanh_đat_17_09_2026_1.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\data\\zoom\\phan_thi_thanh_hai_phuc_thanh_đat_17_09_2026_2.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\data\\zoom\\phan_thi_thanh_hai_phuc_thanh_đat_17_09_2026_3.jpg"
+  ],
+  "nguoi_gui": "Phan Thị Thanh Hải",
+  "npp_theo_ten_file": "Phúc Thành Đạt",
+  "nvbh_trong_tuyen": [
+   "Lê Thị Lan",
+   "Trần Thị Dung",
+   "Đỗ Thị Nhung"
+  ],
+  "gsbh_tuyen": "Uông Bí, Hạ Long",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ]
+ },
+ {
+  "key": "Đàm Ngọc Sơn - Long Minh Trang - 17-09-2026",
+  "loai": "KTTT hoặc GD02 (xem tiêu đề tờ giấy)",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Đàm Ngọc Sơn - Long Minh Trang - 17-09-2026 - Ảnh 01.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\bien-ban-hop\\data\\zoom\\đam_ngoc_son_long_minh_trang_17_09_2026_1.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\data\\zoom\\đam_ngoc_son_long_minh_trang_17_09_2026_2.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\data\\zoom\\đam_ngoc_son_long_minh_trang_17_09_2026_3.jpg"
+  ],
+  "nguoi_gui": "Đàm Ngọc Sơn",
+  "npp_theo_ten_file": "Long Minh Trang",
+  "nvbh_trong_tuyen": [
+   "Nguyễn Hải Dương",
+   "Nguyễn Quang Chinh"
+  ],
+  "gsbh_tuyen": "Thái Bình",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ]
+ }
+]

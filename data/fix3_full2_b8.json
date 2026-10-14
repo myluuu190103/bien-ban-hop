@@ -1,0 +1,50 @@
+[
+ {"key": "Phan Ngọc Bích - Hoa Hồng - 11-09-2026", "field": "m1", "gia_tri_moi": "Ảnh hưởng Trung Thu, hàng rất là chậm", "ly_do": "giấy không có chữ 'bán'"},
+ {"key": "Phan Ngọc Bích - Hoa Hồng - 11-09-2026", "field": "m3", "gia_tri_moi": "Có CTKM khó vào hàng nhiều điểm", "ly_do": "giấy ghi 'khó vào hàng nhiều điểm'"},
+ {"key": "Phan Ngọc Bích - Hoa Hồng - 11-09-2026", "field": "m4", "gia_tri_moi": "Ảnh hưởng giá chợ", "ly_do": "giấy ghi 'giá chợ'"},
+ {"key": "Phan Ngọc Bích - Hoa Hồng - 11-09-2026", "field": "m5", "gia_tri_moi": "Cháo sen, đậu xanh", "ly_do": "giấy ghi 'đậu xanh' không phải 'thịt xào'"},
+ {"key": "Phan Ngọc Bích - Hoa Hồng - 11-09-2026", "field": "m7", "gia_tri_moi": "Hàng Trung Thu xuất hiện nhiều; Hàng nước khó vào các điểm bán", "ly_do": "giấy ghi 'khó vào các điểm bán'"},
+ {"key": "Phan Ngọc Bích - Hoa Hồng - 11-09-2026", "field": "m8", "gia_tri_moi": "Cty trả hàng cho NPP sớm hơn", "ly_do": "giấy ghi 'trả hàng' không phải 'trả lương'"},
+
+ {"key": "Phan Ngọc Bích - Minh Hưng - 12-09-2026", "field": "m3", "gia_tri_moi": "Có CTKM khó khăn cho việc vào hàng", "ly_do": "giấy ghi 'khó khăn'"},
+ {"key": "Phan Ngọc Bích - Minh Hưng - 12-09-2026", "field": "m7", "gia_tri_moi": "Tồn nhiều SKU nước", "ly_do": "giấy ghi SKU"},
+ {"key": "Phan Ngọc Bích - Minh Hưng - 12-09-2026", "field": "m8", "gia_tri_moi": "Xin hỗ trợ bán ra cho các SKU nước tồn tại NPP", "ly_do": "giấy ghi SKU"},
+
+ {"key": "Phạm Thanh Sơn - Bảo Thắm - 12-09-2026", "field": "dia_chi", "gia_tri_moi": "Bát Trang, An Lão, Hải Phòng", "ly_do": "giấy ghi 'Bát Trang - An Lão'"},
+ {"key": "Phạm Thanh Sơn - Bảo Thắm - 12-09-2026", "field": "m1", "gia_tri_moi": "Các điểm bán tỉ lệ rớt kệ chậm dần; Chưa tăng được các SKU mới trên địa bàn tuyến", "ly_do": "đọc lại theo giấy"},
+ {"key": "Phạm Thanh Sơn - Bảo Thắm - 12-09-2026", "field": "m2", "gia_tri_moi": "Đã lên đơn & chuyển tiền đơn hàng tháng 9", "ly_do": "giấy ghi 'lên đơn & chuyển tiền đơn hàng'"},
+ {"key": "Phạm Thanh Sơn - Bảo Thắm - 12-09-2026", "field": "m3", "gia_tri_moi": "Do có nhiều SKU cận date & hết date nên đề xuất chủ tịch hỗ trợ hàng hết date", "ly_do": "giấy ghi 'Do có ... nên đề xuất'"},
+ {"key": "Phạm Thanh Sơn - Bảo Thắm - 12-09-2026", "field": "m4", "gia_tri_moi": "Đã giảm tình trạng hàng trôi trên địa bàn", "ly_do": "giấy ghi 'hàng trôi trên địa bàn'"},
+ {"key": "Phạm Thanh Sơn - Bảo Thắm - 12-09-2026", "field": "m5", "gia_tri_moi": "Cháo sen - cháo đậu xanh, đậu đỏ, nếp cẩm, ngô nếp", "ly_do": "giấy ghi 'nếp cẩm, ngô nếp'"},
+ {"key": "Phạm Thanh Sơn - Bảo Thắm - 12-09-2026", "field": "m6", "gia_tri_moi": "Làm lâu năm, ổn định & cống hiến", "ly_do": "đọc lại theo giấy"},
+ {"key": "Phạm Thanh Sơn - Bảo Thắm - 12-09-2026", "field": "m7", "gia_tri_moi": "Do thị trường đang có dấu hiệu cuối mùa cao điểm, nhằm tăng doanh số trên địa bàn cần: độ bao phủ, tăng các SKU, tần suất viếng thăm KH nhiều hơn & thúc đẩy ép tồn - Khai thác điểm bán", "ly_do": "đọc lại theo giấy"},
+ {"key": "Phạm Thanh Sơn - Bảo Thắm - 12-09-2026", "field": "m8", "gia_tri_moi": "Xin CTKM nhằm phát triển thị trường & tăng sản lượng trên địa bàn", "ly_do": "giấy ghi 'sản lượng trên địa bàn'"},
+ {"key": "Phạm Thanh Sơn - Bảo Thắm - 12-09-2026", "field": "m9", "gia_tri_moi": "GS đề xuất bỏ qua việc phải nhập hàng khó bán nhằm hỗ trợ thị trường cùng NVBH & NPP", "ly_do": "đọc lại theo giấy"},
+
+ {"key": "Phạm Thanh Sơn - Duyên Hùng - 11-09-2026", "field": "m1", "gia_tri_moi": "Hàng ra chậm, các chủ tạp hoá trong trạng thái nhập hàng dè dặt hơn trước", "ly_do": "giấy ghi 'chủ tạp hoá', 'dè dặt'"},
+ {"key": "Phạm Thanh Sơn - Duyên Hùng - 11-09-2026", "field": "m2", "gia_tri_moi": "Toàn bộ hệ thống sale team đang nỗ lực bám sát trên đó để hoàn thành chỉ tiêu nhập bán", "ly_do": "giấy ghi 'nhập bán'"},
+ {"key": "Phạm Thanh Sơn - Duyên Hùng - 11-09-2026", "field": "m3", "gia_tri_moi": "Đề xuất xin chương trình hỗ trợ hàng hết date trên thị trường", "ly_do": "giấy ghi 'chương trình hỗ trợ ... trên thị trường'"},
+ {"key": "Phạm Thanh Sơn - Duyên Hùng - 11-09-2026", "field": "m4", "gia_tri_moi": "Đã giảm bớt khá nhiều tình trạng hàng trôi trên tuyến", "ly_do": "thiếu 'trên tuyến'"},
+ {"key": "Phạm Thanh Sơn - Duyên Hùng - 11-09-2026", "field": "m7", "gia_tri_moi": "Tăng cường chăm sóc khách hàng, mở mới KH, bao phủ nhiều SKU trên các điểm bán", "ly_do": "giấy ghi 'mở mới KH, bao phủ nhiều SKU'"},
+ {"key": "Phạm Thanh Sơn - Duyên Hùng - 11-09-2026", "field": "m9", "gia_tri_moi": "Cùng nhau xây dựng KHDS, đảm bảo hoàn thành chỉ tiêu từ nay đến hết năm 2026, chuẩn bị cho KHDS năm 2027", "ly_do": "giấy ghi 'chuẩn bị cho KHDS'"},
+
+ {"key": "Toàn Văn Thuận - Thành Trung LS - 12-09-2026", "field": "m1", "gia_tri_moi": "Tăng cường bao phủ các cửa hàng, chăm sóc điểm bán đang hoạt động", "ly_do": "giấy ghi 'Tăng cường'"},
+ {"key": "Toàn Văn Thuận - Thành Trung LS - 12-09-2026", "field": "m3", "gia_tri_moi": "NPP hỗ trợ 1 lon cháo nếp cẩm", "ly_do": "giấy ghi 'lon cháo'"},
+ {"key": "Toàn Văn Thuận - Thành Trung LS - 12-09-2026", "field": "m5", "gia_tri_moi": "Các sản phẩm cháo, chè và các mặt hàng khó bán", "ly_do": "giấy ghi 'khó bán'"},
+
+ {"key": "Trần Hữu Đoàn - Đại Dương - 12-09-2026", "field": "ngay", "gia_tri_moi": "11", "ly_do": "giấy ghi ngày 11"},
+ {"key": "Trần Hữu Đoàn - Đại Dương - 12-09-2026", "field": "lam_viec_voi", "gia_tri_moi": "NPP Lê Thị Nga", "ly_do": "giấy ghi NPP"},
+ {"key": "Trần Hữu Đoàn - Đại Dương - 12-09-2026", "field": "m1", "gia_tri_moi": "Tương đối ổn định; SP hàng bán ra đầy đủ SKU; Một phần ảnh hưởng giá của kênh TMĐT", "ly_do": "giấy ghi 'Tương đối ổn định'"},
+ {"key": "Trần Hữu Đoàn - Đại Dương - 12-09-2026", "field": "m2", "gia_tri_moi": "Đã nhập & lên đơn hàng T9", "ly_do": "giấy ghi T9"},
+ {"key": "Trần Hữu Đoàn - Đại Dương - 12-09-2026", "field": "m3", "gia_tri_moi": "NPP hỗ trợ tương đối nhiều các SP hàng đặc thù khó bán", "ly_do": "giấy ghi 'tương đối nhiều'"},
+ {"key": "Trần Hữu Đoàn - Đại Dương - 12-09-2026", "field": "m6", "gia_tri_moi": "NPP hợp tác tốt; Nhân sự ổn định 1 NV", "ly_do": "giấy ghi NPP"},
+ {"key": "Trần Hữu Đoàn - Đại Dương - 12-09-2026", "field": "m8", "gia_tri_moi": "Đề nghị Cty quan tâm tới chính sách bán hàng tốt hơn; quản lý chặt kênh TMĐT ở bán thấp hơn giá trên địa bàn", "ly_do": "giấy ghi 'tới', 'ở bán thấp hơn'"},
+ {"key": "Trần Hữu Đoàn - Đại Dương - 12-09-2026", "field": "m9", "gia_tri_moi": "Cty giải quyết dứt điểm & nhanh các hàng lỗi hỏng do SX; Tăng thêm CTKM các SP hàng khó bán", "ly_do": "giấy ghi 'lỗi hỏng'"},
+
+ {"key": "Trần Đức Phong - Minh Lâm - 11-09-2026", "field": "muc1.thi_truong", "gia_tri_moi": "Giá bán, hàng trôi, mở mới điểm bán cụm công nghiệp", "ly_do": "giấy ghi 'hàng trôi', 'cụm công nghiệp'"},
+ {"key": "Trần Đức Phong - Minh Lâm - 11-09-2026", "field": "muc1.nhan_su", "gia_tri_moi": "NV Nguyễn Thị Thu Quyên", "ly_do": "tên chuẩn Quyên"},
+ {"key": "Trần Đức Phong - Minh Lâm - 11-09-2026", "field": "muc1.khac", "gia_tri_moi": "Kế hoạch nhập và bán tháng 9", "ly_do": "giấy ghi 'Kế hoạch'"},
+ {"key": "Trần Đức Phong - Minh Lâm - 11-09-2026", "field": "muc2.thi_truong", "gia_tri_moi": "Một số khách yêu cầu thu đổi các SKU bán chậm", "ly_do": "giấy ghi 'thu đổi'"},
+ {"key": "Trần Đức Phong - Minh Lâm - 11-09-2026", "field": "muc3", "gia_tri_moi": "Lên kế hoạch nhập hàng, gia tăng độ phủ, các SKU bán chậm có thể bù giá và luân chuyển giữa các điểm bán", "ly_do": "giấy ghi 'Lên kế hoạch nhập hàng, gia tăng độ phủ'"},
+ {"key": "Trần Đức Phong - Minh Lâm - 11-09-2026", "field": "muc4", "gia_tri_moi": "Cần có các chương trình đặc biệt cho các SKU bán chậm nhằm thúc đẩy bán hàng và hỗ trợ cho điểm bán", "ly_do": "giấy ghi 'điểm bán'"}
+]

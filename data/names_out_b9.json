@@ -1,0 +1,155 @@
+[
+ {
+  "key": "Nguyễn Thị Phương Thúy - Đặng Tiến Trung - 25-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Đặng Tiến Trung",
+  "asm": "",
+  "gsbh": "Nguyễn Thị Phương Thúy",
+  "nvbh": [
+   "Trần Thị Thu Hiền"
+  ],
+  "npp_nguoi_ky": "Trần Thị Thu Hiền",
+  "ton_kho_thung": "720",
+  "ghi_chu": "Cột NVBH và cột Xác nhận NPP ở chân trang cùng ghi một tên Trần Thị Thu Hiền; địa bàn Hoàn Kiếm"
+ },
+ {
+  "key": "Nguyễn Tuệ Tuấn - Mạnh Lực - 28-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Mạnh Lực",
+  "asm": "",
+  "gsbh": "Nguyễn Tuệ Tuấn",
+  "nvbh": [
+   "Phạm Thị Hảo"
+  ],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "",
+  "ghi_chu": "Dòng Tồn kho để trống; cột Xác nhận NPP không có chữ ký; ngày trên giấy viết mờ"
+ },
+ {
+  "key": "Nguyễn Tuệ Tuấn - Đức Nam - 24-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Đức Nam",
+  "asm": "",
+  "gsbh": "Nguyễn Tuệ Tuấn",
+  "nvbh": [
+   "Đỗ Thị Mến"
+  ],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "63",
+  "ghi_chu": "Cột Xác nhận NPP không có chữ ký"
+ },
+ {
+  "key": "Nguyễn Văn Toàn - An Viên Phát - 26-08-2026",
+  "mau": "GD02",
+  "tai_npp": "An Viên Phát",
+  "asm": "",
+  "gsbh": "Nguyễn Văn Toàn",
+  "nvbh": [],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "218",
+  "ghi_chu": "Dòng NVBH để trống; dòng NPP ghi tên nhà phân phối (An Viên Phát) chứ không ghi tên người; chữ ký NPP ngoáy không ghi rõ họ tên"
+ },
+ {
+  "key": "Nguyễn Văn Toàn - Hùng Phát sỉ - 28-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Hùng Phát Sỉ",
+  "asm": "",
+  "gsbh": "Nguyễn Văn Toàn",
+  "nvbh": [],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "161",
+  "ghi_chu": "Dòng NVBH để trống; dòng NPP ghi tên nhà phân phối (Hùng Phát Sỉ); chữ ký NPP ngoáy không ghi rõ họ tên"
+ },
+ {
+  "key": "Nguyễn Văn Tuấn - Hữu Hiền - 27-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Hữu Hiền",
+  "asm": "",
+  "gsbh": "Nguyễn Văn Tuấn",
+  "nvbh": [
+   "Phạm Thu Hữu"
+  ],
+  "npp_nguoi_ky": "Phan Ngọc Ánh",
+  "ton_kho_thung": "240",
+  "ghi_chu": "Ngày trên giấy ghi 26/8 trong khi tên file là 27-08-2026"
+ },
+ {
+  "key": "Nguyễn Văn Tuấn - Định Nhuận - 29-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Định Nhuận",
+  "asm": "",
+  "gsbh": "Nguyễn Văn Tuấn",
+  "nvbh": [
+   "Đào Xuân Hoá"
+  ],
+  "npp_nguoi_ky": "Lê Xuân Thủy",
+  "ton_kho_thung": "380",
+  "ghi_chu": ""
+ },
+ {
+  "key": "Nguyễn Văn Đồng - Bảo Thắm - 29-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Bảo Thắm",
+  "asm": "Nguyễn Văn Đồng",
+  "gsbh": "Phạm Thanh Sơn",
+  "nvbh": [
+   "Nguyễn Văn Đức"
+  ],
+  "npp_nguoi_ky": "Nguyễn Thị Thắm",
+  "ton_kho_thung": "1182",
+  "ghi_chu": "Tồn kho ghi 1182 thùng (đã tính hàng nợ tại công ty); địa bàn Hải Phòng"
+ },
+ {
+  "key": "Nguyễn Văn Đồng - Duyên Hùng - 28-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Duyên Hùng",
+  "asm": "Nguyễn Văn Đồng",
+  "gsbh": "Phạm Thanh Sơn",
+  "nvbh": [
+   "Lương Quốc Nghiệp",
+   "Nguyễn Đức Chiến"
+  ],
+  "npp_nguoi_ky": "Đặng Công Thụy",
+  "ton_kho_thung": "1682",
+  "ghi_chu": "Tồn kho ghi 1682 thùng (trong đó 652 thùng hàng công ty nợ); địa bàn Hải Phòng"
+ },
+ {
+  "key": "Nguyễn Văn Đồng - Hùng Phát - 26-08-2026",
+  "mau": "KTTT",
+  "tai_npp": "Hùng Phát",
+  "asm": "Nguyễn Văn Đồng",
+  "gsbh": "Bùi Tới",
+  "nvbh": [
+   "Lý Thúy"
+  ],
+  "npp_nguoi_ky": "Trần Thu Trang",
+  "ton_kho_thung": "",
+  "ghi_chu": "Mẫu kiểm tra thị trường 9 mục, không có dòng tồn kho; dòng Làm việc với để trống nên tên GSBH và NV lấy từ chữ ký chân trang; địa chỉ NPP Hoàng Mai"
+ },
+ {
+  "key": "Nguyễn Xuân Thắng - Hoa Thắng - 29-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Hoa Thắng",
+  "asm": "",
+  "gsbh": "Nguyễn Xuân Thắng",
+  "nvbh": [
+   "Hồ Văn Sang"
+  ],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "380",
+  "ghi_chu": "Cột Xác nhận NPP không có chữ ký; địa bàn Hưng Yên"
+ },
+ {
+  "key": "Nguyễn Xuân Thắng - Hoàng Phát - 26-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Hoàng Phát",
+  "asm": "",
+  "gsbh": "Nguyễn Xuân Thắng",
+  "nvbh": [
+   "Hoàng Trường Sinh"
+  ],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "",
+  "ghi_chu": "Dòng Tồn kho ghi chữ (hàng khó bán còn nhiều) chứ không ghi số; tên NVBH viết tắt, khớp với Hoàng Trường Sinh trong danh sách tuyến và chữ ký Sinh ở chân trang; cột Xác nhận NPP không có chữ ký; ảnh chụp tờ giấy đặt trên đùi, phần dưới là ảnh quần áo"
+ }
+]

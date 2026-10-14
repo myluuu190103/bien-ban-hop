@@ -1,0 +1,156 @@
+[
+  {
+    "key": "Nguyễn Đình Trọng - Mạnh Lực - 11-09-2026",
+    "gsbh_ky": "Nguyễn Tuệ Tuấn",
+    "asm_ky": "Nguyễn Đình Trọng",
+    "npp_ky": "Bùi Thị Thu Hằng",
+    "nvbh_du_hop": "Phan Thị Hào",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Tên người ký ở ô NPP chữ hơi khó đọc, đọc theo khả năng tốt nhất."
+  },
+  {
+    "key": "Phan Thị Thanh Hải - Phúc Thành Đạt - 11-09-2026",
+    "gsbh_ky": "Phan Thị Thanh Hải",
+    "asm_ky": "Trần Thị Dung",
+    "npp_ky": "Hoàng Thị Liên",
+    "nvbh_du_hop": "Đỗ Thị Nhung, Mai Thị Dung",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Chữ ký ô ASM và NPP khá khó đọc, đọc theo khả năng tốt nhất."
+  },
+  {
+    "key": "Lê Văn Thế - Phương Nam - 11-09-2026",
+    "gsbh_ky": "Lê Văn Thế",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Hồ Thị Dung",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Ô NPP có ký tên nhưng chữ quá mờ không đọc được rõ họ tên."
+  },
+  {
+    "key": "Nguyễn Hữu Dực - Thi Hương - 11-09-2026",
+    "gsbh_ky": "Nguyễn Hữu Dực",
+    "asm_ky": null,
+    "npp_ky": "Nguyễn Đình Thi",
+    "nvbh_du_hop": "Đinh Thị Hằng",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": ""
+  },
+  {
+    "key": "Lê Thị Trâm - Tâm An - 11-09-2026",
+    "gsbh_ky": "Lê Thị Trâm",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Mai Thị Tuyết",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Phần nội dung và một số ô trống (hàng trôi, ý kiến...) không ghi gì; không thấy chữ ký của NPP trên ảnh."
+  },
+  {
+    "key": "Bùi Thị Thái Hà - Vạn An Lộc - 11-09-2026",
+    "gsbh_ky": "Bùi Thị Thái Hà",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Không thấy ô ký NPP trên ảnh; tên NV đi cùng viết quá mờ không đọc được rõ."
+  },
+  {
+    "key": "Phạm Thanh Sơn - Bảo Thắm - 12-09-2026",
+    "gsbh_ky": "Phạm Thanh Sơn",
+    "asm_ky": null,
+    "npp_ky": "Nguyễn Thị Mai",
+    "nvbh_du_hop": "Nguyễn Văn Đức",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": ""
+  },
+  {
+    "key": "Nguyễn Thị Liên - Hùng Mạnh Lai Châu - 12-09-2026",
+    "gsbh_ky": "Nguyễn Thị Liên",
+    "asm_ky": null,
+    "npp_ky": "Trần Mỹ Dung",
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Tên đại diện NPP ký khá khó đọc, đọc theo khả năng tốt nhất."
+  },
+  {
+    "key": "Phan Ngọc Bích - Minh Hưng - 12-09-2026",
+    "gsbh_ky": "Phan Ngọc Bích",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Vũ Hồng Sơn",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Ảnh có thể bị cắt mất phần ký của NPP (trang bên cạnh bị che/cắt)."
+  },
+  {
+    "key": "Nguyễn Xuân Thắng - Minh Khuê - 12-09-2026",
+    "gsbh_ky": "Nguyễn Xuân Thắng",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Đèo Văn Tác",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Không thấy chữ ký của NPP trên ảnh."
+  },
+  {
+    "key": "Nguyễn Văn Đồng - Minh Lâm - 12-09-2026",
+    "gsbh_ky": "Trần Đức Phong",
+    "asm_ky": "Nguyễn Văn Đồng",
+    "npp_ky": "Nguyễn Đình Tuyết",
+    "nvbh_du_hop": "Nguyễn Thị Thu Duyên",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Tên người ký xác nhận NPP khá khó đọc, đọc theo khả năng tốt nhất."
+  },
+  {
+    "key": "Lại Văn Thịnh - Ngọc Bích - 12-09-2026",
+    "gsbh_ky": "Lại Văn Thịnh",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Trần Đại Dương, Nguyễn Văn Hoàng",
+    "chi_dong_dau": true,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Ô NPP chỉ có dấu mộc tròn công ty TNHH TM&DV Ngọc Bích HR (Giám đốc Vũ Tiến Công in trên dấu), không có nét ký tay riêng."
+  },
+  {
+    "key": "Mai Thị Hạnh - Phạm Bảo Khánh - 12-09-2026",
+    "gsbh_ky": "Mai Thị Hạnh",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Nguyễn Thị Hiền",
+    "chi_dong_dau": true,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Ô xác nhận NPP chỉ có dấu mộc công ty Phạm Bảo Khánh (MST 5702051212), không thấy nét ký tay rõ."
+  },
+  {
+    "key": "Toàn Văn Thuận - Thành Trung LS - 12-09-2026",
+    "gsbh_ky": "Toàn Văn Thuận",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Nguyễn Thị Ngọc Anh",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Biểu mẫu này không có ô ký riêng cho NPP."
+  }
+]

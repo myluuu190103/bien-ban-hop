@@ -1,0 +1,661 @@
+[
+ {
+  "key": "Bùi Thị Thái Hà - Anh Thư - 07-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Bùi Thị Thái Hà - Anh Thư - 07-09-2026 - Ảnh 01.jpg",
+  "loai": "GD02",
+  "so_lieu_hien_co": {
+   "ton_kho": "405 thùng",
+   "bao_cao": "Đầy đủ, hợp mẫu tiến độ",
+   "muc5": "Nhập T09: 404 (10,1%); Bán T09: 404 (10,1%)",
+   "muc1_khac": "Cần phát huy và hoàn thành kế hoạch/chỉ tiêu tháng T09"
+  }
+ },
+ {
+  "key": "Bùi Thị Thái Hà - Hùng Phát lẻ - 08-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Bùi Thị Thái Hà - Hùng Phát lẻ - 08-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Tỷ lệ nhập: chỉ tiêu 500, đạt kèm 508, 101%. Chỉ tiêu bán: 480 (sửa từ 400), đạt đến 480, về 120%",
+   "m1_tinh_hinh": "Hàng trôi khu vực giáp danh chiến biến phức tạp",
+   "m3_khuyen_mai": "Hỗ trợ điện bán mua và sỉ: 2,5-7,3%"
+  }
+ },
+ {
+  "key": "Chu Công Kiên - Huy Đạt - 07-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Chu Công Kiên - Huy Đạt - 07-09-2026 - Ảnh 01.jpg",
+  "loai": "GD02",
+  "so_lieu_hien_co": {
+   "ton_kho": "515 thùng (tháng 9 chưa về)",
+   "bao_cao": "Đầy đủ theo quy định của công ty",
+   "muc5": "Đã nhập hàng tháng 9 = 500 thùng, phấn đấu hoàn thành chỉ tiêu doanh số nhập và bán tháng 9 của công ty đã giao",
+   "muc1_khac": "Các SKU sản phẩm khó bán hiện tồn nhiều trong kho, vẫn chưa có phương án xử lý"
+  }
+ },
+ {
+  "key": "Chu Công Kiên - Mạnh Long - 08-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Chu Công Kiên - Mạnh Long - 08-09-2026 - Ảnh 01.jpg",
+  "loai": "GD02",
+  "so_lieu_hien_co": {
+   "ton_kho": "350 thùng (tháng 9 chưa về)",
+   "bao_cao": "Thực hiện đầy đủ theo quy định của công ty",
+   "muc5": "Đã nhập hàng tháng 9 = 350 thùng, phấn đấu hoàn thành chỉ tiêu nhập tháng 9 trước ngày 20",
+   "muc1_khac": "NPP đang tồn kho các sản phẩm khó bán, cần công ty có chính sách hỗ trợ bán hàng tránh để tồn kho"
+  }
+ },
+ {
+  "key": "Cầm Thế Khái - Vĩnh Hoàn - 10-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Cầm Thế Khái - Vĩnh Hoàn - 10-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Ổn định theo tiến độ của công ty và theo kế hoạch",
+   "m1_tinh_hinh": "Kinh doanh ổn định, tăng thêm điểm bán",
+   "m3_khuyen_mai": "Không có khuyến mại"
+  }
+ },
+ {
+  "key": "Lê Quốc Việt - Vy Đức Anh - 07-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Lê Quốc Việt - Vy Đức Anh - 07-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Nhập 350 thùng, bán 606 thùng",
+   "m1_tinh_hinh": "Khu vực phát triển thiếu SKU các cửa hàng",
+   "m3_khuyen_mai": "Không có km"
+  }
+ },
+ {
+  "key": "Lê Thị Trâm - Minh Anh - 07-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Lê Thị Trâm - Minh Anh - 07-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "AR liên đơn hàng lũy kế T9 chưa chốt liên",
+   "m1_tinh_hinh": "Đang ổn định",
+   "m3_khuyen_mai": "Chưa có KM"
+  }
+ },
+ {
+  "key": "Lê Thị Trâm - Tâm An - 11-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Lê Thị Trâm - Tâm An - 11-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Chưa lên chỉ tiêu do kỳ nghỉ tết trung thu",
+   "m1_tinh_hinh": "Đang ổn định",
+   "m3_khuyen_mai": ""
+  }
+ },
+ {
+  "key": "Lê Văn Thế - Hồng Minh - 10-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Lê Văn Thế - Hồng Minh - 10-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Đã nhập đến tháng 8. Tháng 9 sẽ nhập tháng 8+9",
+   "m1_tinh_hinh": "Được phủ các SKU khá tốt",
+   "m3_khuyen_mai": ""
+  }
+ },
+ {
+  "key": "Mai Thị Hạnh - Hiền Tuệ - 10-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Mai Thị Hạnh - Hiền Tuệ - 10-09-2026 - Ảnh 01.jpg",
+  "loai": "GD02",
+  "so_lieu_hien_co": {
+   "ton_kho": "821 thùng",
+   "bao_cao": "Tốt",
+   "muc5": "NPP kết hợp tác và tăng hoàn thành D.S tháng 09",
+   "muc1_khac": "Thị trường có chào hàng nghi giá rẻ cao trội, cảm ảnh hưởng đến D.S bán ra"
+  }
+ },
+ {
+  "key": "Nguyễn Hữu Dực - Thi Hương - 11-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Nguyễn Hữu Dực - Thi Hương - 11-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Tổng đơn hàng đạt được, đủ chỉ tiêu tới T9, năm... tỷ lệ nhập ~ 40% thu, phân khúc chào sen - kem chào miền NBH ~ 400/lít",
+   "m1_tinh_hinh": "Kinh doanh thuận lợi, ổn định, gia đình khá; đông dân, mua sắm thuận tiện",
+   "m3_khuyen_mai": "Có cơ chế ngay tháng 9"
+  }
+ },
+ {
+  "key": "Nguyễn Hữu Dực - Ánh Thu - 07-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Nguyễn Hữu Dực - Ánh Thu - 07-09-2026 - Ảnh 01.jpg",
+  "loai": "GD02",
+  "so_lieu_hien_co": {
+   "ton_kho": "2766 thùng",
+   "bao_cao": "Đầy đủ theo quy định",
+   "muc5": "NPP - ASM - NVBH phấn đấu kế hoạch hoàn thành chỉ tiêu sản khẩu có thể",
+   "muc1_khac": "NV thường đi khá khắt về sản phẩm mới, bạn kỹ giá này. Chỗ bán tạm đủ hàng chờ cận Tết, mấy nay thu đổi hàng sĩ"
+  }
+ },
+ {
+  "key": "Nguyễn Phú Lộc - Họp Kinh doanh siêu thị - 07-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Nguyễn Phú Lộc - Họp Kinh doanh siêu thị - 07-09-2026 - Ảnh 01.jpg",
+  "loai": "GD02",
+  "so_lieu_hien_co": {
+   "ton_kho": "",
+   "bao_cao": "",
+   "muc5": "",
+   "muc1_khac": "ĐỊA ĐIỂM: Hà Nội. Hôm nay, ngày 7 tháng 9 năm 2026. Thành phần tham dự: GĐBH: (để trống); ASM: Lộc; GSBH: Điệp, Yến, Huyền, Xuân, Linh. NỘI DUNG HỌP - Ý KIẾN TRAO ĐỔI: 1.GSBH: +Hàng hóa: Đủ hàng. +Thị trường: 2 loang đế bị thải. +Hàng hóa-Lái xe: Đúng hẹn. +Báo cáo: Đúng hạn. +Hỗ trợ của ASM-GĐBH: Có. 2.ASM: +Hợp đồng: Lan Chi, Đức Thành, Aeon, Big C. +Công nợ: Fami Ly. +Đơn hàng: BT. +Tồn kho hàng hóa: BT. +Showroom: BT. +Các phòng ban xử lý CV: Tốt. +Khác: Chúc cả nhóm cẩn thận vì giá cả. 3.GĐBH: (để trống). 4.Ý kiến chung: (để trống). 5.Kế hoạch bán hàng và định hướng: Chào kèm với các Top hàng riêng ăn."
+  }
+ },
+ {
+  "key": "Nguyễn Quốc Thắm - Bảo Cường - 07-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Nguyễn Quốc Thắm - Bảo Cường - 07-09-2026 - Ảnh 01.jpg",
+  "loai": "GD02",
+  "so_lieu_hien_co": {
+   "ton_kho": "1385 thùng",
+   "bao_cao": "Tuân thủ đầy đủ báo cáo tốt P.KD",
+   "muc5": "GS cùng đồng hành hỗ trợ NPP, cùng NVBH hoàn thành chỉ tiêu tốt P.KD",
+   "muc1_khac": "NPP cần tồn đúng chào giai đoạn = SL nước sen = 185, trà ngô = 125, súp lạc = 5T"
+  }
+ },
+ {
+  "key": "Nguyễn Quốc Thắm - Hồng Hạnh - 08-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Nguyễn Quốc Thắm - Hồng Hạnh - 08-09-2026 - Ảnh 01.jpg",
+  "loai": "GD02",
+  "so_lieu_hien_co": {
+   "ton_kho": "685 thùng",
+   "bao_cao": "Tuân thủ mọi báo cáo mô PKD theo yêu cầu",
+   "muc5": "Luôn hỗ trợ thúc đẩy đủ chỉ tiêu tháng",
+   "muc1_khac": "Cty cùng PKD hỗ trợ nhiều SL khả bao đầy NPP trà ngô, nước sen"
+  }
+ },
+ {
+  "key": "Nguyễn Quốc Thắm - Linh Anh - 11-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Nguyễn Quốc Thắm - Linh Anh - 11-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "GS làm việc NPP và chi tiêu đơn hàng tháng 9, tổng đơn hàng T9",
+   "m1_tinh_hinh": "Địa chỉ hướng địa phương thu hẹp các SP bao bì phong khách phản ánh về nhượng sản phẩm hỏi tại nước, nước lau chùi, xà phòng, xà bông, sợ lạc sữa",
+   "m3_khuyen_mai": "Đã triển khai chương trình khuyến mại cho NPP và Shop"
+  }
+ },
+ {
+  "key": "Nguyễn Thị Phương Thúy - Huệ Phát - 11-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Nguyễn Thị Phương Thúy - Huệ Phát - 11-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "PS nhập tháng 9: 400 thùng, PS bán T9: 400 thùng",
+   "m1_tinh_hinh": "Bắt đầu vào mùa cụ Trung Thu nên tồn kho tại đại lý bị cao, hàng với ế chậm",
+   "m3_khuyen_mai": "Chưa áp dụng CT KM"
+  }
+ },
+ {
+  "key": "Nguyễn Thị Phương Thúy - Hương Nhài - 07-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Nguyễn Thị Phương Thúy - Hương Nhài - 07-09-2026 - Ảnh 01.jpg",
+  "loai": "GD02",
+  "so_lieu_hien_co": {
+   "ton_kho": "658 thùng",
+   "bao_cao": "Mọi thứ ổn",
+   "muc5": "KH nhập tháng 9: dự 10; KH bán: 100",
+   "muc1_khac": ""
+  }
+ },
+ {
+  "key": "Nguyễn Tuệ Tuấn - Mạnh Lực - 11-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Nguyễn Tuệ Tuấn - Mạnh Lực - 11-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Nhập 1400 thùng - Bán 1000 thùng",
+   "m1_tinh_hinh": "Lên đơn hàng tháng 9",
+   "m3_khuyen_mai": "Không có"
+  }
+ },
+ {
+  "key": "Nguyễn Tuệ Tuấn - Đức Nam - 07-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Nguyễn Tuệ Tuấn - Đức Nam - 07-09-2026 - Ảnh 01.jpg",
+  "loai": "GD02",
+  "so_lieu_hien_co": {
+   "ton_kho": "",
+   "bao_cao": "Bình thường",
+   "muc5": "10.1%",
+   "muc1_khac": ""
+  }
+ },
+ {
+  "key": "Nguyễn Văn Toàn - An Viên Phát - 10-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Nguyễn Văn Toàn - An Viên Phát - 10-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Nhập 5050 - Bán 3050, tháng 9",
+   "m1_tinh_hinh": "",
+   "m3_khuyen_mai": "Không có chương trình khuyến mại tháng 9"
+  }
+ },
+ {
+  "key": "Nguyễn Văn Toàn - Hùng Phát sỉ - 08-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Nguyễn Văn Toàn - Hùng Phát sỉ - 08-09-2026 - Ảnh 01.jpg",
+  "loai": "GD02",
+  "so_lieu_hien_co": {
+   "ton_kho": "189 thùng",
+   "bao_cao": "",
+   "muc5": "Tháng chủ nhập chờ tháng 9, giờ tốt",
+   "muc1_khac": "Đàm sản chỉ liên doanh giá không, đẩy CT00 với hợp chốt xử lý lóng đi lại"
+  }
+ },
+ {
+  "key": "Nguyễn Văn Tuấn - Hữu Hiền - 11-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Nguyễn Văn Tuấn - Hữu Hiền - 11-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Đại lý đang tồn kho ứ đọng của 02 NPP, bán ra chậm. Bán sát PS khoảng cùng kỳ",
+   "m1_tinh_hinh": "Thời gian ổn định, sản phẩm không có gì đến. Cuối tháng thu tiền, công nợ khách hàng",
+   "m3_khuyen_mai": "Không có, đang chờ xin kem hỗ trợ phí thị trường"
+  }
+ },
+ {
+  "key": "Nguyễn Xuân Thắng - Hoa Thắng - 08-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Nguyễn Xuân Thắng - Hoa Thắng - 08-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Hàng ra bán vẫn tốt cửa đại lý",
+   "m1_tinh_hinh": "Ổn định, chưa thay đổi giá bán tiến",
+   "m3_khuyen_mai": "Không có khuyến mại"
+  }
+ },
+ {
+  "key": "Nguyễn Xuân Thắng - Hoàng Phát - 07-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Nguyễn Xuân Thắng - Hoàng Phát - 07-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Nhập 450 - Bán 500 (thùng)",
+   "m1_tinh_hinh": "Thời gian còn hàng màu duyên, ký gửi đa dạng, lứa vẫn bán",
+   "m3_khuyen_mai": "Không có khuyến mại"
+  }
+ },
+ {
+  "key": "Nguyễn Xuân Trường - AI - 10-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Nguyễn Xuân Trường - AI - 10-09-2026 - Ảnh 01.jpg",
+  "loai": "GD02",
+  "so_lieu_hien_co": {
+   "ton_kho": "121 thùng",
+   "bao_cao": "Đầy đủ",
+   "muc5": "Đã nhập hàng tháng 9, bán phủ các kênh truyền thống, tăng 1 số đại lý mới",
+   "muc1_khac": "1 số lô hàng nhập mẫu, chưa yêu cầu đổi trả"
+  }
+ },
+ {
+  "key": "Nguyễn Xuân Trường - Hoa Hùng - 07-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Nguyễn Xuân Trường - Hoa Hùng - 07-09-2026 - Ảnh 01.jpg",
+  "loai": "GD02",
+  "so_lieu_hien_co": {
+   "ton_kho": "635 thùng",
+   "bao_cao": "Đầy đủ",
+   "muc5": "Đề kế hoạch nhập - đủ chuẩn 20/9, ĐS bán tốt hàng T9 lớn hơn tháng, kế hoạch phát triển hàng ta phải tốt đó",
+   "muc1_khac": "Khách ăn giảm tồn, xin lỗi sao bán phẩm tiêu chuẩn"
+  }
+ },
+ {
+  "key": "Nguyễn Đức Tôn - Liêm Xuân việt trì - 08-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Nguyễn Đức Tôn - Liêm Xuân việt trì - 08-09-2026 - Ảnh 01.jpg",
+  "loai": "GD02",
+  "so_lieu_hien_co": {
+   "ton_kho": "1.502 thùng; còn tại NPP 2,4 thùng",
+   "bao_cao": "Luôn thực hiện đầy đủ",
+   "muc5": "Nhập đạt chỉ tiêu T9 trước ngày 20. Bán đạt doanh số 120% T9",
+   "muc1_khac": "NPP đề xuất không nhập các SKU khó bán. Có các CT trưng bày quảng bá cho KH"
+  }
+ },
+ {
+  "key": "Nguyễn Đức Tôn - Thảo Nam Phú Thọ - 07-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Nguyễn Đức Tôn - Thảo Nam Phú Thọ - 07-09-2026 - Ảnh 01.jpg",
+  "loai": "GD02",
+  "so_lieu_hien_co": {
+   "ton_kho": "1.025 thùng; còn tại NPP 2,1 thùng",
+   "bao_cao": "Luôn đúng quy định của Tập đoàn",
+   "muc5": "Lên kế hoạch nhập hàng trước ngày 20 phải hoàn thành số nhập, bán đạt doanh số ngày tuần",
+   "muc1_khac": "NPP xin đề xuất ra các CT trưng bày quảng cáo để tại huyện, điểm sản phẩm trên quảng cáo"
+  }
+ },
+ {
+  "key": "Ngô Huy Thanh - Phương Đông - 07-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Ngô Huy Thanh - Phương Đông - 07-09-2026 - Ảnh 02.jpg",
+  "loai": "GD02",
+  "so_lieu_hien_co": {
+   "ton_kho": "2.102 thùng",
+   "bao_cao": "Đầy đủ, đúng thời gian quy định",
+   "muc5": "Theo kế hoạch",
+   "muc1_khac": "Chuyển hàng về công ty sớm"
+  }
+ },
+ {
+  "key": "Nhữ Hồng Huy - Cường Long - 10-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Nhữ Hồng Huy - Cường Long - 10-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Doanh số nhập tháng 9: 5.. thùng; Doanh số bán tháng 9: 40 thùng",
+   "m1_tinh_hinh": "Thị trường bình thường, bắt đầu vào thu chuẩn bị Tết Trung thu nên tồn kho tại điểm bán thấp",
+   "m3_khuyen_mai": "Không áp dụng"
+  }
+ },
+ {
+  "key": "Phan Thị Thanh Hải - Phúc Thành Đạt - 11-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Phan Thị Thanh Hải - Phúc Thành Đạt - 11-09-2026 - Ảnh 01.jpg",
+  "loai": "GD02",
+  "so_lieu_hien_co": {
+   "ton_kho": "865 thùng (chưa bao gồm hàng mới + LCM)",
+   "bao_cao": "Đầy đủ",
+   "muc5": "Nhập bù ATN lượng tháng 9 cho NPP",
+   "muc1_khac": "LCM yêu cầu đổi date sản phẩm cho bán"
+  }
+ },
+ {
+  "key": "Phan Thị Thanh Hải - Phượng Hoàn - 07-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Phan Thị Thanh Hải - Phượng Hoàn - 07-09-2026 - Ảnh 01.jpg",
+  "loai": "GD02",
+  "so_lieu_hien_co": {
+   "ton_kho": "Đủ số lượng bán",
+   "bao_cao": "Đầy đủ",
+   "muc5": "Nhập đủ SL, Doanh số tháng 9",
+   "muc1_khac": "Không"
+  }
+ },
+ {
+  "key": "Trần Hữu Đoàn - Mạnh Nam - 10-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Trần Hữu Đoàn - Mạnh Nam - 10-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Đã nhập đơn lần 4 của kỳ: 200 thùng; Kế hoạch bán 100%",
+   "m1_tinh_hinh": "- Hàng bán ra vẫn ổn định\n- Bị ảnh hưởng do phần kênh TMĐT bán sản phẩm giá rẻ bán qua kênh chợ",
+   "m3_khuyen_mai": "Không có CTKM"
+  }
+ },
+ {
+  "key": "Trần Ngọc Lâm - Phương Anh - 07-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Trần Ngọc Lâm - Phương Anh - 07-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Đã hoàn thành nhập đơn hàng T9; Sell out chỉ tiêu 400 thùng/tháng",
+   "m1_tinh_hinh": "Thị trường ổn định về giá",
+   "m3_khuyen_mai": "Ổn định CTKM để giá bán ổn định"
+  }
+ },
+ {
+  "key": "Trần Ngọc Lâm - Đức Mạnh - 10-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Trần Ngọc Lâm - Đức Mạnh - 10-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Đã hoàn thành đơn hàng nhập T9: 490 thùng / 450 thùng",
+   "m1_tinh_hinh": "Cửa cả ổn định, bao phủ đạt",
+   "m3_khuyen_mai": "Ổn định CTKM, ổn định giá"
+  }
+ },
+ {
+  "key": "Trần Đức Phong - Long Giang - 08-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Trần Đức Phong - Long Giang - 08-09-2026 - Ảnh 01.jpg",
+  "loai": "GD02",
+  "so_lieu_hien_co": {
+   "ton_kho": "",
+   "bao_cao": "Báo cáo hằng ngày và BC giấy",
+   "muc5": "Nhập trước ngày 20 và bán",
+   "muc1_khac": "Định hướng thị trường đạt bao phủ, tăng các tuyến bán hàng"
+  }
+ },
+ {
+  "key": "Trịnh Văn Dũng - Trình Oanh - 07-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Trịnh Văn Dũng - Trình Oanh - 07-09-2026 - Ảnh 01.jpg",
+  "loai": "GD02",
+  "so_lieu_hien_co": {
+   "ton_kho": "5-8 thùng",
+   "bao_cao": "Đúng giờ, đủ số lượng",
+   "muc5": "Cố gắng đẩy bán hàng tồn, nhập hàng gối đầu năm 2026",
+   "muc1_khac": "Đại lý bán tạp hoá đang tăng thu, nhiều hàng cho bán hết date"
+  }
+ },
+ {
+  "key": "Đinh Thị Huệ - Hà Sơn - 10-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Đinh Thị Huệ - Hà Sơn - 10-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "600 thùng",
+   "m1_tinh_hinh": "TT đợt này chậm, khách hàng xa chậm lấy; Chưa có nhân sự",
+   "m3_khuyen_mai": "TSICU, Chào giải cảm, nước súc miệng, 2 loại cà phê"
+  }
+ },
+ {
+  "key": "Đinh Thị Huệ - Hà Sơn - 11-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Đinh Thị Huệ - Hà Sơn - 11-09-2026 - Ảnh 01.jpg",
+  "loai": "GD02",
+  "so_lieu_hien_co": {
+   "ton_kho": "",
+   "bao_cao": "",
+   "muc5": "",
+   "muc1_khac": "Thông tin trao đổi với nhà phân phối: Ngô Xuân Nam, sinh 25.11.1970. Làm việc tại: Công ty CP Bình Đạt (Thăng Long?) NPP Bắc Á. Có thăng tiến (vận chuyển phân phối) NPP Nhất Vinh đt 090.225.4789. Chủ thức uống/phân thuộc nhóm NPP Vĩnh Thành đt 035.292.3098. Địa chỉ: số 15A, xóm Mới, xã Đông Diễn, tỉnh Nghệ An. Thành phần gia đình: có 2 người, vợ kinh doanh cửa hàng thiết bị. Bạn: chi tiếp nhận công văn đã nghỉ ở công ty từ tháng 7/2016."
+  }
+ },
+ {
+  "key": "Đinh Xuân Mỹ - Tuấn Huyền - 09-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Đinh Xuân Mỹ - Tuấn Huyền - 09-09-2026 - Ảnh 01.jpg",
+  "loai": "GD02",
+  "so_lieu_hien_co": {
+   "ton_kho": "334 thùng",
+   "bao_cao": "",
+   "muc5": "Đẩy mạnh Sale Out, giảm tồn kho, nhập hàng T.9",
+   "muc1_khac": "NPP báo giao hàng đúng đủ theo yêu cầu công ty"
+  }
+ },
+ {
+  "key": "Đàm Ngọc Sơn - Long Minh Trang - 11-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Đàm Ngọc Sơn - Long Minh Trang - 11-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Nhập tháng 9: 410 thùng; Bán đến ngày 10/9 = 204 thùng, đạt 51%",
+   "m1_tinh_hinh": "Thị trường bình thường; Bao phủ chỉ có 1 cửa hàng chiếm hơn",
+   "m3_khuyen_mai": "Chưa có"
+  }
+ },
+ {
+  "key": "Đàm Ngọc Sơn - Trung Hiếu - 08-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Đàm Ngọc Sơn - Trung Hiếu - 08-09-2026 - Ảnh 01.jpg",
+  "loai": "GD02",
+  "so_lieu_hien_co": {
+   "ton_kho": "648 thùng",
+   "bao_cao": "Đầy đủ theo quy định",
+   "muc5": "Đi lên chỉnh hộ tháng 9 - Kế hoạch bán đạt 120%",
+   "muc1_khac": ""
+  }
+ },
+ {
+  "key": "Đào Văn Sơn - Thịnh Long - 07-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Đào Văn Sơn - Thịnh Long - 07-09-2026 - Ảnh 01.jpg",
+  "loai": "GD02",
+  "so_lieu_hien_co": {
+   "ton_kho": "106 thùng các loại",
+   "bao_cao": "NV báo cáo đầy đủ, bám sát địa bàn tuyến được giao",
+   "muc5": "NPP và NVBH, GSBH đang lo lắng bán hàng ra giảm tồn kho để nhập hàng tháng 9, dự kiến hoàn thành trước 20/9",
+   "muc1_khac": "Hàng mốc meo và xước vỡ xuất hiện, yêu cầu C.Ty xem xét, thu hồi chuyển đổi và đóng gói"
+  }
+ },
+ {
+  "key": "Đào Xuân Chung - Tùng Anh - 07-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Đào Xuân Chung - Tùng Anh - 07-09-2026 - Ảnh 01.jpg",
+  "loai": "GD02",
+  "so_lieu_hien_co": {
+   "ton_kho": "218 thùng",
+   "bao_cao": "Đầy đủ, đúng theo quy định",
+   "muc5": "Đã làm việc 2 NPP, kế hoạch nhận hàng tháng 09",
+   "muc1_khac": "Sữa lạc giá cả, nước sâu khác yêu cầu đổi sang chảo"
+  }
+ },
+ {
+  "key": "Đỗ Quang Tý - Hiếu Thảo - 07-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 11-09-2026_1139\\Đỗ Quang Tý - Hiếu Thảo - 07-09-2026 - Ảnh 01.jpg",
+  "loai": "GD02",
+  "so_lieu_hien_co": {
+   "ton_kho": "2593 thùng",
+   "bao_cao": "Đầy đủ",
+   "muc5": "Làm việc với NPP lo kế hoạch nhận hàng T9",
+   "muc1_khac": "Một số SKU thời điểm lại không ra được hàng"
+  }
+ },
+ {
+  "key": "Bùi Thị Thái Hà - Vạn An Lộc - 11-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 12-09-2026_1002\\Bùi Thị Thái Hà - Vạn An Lộc - 11-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Nhập 400 thùng đạt 100%, dự kiến nhập 40,4 thùng đạt 101%; Bán 400 thùng đạt 100,1%, dự kiến bán 40,4 thùng đạt 101%",
+   "m1_tinh_hinh": "Hàng ra đều, giá phù hợp tốt",
+   "m3_khuyen_mai": "NPP hỗ trợ 2,5 => 3% cho sản phẩm vào bao bì"
+  }
+ },
+ {
+  "key": "Lê Văn Thế - Phương Nam - 11-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 12-09-2026_1002\\Lê Văn Thế - Phương Nam - 11-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Kế hoạch nhập bù tháng 6; chỉ tiêu bán tháng 9: 300 thùng",
+   "m1_tinh_hinh": "Ảnh hưởng Trung Thu, 1 số điểm bán nợ, tồn kho thấp; 1 số điểm tạm dừng chưa lấy lại",
+   "m3_khuyen_mai": "Không triển khai KM"
+  }
+ },
+ {
+  "key": "Lại Văn Thịnh - Ngọc Bích - 12-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 12-09-2026_1002\\Lại Văn Thịnh - Ngọc Bích - 12-09-2026 - Ảnh 02.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "NPP đã nhập đạt 101% đơn hàng tháng 9",
+   "m1_tinh_hinh": "Thị trường tương đối ổn định, lượng bán ra và độ phủ tốt, các cửa hàng bán đầy đủ tốt",
+   "m3_khuyen_mai": "NPP đẩy mã nợ 1% (làm rõ sau tháng 9)"
+  }
+ },
+ {
+  "key": "Mai Thị Hạnh - Phạm Bảo Khánh - 12-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 12-09-2026_1002\\Mai Thị Hạnh - Phạm Bảo Khánh - 12-09-2026 - Ảnh 01.jpg",
+  "loai": "GD02",
+  "so_lieu_hien_co": {
+   "ton_kho": "839 thùng",
+   "bao_cao": "Ổn định",
+   "muc5": "NPP rất hỗ trợ, tồn kho đã lên đơn hàng thay đổi",
+   "muc1_khac": ""
+  }
+ },
+ {
+  "key": "Nguyễn Thị Liên - Hùng Mạnh Lai Châu - 12-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 12-09-2026_1002\\Nguyễn Thị Liên - Hùng Mạnh Lai Châu - 12-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Chỉ tiêu cửa hàng nhập bù tháng 6",
+   "m1_tinh_hinh": "Thị trường tương đối ổn định",
+   "m3_khuyen_mai": "Không có khuyến mại"
+  }
+ },
+ {
+  "key": "Nguyễn Thị Phương Thúy - Đặng Tiến Trung - 12-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 12-09-2026_1002\\Nguyễn Thị Phương Thúy - Đặng Tiến Trung - 12-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "DS nhập: 400 thùng; DS bán: 400 thùng",
+   "m1_tinh_hinh": "Ổn định và giá cả đa dạng được sức mua khá; hàng vào Trung Thu nên tiêu thụ rồi, 1 số cháo chậm",
+   "m3_khuyen_mai": "Không"
+  }
+ },
+ {
+  "key": "Nguyễn Văn Tuấn - Định Nhuận - 12-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 12-09-2026_1002\\Nguyễn Văn Tuấn - Định Nhuận - 12-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "NPP đã bán đơn hàng T1, T2/2026; bán ra duy trì được số lượng ổn định",
+   "m1_tinh_hinh": "Thị trường cạnh tranh cao, hàng khuyến mại nhiều nơi còn sản phẩm ra hàng chưa đủ",
+   "m3_khuyen_mai": "Đề xuất bán kèm SP tồn kho chậm"
+  }
+ },
+ {
+  "key": "Nguyễn Văn Đồng - Minh Lâm - 12-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 12-09-2026_1002\\Nguyễn Văn Đồng - Minh Lâm - 12-09-2026 - Ảnh 01.jpg",
+  "loai": "GD02",
+  "so_lieu_hien_co": {
+   "ton_kho": "1589 thùng",
+   "bao_cao": "Đầy đủ",
+   "muc5": "NPP đã có kế hoạch lên đơn hàng, dự kiến chuyển hàng từng ngày 20/9, ước đạt 50% chỉ tiêu",
+   "muc1_khac": "Kế hoạch nhập và bán tháng 9"
+  }
+ },
+ {
+  "key": "Nguyễn Xuân Thắng - Minh Khuê - 12-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 12-09-2026_1002\\Nguyễn Xuân Thắng - Minh Khuê - 12-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Ổn định đầy bán",
+   "m1_tinh_hinh": "Các sản phẩm vẫn bán chạy, tuy tỉ lệ kho bãi còn nhiều, ưu tiên lo nước sốt",
+   "m3_khuyen_mai": "Mong có mã ST kho bãi"
+  }
+ },
+ {
+  "key": "Nhữ Hồng Huy - Minh Phúc HD - 11-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 12-09-2026_1002\\Nhữ Hồng Huy - Minh Phúc HD - 11-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "DS nhập tháng 9: 1200 thùng (đã lên đơn hàng); DS bán dự kiến 1200 thùng",
+   "m1_tinh_hinh": "Đáp ứng thu, tồn tại tiệm bán chậm; 4 SP của bây có nhiều tuổi kỳ, giảm (số lượng ít)",
+   "m3_khuyen_mai": "Chương trình khai trương đưa KM"
+  }
+ },
+ {
+  "key": "Phan Ngọc Bích - Hoa Hồng - 11-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 12-09-2026_1002\\Phan Ngọc Bích - Hoa Hồng - 11-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Chưa nhập T9",
+   "m1_tinh_hinh": "Ảnh hưởng Trung Thu, hàng bán rất là chậm",
+   "m3_khuyen_mai": "Có CTKM khi vào hàng nhiều chương trình"
+  }
+ },
+ {
+  "key": "Phan Ngọc Bích - Minh Hưng - 12-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 12-09-2026_1002\\Phan Ngọc Bích - Minh Hưng - 12-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Chưa hoàn tất",
+   "m1_tinh_hinh": "Bắt đầu chậm do Trung Thu",
+   "m3_khuyen_mai": "Có CTKM khi chọn cho việc vào hàng"
+  }
+ },
+ {
+  "key": "Phạm Thanh Sơn - Bảo Thắm - 12-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 12-09-2026_1002\\Phạm Thanh Sơn - Bảo Thắm - 12-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Đã lên đơn chuyển tiền đầu hàng tháng 9",
+   "m1_tinh_hinh": "Các đại lý dừng tỷ lệ chưa đồng đều; chưa tăng thêm các SKU mới, trừa tra bán tại",
+   "m3_khuyen_mai": "Có nhiều SKU cận date và hết date hủy; đề xuất chủ tịch hỗ trợ hàng hết date"
+  }
+ },
+ {
+  "key": "Phạm Thanh Sơn - Duyên Hùng - 11-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 12-09-2026_1002\\Phạm Thanh Sơn - Duyên Hùng - 11-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Toàn bộ hệ thống sale team đang nỗ lực bám sát trở đi để hoàn thành chỉ tiêu nhập đơn",
+   "m1_tinh_hinh": "Hàng ra chậm, các cửa hàng trong trạng thái nhập hàng dễ chất hơn trước",
+   "m3_khuyen_mai": "Đề xuất xin CTKM hỗ trợ hàng hết date, toàn thị trường"
+  }
+ },
+ {
+  "key": "Toàn Văn Thuận - Thành Trung LS - 12-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 12-09-2026_1002\\Toàn Văn Thuận - Thành Trung LS - 12-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Doanh số tháng 9: 900 thùng (đã lên đơn hàng); chỉ tiêu đạt 100%",
+   "m1_tinh_hinh": "Tần chung bao phủ các cửa hàng, chăm sóc điểm bán đang hoạt động",
+   "m3_khuyen_mai": "NPP hỗ trợ 1 lần khảo nếp cẩm"
+  }
+ },
+ {
+  "key": "Trần Hữu Đoàn - Đại Dương - 12-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 12-09-2026_1002\\Trần Hữu Đoàn - Đại Dương - 12-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Đã nhập và lên đơn hàng tháng",
+   "m1_tinh_hinh": "Đường phố ổn định; SP hàng bán ra đầy đủ SKU; một phần ảnh hưởng giá của kênh TMĐT",
+   "m3_khuyen_mai": "NPP hỗ trợ chương trình phân phối các SP hàng đặc thù khó bán"
+  }
+ },
+ {
+  "key": "Trần Đức Phong - Minh Lâm - 11-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 12-09-2026_1002\\Trần Đức Phong - Minh Lâm - 11-09-2026 - Ảnh 01.jpg",
+  "loai": "GD02",
+  "so_lieu_hien_co": {
+   "ton_kho": "15,39 thùng",
+   "bao_cao": "Đầy đủ",
+   "muc5": "NPP đã có kế hoạch lên đơn hàng, dự kiến chuyển tuần từ ngày 20/9, dự kiến bán ra đạt 50% chỉ tiêu",
+   "muc1_khac": "Bổ hoạt nhập và bán tháng 9"
+  }
+ }
+]

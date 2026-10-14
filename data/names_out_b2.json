@@ -1,0 +1,151 @@
+[
+ {
+  "key": "Mai Thị Hạnh - Hiền Tuệ - 22-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Hiền Tuệ",
+  "asm": "",
+  "gsbh": "Mai Thị Hạnh",
+  "nvbh": [
+   "Đào Thị Diệu",
+   "Bùi Thị Thủy Chung"
+  ],
+  "npp_nguoi_ky": "Hiền",
+  "ton_kho_thung": "852",
+  "ghi_chu": ""
+ },
+ {
+  "key": "Mai Thị Hạnh - Phạm Bảo Khánh - 22-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Phạm Bảo Khánh",
+  "asm": "",
+  "gsbh": "",
+  "nvbh": [],
+  "npp_nguoi_ky": "Phạm Bảo Khánh",
+  "ton_kho_thung": "369",
+  "ghi_chu": "Phần Thành phần dự họp (ASM/GSBH/NVBH/NPP) bỏ trống hoàn toàn; chân trang chỉ có dấu NPP Phạm Bảo Khánh và chữ ký GSBH ký tắt 'Hạ'"
+ },
+ {
+  "key": "Nguyễn Phú Lộc - Họp Kinh doanh siêu thị - 17-08-2026",
+  "mau": "GD03",
+  "tai_npp": "",
+  "asm": "Nguyễn Phú Lộc",
+  "gsbh": "Điệp, Nhung, Yến, Huyền, Xuân, Linh",
+  "nvbh": [],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "",
+  "ghi_chu": "Mẫu GD03 họp bộ phận kinh doanh siêu thị, địa điểm Showroom Đào Tú; không có NPP và không có mục tồn kho; phần ký có nhiều GSBH (Lê Anh Xuân, Ngô Thị Huyền, Hoàng Sinh?, Vũ Hải Yến)"
+ },
+ {
+  "key": "Nguyễn Quốc Thắm - Bảo Cường - 17-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Bảo Cường",
+  "asm": "",
+  "gsbh": "Nguyễn Quốc Thắm",
+  "nvbh": [],
+  "npp_nguoi_ky": "Phạm Thị Lan Anh",
+  "ton_kho_thung": "520",
+  "ghi_chu": ""
+ },
+ {
+  "key": "Nguyễn Quốc Thắm - Hồng Hạnh - 19-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Hồng Hạnh",
+  "asm": "",
+  "gsbh": "Nguyễn Quốc Thắm",
+  "nvbh": [
+   "Nguyễn Thị Thanh Nga"
+  ],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "382",
+  "ghi_chu": "Chữ ký chủ NPP ở chân trang không đọc được"
+ },
+ {
+  "key": "Nguyễn Quốc Thắm - Linh Anh - Sơn Tây - 17-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Linh Anh",
+  "asm": "",
+  "gsbh": "Nguyễn Quốc Thắm",
+  "nvbh": [
+   "Trương Văn Thái"
+  ],
+  "npp_nguoi_ky": "Nguyễn Hùng Vỹ",
+  "ton_kho_thung": "455",
+  "ghi_chu": "Ngày trên giấy là 15/8 trong khi tên file ghi 17-08"
+ },
+ {
+  "key": "Nguyễn Quốc Thắm - Linh Anh - Sơn Tây - 18-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Linh Anh",
+  "asm": "",
+  "gsbh": "Nguyễn Quốc Thắm",
+  "nvbh": [
+   "Trương Văn Thái"
+  ],
+  "npp_nguoi_ky": "Nguyễn Hùng Vỹ",
+  "ton_kho_thung": "402",
+  "ghi_chu": ""
+ },
+ {
+  "key": "Nguyễn Thị Hồng - Hà Sơn - 22-08-2026",
+  "mau": "KTTT",
+  "tai_npp": "Hà Sơn",
+  "asm": "",
+  "gsbh": "Nguyễn Thị Hồng",
+  "nvbh": [],
+  "npp_nguoi_ky": "Cao Thị Hà",
+  "ton_kho_thung": "",
+  "ghi_chu": "Ảnh chụp qua kính/bìa nhựa, chữ rất mờ; dòng 'Họ và tên' đầu trang đọc không chắc, tên GSBH lấy từ chữ ký chân trang; dòng 'Làm việc với' chỉ ghi địa bàn Vinh - Nghệ An, không có tên NVBH"
+ },
+ {
+  "key": "Nguyễn Thị Liên - Hùng Mạnh - 22-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Hùng Mạnh",
+  "asm": "",
+  "gsbh": "Nguyễn Thị Liên",
+  "nvbh": [
+   "Nguyễn Thị Liên"
+  ],
+  "npp_nguoi_ky": "Trần Thị Dung",
+  "ton_kho_thung": "1196",
+  "ghi_chu": "Dòng NVBH ghi trùng tên GSBH (Nguyễn Thị Liên)"
+ },
+ {
+  "key": "Nguyễn Thị Phương Thúy - Huệ Phát - 21-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Huệ Phát",
+  "asm": "",
+  "gsbh": "Nguyễn Thị Phương Thúy",
+  "nvbh": [
+   "Nguyễn Văn Tuấn"
+  ],
+  "npp_nguoi_ky": "Cao Văn Tuyên",
+  "ton_kho_thung": "690",
+  "ghi_chu": ""
+ },
+ {
+  "key": "Nguyễn Thị Phương Thúy - Hương Nhài - 17-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Hương Nhài",
+  "asm": "",
+  "gsbh": "Nguyễn Thị Phương Thúy",
+  "nvbh": [
+   "Nguyễn Thị Hằng"
+  ],
+  "npp_nguoi_ky": "Trần Thị Nhài",
+  "ton_kho_thung": "",
+  "ghi_chu": "Ảnh chụp bị mờ/ngược sáng; mục Tồn kho bỏ trống"
+ },
+ {
+  "key": "Nguyễn Thị Phương Thúy - Đặng Tiến Trung - 22-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Đặng Tiến Trung",
+  "asm": "",
+  "gsbh": "Nguyễn Thị Phương Thúy",
+  "nvbh": [
+   "Trần Thị Thu Hiền"
+  ],
+  "npp_nguoi_ky": "Trần Thị Thu Hiền",
+  "ton_kho_thung": "703",
+  "ghi_chu": "Cột NVBH và cột Xác nhận NPP do cùng một người ký (Trần Thị Thu Hiền)"
+ }
+]

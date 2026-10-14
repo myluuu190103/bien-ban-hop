@@ -1,0 +1,372 @@
+[
+ {
+  "key": "Lê Văn Thế - Hồng Minh - 10-09-2026",
+  "loai": "KTTT",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Lê Văn Thế - Hồng Minh - 10-09-2026 - Ảnh 01.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\le_van_the_hong_minh_10_09_2026_1.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\le_van_the_hong_minh_10_09_2026_2.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\le_van_the_hong_minh_10_09_2026_3.jpg"
+  ],
+  "nguoi_gui": "Lê Văn Thế",
+  "nvbh_trong_tuyen": [
+   "Hà Thị Dung",
+   "Nghiêm Thị Nhung"
+  ],
+  "gsbh_tuyen": "Bỉm Sơn, Thọ Xuân",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ],
+  "du_lieu_hien_co": {
+   "ngay": "10",
+   "thang": "09",
+   "nam": "2026",
+   "ho_ten": "Lê Văn Thế",
+   "chuc_vu": "GSBH",
+   "lam_viec_voi": "KV Bỉm Sơn & Thọ Xuân",
+   "npp": "Hồng Minh",
+   "dia_chi": "Bỉm Sơn",
+   "m1": "Được phủ các SKU khá tốt",
+   "m2": "Đã nhập đến tháng 8. Tháng 9 sẽ nhập tháng 8+9",
+   "m3": "",
+   "m4": "",
+   "m5": "NPP bán khá các SKU",
+   "m6": "Hỗ trợ khai thác với phát triển thêm khách hàng",
+   "m7": "",
+   "m8": "Đề xuất nhập từ tháng 8 được hưởng 1% đơn hàng sỉ",
+   "m9": ""
+  }
+ },
+ {
+  "key": "Mai Thị Hạnh - Hiền Tuệ - 10-09-2026",
+  "loai": "GD02",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Mai Thị Hạnh - Hiền Tuệ - 10-09-2026 - Ảnh 01.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\mai_thi_hanh_hien_tue_10_09_2026_1.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\mai_thi_hanh_hien_tue_10_09_2026_2.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\mai_thi_hanh_hien_tue_10_09_2026_3.jpg"
+  ],
+  "nguoi_gui": "Mai Thị Hạnh",
+  "nvbh_trong_tuyen": [
+   "Bùi Thị Thủy Chung",
+   "Nguyễn Thị Hiền",
+   "Đào Thị Diệu"
+  ],
+  "gsbh_tuyen": "Cẩm Phả, Móng Cái",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ],
+  "du_lieu_hien_co": {
+   "ngay": "10",
+   "thang": "09",
+   "nam": "2026",
+   "tai_npp": "Hiền Tuệ",
+   "dia_ban": "Cẩm Phả",
+   "asm": "",
+   "gsbh": "Mai Thị Hạnh",
+   "nvbh": "Đào Thị Diệu, Bùi Thị Thủy Chung",
+   "muc1": {
+    "ton_kho": "821 thùng",
+    "thi_truong": "Gặp nhiều khó khăn",
+    "nhan_su": "Ổn định",
+    "khac": "Thị trường có chào hàng nghi giá rẻ cao trội, cảm ảnh hưởng đến D.S bán ra"
+   },
+   "muc2": {
+    "hang_hoa": "Thiếu nhiều SKU",
+    "thi_truong": "Khai thác nhiều phân khúc, giá cả tăng cao",
+    "chinh_sach": "Cần cty hỗ trợ đến địa bàn cp",
+    "bao_cao": "Tốt",
+    "ho_tro": "Có"
+   },
+   "muc3": "G.S đã ghi nhận nhiều sự cố gây của N.V",
+   "muc4": "NVBH đi tuyến gặp nhiều khó khăn do nhiều loại mặt hàng của giá tăng cao",
+   "muc5": "NPP kết hợp tác và tăng hoàn thành D.S tháng 05"
+  }
+ },
+ {
+  "key": "Nguyễn Hữu Dực - Thi Hương - 11-09-2026",
+  "loai": "KTTT",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Nguyễn Hữu Dực - Thi Hương - 11-09-2026 - Ảnh 01.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_huu_duc_thi_huong_11_09_2026_1.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_huu_duc_thi_huong_11_09_2026_2.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_huu_duc_thi_huong_11_09_2026_3.jpg"
+  ],
+  "nguoi_gui": "Nguyễn Hữu Dực",
+  "nvbh_trong_tuyen": [
+   "Linh Thị Tình",
+   "Nguyễn Thị Hương",
+   "Nguyễn Văn Mạnh",
+   "Thân Thị Ngọc",
+   "Đinh Thị Hồng"
+  ],
+  "gsbh_tuyen": "Bắc Giang",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ],
+  "du_lieu_hien_co": {
+   "ngay": "",
+   "thang": "",
+   "nam": "",
+   "ho_ten": "Nguyễn Hữu Dực",
+   "chuc_vu": "Giám sát Bán Hàng",
+   "lam_viec_voi": "NPP Nguyễn Đình Thi",
+   "npp": "Thi Hương (Nguyễn Đình Thi)",
+   "dia_chi": "Thôn Tân 1, T12, huyện Bắc...",
+   "m1": "Kinh doanh thuận lợi, ổn định, gia đình khá; đông dân, mua sắm thuận tiện",
+   "m2": "Trao đổi tiêu đề cân kì cty tháng 9, NPP phải nhập ~ 707 thùng đã lên đơn; chỉ tiêu NVBH ~ 400 tr",
+   "m3": "Có cơ chế ngay tháng 9",
+   "m4": "Vẫn còn hay chưa nhiều, chào về hàng bao",
+   "m5": "Chảo sen, BO Bếu",
+   "m6": "2. NVBH- NV Huy - Hưng; GS Thăng - Luyện, Bán sát điều bảo",
+   "m7": "Sản xuất tốt, khiến khách hài lòng",
+   "m8": "NPP đón CTX sale sát hàng khu vực; NVBH đóng kỹ điểm bán khu 2h; giao con lại thu tiền về",
+   "m9": "Không"
+  }
+ },
+ {
+  "key": "Nguyễn Hữu Dực - Ánh Thu - 07-09-2026",
+  "loai": "GD02",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Nguyễn Hữu Dực - Ánh Thu - 07-09-2026 - Ảnh 01.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_huu_duc_anh_thu_07_09_2026_1.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_huu_duc_anh_thu_07_09_2026_2.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_huu_duc_anh_thu_07_09_2026_3.jpg"
+  ],
+  "nguoi_gui": "Nguyễn Hữu Dực",
+  "nvbh_trong_tuyen": [
+   "Linh Thị Tình",
+   "Nguyễn Thị Hương",
+   "Nguyễn Văn Mạnh",
+   "Thân Thị Ngọc",
+   "Đinh Thị Hồng"
+  ],
+  "gsbh_tuyen": "Bắc Giang",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ],
+  "du_lieu_hien_co": {
+   "ngay": "07",
+   "thang": "09",
+   "nam": "2026",
+   "tai_npp": "Ánh Thu",
+   "dia_ban": "Tỉnh Bắc Giang",
+   "asm": "",
+   "gsbh": "Nguyễn Hữu Dực",
+   "nvbh": "Linh Thị Tình, Đinh Thị Hồng, Nguyễn Văn Mạnh",
+   "muc1": {
+    "ton_kho": "2766 thùng",
+    "thi_truong": "Khó khăn, sản phẩm mới NPK giá này còn đắt hơn hàng đối",
+    "nhan_su": "Đủ NVBH = 4 NV, ổn định",
+    "khac": "NV thường đi khá khắt về sản phẩm mới, bạn kỹ giá này. Chỗ bán tạm đủ hàng chờ cận Tết, mấy nay thu đổi hàng sĩ"
+   },
+   "muc2": {
+    "hang_hoa": "Tạm ổn định",
+    "thi_truong": "Sản phẩm chào bán mới - sản phẩm mùa hay gần Tết khủng",
+    "chinh_sach": "Lương về mua thu quà để bán cho hàng hay hỗ trợ sĩ",
+    "bao_cao": "Đầy đủ theo quy định",
+    "ho_tro": "Có"
+   },
+   "muc3": "Thường xuyên đi tuyến hỗ trợ NVBH trưng bày sản phẩm khai thác mở mới - thu đổi hàng khi bán hàng sĩ cần thiết",
+   "muc4": "Khách hàng khen chất lượng chào tốt, sản phẩm mùa sau lạc - mới sâu, ổn bán nổi trong bày quầy, vệ ổn bán đủ",
+   "muc5": "NPP - ASM - NVBH phấn đấu kế hoạch hoàn thành chỉ tiêu sản khẩu có thể"
+  }
+ },
+ {
+  "key": "Nguyễn Phú Lộc - Họp Kinh doanh siêu thị - 07-09-2026",
+  "loai": "FREEFORM",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Nguyễn Phú Lộc - Họp Kinh doanh siêu thị - 07-09-2026 - Ảnh 01.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_phu_loc_hop_kinh_doanh_sieu_thi_07_09_2026_1.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_phu_loc_hop_kinh_doanh_sieu_thi_07_09_2026_2.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_phu_loc_hop_kinh_doanh_sieu_thi_07_09_2026_3.jpg"
+  ],
+  "nguoi_gui": "Nguyễn Phú Lộc",
+  "nvbh_trong_tuyen": [],
+  "gsbh_tuyen": "",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ],
+  "du_lieu_hien_co": {
+   "ngay": "07",
+   "thang": "09",
+   "nam": "2026",
+   "tai_npp": "",
+   "dia_ban": "Hà Nội",
+   "asm": "Nguyễn Phú Lộc",
+   "gsbh": "Điệp, Yến, Huyền, Xuân, Linh",
+   "nvbh": "",
+   "muc1": {
+    "ton_kho": "",
+    "thi_truong": "",
+    "nhan_su": "",
+    "khac": "ĐỊA ĐIỂM: Hà Nội. Hôm nay, ngày 7 tháng 9 năm 2026. Thành phần tham dự: GĐBH: (để trống); ASM: Lộc; GSBH: Điệp, Yến, Huyền, Xuân, Linh. NỘI DUNG HỌP - Ý KIẾN TRAO ĐỔI: 1.GSBH: +Hàng hóa: Đủ hàng. +Thị trường: 2 loang đế bị thải. +Hàng hóa-Lái xe: Đúng hẹn. +Báo cáo: Đúng hạn. +Hỗ trợ của ASM-GĐBH: Có. 2.ASM: +Hợp đồng: Lan Chi, Đức Thành, Aeon, Big C. +Công nợ: Fami Ly. +Đơn hàng: BT. +Tồn kho hàng hóa: BT. +Showroom: BT. +Các phòng ban xử lý CV: Tốt. +Khác: Chúc cả nhóm cẩn thận vì giá cả. 3.GĐBH: (để trống). 4.Ý kiến chung: (để trống). 5.Kế hoạch bán hàng và định hướng: Chào kèm với các Top hàng riêng ăn."
+   },
+   "muc2": {
+    "hang_hoa": "",
+    "thi_truong": "",
+    "chinh_sach": "",
+    "bao_cao": "",
+    "ho_tro": ""
+   },
+   "muc3": "",
+   "muc4": "",
+   "muc5": ""
+  }
+ },
+ {
+  "key": "Nguyễn Quốc Thắm - Bảo Cường - 07-09-2026",
+  "loai": "GD02",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Nguyễn Quốc Thắm - Bảo Cường - 07-09-2026 - Ảnh 01.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_quoc_tham_bao_cuong_07_09_2026_1.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_quoc_tham_bao_cuong_07_09_2026_2.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_quoc_tham_bao_cuong_07_09_2026_3.jpg"
+  ],
+  "nguoi_gui": "Nguyễn Quốc Thắm",
+  "nvbh_trong_tuyen": [
+   "Nguyễn Thị Thanh Nga",
+   "Trương Văn Thái",
+   "Tạ Thị Trung Kiên"
+  ],
+  "gsbh_tuyen": "Sơn Tây, Xuân Mai, Phúc Thọ",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ],
+  "du_lieu_hien_co": {
+   "ngay": "07",
+   "thang": "09",
+   "nam": "2026",
+   "tai_npp": "Bảo Cường",
+   "dia_ban": "Xuân Mai",
+   "asm": "",
+   "gsbh": "Nguyễn Quốc Thắm",
+   "nvbh": "Tạ Thị Trung Kiên",
+   "muc1": {
+    "ton_kho": "1385 thùng",
+    "thi_truong": "Còn khó khăn, người tiêu dùng giảm, hàng chậm",
+    "nhan_su": "Ổn định",
+    "khac": "NPP cần tồn đúng chào giai đoạn = SL nước sen = 185, trà ngô = 125, súp lạc = 5T"
+   },
+   "muc2": {
+    "hang_hoa": "Hàng hóa NPP đủ, hàng bán Đa chậm",
+    "thi_truong": "Còn PKD khó tiêu thụ, nhiều sản kém, đo đơn NPP",
+    "chinh_sach": "Mong cty cùng nhau phòng bán hỗ trợ đầy đủ, NVBH chủ động",
+    "bao_cao": "Tuân thủ đầy đủ báo cáo tốt P.KD",
+    "ho_tro": "Có"
+   },
+   "muc3": "Khảo sát NPP đưa ra các chương trình hỗ trợ khách hàng, cùng NPP NV bán hàng thúc đẩy doanh số T9",
+   "muc4": "Mong cty không bắt nhập sau khi đơn vì NPP cần tồn đúng nhiều, không bán ra được. Chào giai đoạn SL nước sen = 185",
+   "muc5": "GS cùng đồng hành hỗ trợ NPP, cùng NVBH hoàn thành chỉ tiêu tốt P.KD"
+  }
+ },
+ {
+  "key": "Nguyễn Quốc Thắm - Hồng Hạnh - 08-09-2026",
+  "loai": "GD02",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Nguyễn Quốc Thắm - Hồng Hạnh - 08-09-2026 - Ảnh 01.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_quoc_tham_hong_hanh_08_09_2026_1.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_quoc_tham_hong_hanh_08_09_2026_2.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_quoc_tham_hong_hanh_08_09_2026_3.jpg"
+  ],
+  "nguoi_gui": "Nguyễn Quốc Thắm",
+  "nvbh_trong_tuyen": [
+   "Nguyễn Thị Thanh Nga",
+   "Trương Văn Thái",
+   "Tạ Thị Trung Kiên"
+  ],
+  "gsbh_tuyen": "Sơn Tây, Xuân Mai, Phúc Thọ",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ],
+  "du_lieu_hien_co": {
+   "ngay": "08",
+   "thang": "09",
+   "nam": "2026",
+   "tai_npp": "Hồng Hạnh",
+   "dia_ban": "Phường Phúc Thọ, Hà Nội",
+   "asm": "",
+   "gsbh": "Nguyễn Quốc Thắm",
+   "nvbh": "Nguyễn Thị Thanh Nga",
+   "muc1": {
+    "ton_kho": "685 thùng",
+    "thi_truong": "Còn tiêu thụ đủ các sản phẩm khá khảo",
+    "nhan_su": "Ổn định",
+    "khac": "Cty cùng PKD hỗ trợ nhiều SL khả bao đầy NPP trà ngô, nước sen"
+   },
+   "muc2": {
+    "hang_hoa": "Tại kho NPP ổn định",
+    "thi_truong": "Bán ra chậm, mưa nhiều dùng giảm",
+    "chinh_sach": "Mong cty cùng PKD quan tâm tới đại lý, NV cả điểm lẻ",
+    "bao_cao": "Tuân thủ mọi báo cáo mô PKD theo yêu cầu",
+    "ho_tro": "Có"
+   },
+   "muc3": "GS cùng NPP hỗ trợ thúc đẩy khai thác đại cùng NV bán hàng tháng",
+   "muc4": "PKD đưa ra chính sách hỗ trợ thị trường nhưng SL khá khắt khó bán, mưa nhiều dùng chậm",
+   "muc5": "Luôn hỗ trợ thúc đẩy đủ chỉ tiêu tháng"
+  }
+ },
+ {
+  "key": "Nguyễn Quốc Thắm - Linh Anh - 11-09-2026",
+  "loai": "KTTT",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Nguyễn Quốc Thắm - Linh Anh - 11-09-2026 - Ảnh 01.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_quoc_tham_linh_anh_11_09_2026_1.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_quoc_tham_linh_anh_11_09_2026_2.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_quoc_tham_linh_anh_11_09_2026_3.jpg"
+  ],
+  "nguoi_gui": "Nguyễn Quốc Thắm",
+  "nvbh_trong_tuyen": [
+   "Nguyễn Thị Thanh Nga",
+   "Trương Văn Thái",
+   "Tạ Thị Trung Kiên"
+  ],
+  "gsbh_tuyen": "Sơn Tây, Xuân Mai, Phúc Thọ",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ],
+  "du_lieu_hien_co": {
+   "ngay": "11",
+   "thang": "09",
+   "nam": "2026",
+   "ho_ten": "Nguyễn Quốc Thắm",
+   "chuc_vu": "GSBH",
+   "lam_viec_voi": "Nguyễn Hùng V.y, Giám đốc Cty Linh Anh, Sơn Tây - TX Ngoại",
+   "npp": "Linh Anh",
+   "dia_chi": "Sơn Tây - Ba Vì - Thạch Thất",
+   "m1": "Địa chỉ hướng địa phương thu hẹp các SP bao bì phong khách phản ánh về nhượng sản phẩm hỏi tại nước, nước lau chùi, xà phòng, xà bông, sợ lạc sữa",
+   "m2": "GS làm việc NPP và chi tiêu đơn hàng tháng 9, tổng đơn hàng T9",
+   "m3": "Đã triển khai chương trình khuyến mại cho NPP và Shop",
+   "m4": "Không tồn thị trường nhiều, ảnh hưởng đến lòng tin, nhưng giá vẫn chưa dày; giá chào sen 450, giá chào miễn 400",
+   "m5": "Chảo sen, ngọc, rạp cưới, Excel bí, chảo siêu, chảo đủ thịt hâm, đá lạnh, xưởng long nhân sâm",
+   "m6": "Ăn ổn, bán hàng, tiêu thụ tốt",
+   "m7": "Công ty nhà Tâm NPP nhưng sale hàng khó, đón nước sữa, trà nước, các loại xà phòng",
+   "m8": "Rà soát chương trình trưng bày cho các shop, thu đơn hàng loại hàng đẹp, mờ, còn hỗ trợ xử lý",
+   "m9": "Các nội dung như trên"
+  }
+ }
+]

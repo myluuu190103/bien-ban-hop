@@ -1,0 +1,20 @@
+[
+ {
+  "key": "Nguyễn Văn Tuấn - Định Nhuận - 12-09-2026",
+  "field": "m2_doanh_so",
+  "gia_tri_moi": "NPP đã lên đơn hàng L1 T9/2026; bán ra đang duy trì được số lượng ổn định",
+  "ly_do": "Ảnh ghi 'L1 T9/2026' (đợt 1 tháng 9/2026), không phải 'T1, T2/2026'"
+ },
+ {
+  "key": "Nguyễn Văn Đồng - Minh Lâm - 12-09-2026",
+  "field": "ton_kho",
+  "gia_tri_moi": "1539 thùng",
+  "ly_do": "Phóng to đọc rõ '1539', chữ số thứ 3 là 3 không phải 8"
+ },
+ {
+  "key": "Nhữ Hồng Huy - Minh Phúc HD - 11-09-2026",
+  "field": "m1_tinh_hinh",
+  "gia_tri_moi": "Dịp Trung Thu, tồn dần điểm bán thấp; 1 số cửa hàng có hạn hết, xì, mốc (số lượng ít)",
+  "ly_do": "Đầu dòng 2 là '1 số cửa hàng' không phải '4 SP'"
+ }
+]

@@ -1,0 +1,97 @@
+[
+ {
+  "file": "Cầm Thế Khái - Vĩnh Hoàn - 06-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   960,
+   1434
+  ],
+  "crop": [
+   908,
+   1207
+  ],
+  "box": [
+   0,
+   64,
+   908,
+   1271
+  ],
+  "area_reduction_pct": 20.4
+ },
+ {
+  "file": "Hoàng Thu Thủy - Đức Thủy - 06-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1193,
+   1688
+  ],
+  "crop": [
+   1193,
+   1688
+  ],
+  "box": [
+   0,
+   0,
+   1193,
+   1688
+  ],
+  "area_reduction_pct": 0.0
+ },
+ {
+  "file": "Lê Thị Trâm - Minh Anh - 06-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1403,
+   2624
+  ],
+  "crop": [
+   1403,
+   2283
+  ],
+  "box": [
+   0,
+   129,
+   1403,
+   2412
+  ],
+  "area_reduction_pct": 13.0
+ },
+ {
+  "file": "Nguyễn Quốc Thắm - Hồng Hạnh - 06-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1117,
+   1492
+  ],
+  "crop": [
+   1117,
+   1492
+  ],
+  "box": [
+   0,
+   0,
+   1117,
+   1492
+  ],
+  "area_reduction_pct": 0.0
+ },
+ {
+  "file": "Nguyễn Đức Tôn - Thảo Nam Phú Thọ - 06-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1241,
+   1718
+  ],
+  "crop": [
+   1241,
+   1718
+  ],
+  "box": [
+   0,
+   0,
+   1241,
+   1718
+  ],
+  "area_reduction_pct": 0.0
+ }
+]

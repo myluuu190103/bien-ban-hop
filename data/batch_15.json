@@ -1,0 +1,56 @@
+[
+ {
+  "key": "Nguyễn Đức Tôn - Thảo Nam Phú Thọ - 16-09-2026",
+  "ngay": "16",
+  "thang": "9",
+  "nam": "2026",
+  "tai_npp": "Thảo Nam",
+  "dia_ban": "TX Phú Thọ, tỉnh Phú Thọ",
+  "asm": "Nguyễn Đình Trọng",
+  "gsbh": "Nguyễn Đức Tôn",
+  "nvbh": "Đào Văn Tài",
+  "muc1": {
+   "ton_kho": "861 CTy T9 21",
+   "thi_truong": "giá cả ổn định",
+   "nhan_su": "Nhân sự đủ",
+   "khac": "NPP đề xuất Công ty có nhiều CT khuyến mại cho khách hàng như trước đây thị lại"
+  },
+  "muc2": {
+   "hang_hoa": "",
+   "thi_truong": "đủ hàng phủ tủy đủ Tết",
+   "chinh_sach": "Như cũ, Công ty khu vực đủ, Tết H.đủ",
+   "bao_cao": "Luôn thừa hàng, báo cáo đầy đủ",
+   "ho_tro": "Có"
+  },
+  "muc3": "Bám sát tình hình bán hàng. Hỗ trợ NV thực hiện bán ra đảo DS Tháng",
+  "muc4": "",
+  "muc5": ""
+ },
+ {
+  "key": "Phan Thị Thanh Hải - Phúc Thành Đạt - 17-09-2026",
+  "ngay": "17",
+  "thang": "9",
+  "nam": "2026",
+  "tai_npp": "Phúc Thành Đạt",
+  "dia_ban": "Hạ Long",
+  "asm": "",
+  "gsbh": "Phan Thị Thanh Hải",
+  "nvbh": "Đỗ Thị Nhung và Trần Thị Dung",
+  "muc1": {
+   "ton_kho": "865 thùng (chưa bao gồm hàng lỗi + CM)",
+   "thi_truong": "Hiện tại đang đúng và ổn định",
+   "nhan_su": "Hai NV vẫn chăm sóc ĐH đầy đủ",
+   "khac": "1CH yêu cầu đổi date sản phẩm cho hàng"
+  },
+  "muc2": {
+   "hang_hoa": "Triển khai bán hàng đầy đủ các SKU",
+   "thi_truong": "đi mở mới với phù lệ thôn 1CH",
+   "chinh_sach": "áp dụng như cũ",
+   "bao_cao": "đầy đủ",
+   "ho_tro": "Có"
+  },
+  "muc3": "Đi hỗ trợ NVBH mới tuyển, đã soát lại DS1CH",
+  "muc4": "Không",
+  "muc5": "Nhập bù đủ hàng tháng 5 cho MTP"
+ }
+]

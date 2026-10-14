@@ -1,0 +1,14 @@
+[
+ {
+  "key": "Đào Văn Sơn - Thịnh Long - 07-09-2026",
+  "field": "ton_kho",
+  "gia_tri_moi": "1061 thùng các loại",
+  "ly_do": "Ảnh ghi 4 chữ số '1061' (dấu chấm là dòng kẻ), không phải 106"
+ },
+ {
+  "key": "Bùi Thị Thái Hà - Vạn An Lộc - 11-09-2026",
+  "field": "m2_doanh_so",
+  "gia_tri_moi": "Nhập 400 thùng đạt 100%, dự kiến nhập 404 thùng đạt 101%; Bán 400 thùng đạt 100,1%, dự kiến bán 404 thùng đạt 101%",
+  "ly_do": "Ảnh ghi '404' (404/400 = 101%), không phải 40,4"
+ }
+]

@@ -1,0 +1,160 @@
+[
+ {
+  "key": "Phan Ngọc Bích - Hoa Hồng Cầu Giấy - 17-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Hoa Hồng",
+  "asm": "",
+  "gsbh": "Phan Ngọc Bích",
+  "nvbh": [
+   "Đặng Bá Hải"
+  ],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "589",
+  "ghi_chu": "NVBH Đặng Bá Hải không nằm trong nvbh_trong_tuyen của gói; cột Xác nhận NPP bỏ trống, chữ ký Phan Ngọc Bích nằm ở cột GSBH"
+ },
+ {
+  "key": "Phan Ngọc Bích - Minh Hưng - 22-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Minh Hưng",
+  "asm": "",
+  "gsbh": "Phan Ngọc Bích",
+  "nvbh": [
+   "Vũ Hồng Sơn"
+  ],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "",
+  "ghi_chu": "Mục Tồn kho ghi chữ (thiếu SKU) chứ không ghi số; cột Xác nhận NPP bỏ trống"
+ },
+ {
+  "key": "Phan Thị Thanh Hải - Phúc Thành Đạt - 21-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Phúc Thành Đạt",
+  "asm": "",
+  "gsbh": "Phan Thị Thanh Hải",
+  "nvbh": [
+   "Đỗ Thị Nhung",
+   "Trần Thị Dung"
+  ],
+  "npp_nguoi_ky": "Hoàng Thị Linh",
+  "ton_kho_thung": "",
+  "ghi_chu": "Mục Tồn kho ghi chữ, không có số"
+ },
+ {
+  "key": "Phan Thị Thanh Hải - Phượng Hoàn - 19-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Trần Thị Phượng",
+  "asm": "",
+  "gsbh": "Phan Thị Thanh Hải",
+  "nvbh": [
+   "Lê Thị Lan"
+  ],
+  "npp_nguoi_ky": "Trần Thị Phượng",
+  "ton_kho_thung": "",
+  "ghi_chu": "Dòng Tại NPP ghi tên chủ (Trần Thị Phượng) thay vì tên NPP Phượng Hoàn; mục Tồn kho bỏ trống"
+ },
+ {
+  "key": "Phạm Thanh Sơn - Bảo Thắm - 22-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Bảo Thắm",
+  "asm": "",
+  "gsbh": "Phạm Thanh Sơn",
+  "nvbh": [
+   "Nguyễn Văn Đức"
+  ],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "1345",
+  "ghi_chu": "Cột Xác nhận NPP chỉ có chữ ký, không ghi rõ họ tên"
+ },
+ {
+  "key": "Phạm Thanh Sơn - Duyên Hùng - 17-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Duyên Hưng",
+  "asm": "",
+  "gsbh": "Phạm Thanh Sơn",
+  "nvbh": [
+   "Lương Quốc Nghệ",
+   "Nguyễn Đức Chiến"
+  ],
+  "npp_nguoi_ky": "Đặng Quang Hưng",
+  "ton_kho_thung": "1670",
+  "ghi_chu": "Trên giấy ghi NPP Duyên Hưng (tên file là Duyên Hùng); tên chủ NPP lấy từ dòng NPP phần Thành phần dự họp"
+ },
+ {
+  "key": "Trần Hữu Đoàn - Minh Ý - 22-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Minh Ý",
+  "asm": "",
+  "gsbh": "Trần Hữu Đoàn",
+  "nvbh": [
+   "Nguyễn Thanh Nhàn"
+  ],
+  "npp_nguoi_ky": "Đinh Xuân Liêu",
+  "ton_kho_thung": "",
+  "ghi_chu": "Mục Tồn kho ghi chữ (đảm bảo tồn kho 15 ngày bán hàng), không có số; NVBH Nguyễn Thanh Nhàn không nằm trong nvbh_trong_tuyen của gói"
+ },
+ {
+  "key": "Trần Hữu Đoàn - Mạnh Nam - 22-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Mạnh Nam",
+  "asm": "",
+  "gsbh": "Trần Hữu Đoàn",
+  "nvbh": [
+   "Nguyễn Thị Thạo"
+  ],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "501",
+  "ghi_chu": "Ngày trên giấy là 20/8 trong khi tên file ghi 22-08-2026; cột Xác nhận NPP bỏ trống"
+ },
+ {
+  "key": "Trần Hữu Đoàn - Đại Dương - 21-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Đại Dương",
+  "asm": "",
+  "gsbh": "Trần Hữu Đoàn",
+  "nvbh": [
+   "Nguyễn Quốc Đại"
+  ],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "1236",
+  "ghi_chu": "Tổng tồn 1.236 thùng (trong đó chưa tính 429 thùng Cty NĐ); cột Xác nhận NPP bỏ trống"
+ },
+ {
+  "key": "Trần Ngọc Lâm - Phương Anh - 21-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Phương Anh",
+  "asm": "",
+  "gsbh": "Trần Ngọc Lâm",
+  "nvbh": [
+   "Nguyễn Thị Miên"
+  ],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "820",
+  "ghi_chu": "Cột Xác nhận NPP bỏ trống"
+ },
+ {
+  "key": "Trần Ngọc Lâm - Đức Mạnh - 19-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Đức Mạnh",
+  "asm": "Nguyễn Đình Trọng",
+  "gsbh": "Trần Ngọc Lâm",
+  "nvbh": [
+   "Lê Thị Văn"
+  ],
+  "npp_nguoi_ky": "Nguyễn Thị Thủy",
+  "ton_kho_thung": "",
+  "ghi_chu": "Tờ ghi MẪU GĐ02 nhưng bố cục khác các bản còn lại (NỘI DUNG HỌP BÀN, Kế hoạch và cam kết thực hiện, không có mục Tồn kho riêng)"
+ },
+ {
+  "key": "Trần Đức Phong - Long Giang - 20-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Long Giang",
+  "asm": "",
+  "gsbh": "Trần Đức Phong",
+  "nvbh": [
+   "Trần Văn Luyến"
+  ],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "750",
+  "ghi_chu": "Phần Thành phần dự họp chỉ ghi tên rút gọn (Phong / Luyến), đối chiếu chữ ký chân trang và danh sách tuyến; chữ ký Xác nhận NPP không đọc được tên"
+ }
+]

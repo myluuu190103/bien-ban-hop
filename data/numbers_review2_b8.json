@@ -1,0 +1,73 @@
+[
+ {
+  "key": "Phan Ngọc Bích - Hoa Hồng - 11-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 12-09-2026_1002\\Phan Ngọc Bích - Hoa Hồng - 11-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Chưa nhập T9",
+   "m1_tinh_hinh": "Ảnh hưởng Trung Thu, hàng bán rất là chậm",
+   "m3_khuyen_mai": "Có CTKM khi vào hàng nhiều chương trình"
+  }
+ },
+ {
+  "key": "Phan Ngọc Bích - Minh Hưng - 12-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 12-09-2026_1002\\Phan Ngọc Bích - Minh Hưng - 12-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Chưa hoàn tất",
+   "m1_tinh_hinh": "Bắt đầu chậm do Trung Thu",
+   "m3_khuyen_mai": "Có CTKM khi chọn cho việc vào hàng"
+  }
+ },
+ {
+  "key": "Phạm Thanh Sơn - Bảo Thắm - 12-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 12-09-2026_1002\\Phạm Thanh Sơn - Bảo Thắm - 12-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Đã lên đơn chuyển tiền đầu hàng tháng 9",
+   "m1_tinh_hinh": "Các đại lý dừng tỷ lệ chưa đồng đều; chưa tăng thêm các SKU mới, trừa tra bán tại",
+   "m3_khuyen_mai": "Có nhiều SKU cận date và hết date hủy; đề xuất chủ tịch hỗ trợ hàng hết date"
+  }
+ },
+ {
+  "key": "Phạm Thanh Sơn - Duyên Hùng - 11-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 12-09-2026_1002\\Phạm Thanh Sơn - Duyên Hùng - 11-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Toàn bộ hệ thống sale team đang nỗ lực bám sát trở đi để hoàn thành chỉ tiêu nhập đơn",
+   "m1_tinh_hinh": "Hàng ra chậm, các cửa hàng trong trạng thái nhập hàng dễ chất hơn trước",
+   "m3_khuyen_mai": "Đề xuất xin CTKM hỗ trợ hàng hết date, toàn thị trường"
+  }
+ },
+ {
+  "key": "Toàn Văn Thuận - Thành Trung LS - 12-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 12-09-2026_1002\\Toàn Văn Thuận - Thành Trung LS - 12-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Doanh số tháng 9: 900 thùng (đã lên đơn hàng); chỉ tiêu đạt 100%",
+   "m1_tinh_hinh": "Tần chung bao phủ các cửa hàng, chăm sóc điểm bán đang hoạt động",
+   "m3_khuyen_mai": "NPP hỗ trợ 1 lần khảo nếp cẩm"
+  }
+ },
+ {
+  "key": "Trần Hữu Đoàn - Đại Dương - 12-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 12-09-2026_1002\\Trần Hữu Đoàn - Đại Dương - 12-09-2026 - Ảnh 01.jpg",
+  "loai": "KTTT",
+  "so_lieu_hien_co": {
+   "m2_doanh_so": "Đã nhập và lên đơn hàng tháng",
+   "m1_tinh_hinh": "Đường phố ổn định; SP hàng bán ra đầy đủ SKU; một phần ảnh hưởng giá của kênh TMĐT",
+   "m3_khuyen_mai": "NPP hỗ trợ chương trình phân phối các SP hàng đặc thù khó bán"
+  }
+ },
+ {
+  "key": "Trần Đức Phong - Minh Lâm - 11-09-2026",
+  "image": "C:\\Users\\desig\\Downloads\\Anh bien ban hop - 12-09-2026_1002\\Trần Đức Phong - Minh Lâm - 11-09-2026 - Ảnh 01.jpg",
+  "loai": "GD02",
+  "so_lieu_hien_co": {
+   "ton_kho": "15,39 thùng",
+   "bao_cao": "Đầy đủ",
+   "muc5": "NPP đã có kế hoạch lên đơn hàng, dự kiến chuyển tuần từ ngày 20/9, dự kiến bán ra đạt 50% chỉ tiêu",
+   "muc1_khac": "Bổ hoạt nhập và bán tháng 9"
+  }
+ }
+]

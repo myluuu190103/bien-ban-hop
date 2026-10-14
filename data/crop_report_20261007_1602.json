@@ -1,0 +1,40 @@
+[
+ {
+  "file": "Nguyễn Đình Trọng - Cường Long - 07-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1350,
+   2616
+  ],
+  "crop": [
+   1350,
+   2176
+  ],
+  "box": [
+   0,
+   236,
+   1350,
+   2412
+  ],
+  "area_reduction_pct": 16.8
+ },
+ {
+  "file": "Nhữ Hồng Huy - Cường Long - 07-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1673,
+   2668
+  ],
+  "crop": [
+   1673,
+   2416
+  ],
+  "box": [
+   0,
+   0,
+   1673,
+   2416
+  ],
+  "area_reduction_pct": 9.4
+ }
+]

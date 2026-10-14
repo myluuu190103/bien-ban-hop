@@ -1,0 +1,49 @@
+[
+ {"key": "Lê Quốc Việt - Vy Đức Anh - 31-08-2026", "field": "muc1.ton_kho", "gia_tri_moi": "1346 thùng", "ly_do": "giấy có ghi số 1346, bản gõ để trống"},
+ {"key": "Lê Quốc Việt - Vy Đức Anh - 31-08-2026", "field": "muc1.khac", "gia_tri_moi": "Hoàn hết DS của tháng 8; lên kế hoạch nhập và bán hàng tháng 9", "ly_do": "giấy ghi 'DS của tháng 8' và 'lên kế hoạch nhập và bán hàng tháng 9', không có 'công nợ'"},
+ {"key": "Lê Quốc Việt - Vy Đức Anh - 31-08-2026", "field": "muc2.hang_hoa", "gia_tri_moi": "đang phủ thêm SKU", "ly_do": "giấy ghi 'Đang phủ thêm SKU', không phải 'kinh doanh SKU'"},
+ {"key": "Lê Quốc Việt - Vy Đức Anh - 31-08-2026", "field": "muc3", "gia_tri_moi": "cùng hỗ trợ NV bán phủ thêm SKU", "ly_do": "giấy ghi 'bán phủ thêm SKU', không có 'hàng phát triển'"},
+
+ {"key": "Lê Thị Trâm - Minh Anh - 31-08-2026", "field": "m1", "gia_tri_moi": "Khách hàng xin có KM để giá giảm xuống cho ổn định với thị trường", "ly_do": "giấy ghi 'giá giảm xuống cho ổn định với thị trường'"},
+ {"key": "Lê Thị Trâm - Minh Anh - 31-08-2026", "field": "m2", "gia_tri_moi": "Đủ hàng, thất chỉ tiêu nhập bán", "ly_do": "'thất' chứ không phải 'thứ'"},
+ {"key": "Lê Thị Trâm - Minh Anh - 31-08-2026", "field": "m3", "gia_tri_moi": "Xin KM chưa hợp lí", "ly_do": "giấy ghi 'chưa hợp lí'"},
+ {"key": "Lê Thị Trâm - Minh Anh - 31-08-2026", "field": "m5", "gia_tri_moi": "Ô mê li - Bc nhập khẩu", "ly_do": "giấy ghi tên mặt hàng, không phải 'Đủ, nhập khẩu'"},
+
+ {"key": "Lê Thị Trâm - Tâm An - 03-09-2026", "field": "lam_viec_voi", "gia_tri_moi": "Mai Thị Tuyết", "ly_do": "giấy chỉ ghi tên, không có 'NVBH - Quảng Xương'"},
+ {"key": "Lê Thị Trâm - Tâm An - 03-09-2026", "field": "m2", "gia_tri_moi": "Hàng tháng 8 chưa về hết", "ly_do": "giấy ghi 'Hàng T8 chưa về hết'"},
+ {"key": "Lê Thị Trâm - Tâm An - 03-09-2026", "field": "m6", "gia_tri_moi": "Đang ổn định", "ly_do": "thiếu chữ 'định'"},
+
+ {"key": "Lê Văn Thế - Hồng Minh - 03-09-2026", "field": "muc1.ton_kho", "gia_tri_moi": "160 thùng", "ly_do": "giấy ghi 160T, thêm đơn vị thùng"},
+ {"key": "Lê Văn Thế - Hồng Minh - 03-09-2026", "field": "muc1.khac", "gia_tri_moi": "bán thêm các SKU vào shop", "ly_do": "giấy ghi 'các SKU vào shop'"},
+ {"key": "Lê Văn Thế - Hồng Minh - 03-09-2026", "field": "muc2.hang_hoa", "gia_tri_moi": "đủ mẫu và bao phủ tốt", "ly_do": "giấy ghi 'và', không có 'giá'"},
+ {"key": "Lê Văn Thế - Hồng Minh - 03-09-2026", "field": "muc2.thi_truong", "gia_tri_moi": "1 số khách bị đối thủ chiếm bán", "ly_do": "'chiếm bán' chứ không phải 'chiếm bám'; giấy viết '1 số'"},
+ {"key": "Lê Văn Thế - Hồng Minh - 03-09-2026", "field": "muc5", "gia_tri_moi": "nhập bổ sung doanh số T7", "ly_do": "thiếu chữ 'doanh'"},
+
+ {"key": "Lê Văn Thế - Phương Nam - 04-09-2026", "field": "muc1.ton_kho", "gia_tri_moi": "131 thùng", "ly_do": "giấy ghi 131T, thêm đơn vị thùng"},
+ {"key": "Lê Văn Thế - Phương Nam - 04-09-2026", "field": "muc1.thi_truong", "gia_tri_moi": "KV đặc thù khó khăn", "ly_do": "giấy viết tắt 'KV'"},
+ {"key": "Lê Văn Thế - Phương Nam - 04-09-2026", "field": "muc3", "gia_tri_moi": "khai thác thêm các kênh như căng tin, mẹ & bé", "ly_do": "giấy ghi 'căng tin', không phải 'cạnh siêu thị'"},
+ {"key": "Lê Văn Thế - Phương Nam - 04-09-2026", "field": "muc5", "gia_tri_moi": "đã hoàn thành chỉ tiêu tháng 5", "ly_do": "'hoàn thành' chứ không phải 'hoàn thiện'"},
+
+ {"key": "Lại Văn Thịnh - Ngọc Bích - 05-09-2026", "field": "muc1.ton_kho", "gia_tri_moi": "1402 thùng (Công ty còn nợ 130 thùng)", "ly_do": "chuẩn hoá đơn vị thùng, ghi chú trong ngoặc"},
+ {"key": "Lại Văn Thịnh - Ngọc Bích - 05-09-2026", "field": "muc1.thi_truong", "gia_tri_moi": "Lượng bán ra tại các điểm bán tốt, thị trường có tín hiệu ổn định", "ly_do": "bản gõ sai nhiều chữ ('Vùng đại ra', 'thu ngân')"},
+ {"key": "Lại Văn Thịnh - Ngọc Bích - 05-09-2026", "field": "muc1.khac", "gia_tri_moi": "Theo dõi sát các điểm bán bán sản phẩm khác (cháo Thanh Hoá, Hữu Nghị...), có phương án chăm sóc, giữ điểm bán", "ly_do": "giấy ghi 'theo dõi sát', '(cháo Thanh Hoá, Hữu Nghị...)', 'giữ điểm bán'"},
+ {"key": "Lại Văn Thịnh - Ngọc Bích - 05-09-2026", "field": "muc2.hang_hoa", "gia_tri_moi": "Duy trì lượng bán ra. Sản lượng hoàn thành chỉ tiêu tháng 09: 400 thùng/1 NV", "ly_do": "giấy ghi 'Sản lượng hoàn thành chỉ tiêu tháng 09: 400T/1NV' (400 chứ không phải 900)"},
+ {"key": "Lại Văn Thịnh - Ngọc Bích - 05-09-2026", "field": "muc2.thi_truong", "gia_tri_moi": "Tiếp tục bám sát thị trường, chăm sóc điểm bán. Chủ động theo dõi các điểm bán có sự cạnh tranh", "ly_do": "giấy ghi 'chủ động theo dõi các điểm bán có sự cạnh tranh', không có 'khai thác điểm bán mới'"},
+ {"key": "Lại Văn Thịnh - Ngọc Bích - 05-09-2026", "field": "muc2.chinh_sach", "gia_tri_moi": "NPP hỗ trợ thêm Nam Sách 1,1", "ly_do": "giấy ghi 'NPP hỗ trợ thêm', không phải 'Hợp tác hỗ trợ khách hàng'"},
+ {"key": "Lại Văn Thịnh - Ngọc Bích - 05-09-2026", "field": "muc3", "gia_tri_moi": "Tiếp tục hỗ trợ NVBH trong việc duy trì điểm bán hiện hữu, mở rộng điểm bán mới và xử lý các điểm bán có cạnh tranh", "ly_do": "giấy ghi 'Tiếp tục hỗ trợ NVBH trong việc duy trì điểm bán hiện hữu'"},
+ {"key": "Lại Văn Thịnh - Ngọc Bích - 05-09-2026", "field": "muc4", "gia_tri_moi": "Đề nghị Công ty xem xét giá bán các kênh thương mại điện tử, các điểm bán đang so sánh giá với NPP", "ly_do": "giấy ghi 'giá bán các kênh thương mại điện tử', 'đang so sánh giá với NPP'"},
+
+ {"key": "Mai Thị Hạnh - Hiền Tuệ - 03-09-2026", "field": "muc1.ton_kho", "gia_tri_moi": "852 thùng", "ly_do": "thêm đơn vị thùng"},
+ {"key": "Mai Thị Hạnh - Hiền Tuệ - 03-09-2026", "field": "muc1.thi_truong", "gia_tri_moi": "gặp nhiều khó khăn", "ly_do": "giấy ghi 'khó khăn', không phải 'rào cản'"},
+ {"key": "Mai Thị Hạnh - Hiền Tuệ - 03-09-2026", "field": "muc1.khac", "gia_tri_moi": "thị trường có nhiều cháo tự quấy giá rẻ", "ly_do": "giấy ghi 'cháo tự quấy giá rẻ', không phải 'cửa hàng tạp hoá'"},
+ {"key": "Mai Thị Hạnh - Hiền Tuệ - 03-09-2026", "field": "muc2.thi_truong", "gia_tri_moi": "nhiều khách hàng phản hồi cháo sen giá cao", "ly_do": "giấy ghi 'phản hồi cháo sen giá cao'"},
+ {"key": "Mai Thị Hạnh - Hiền Tuệ - 03-09-2026", "field": "muc2.chinh_sach", "gia_tri_moi": "cần Cty quan tâm hỗ trợ đầu tư toàn CP", "ly_do": "giấy ghi 'đầu tư toàn CP' (Cẩm Phả), không phải 'đền bù toàn bộ'"},
+ {"key": "Mai Thị Hạnh - Hiền Tuệ - 03-09-2026", "field": "muc3", "gia_tri_moi": "GS đã ghi nhận sự cố gắng của chị em nhân viên và đang đẩy hết cỡ chị em nhân viên", "ly_do": "giấy ghi 'sự cố gắng' và 'đẩy hết cỡ', không có 'gãy [tay]'"},
+ {"key": "Mai Thị Hạnh - Hiền Tuệ - 03-09-2026", "field": "muc4", "gia_tri_moi": "NVBH đi tuyến gặp nhiều khó khăn do điểm bán phản hồi kỹ bóp méo nhiều", "ly_do": "bản gõ bịa nội dung 'tuyên truyền... phân biệt', giấy ghi 'đi tuyến gặp nhiều khó khăn do điểm bán phản hồi'"},
+ {"key": "Mai Thị Hạnh - Hiền Tuệ - 03-09-2026", "field": "muc5", "gia_tri_moi": "NPP rất hợp tác và đang hoàn thiện chỉ tiêu DS tháng 08", "ly_do": "giấy ghi 'đang hoàn thiện chỉ tiêu DS tháng 08'"},
+
+ {"key": "Mai Thị Hạnh - Phạm Bảo Khánh - 05-09-2026", "field": "muc1.ton_kho", "gia_tri_moi": "561 thùng", "ly_do": "giấy ghi 561 T, thêm đơn vị thùng"},
+ {"key": "Mai Thị Hạnh - Phạm Bảo Khánh - 05-09-2026", "field": "muc2.thi_truong", "gia_tri_moi": "nhiều cạnh tranh với cháo tự quấy giá rẻ", "ly_do": "giấy ghi 'cháo tự quấy giá rẻ', không phải 'chào giá rẻ hơn'"},
+ {"key": "Mai Thị Hạnh - Phạm Bảo Khánh - 05-09-2026", "field": "muc4", "gia_tri_moi": "NV bán hàng đi tuyến gặp nhiều khó khăn do địa bàn có nhiều cháo tự quấy giá rẻ", "ly_do": "giấy ghi 'cháo tự quấy giá rẻ'"},
+ {"key": "Mai Thị Hạnh - Phạm Bảo Khánh - 05-09-2026", "field": "muc5", "gia_tri_moi": "NPP đã lên đơn tháng 08", "ly_do": "giấy ghi 'đã lên đơn tháng 08'"}
+]

@@ -1,0 +1,49 @@
+[
+ {"key": "Ngô Huy Thanh - Phương Đông - 31-08-2026", "field": "muc2.hang_hoa", "gia_tri_moi": "Báo khách hàng tồn thừa trong kho, hết sp cháo đậu xanh", "ly_do": "giấy ghi 'Báo' không phải 'Lo'"},
+ {"key": "Ngô Huy Thanh - Phương Đông - 31-08-2026", "field": "muc2.chinh_sach", "gia_tri_moi": "Nghỉ lễ dịp Quốc khánh trong tuần", "ly_do": "thiếu chữ 'dịp'"},
+ {"key": "Ngô Huy Thanh - Phương Đông - 31-08-2026", "field": "muc3", "gia_tri_moi": "Tập trung đẩy hàng ra thị trường, rà soát điểm bán", "ly_do": "giấy không có 'đa dạng'"},
+
+ {"key": "Nhữ Hồng Huy - Cường Long - 04-09-2026", "field": "muc1.ton_kho", "gia_tri_moi": "426 thùng", "ly_do": "chuẩn hóa đơn vị"},
+ {"key": "Nhữ Hồng Huy - Cường Long - 04-09-2026", "field": "muc1.thi_truong", "gia_tri_moi": "Bình thường, vẫn theo tiến độ bán hàng", "ly_do": "giấy ghi 'tiến độ' không phải 'dõi đà'"},
+ {"key": "Nhữ Hồng Huy - Cường Long - 04-09-2026", "field": "muc1.nhan_su", "gia_tri_moi": "1 NVBH theo cam kết", "ly_do": "giấy ghi 'NVBH'"},
+ {"key": "Nhữ Hồng Huy - Cường Long - 04-09-2026", "field": "muc1.khac", "gia_tri_moi": "Sản phẩm cháo đậu đỏ hết", "ly_do": "thiếu chữ 'hết'"},
+ {"key": "Nhữ Hồng Huy - Cường Long - 04-09-2026", "field": "muc5", "gia_tri_moi": "NPP đã lên đơn hàng tháng 9", "ly_do": "giấy ghi 'đã' không phải 'đặt'"},
+
+ {"key": "Nhữ Hồng Huy - Minh Phúc HD - 03-09-2026", "field": "lam_viec_voi", "gia_tri_moi": "ĐD NPP Đỗ Thị Tâm, 2 NVBH Lê Quý Quỳnh và Lê Văn Tuyến", "ly_do": "theo nguyên văn giấy"},
+ {"key": "Nhữ Hồng Huy - Minh Phúc HD - 03-09-2026", "field": "dia_chi", "gia_tri_moi": "Kim Đới - Tân Kỳ - Hải Phòng (Hải Dương)", "ly_do": "giấy không có chữ 'cũ'"},
+ {"key": "Nhữ Hồng Huy - Minh Phúc HD - 03-09-2026", "field": "m1", "gia_tri_moi": "Thị trường bình thường, có 1 số điểm bán xuất hiện sản phẩm hàng hóa bị xì nổ (số lượng ít)", "ly_do": "'điểm bán' và 'xì nổ', không phải 'điểm bơm'/'xì ra'"},
+ {"key": "Nhữ Hồng Huy - Minh Phúc HD - 03-09-2026", "field": "m5", "gia_tri_moi": "Các sản phẩm cháo, dê lon to", "ly_do": "giấy ghi 'cháo, dê lon to'; bản cũ bịa 'chả, giò, lợn tơ'"},
+
+ {"key": "Phan Ngọc Bích - Hoa Hồng - 04-09-2026", "field": "muc1.ton_kho", "gia_tri_moi": "819 thùng", "ly_do": "chuẩn hóa đơn vị (T = thùng)"},
+ {"key": "Phan Ngọc Bích - Hoa Hồng - 04-09-2026", "field": "muc1.thi_truong", "gia_tri_moi": "Ảnh hưởng Trung Thu, hàng hóa bán chậm hơn tháng trước", "ly_do": "giấy ghi 'hh bán chậm hơn thg trước'"},
+ {"key": "Phan Ngọc Bích - Hoa Hồng - 04-09-2026", "field": "muc2.thi_truong", "gia_tri_moi": "Rớt kệ chậm", "ly_do": "giấy ghi 'Rớt kệ chậm'; bản cũ bịa 'Một số bán chậm'"},
+
+ {"key": "Phan Ngọc Bích - Minh Hưng - 05-09-2026", "field": "muc1.ton_kho", "gia_tri_moi": "1019 thùng", "ly_do": "thêm đơn vị"},
+ {"key": "Phan Ngọc Bích - Minh Hưng - 05-09-2026", "field": "muc1.thi_truong", "gia_tri_moi": "Hàng ra chậm hơn T8", "ly_do": "giấy ghi 'Hàg ra chậm hơn T8'; bản cũ sai hoàn toàn"},
+ {"key": "Phan Ngọc Bích - Minh Hưng - 05-09-2026", "field": "muc2.thi_truong", "gia_tri_moi": "Ảnh hưởng giá từ TT bán thấp hơn giá Cty", "ly_do": "giấy ghi 'bán thấp hơn giá Cty'"},
+ {"key": "Phan Ngọc Bích - Minh Hưng - 05-09-2026", "field": "muc4", "gia_tri_moi": "Ảnh hưởng Trung Thu hàng rớt kệ chậm, mong Cty đầu tư CTKM", "ly_do": "giấy không có 'Anh Dương'; 'mong Cty' không phải 'nương cậy'"},
+
+ {"key": "Phan Thị Thanh Hải - Phúc Thành Đạt - 03-09-2026", "field": "muc1.khac", "gia_tri_moi": "Hàng hóa phủ lẻ trên tuyến đều", "ly_do": "giấy ghi 'phủ lẻ trên tuyến đều'"},
+ {"key": "Phan Thị Thanh Hải - Phúc Thành Đạt - 03-09-2026", "field": "muc2.hang_hoa", "gia_tri_moi": "Ổn định hàng và đầy đủ hàng màu", "ly_do": "giấy ghi 'và'"},
+ {"key": "Phan Thị Thanh Hải - Phúc Thành Đạt - 03-09-2026", "field": "muc2.thi_truong", "gia_tri_moi": "Mở mới thêm KH", "ly_do": "giấy ghi 'Mở mới thêm KH'"},
+ {"key": "Phan Thị Thanh Hải - Phúc Thành Đạt - 03-09-2026", "field": "muc3", "gia_tri_moi": "GSBH luôn sát tiến độ và hỗ trợ kịp thời các phương án giải quyết trên TT", "ly_do": "theo nguyên văn giấy"},
+ {"key": "Phan Thị Thanh Hải - Phúc Thành Đạt - 03-09-2026", "field": "muc4", "gia_tri_moi": "Không", "ly_do": "giấy ghi 'Không', không phải 'Tốt'"},
+ {"key": "Phan Thị Thanh Hải - Phúc Thành Đạt - 03-09-2026", "field": "muc5", "gia_tri_moi": "KH nhập đơn hàng tháng 9/2026", "ly_do": "giấy ghi 'KH nhập đơn hàng tháng 9/2026'"},
+
+ {"key": "Phan Thị Thanh Hải - Phượng Hoàn - 31-08-2026", "field": "muc1.thi_truong", "gia_tri_moi": "Đầy đủ hàng hóa trên quầy kệ KH", "ly_do": "giấy ghi 'trên quầy kệ KH'"},
+ {"key": "Phan Thị Thanh Hải - Phượng Hoàn - 31-08-2026", "field": "muc1.khac", "gia_tri_moi": "Đủ phủ lẻ, thiếu hàng cho lần vào điểm bán", "ly_do": "giấy ghi 'phủ lẻ' và 'vào điểm bán'"},
+ {"key": "Phan Thị Thanh Hải - Phượng Hoàn - 31-08-2026", "field": "muc2.hang_hoa", "gia_tri_moi": "Ổn định hàng hóa trên tuyến", "ly_do": "bản cũ sai 'thắng hoa, mẫu tuyến'"},
+ {"key": "Phan Thị Thanh Hải - Phượng Hoàn - 31-08-2026", "field": "muc2.thi_truong", "gia_tri_moi": "Mở mới thêm KH", "ly_do": "bản cũ sai 'Tổ nhỏ, thuận lợi'"},
+ {"key": "Phan Thị Thanh Hải - Phượng Hoàn - 31-08-2026", "field": "muc3", "gia_tri_moi": "GSBH đi hỗ trợ NVBH sát sao và mở mới DSKH", "ly_do": "giấy ghi 'đi hỗ trợ' và 'mở mới DSKH'"},
+ {"key": "Phan Thị Thanh Hải - Phượng Hoàn - 31-08-2026", "field": "muc5", "gia_tri_moi": "Chốt DS tháng 8.2026", "ly_do": "giấy ghi '8.2026'"},
+
+ {"key": "Phạm Thanh Sơn - Bảo Thắm - 05-09-2026", "field": "muc1.ton_kho", "gia_tri_moi": "1128 thùng", "ly_do": "chuẩn hóa đơn vị"},
+ {"key": "Phạm Thanh Sơn - Bảo Thắm - 05-09-2026", "field": "muc1.thi_truong", "gia_tri_moi": "Rớt kệ chậm, giá bán vẫn chưa ổn định", "ly_do": "giấy ghi 'Rớt kệ chậm'"},
+ {"key": "Phạm Thanh Sơn - Bảo Thắm - 05-09-2026", "field": "muc1.khac", "gia_tri_moi": "Tiếp tục làm việc NPP lên đơn hàng T9. Kế hoạch đạt T9", "ly_do": "giấy ghi 'lên đơn hàng T9', không phải 'để tăng doanh số'"},
+ {"key": "Phạm Thanh Sơn - Bảo Thắm - 05-09-2026", "field": "muc2.hang_hoa", "gia_tri_moi": "1 số SKU cận & hết date, hàng khó bán cần giải quyết", "ly_do": "giấy ghi 'hàng khó bán'"},
+ {"key": "Phạm Thanh Sơn - Bảo Thắm - 05-09-2026", "field": "muc2.thi_truong", "gia_tri_moi": "SKU chính ra đều, 1 số tuyến & KH cần bán phủ thêm SKU", "ly_do": "giấy ghi 'ra đều' và 'phủ thêm SKU'"},
+ {"key": "Phạm Thanh Sơn - Bảo Thắm - 05-09-2026", "field": "muc2.bao_cao", "gia_tri_moi": "Đúng ngày, đầy đủ", "ly_do": "giấy ghi 'Đúng ngày'"},
+ {"key": "Phạm Thanh Sơn - Bảo Thắm - 05-09-2026", "field": "muc2.ho_tro", "gia_tri_moi": "Có", "ly_do": "dấu tích ở ô Có"},
+ {"key": "Phạm Thanh Sơn - Bảo Thắm - 05-09-2026", "field": "muc3", "gia_tri_moi": "Rà soát các điểm bán, luân chuyển hàng cận date, phủ thêm các SKU tại các điểm bán, tiếp xúc điểm buôn sỉ", "ly_do": "theo nguyên văn giấy; bản cũ bịa 'hỗ trợ khi có vướng'"},
+ {"key": "Phạm Thanh Sơn - Bảo Thắm - 05-09-2026", "field": "muc5", "gia_tri_moi": "Đã hoàn thành được chỉ tiêu T7 & T8, cần hoàn thành quý 3 & phải hoàn thành doanh số chỉ tiêu nhập bán T9", "ly_do": "giấy ghi 'chỉ tiêu', 'phải hoàn thành'"}
+]

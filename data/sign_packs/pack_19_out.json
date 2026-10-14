@@ -1,0 +1,156 @@
+[
+  {
+    "key": "Nguyễn Quốc Thắm - Bảo Cường - 28-09-2026",
+    "gsbh_ky": null,
+    "asm_ky": "Nguyễn Quốc Thắm",
+    "npp_ky": null,
+    "nvbh_du_hop": "Tạ Thị Trung Kiên",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu khác GĐ02/KTTT/GĐ03 (Biên bản kiểm tra thị trường ASM-GS-NVBH); chỉ có 2 cột ký NVBH và ASM, không có cột GSBH/NPP"
+  },
+  {
+    "key": "Đỗ Quang Tý - Hiếu Thảo - 28-09-2026",
+    "gsbh_ky": "Đỗ Quang Tý",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu Biên bản kiểm tra thị trường NPP, chỉ có 2 cột ký GSBH và NVBH, không có cột NPP riêng; tên NVBH ký cuối trang khó đọc rõ nên để trống"
+  },
+  {
+    "key": "Chu Công Kiên - Huy Đạt - 28-09-2026",
+    "gsbh_ky": "Chu Công Kiên",
+    "asm_ky": null,
+    "npp_ky": "Phương Thị Lệ",
+    "nvbh_du_hop": "Đỗ Ngọc Hậu, Phùng Văn Đại",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": ""
+  },
+  {
+    "key": "Bùi Thị Thái Hà - Hùng Phát lẻ - 28-09-2026",
+    "gsbh_ky": "Bùi Thị Thái Hà",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Lương Văn Lý",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Đầu trang ASM để trống nhưng cuối trang cột ASM vẫn có nét ký không rõ tên; cột Xác nhận NPP có ký nhưng tên viết tay quá mờ không đọc được, dòng NPP đầu trang cũng viết không rõ ràng nên để trống"
+  },
+  {
+    "key": "Nguyễn Thị Phương Thúy - Hương Nhài - 28-09-2026",
+    "gsbh_ky": "Nguyễn Thị Phương Thúy",
+    "asm_ky": null,
+    "npp_ky": "Trần Thị Nho",
+    "nvbh_du_hop": "Nguyễn Thị Hằng",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Tên người ký xác nhận NPP bị cắt sát mép ảnh, đọc tạm là Trần Thị Nho nhưng không chắc chắn hoàn toàn"
+  },
+  {
+    "key": "Nguyễn Phú Lộc - Họp Kinh doanh siêu thị - 28-09-2026",
+    "gsbh_ky": "Nguyễn Thị Tuyến, Lê Xuân Anh, Vũ Hải Yến",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu GĐ03 Biên bản họp bộ phận kinh doanh siêu thị, không phải GĐ02/KTTT; nhiều GSBH cùng ký (Điệp, T.Huyền, Yến, Thuyền, Xuân, Linh...) nên không khớp đúng 1-1 với các key gsbh_ky/asm_ky đơn lẻ; cột ASM/GĐBH siêu thị ở cuối trang có nhiều chữ ký khác (Ngô Thị Hạnh, Linh, Hoàng Sinh Linh...) không xác định rõ ai là Nguyễn Phú Lộc (ASM nêu ở đầu trang) nên không ghi vào asm_ky"
+  },
+  {
+    "key": "Nguyễn Văn Tuấn - Hữu Hiền - 28-09-2026",
+    "gsbh_ky": "Nguyễn Văn Tuấn",
+    "asm_ky": null,
+    "npp_ky": "Phùng Ngọc Anh",
+    "nvbh_du_hop": "Phùng Thu Thuỷ",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": ""
+  },
+  {
+    "key": "Nguyễn Đức Tôn - Liêm Xuân việt trì - 28-09-2026",
+    "gsbh_ky": "Nguyễn Đức Tôn",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Nguyễn Xuân Thị",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Không có cột ký riêng cho NPP trong ảnh này, chỉ có NVBH và GSBH ký"
+  },
+  {
+    "key": "Trần Hữu Đoàn - Mạnh Nam - 28-09-2026",
+    "gsbh_ky": "Trần Hữu Đoàn",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Nguyễn Thị Thảo",
+    "chi_dong_dau": true,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Ô xác nhận NPP chỉ có dấu mộc tròn công ty Mạnh Nam, không có nét ký tay"
+  },
+  {
+    "key": "Ngô Huy Thanh - Phương Đông - 28-09-2026",
+    "gsbh_ky": "Ngô Huy Thanh",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Văn Anh, Huấy, Ngân, Vinh",
+    "chi_dong_dau": true,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Ô NPP chủ yếu là dấu mộc công ty Phương Đông, có chữ gì đó cạnh dấu nhưng mờ không đọc được rõ tên"
+  },
+  {
+    "key": "Đào Văn Sơn - Thịnh Long - 28-09-2026",
+    "gsbh_ky": "Đào Văn Sơn",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Đinh Thị Thuỳ Linh",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Phần nội dung đầu trang chữ rất mờ khó đọc; không thấy cột ký riêng cho NPP trong ảnh này"
+  },
+  {
+    "key": "Đàm Ngọc Sơn - Trung Hiếu - 28-09-2026",
+    "gsbh_ky": "Đàm Ngọc Sơn",
+    "asm_ky": null,
+    "npp_ky": "Vũ Văn Thước",
+    "nvbh_du_hop": "Nguyễn Quay Chít",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": ""
+  },
+  {
+    "key": "Đào Xuân Chung - Tùng Anh - 28-09-2026",
+    "gsbh_ky": "Đào Xuân Chung",
+    "asm_ky": null,
+    "npp_ky": "Trần Văn Quân",
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Hai chữ ký cuối trang không có nhãn chức danh (không ghi GSBH/NPP), suy luận Đào Xuân Chung là GSBH (trùng tên người khai đầu trang, chức vụ Giám sát) và Trần Văn Quân là phía còn lại; đầu trang không ghi tên NVBH nào"
+  },
+  {
+    "key": "Nguyễn Xuân Trường - AI - 29-09-2026",
+    "gsbh_ky": "Nguyễn Xuân Trường",
+    "asm_ky": null,
+    "npp_ky": "Trịnh Thu Hường",
+    "nvbh_du_hop": "Phạm Thị Liên",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": ""
+  }
+]

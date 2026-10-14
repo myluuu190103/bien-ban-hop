@@ -1,0 +1,78 @@
+[
+ {
+  "file": "Nguyễn Xuân Thắng - Hoa Thắng - 09-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   883,
+   1421
+  ],
+  "crop": [
+   883,
+   1286
+  ],
+  "box": [
+   0,
+   0,
+   883,
+   1286
+  ],
+  "area_reduction_pct": 9.5
+ },
+ {
+  "file": "Nguyễn Xuân Trường - Kiên Cường - 09-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1371,
+   2619
+  ],
+  "crop": [
+   1371,
+   2412
+  ],
+  "box": [
+   0,
+   0,
+   1371,
+   2412
+  ],
+  "area_reduction_pct": 7.9
+ },
+ {
+  "file": "Phan Ngọc Bích - Hoa Hồng - 09-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1473,
+   2636
+  ],
+  "crop": [
+   1250,
+   2129
+  ],
+  "box": [
+   0,
+   0,
+   1250,
+   2129
+  ],
+  "area_reduction_pct": 31.5
+ },
+ {
+  "file": "Trần Hữu Đoàn - Đại Dương - 09-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1795,
+   2687
+  ],
+  "crop": [
+   1740,
+   2417
+  ],
+  "box": [
+   0,
+   0,
+   1740,
+   2417
+  ],
+  "area_reduction_pct": 12.8
+ }
+]

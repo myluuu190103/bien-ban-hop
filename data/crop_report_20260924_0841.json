@@ -1,0 +1,21 @@
+[
+ {
+  "file": "Nguyễn Đình Trọng - Vĩnh Hoàn - 23-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1565,
+   2650
+  ],
+  "crop": [
+   1395,
+   1535
+  ],
+  "box": [
+   0,
+   432,
+   1395,
+   1967
+  ],
+  "area_reduction_pct": 48.4
+ }
+]

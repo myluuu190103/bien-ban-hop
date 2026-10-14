@@ -1,0 +1,159 @@
+[
+ {
+  "key": "Lê Văn Thế - Phương Nam - 29-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Phương Nam",
+  "asm": "",
+  "gsbh": "Lê Văn Thế",
+  "nvbh": [
+   "Hà Thị Dung"
+  ],
+  "npp_nguoi_ky": "Lê Văn Cường",
+  "ton_kho_thung": "230",
+  "ghi_chu": ""
+ },
+ {
+  "key": "Lại Văn Thịnh - Ngọc Bích - 27-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Ngọc Bích",
+  "asm": "",
+  "gsbh": "Lại Văn Thịnh",
+  "nvbh": [
+   "Nguyễn Văn Thắng",
+   "Trần Đức Quang"
+  ],
+  "npp_nguoi_ky": "Vũ Tiến Công",
+  "ton_kho_thung": "",
+  "ghi_chu": "Dòng Tồn kho ghi bằng chữ (NPP chủ động cân đối hàng hoá), không có số. Phần đầu trang đánh máy sẵn, ngày viết tay khó đọc nhưng năm 2026."
+ },
+ {
+  "key": "Mai Thị Hạnh - Hiền Tuệ - 25-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Hiền Tuệ",
+  "asm": "",
+  "gsbh": "Mai Thị Hạnh",
+  "nvbh": [
+   "Đào Thị Diệu",
+   "Bùi Thị Thủy Chung"
+  ],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "821",
+  "ghi_chu": "Dòng NPP ở đầu trang ghi tên nhà phân phối (Hiền Tuệ) chứ không phải tên người; chữ ký Xác nhận NPP ở chân trang bị cắt mất nên không đọc được tên."
+ },
+ {
+  "key": "Mai Thị Hạnh - Phạm Bảo Khánh - 29-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Phạm Bảo Khánh",
+  "asm": "",
+  "gsbh": "Mai Thị Hạnh",
+  "nvbh": [
+   "Nguyễn Thị Hiền"
+  ],
+  "npp_nguoi_ky": "Phạm Bảo Khánh",
+  "ton_kho_thung": "839",
+  "ghi_chu": ""
+ },
+ {
+  "key": "Nguyễn Hữu Dực - Ánh Thu - 29-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Ánh Thu",
+  "asm": "",
+  "gsbh": "Nguyễn Hữu Dực",
+  "nvbh": [
+   "Linh Thị Tình",
+   "Nguyễn Thị Hương",
+   "Thân Thị Ngọc",
+   "Nguyễn Văn Mạnh"
+  ],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "3034",
+  "ghi_chu": "Ngày trên giấy là 24/8/2026, lệch với tên file 29-08-2026. Ô Tồn kho ghi '3.034 bao gồm NVBH cho nợ thừa thu'. Chữ ký Xác nhận NPP chỉ là nét ký, không có tên. Ảnh chụp ngoài trời, có tờ biên bản khác lấp phía sau."
+ },
+ {
+  "key": "Nguyễn Phú Lộc - Họp Kinh doanh siêu thị - 24-08-2026",
+  "mau": "GD03",
+  "tai_npp": "Showroom Đền Lừ",
+  "asm": "Nguyễn Phú Lộc",
+  "gsbh": "Điệp, N.Hương, Yến, Huyền, Xuân, Linh",
+  "nvbh": [],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "",
+  "ghi_chu": "Mẫu GĐ03 - Biên bản họp bộ phận kinh doanh siêu thị, không có NPP và không có mục tồn kho. Địa điểm: showroom Đền Lừ. Dòng GSBH ghi 6 tên rút gọn; chữ ký chân trang đọc được: Ngô Thị Huyền, Lê Anh Xuân, Vũ Hải Yến, và GĐBH siêu thị Ngô Thị Hạnh."
+ },
+ {
+  "key": "Nguyễn Quốc Thắm - Bảo Cường - 25-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Bảo Cường",
+  "asm": "",
+  "gsbh": "Nguyễn Quốc Thắm",
+  "nvbh": [
+   "Tạ Thị Trung Kiên"
+  ],
+  "npp_nguoi_ky": "Phan Thị Lan Anh",
+  "ton_kho_thung": "952",
+  "ghi_chu": ""
+ },
+ {
+  "key": "Nguyễn Quốc Thắm - Hồng Hạnh - 24-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Hồng Hạnh",
+  "asm": "",
+  "gsbh": "Nguyễn Quốc Thắm",
+  "nvbh": [
+   "Nguyễn Thị Thanh Nga"
+  ],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "458",
+  "ghi_chu": "Chữ ký Xác nhận NPP ở chân trang viết tháu, không đọc chắc được tên."
+ },
+ {
+  "key": "Nguyễn Quốc Thắm - Linh Anh - 28-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Linh Anh",
+  "asm": "",
+  "gsbh": "Nguyễn Quốc Thắm",
+  "nvbh": [
+   "Trương Văn Thái"
+  ],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "638",
+  "ghi_chu": "Chữ ký Xác nhận NPP viết tháu, không đọc chắc được tên."
+ },
+ {
+  "key": "Nguyễn Thị Liên - Hùng Mạnh - 28-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Hùng Mạnh",
+  "asm": "",
+  "gsbh": "Nguyễn Thị Liên",
+  "nvbh": [],
+  "npp_nguoi_ky": "Trần Mỹ Phú",
+  "ton_kho_thung": "1110",
+  "ghi_chu": "Dòng NVBH để trống (không có NVBH dự họp). Ô Tồn kho ghi '1110 T'."
+ },
+ {
+  "key": "Nguyễn Thị Phương Thúy - Huệ Phát - 28-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Huệ Phát",
+  "asm": "",
+  "gsbh": "Nguyễn Thị Phương Thúy",
+  "nvbh": [
+   "Nguyễn Văn Tuấn"
+  ],
+  "npp_nguoi_ky": "Cao Văn Duyên",
+  "ton_kho_thung": "601",
+  "ghi_chu": ""
+ },
+ {
+  "key": "Nguyễn Thị Phương Thúy - Hương Nhài - 24-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Hương Nhài",
+  "asm": "",
+  "gsbh": "Nguyễn Thị Phương Thúy",
+  "nvbh": [
+   "Nguyễn Thị Hằng"
+  ],
+  "npp_nguoi_ky": "Trần Thị Nhài",
+  "ton_kho_thung": "768",
+  "ghi_chu": ""
+ }
+]

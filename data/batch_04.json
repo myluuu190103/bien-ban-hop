@@ -1,0 +1,218 @@
+[
+ {
+  "key": "Nguyễn Thị Phương Thúy - Đặng Tiến Trung - 04-09-2026",
+  "ngay": "04",
+  "thang": "09",
+  "nam": "2026",
+  "tai_npp": "Đặng Tiến Trung",
+  "dia_ban": "Hoàn Kiếm",
+  "asm": "Đinh Thị Huệ",
+  "gsbh": "Nguyễn Thị Phương Thúy",
+  "nvbh": "Trần Thị Thu Hiền",
+  "muc1": {
+   "ton_kho": "",
+   "thi_truong": "Ổn định",
+   "nhan_su": "Ổn định",
+   "khac": "NPP đề xuất nhập 1T gói hàm sâm đổi lấy từ không nhập những hàng khó bán theo CT KM T9"
+  },
+  "muc2": {
+   "hang_hoa": "Đầy đủ SKU",
+   "thi_truong": "Giá tương đối ổn định, hàng khó bán còn khó khăn",
+   "chinh_sach": "Xin hỗ trợ ĐT bán hàng, sale, CP, sup, các chế độ",
+   "bao_cao": "Đầy đủ",
+   "ho_tro": "Có"
+  },
+  "muc3": "ASM thông qua BB, thông, nắm báo tại cuộc họp. Thông qua CT KM tháng 9",
+  "muc4": "",
+  "muc5": "KH nhập: 101%. KH bán: 101%"
+ },
+ {
+  "key": "Nguyễn Tuệ Tuấn - Mạnh Lực - 04-09-2026",
+  "ngay": "04",
+  "thang": "09",
+  "nam": "2026",
+  "tai_npp": "Mạnh Lực",
+  "dia_ban": "",
+  "asm": "",
+  "gsbh": "Nguyễn Tuệ Tuấn",
+  "nvbh": "Nguyễn Thị Lan Anh",
+  "muc1": {
+   "ton_kho": "",
+   "thi_truong": "",
+   "nhan_su": "Bình thường",
+   "khac": ""
+  },
+  "muc2": {
+   "hang_hoa": "Thiếu SKU đậu đỏ, đậu xanh",
+   "thi_truong": "Bình thường",
+   "chinh_sach": "Hỗ trợ hàng về sớm đủ SKU",
+   "bao_cao": "Đủ, đúng",
+   "ho_tro": "Có"
+  },
+  "muc3": "Đi tuyến hỗ trợ nhân viên, kiểm tra thị trường",
+  "muc4": "Mong công ty cung cấp đủ hàng",
+  "muc5": "101%"
+ },
+ {
+  "key": "Nguyễn Tuệ Tuấn - Đức Nam - 05-09-2026",
+  "ngay": "05",
+  "thang": "09",
+  "nam": "2026",
+  "tai_npp": "Đức Nam",
+  "dia_ban": "Thái Nguyên",
+  "asm": "",
+  "gsbh": "Nguyễn Tuệ Tuấn",
+  "nvbh": "Đỗ Thị Mến",
+  "muc1": {
+   "ton_kho": "63 thùng",
+   "thi_truong": "",
+   "nhan_su": "Đủ",
+   "khac": "Hợp tác nhập hàng sớm"
+  },
+  "muc2": {
+   "hang_hoa": "Thiếu SKU",
+   "thi_truong": "Hàng không đủ SKU cung cấp KH",
+   "chinh_sach": "",
+   "bao_cao": "Làm việc nhân viên nộp báo cáo sớm, đủ, chi tiết",
+   "ho_tro": ""
+  },
+  "muc3": "Đi tuyến hỗ trợ nhân viên bán hàng. Tìm kiếm, cung cấp hàng khách thiện từ thiện",
+  "muc4": "",
+  "muc5": "DS về 100%"
+ },
+ {
+  "key": "Nguyễn Văn Toàn - An Viên Phát - 04-09-2026",
+  "ngay": "04",
+  "thang": "09",
+  "nam": "2026",
+  "tai_npp": "An Viên Phát",
+  "dia_ban": "Chợ La Phù",
+  "asm": "",
+  "gsbh": "Nguyễn Văn Toàn",
+  "nvbh": "",
+  "muc1": {
+   "ton_kho": "167 thùng (hàng nợ 1339 thùng)",
+   "thi_truong": "Hiện tại có bán ổn định về giá bán",
+   "nhan_su": "1 GSBH",
+   "khac": "Hàng nợ NPP còn nhiều đề xuất hỗ trợ khuyến mãi. Tăng cường độ bao phủ"
+  },
+  "muc2": {
+   "hang_hoa": "",
+   "thi_truong": "",
+   "chinh_sach": "",
+   "bao_cao": "",
+   "ho_tro": "Có"
+  },
+  "muc3": "Theo dõi cùng nhà phân phối ổn định giá bán",
+  "muc4": "Các tăng doanh số + SKU mở vào điểm bán. Thúc đẩy bán hàng, quản tồn kho NPP",
+  "muc5": "Nhập hàng đúng tiến độ"
+ },
+ {
+  "key": "Nguyễn Văn Toàn - Hùng Phát sỉ - 05-09-2026",
+  "ngay": "05",
+  "thang": "09",
+  "nam": "2026",
+  "tai_npp": "Hùng Phát sỉ",
+  "dia_ban": "HBT",
+  "asm": "",
+  "gsbh": "Nguyễn Văn Toàn",
+  "nvbh": "",
+  "muc1": {
+   "ton_kho": "M2",
+   "thi_truong": "Khai thác thêm khách hàng gia tăng SKU vào điểm bán",
+   "nhan_su": "1 GSBH",
+   "khac": "Thúc đẩy bán hàng giảm tồn kho. Ổn định giá bán, giao vận kịp thời"
+  },
+  "muc2": {
+   "hang_hoa": "",
+   "thi_truong": "",
+   "chinh_sach": "",
+   "bao_cao": "",
+   "ho_tro": ""
+  },
+  "muc3": "Tập trung bán hàng, thúc đẩy doanh số. Kết hợp cùng NPP giải quyết những vướng mắc",
+  "muc4": "Giải quyết những khó khăn ngoài thị trường",
+  "muc5": "Nhập đúng đủ chỉ tiêu doanh số. Lên kế hoạch nhập hàng tháng 9/2026"
+ },
+ {
+  "key": "Nguyễn Văn Tuấn - Hữu Hiền - 04-09-2026",
+  "ngay": "04",
+  "thang": "09",
+  "nam": "2026",
+  "tai_npp": "Hữu Hiền",
+  "dia_ban": "Hòa Bình",
+  "asm": "",
+  "gsbh": "Nguyễn Văn Tuấn",
+  "nvbh": "Phạm Thu Hữu",
+  "muc1": {
+   "ton_kho": "180 thùng",
+   "thi_truong": "Ổn định, 1 số KH lâu chưa hoàn nghĩa vụ",
+   "nhan_su": "LV chuẩn chỉ, chưa khỏe",
+   "khac": "Không có"
+  },
+  "muc2": {
+   "hang_hoa": "Thiếu 1 vài SKU như nếp cẩm",
+   "thi_truong": "Ổn định, 1 vài khu vực vẫn bị hạ giá",
+   "chinh_sach": "Xin tăng lũy quanh mở mới, BC in ra",
+   "bao_cao": "Xin in danh sách KH, không chép tay",
+   "ho_tro": "Có"
+  },
+  "muc3": "Đề nghị công ty tăng lượng để hàng hóa ổn định, không thiếu hụt",
+  "muc4": "Không có",
+  "muc5": "Đạt lên 70% DS khoảng T8/2027"
+ },
+ {
+  "key": "Nguyễn Văn Tuấn - Định Nhuận - 05-09-2026",
+  "ngay": "05",
+  "thang": "09",
+  "nam": "2026",
+  "tai_npp": "Định Nhuận",
+  "dia_ban": "Hòa Bình",
+  "asm": "",
+  "gsbh": "Nguyễn Văn Tuấn",
+  "nvbh": "Đào Xuân Hoá",
+  "muc1": {
+   "ton_kho": "160.7 thùng",
+   "thi_truong": "Ổn định, các khu vực giáp danh vẫn bị hạ trội",
+   "nhan_su": "Ổn định, ý thức LV tốt",
+   "khac": "Không có"
+  },
+  "muc2": {
+   "hang_hoa": "Thiếu hạ chủ mẫu",
+   "thi_truong": "Ổn định, KV giáp danh vẫn bị hạ trội",
+   "chinh_sach": "Tốt: năm nay chưa đưa đi du lịch",
+   "bao_cao": "Đầy đủ, hoàn thành đúng hạn",
+   "ho_tro": ""
+  },
+  "muc3": "Xin cho NVBH đi du lịch năm 2026",
+  "muc4": "Không có",
+  "muc5": "Đạt lên đơn hàng NV bán ngày 17/8/2026"
+ },
+ {
+  "key": "Nguyễn Văn Đồng - Bảo Cường - 04-09-2026",
+  "ngay": "04",
+  "thang": "09",
+  "nam": "2026",
+  "tai_npp": "Bảo Cường",
+  "dia_ban": "Xuân Mai",
+  "asm": "Nguyễn Văn Đồng",
+  "gsbh": "Nguyễn Quốc Thắng",
+  "nvbh": "Tạ Thị Hương Xoan",
+  "muc1": {
+   "ton_kho": "1155 (thùng gửi)",
+   "thi_truong": "Hàng bán ra chậm",
+   "nhan_su": "Ổn định",
+   "khac": "NPP toà đang hưởng khả khan, 5T sydas, giá 18T mua sáu, 5T chưa giải cản, khuyến mại cho khách chưa hoạt ra được"
+  },
+  "muc2": {
+   "hang_hoa": "Từ NPP, đơn hàng ngoài TT, hàng bán ra chậm",
+   "thi_truong": "Còn nhiều nhà khách, đã triển khai đủ cửa làm hàng Q16",
+   "chinh_sach": "Mang đầy cùng PKD có chiết khấu dài ngày, NV",
+   "bao_cao": "Tuân thủ đầy đủ mọi báo cáo của PKD",
+   "ho_tro": "Có"
+  },
+  "muc3": "Cùng ASM họp cùng NVBH tránh khai chương hiệu T9. Xin ký kết bán hàng",
+  "muc4": "Mong PKD hỗ trợ thêm chương trình giảm giá những hàng khó bán ra được, TT khó hợp thu",
+  "muc5": "Đã hoàn thành chỉ tiêu tháng 8, và xây dựng kế hoạch cho T9"
+ }
+]

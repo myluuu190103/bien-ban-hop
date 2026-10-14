@@ -1,0 +1,40 @@
+[
+ {"key": "Lại Văn Thịnh - Ngọc Bích - 12-09-2026", "field": "lam_viec_voi", "gia_tri_moi": "Vũ Tiến Công (NPP); Trần Đức Quang (NVBH); Nguyễn Văn Thắng (NVBH)", "ly_do": "giấy không có '- Hà Nam', chức danh ghi trong ngoặc sau từng tên"},
+ {"key": "Lại Văn Thịnh - Ngọc Bích - 12-09-2026", "field": "m1", "gia_tri_moi": "Thị trường tương đối ổn định, lượng bán ra và độ phủ tại các điểm bán đang tốt", "ly_do": "giấy ghi 'tại các điểm bán đang tốt', không có 'các cửa hàng bán đầy đủ tốt'"},
+ {"key": "Lại Văn Thịnh - Ngọc Bích - 12-09-2026", "field": "m8", "gia_tri_moi": "Đề nghị công ty hỗ trợ chính sách bán hàng để xử lý các điểm bán bị ảnh hưởng bởi sản phẩm cạnh tranh", "ly_do": "giấy ghi 'để xử lý các điểm bán', không phải 'giữ lại các đơn hàng'"},
+ {"key": "Lại Văn Thịnh - Ngọc Bích - 12-09-2026", "field": "m9", "gia_tri_moi": "Chỉ tiêu tháng 9: 400 thùng/1 NV; phát triển điểm bán mới; theo dõi sát lượng hàng tồn", "ly_do": "giấy ghi 'phát triển điểm bán mới'"},
+
+ {"key": "Mai Thị Hạnh - Phạm Bảo Khánh - 12-09-2026", "field": "muc3", "gia_tri_moi": "GS và NVBH đang đồng hành cùng NPP thúc đẩy doanh số, mở mới điểm bán", "ly_do": "giấy ghi 'đang đồng hành cùng NPP', không có 'hỗ trợ'"},
+ {"key": "Mai Thị Hạnh - Phạm Bảo Khánh - 12-09-2026", "field": "muc4", "gia_tri_moi": "NVBH đi tuyến gặp nhiều khó khăn do giá cháo trứng cút giá rẻ", "ly_do": "giấy ghi 'giá cháo trứng cút giá rẻ', không có 'của hãng khác'"},
+ {"key": "Mai Thị Hạnh - Phạm Bảo Khánh - 12-09-2026", "field": "muc5", "gia_tri_moi": "NPP rất hợp tác và đã lên đơn hàng tháng", "ly_do": "giấy ghi 'rất hợp tác và đã lên đơn hàng tháng…' (mép phải bị cắt), không có 'tồn kho', 'thay đổi'"},
+
+ {"key": "Nguyễn Thị Liên - Hùng Mạnh Lai Châu - 12-09-2026", "field": "m2", "gia_tri_moi": "Đã lên đơn hàng nhập bù tháng 6", "ly_do": "giấy ghi 'đã lên đơn hàng', không phải 'chỉ tiêu cửa hàng'"},
+ {"key": "Nguyễn Thị Liên - Hùng Mạnh Lai Châu - 12-09-2026", "field": "m5", "gia_tri_moi": "Sữa TH - bánh gạo One One, chân gà, Bã Tuyết", "ly_do": "giấy ghi 'chân gà', không phải 'cháo gạo, bột Tuyết'"},
+ {"key": "Nguyễn Thị Liên - Hùng Mạnh Lai Châu - 12-09-2026", "field": "m7", "gia_tri_moi": "Đẩy mạnh siêu bao phủ chéo vào các điểm bán trên tuyến; hạn chế bát đĩa", "ly_do": "giấy ghi 'vào các điểm bán trên tuyến' và gạch đầu dòng 2 'hạn chế…', không có 'rà soát', 'thời gian', 'không chê'"},
+
+ {"key": "Nguyễn Thị Phương Thúy - Đặng Tiến Trung - 12-09-2026", "field": "m1", "gia_tri_moi": "Ổn định về giá, đa dạng được SKU; vào Rằm vụ Trung Thu nên tiêu thụ rồi, 1 số cháo chậm", "ly_do": "giấy ghi 'ổn định về giá, đa dạng được SKU, vào Rằm vụ Trung Thu'"},
+
+ {"key": "Nguyễn Văn Tuấn - Định Nhuận - 12-09-2026", "field": "m3", "gia_tri_moi": "Đề xuất KM 1 thùng tặng 1 lon cháo", "ly_do": "giấy ghi 'đề xuất KM 1T tặng 1 lon cháo'"},
+ {"key": "Nguyễn Văn Tuấn - Định Nhuận - 12-09-2026", "field": "m4", "gia_tri_moi": "Hợp tác cùng khu vực giáp danh, chưa có", "ly_do": "giấy ghi 'khu vực giáp danh', không có 'chủ cửa hàng giúp doanh số cao'"},
+ {"key": "Nguyễn Văn Tuấn - Định Nhuận - 12-09-2026", "field": "m5", "gia_tri_moi": "Dưa cải, mắm dưa, nước lẩu, bún ăn liền", "ly_do": "giấy ghi 'Dưa cải', không phải 'Dưỡng ẩm'"},
+ {"key": "Nguyễn Văn Tuấn - Định Nhuận - 12-09-2026", "field": "m6", "gia_tri_moi": "Nhân sự chịu khó, ổn định, có ý thức làm việc tốt", "ly_do": "giấy ghi 'chịu khó, ổn định, có ý thức LV tốt'"},
+ {"key": "Nguyễn Văn Tuấn - Định Nhuận - 12-09-2026", "field": "m7", "gia_tri_moi": "Đề xuất KM để bán với giá thị trường", "ly_do": "giấy ghi 'KM' không phải 'thêm'"},
+ {"key": "Nguyễn Văn Tuấn - Định Nhuận - 12-09-2026", "field": "m8", "gia_tri_moi": "Xin đề xuất KM 1 thùng tặng 1 lon cháo sen", "ly_do": "giấy ghi 'KM 1thg tặng 1 lon cháo sen'"},
+ {"key": "Nguyễn Văn Tuấn - Định Nhuận - 12-09-2026", "field": "m9", "gia_tri_moi": "Xin đề xuất 1 thùng tặng 1 lon cháo; đề xuất CTKM trợ giá, 1 thùng trợ 0,5 thùng cháo", "ly_do": "giấy ghi '1thg tặng 1 lon cháo… CTKM… 1thg trợ 0,5 thg cháo', không có 'tồn kho chậm bán sang'"},
+
+ {"key": "Nguyễn Văn Đồng - Minh Lâm - 12-09-2026", "field": "muc1.thi_truong", "gia_tri_moi": "Giá bán, hàng trôi, mở mới điểm bán End vùng nghiệp", "ly_do": "giấy ghi 'hàng trôi' không phải 'hàng đổi'"},
+ {"key": "Nguyễn Văn Đồng - Minh Lâm - 12-09-2026", "field": "muc1.nhan_su", "gia_tri_moi": "NV Nguyễn Thị Thu Quyên", "ly_do": "giấy ghi 'NV Ng Thị Thu Quyên' (chữ ký cũng là Quyên), thống nhất với trường nvbh"},
+ {"key": "Nguyễn Văn Đồng - Minh Lâm - 12-09-2026", "field": "muc2.chinh_sach", "gia_tri_moi": "NPP hỗ trợ đổi trả hàng cho thị trường bị méo bẹp", "ly_do": "giấy ghi 'đổi trả hàng', 'méo bẹp'"},
+ {"key": "Nguyễn Văn Đồng - Minh Lâm - 12-09-2026", "field": "muc3", "gia_tri_moi": "Lên kế hoạch nhập hàng, gia tăng độ phủ; các SKU bán chậm có thể ký gửi và luân chuyển giữa các điểm bán", "ly_do": "giấy ghi 'gia tăng độ phủ', 'có thể ký gửi và luân chuyển'"},
+ {"key": "Nguyễn Văn Đồng - Minh Lâm - 12-09-2026", "field": "muc4", "gia_tri_moi": "Cần có các chương trình đặc biệt cho các SKU bán chậm nhằm thúc đẩy bán hàng và hỗ trợ cho điểm bán", "ly_do": "giấy ghi 'các chương trình đặc biệt', 'hỗ trợ cho điểm bán'"},
+ {"key": "Nguyễn Văn Đồng - Minh Lâm - 12-09-2026", "field": "muc5", "gia_tri_moi": "NPP đã có kế hoạch lên đơn hàng, dự kiến chuyển hàng trước ngày 20/9, doanh số bán ra dự đạt 50% chỉ tiêu", "ly_do": "giấy ghi 'trước ngày 20/9, doanh số bán ra dự đạt 50% chỉ tiêu'"},
+
+ {"key": "Nguyễn Xuân Thắng - Minh Khuê - 12-09-2026", "field": "dia_chi", "gia_tri_moi": "Yên Mỹ - Hưng Yên", "ly_do": "giấy ghi 'Yên Mỹ - Hg Yên'"},
+ {"key": "Nguyễn Xuân Thắng - Minh Khuê - 12-09-2026", "field": "m5", "gia_tri_moi": "Vifon, Tài Ký, dầu ăn", "ly_do": "giấy ghi 'Vifon, Tài Ký, dầu ăn'"},
+
+ {"key": "Nhữ Hồng Huy - Minh Phúc HD - 11-09-2026", "field": "dia_chi", "gia_tri_moi": "Kim Đới, Ngọc Kỳ, Tứ Kỳ, Hải Dương", "ly_do": "giấy ghi 'Kim Đới, Ngọc Kỳ, Tứ Kỳ'"},
+ {"key": "Nhữ Hồng Huy - Minh Phúc HD - 11-09-2026", "field": "m1", "gia_tri_moi": "Dịp Trung Thu, tồn kho điểm bán thấp; 1 số cửa hàng có hàng hỏng, xì, mốc (số lượng ít)", "ly_do": "giấy ghi 'tồn kho điểm bán thấp', 'có hàng hỏng xì, mốc'"},
+ {"key": "Nhữ Hồng Huy - Minh Phúc HD - 11-09-2026", "field": "m3", "gia_tri_moi": "Không triển khai chương trình KM", "ly_do": "giấy ghi 'Không triển khai chương trình KM'"},
+ {"key": "Nhữ Hồng Huy - Minh Phúc HD - 11-09-2026", "field": "m5", "gia_tri_moi": "Các sản phẩm cháo, chè lon to", "ly_do": "giấy ghi 'các sản phẩm cháo, chè lon to'"},
+ {"key": "Nhữ Hồng Huy - Minh Phúc HD - 11-09-2026", "field": "m6", "gia_tri_moi": "2 NVBH nhiệt tình, chịu khó; GSBH có hỗ trợ thị trường", "ly_do": "giấy ghi 'GSBH có hỗ trợ thị trường'"}
+]

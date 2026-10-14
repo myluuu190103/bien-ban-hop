@@ -1,0 +1,218 @@
+[
+ {
+  "key": "Nguyễn Văn Đồng - Kiên Cường - 31-08-2026",
+  "ngay": "31",
+  "thang": "08",
+  "nam": "2026",
+  "tai_npp": "Kiên Cường",
+  "dia_ban": "Nam Từ Liêm",
+  "asm": "Nguyễn Văn Đồng",
+  "gsbh": "Nguyễn Xuân Trường",
+  "nvbh": "Nguyễn Bá Cường",
+  "muc1": {
+   "ton_kho": "231",
+   "thi_truong": "Giá bán, hay đổi, mở mắt",
+   "nhan_su": "Nguyễn Bá Cường làm từ T.. năm 2025",
+   "khac": "Chưa xin thu hồi thùng, SKU thiếu bao"
+  },
+  "muc2": {
+   "hang_hoa": "1 số SKU chậm, khách xin đổi trả",
+   "thi_truong": "Hay ra đơn, giá bán thấp, chào bán lẻ",
+   "chinh_sach": "NPP vẫn đẩy hỗ trợ đổi trả cho khách bán, 4 gói/thùng",
+   "bao_cao": "Đầy đủ (hỏi chậm so với quy trình, cần cải thiện)",
+   "ho_tro": "Có"
+  },
+  "muc3": "Đào tạo, nhắc nhở, hướng dẫn NVBH làm và giữ cẩn, gửi báo cáo theo đúng thời gian quy định",
+  "muc4": "Rà soát các đơn bán, nâng giá bán lẻ và đổi; Tập trung bán các sản phẩm chậm, luân chuyển các đơn bán",
+  "muc5": "Đã hoàn thành chỉ tiêu nhập; chỉ tiêu bán ra đạt. Hoàn thành 98% chỉ tiêu, dự kiến hoàn thành 101% bán ra"
+ },
+ {
+  "key": "Nguyễn Văn Đồng - Vạn An Lộc - 03-09-2026",
+  "ngay": "03",
+  "thang": "09",
+  "nam": "2026",
+  "tai_npp": "Vạn An Lộc",
+  "dia_ban": "Long Biên",
+  "asm": "Nguyễn Văn Đồng",
+  "gsbh": "",
+  "nvbh": "",
+  "muc1": {
+   "ton_kho": "",
+   "thi_truong": "",
+   "nhan_su": "",
+   "khac": ""
+  },
+  "muc2": {
+   "hang_hoa": "",
+   "thi_truong": "",
+   "chinh_sach": "",
+   "bao_cao": "",
+   "ho_tro": ""
+  },
+  "muc3": "Lưu ý: ảnh này dùng mẫu khác \"BIÊN BẢN KIỂM TRA THỊ TRƯỜNG NPP\" (không phải mẫu GĐ02 chuẩn), chữ viết mờ/nhỏ và bị watermark che nên không đọc rõ được nội dung 9 mục của biên bản để điền đúng cấu trúc mục 1-5 nêu trên. Cần chụp lại ảnh rõ hơn hoặc bổ sung thủ công.",
+  "muc4": "",
+  "muc5": ""
+ },
+ {
+  "key": "Nguyễn Xuân Thắng - Hoa Thắng - 05-09-2026",
+  "ngay": "05",
+  "thang": "09",
+  "nam": "2026",
+  "tai_npp": "Hoa Thắng",
+  "dia_ban": "Hưng Yên",
+  "asm": "",
+  "gsbh": "Nguyễn Xuân Thắng",
+  "nvbh": "Hồ Văn Sang",
+  "muc1": {
+   "ton_kho": "380 thùng",
+   "thi_truong": "Bán hàng ổn định",
+   "nhan_su": "Ổn định",
+   "khac": "Hay mở bán mở đa"
+  },
+  "muc2": {
+   "hang_hoa": "Đảm bảo hàng đa thị trường",
+   "thi_truong": "Khách hàng hay đòi thêm hàng lẻ",
+   "chinh_sach": "Ổn định",
+   "bao_cao": "Đầy đủ",
+   "ho_tro": "Có"
+  },
+  "muc3": "Tập trung bán lô, mở bán",
+  "muc4": "NPP và GS, NV đẩy hàng khó bán ở NPP và tăng nhập hàng",
+  "muc5": "Giảm tồn kho và hết mở bán cho NPP, đẩy hàng đúng tiến độ"
+ },
+ {
+  "key": "Nguyễn Xuân Thắng - Hoàng Phát - 04-09-2026",
+  "ngay": "04",
+  "thang": "09",
+  "nam": "2026",
+  "tai_npp": "Hoàng Phát",
+  "dia_ban": "",
+  "asm": "",
+  "gsbh": "Nguyễn Xuân Thắng",
+  "nvbh": "Hoàng Trường Sinh",
+  "muc1": {
+   "ton_kho": "182 thùng",
+   "thi_truong": "Đơn vị ổn định, tiếp tục bán đơn",
+   "nhan_su": "Ổn định",
+   "khac": "Hàng khó bán đa dạng"
+  },
+  "muc2": {
+   "hang_hoa": "Hàng vẫn bán tự tạo, hơi kén",
+   "thi_truong": "Bán đều",
+   "chinh_sach": "Tốt",
+   "bao_cao": "Hàng đúng, đủ đơn công điện",
+   "ho_tro": "Có"
+  },
+  "muc3": "Thúc đẩy bán hàng khó bán, quan tâm kho cho nhà phân phối",
+  "muc4": "Tăng bán luân chuyển, đẩy kịp thời gian",
+  "muc5": "Đơn giao ba bên, tiếp tục nhập hàng đúng thời"
+ },
+ {
+  "key": "Nguyễn Xuân Thắng - Minh Khuê - 05-09-2026",
+  "ngay": "05",
+  "thang": "09",
+  "nam": "2026",
+  "tai_npp": "Minh Khuê",
+  "dia_ban": "Hưng Yên",
+  "asm": "",
+  "gsbh": "Nguyễn Xuân Thắng",
+  "nvbh": "Đào Văn Tắc",
+  "muc1": {
+   "ton_kho": "480 thùng",
+   "thi_truong": "Vẫn bán hàng đều, hàng khó bán đa dạng",
+   "nhan_su": "Ổn định",
+   "khac": "Vẫn bán lẻ, khó bán đa khai kho"
+  },
+  "muc2": {
+   "hang_hoa": "Đảm bảo thu nhập cho thị trường",
+   "thi_truong": "Vẫn có lý do vẫn bán lẻ",
+   "chinh_sach": "Tốt",
+   "bao_cao": "Báo cáo đầy đủ",
+   "ho_tro": "Có"
+  },
+  "muc3": "Thúc đẩy bán hàng khó bán đa thị trường",
+  "muc4": "GS và nhân viên cam kết bán hàng khó bán đa thị trường",
+  "muc5": "Nhập đủ hàng theo tiến độ của công ty"
+ },
+ {
+  "key": "Nguyễn Xuân Trường - AI - 04-09-2026",
+  "ngay": "04",
+  "thang": "09",
+  "nam": "2026",
+  "tai_npp": "A.I",
+  "dia_ban": "Bắc Từ Liêm",
+  "asm": "",
+  "gsbh": "Nguyễn Xuân Trường",
+  "nvbh": "Phạm Thị Lưu",
+  "muc1": {
+   "ton_kho": "292 thùng",
+   "thi_truong": "Giá cả biến động, tồn đọng 1 số mã khó bán",
+   "nhan_su": "01, đi làm đầy đủ",
+   "khac": "Có 1 số lon móp méo, hay lỗi khách trả về"
+  },
+  "muc2": {
+   "hang_hoa": "Đủ SKU bán",
+   "thi_truong": "Bán khá chậm, còn 1 số SKU khó bán, tháng kém giá cao",
+   "chinh_sach": "NPP vẫn có chiết khấu riêng cho KH",
+   "bao_cao": "Đầy đủ",
+   "ho_tro": "Có"
+  },
+  "muc3": "Tập trung vào SKU khó bán, đẩy tồn kho",
+  "muc4": "Tăng cường bán hàng đầu tháng, tự tạo chương trình cho KH bán các mã SKU khó bán",
+  "muc5": "Đã lên đơn tháng 9, dự kiến hoàn thành sớm để tập trung đẩy doanh số"
+ },
+ {
+  "key": "Nguyễn Xuân Trường - Hoa Hùng - 03-09-2026",
+  "ngay": "03",
+  "thang": "09",
+  "nam": "2026",
+  "tai_npp": "Hoa Hùng",
+  "dia_ban": "Hà Đông",
+  "asm": "",
+  "gsbh": "Nguyễn Xuân Trường",
+  "nvbh": "Nguyễn Hữu Bằng",
+  "muc1": {
+   "ton_kho": "620 thùng",
+   "thi_truong": "Bán chậm, hay xin thay cân số nhiều, khách trả",
+   "nhan_su": "01, đi làm đầy đủ",
+   "khac": "Tồn 1 số hàng khó bán như chả các loại, súp lạng sữa, rau cây"
+  },
+  "muc2": {
+   "hang_hoa": "Đủ hàng SKU bán",
+   "thi_truong": "Biến động về giá cả, khách phản hồi giá cao",
+   "chinh_sach": "Vẫn có 1 số chương trình do NPP triển khai cho khách hàng",
+   "bao_cao": "Đầy đủ",
+   "ho_tro": "Có"
+  },
+  "muc3": "Hỗ trợ, đào tạo nhân viên sử dụng thành thạo chấm công qua link; Tập trung bán hàng khó bán",
+  "muc4": "Tập trung bán hàng khó bán, có thêm các chương trình cho KH",
+  "muc5": "Thông báo chỉ tiêu nhập tháng 9 về hoàn thành sớm nhất có thể; Tăng cường đi tuyến nhỏ lẻ, thăm điểm bán thiếu tuyến"
+ },
+ {
+  "key": "Nguyễn Xuân Trường - Kiên Cường - 31-08-2026",
+  "ngay": "31",
+  "thang": "08",
+  "nam": "2026",
+  "tai_npp": "Kiên Cường",
+  "dia_ban": "Nam Từ Liêm",
+  "asm": "Nguyễn Văn Đồng",
+  "gsbh": "Nguyễn Xuân Trường",
+  "nvbh": "Nguyễn Bá Cường",
+  "muc1": {
+   "ton_kho": "235 thùng",
+   "thi_truong": "Giá bán, hay đổi, mở mắt",
+   "nhan_su": "01 nhân sự",
+   "khac": "Chương trình vỏ thùng, SKU khó bán"
+  },
+  "muc2": {
+   "hang_hoa": "1 số SKU chậm, khách xin đổi trả",
+   "thi_truong": "Hay ra đơn, giá bán thấp (455-460k/thùng)",
+   "chinh_sach": "NPP vẫn đẩy hỗ trợ đổi trả điểm bán",
+   "bao_cao": "Đầy đủ",
+   "ho_tro": "Có"
+  },
+  "muc3": "Đào tạo, nhắc nhở nhân viên làm và gửi báo cáo đúng thời gian quy định",
+  "muc4": "Rà soát các điểm bán lẻ, bán sỉ; Tập trung vào SKU khó bán",
+  "muc5": "Đã hoàn thành chỉ tiêu nhập tháng 8, đã lên đơn nhập tháng 9; Tiến độ bán 98%, dự kiến hoàn thành 101%"
+ }
+]

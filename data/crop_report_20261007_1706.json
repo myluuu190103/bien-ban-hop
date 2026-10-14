@@ -1,0 +1,40 @@
+[
+ {
+  "file": "Lê Quốc Việt - Vy Đức Anh - 07-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1187,
+   2110
+  ],
+  "crop": [
+   1187,
+   1930
+  ],
+  "box": [
+   0,
+   0,
+   1187,
+   1930
+  ],
+  "area_reduction_pct": 8.5
+ },
+ {
+  "file": "Đào Văn Sơn - Đức Long - 07-10-2026 - Ảnh 02.jpg",
+  "status": "cropped",
+  "orig": [
+   1506,
+   2641
+  ],
+  "crop": [
+   1506,
+   2355
+  ],
+  "box": [
+   0,
+   0,
+   1506,
+   2355
+  ],
+  "area_reduction_pct": 10.8
+ }
+]

@@ -1,0 +1,306 @@
+[
+ {
+  "file": "Chu Công Kiên - Huy Đạt - 14-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1800,
+   2688
+  ],
+  "crop": [
+   1726,
+   2251
+  ],
+  "box": [
+   0,
+   0,
+   1726,
+   2251
+  ],
+  "area_reduction_pct": 19.7
+ },
+ {
+  "file": "Chu Công Kiên - Mạnh Long - 15-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1800,
+   2688
+  ],
+  "crop": [
+   1766,
+   2401
+  ],
+  "box": [
+   0,
+   0,
+   1766,
+   2401
+  ],
+  "area_reduction_pct": 12.4
+ },
+ {
+  "file": "Cầm Thế Khái - Vĩnh Hoàn - 15-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   870,
+   1415
+  ],
+  "crop": [
+   870,
+   1278
+  ],
+  "box": [
+   0,
+   0,
+   870,
+   1278
+  ],
+  "area_reduction_pct": 9.7
+ },
+ {
+  "file": "Lê Thị Trâm - Minh Anh - 15-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1403,
+   2624
+  ],
+  "crop": [
+   1403,
+   2412
+  ],
+  "box": [
+   0,
+   0,
+   1403,
+   2412
+  ],
+  "area_reduction_pct": 8.1
+ },
+ {
+  "file": "Mai Thị Hạnh - Hiền Tuệ - 14-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1605,
+   2657
+  ],
+  "crop": [
+   1605,
+   2135
+  ],
+  "box": [
+   0,
+   153,
+   1605,
+   2288
+  ],
+  "area_reduction_pct": 19.6
+ },
+ {
+  "file": "Nguyễn Phú Lộc - Họp Kinh doanh siêu thị - 14-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1392,
+   2623
+  ],
+  "crop": [
+   1392,
+   2412
+  ],
+  "box": [
+   0,
+   0,
+   1392,
+   2412
+  ],
+  "area_reduction_pct": 8.0
+ },
+ {
+  "file": "Nguyễn Quốc Thắm - Bảo Cường - 14-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1728,
+   1881
+  ],
+  "crop": [
+   1621,
+   1621
+  ],
+  "box": [
+   0,
+   0,
+   1621,
+   1621
+  ],
+  "area_reduction_pct": 19.2
+ },
+ {
+  "file": "Nguyễn Quốc Thắm - Hồng Hạnh - 15-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1728,
+   1881
+  ],
+  "crop": [
+   1434,
+   1598
+  ],
+  "box": [
+   294,
+   0,
+   1728,
+   1598
+  ],
+  "area_reduction_pct": 29.5
+ },
+ {
+  "file": "Nguyễn Thị Phương Thúy - Hương Nhài - 14-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1371,
+   2619
+  ],
+  "crop": [
+   1371,
+   1921
+  ],
+  "box": [
+   0,
+   422,
+   1371,
+   2343
+  ],
+  "area_reduction_pct": 26.7
+ },
+ {
+  "file": "Nguyễn Văn Toàn - An Viên Phát - 14-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1455,
+   2633
+  ],
+  "crop": [
+   1455,
+   2141
+  ],
+  "box": [
+   0,
+   272,
+   1455,
+   2413
+  ],
+  "area_reduction_pct": 18.7
+ },
+ {
+  "file": "Nguyễn Đức Tôn - Liêm Xuân - 14-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1826,
+   2692
+  ],
+  "crop": [
+   1553,
+   1684
+  ],
+  "box": [
+   273,
+   363,
+   1826,
+   2047
+  ],
+  "area_reduction_pct": 46.8
+ },
+ {
+  "file": "Ngô Huy Thanh - Phương Đông - 14-09-2026 - Ảnh 02.jpg",
+  "status": "cropped",
+  "orig": [
+   1709,
+   2577
+  ],
+  "crop": [
+   1411,
+   1575
+  ],
+  "box": [
+   0,
+   302,
+   1411,
+   1877
+  ],
+  "area_reduction_pct": 49.5
+ },
+ {
+  "file": "Phan Thị Thanh Hải - Phượng Hoàn - 15-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1375,
+   2620
+  ],
+  "crop": [
+   1183,
+   1346
+  ],
+  "box": [
+   0,
+   514,
+   1183,
+   1860
+  ],
+  "area_reduction_pct": 55.8
+ },
+ {
+  "file": "Đàm Ngọc Sơn - Trung Hiếu - 15-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1424,
+   2628
+  ],
+  "crop": [
+   1424,
+   2054
+  ],
+  "box": [
+   0,
+   316,
+   1424,
+   2370
+  ],
+  "area_reduction_pct": 21.8
+ },
+ {
+  "file": "Đào Văn Sơn - Thịnh Long - 14-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1506,
+   2641
+  ],
+  "crop": [
+   1506,
+   2375
+  ],
+  "box": [
+   0,
+   9,
+   1506,
+   2384
+  ],
+  "area_reduction_pct": 10.1
+ },
+ {
+  "file": "Đỗ Quang Tý - Hiếu Thảo - 14-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1358,
+   2617
+  ],
+  "crop": [
+   1358,
+   1994
+  ],
+  "box": [
+   0,
+   418,
+   1358,
+   2412
+  ],
+  "area_reduction_pct": 23.8
+ }
+]

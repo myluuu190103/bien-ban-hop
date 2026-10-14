@@ -1,0 +1,156 @@
+[
+  {
+    "key": "Đinh Thị Huệ - Phương Đông - 17-09-2026",
+    "gsbh_ky": "Ngô Thị Thanh",
+    "asm_ky": "Đinh Thị Huệ",
+    "npp_ky": "Thị Điệp",
+    "nvbh_du_hop": "Hương, Vân Anh, Ngân, Linh",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Ô NPP có cả dấu mộc công ty và chữ ký tay cạnh nhau; tên ký chỉ đọc được phần cuối '...Thị Điệp', không chắc chắn họ tên đầy đủ"
+  },
+  {
+    "key": "Lê Quốc Việt - Vy Đức Anh - 17-09-2026",
+    "gsbh_ky": "Lê Quốc Việt",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Vũ Thị Phương Lê",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu chỉ có 2 cột ký NVBH và GSBH, không có mục ASM/NPP"
+  },
+  {
+    "key": "Bùi Thị Thái Hà - Vạn An Lộc - 17-09-2026",
+    "gsbh_ky": "Bùi Thị Thái Hà",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu chỉ có 2 cột ký NV và GSBH, không có mục ASM/NPP; chữ ký và tên ở cột NV mờ, không đọc rõ đầy đủ họ tên"
+  },
+  {
+    "key": "Phạm Thanh Sơn - Duyên Hùng - 18-09-2026",
+    "gsbh_ky": "Phạm Thanh Sơn",
+    "asm_ky": null,
+    "npp_ky": "Cu",
+    "nvbh_du_hop": "Nguyễn Đức Điệp",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Cột NPP chỉ ký tên viết tắt 'Cu', không ghi rõ họ tên đầy đủ; mẫu không có mục ASM"
+  },
+  {
+    "key": "Nguyễn Xuân Trường - Hoa Hùng - 18-09-2026",
+    "gsbh_ky": "Nguyễn Xuân Trường",
+    "asm_ky": null,
+    "npp_ky": "Đỗ Văn Sỹ",
+    "nvbh_du_hop": "Nguyễn Thiện Bằng",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mục ASM trong thành phần dự họp để trống, không có chữ ký ASM"
+  },
+  {
+    "key": "Nguyễn Thị Phương Thúy - Huệ Phát - 18-09-2026",
+    "gsbh_ky": "Nguyễn Thị Phương Thúy",
+    "asm_ky": null,
+    "npp_ky": "Cao Văn Tuyên",
+    "nvbh_du_hop": "Nguyễn Văn Tuấn",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu không có mục ASM"
+  },
+  {
+    "key": "Nguyễn Tuệ Tuấn - Mạnh Lực - 18-09-2026",
+    "gsbh_ky": "Nguyễn Tuệ Tuấn",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Phần ký tên không có nhãn cột rõ ràng (không ghi NVBH/GSBH/NPP), chỉ có 2 chữ ký; chữ ký thứ hai không đọc rõ đầy đủ họ tên nên để trống"
+  },
+  {
+    "key": "Trần Ngọc Lâm - Phương Anh - 18-09-2026",
+    "gsbh_ky": "Trần Ngọc Lâm",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Nguyễn Thị Miên",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Ảnh có khả năng bị cắt mất phần cột chữ ký NPP bên phải (chỉ thấy ký hiệu rời rạc ở mép ảnh)"
+  },
+  {
+    "key": "Lê Văn Thế - Phương Nam - 18-09-2026",
+    "gsbh_ky": "Lê Văn Thế",
+    "asm_ky": null,
+    "npp_ky": "Lê Văn Cường",
+    "nvbh_du_hop": "Hà Thị Dung",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Chữ ký cột NVBH ghi tên đọc là 'Đỗ Thị Dung', không khớp hẳn với tên 'Hà Thị Dung' ghi ở đầu trang; tên NPP trong chữ ký đọc không chắc chắn hoàn toàn"
+  },
+  {
+    "key": "Đinh Xuân Mỹ - Tuấn Huyền - 18-09-2026",
+    "gsbh_ky": "Đinh Xuân Mỹ",
+    "asm_ky": null,
+    "npp_ky": "Lý Văn Tuấn",
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mục ASM và NVBH trong thành phần dự họp để trống, không có chữ ký tương ứng"
+  },
+  {
+    "key": "Đinh Thị Huệ - Ánh Thu - 18-09-2026",
+    "gsbh_ky": "Nguyễn Hữu Đức",
+    "asm_ky": "Đinh Thị Huệ",
+    "npp_ky": "Nguyễn Ngọc Ánh",
+    "nvbh_du_hop": "Nguyễn Văn Mạnh, Thân Thị Ngọc, Linh Thị Tĩnh",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Đây là mẫu 'Kiểm tra thị trường (ASM, GS, NVBH)', không có trường tên NPP khớp rõ với key 'Ánh Thu'; phần ký tên có nhiều người ở nhiều cột không nhãn rõ ràng, chỉ gán được chắc chắn các cột có nhãn ASM và NPP ở phía trên chữ ký"
+  },
+  {
+    "key": "Trần Hữu Đoàn - Đại Dương - 18-09-2026",
+    "gsbh_ky": "Trần Hữu Đoàn",
+    "asm_ky": null,
+    "npp_ky": "Lê Thị Ngô",
+    "nvbh_du_hop": "Nguyễn Quốc Đại",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Tên NPP ký không hoàn toàn chắc chắn (chữ viết khó đọc, có thể là 'Lê Thị Ngô' hoặc gần giống)"
+  },
+  {
+    "key": "Đào Văn Sơn - Đức Long - 18-09-2026",
+    "gsbh_ky": "Đào Văn Sơn",
+    "asm_ky": null,
+    "npp_ky": "Phan",
+    "nvbh_du_hop": "Đào Thị Hằng",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Cột 'NPP xác nhận' chỉ ký tên ngắn 'Phan', không ghi rõ họ tên đầy đủ"
+  },
+  {
+    "key": "Phạm Thanh Sơn - Bảo Thắm - 19-09-2026",
+    "gsbh_ky": "Phạm Thanh Sơn",
+    "asm_ky": null,
+    "npp_ky": "Nguyễn Thị Thắm",
+    "nvbh_du_hop": "Nguyễn Văn Đức",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Tên NVBH ký không hoàn toàn chắc chắn (chữ viết khó đọc)"
+  }
+]

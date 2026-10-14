@@ -1,0 +1,41 @@
+[
+ {
+  "key": "Đào Văn Sơn - Đức Long - 26-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Đức Long",
+  "asm": "",
+  "gsbh": "Đào Văn Sơn",
+  "nvbh": [
+   "Đào Thị Hằng"
+  ],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "606",
+  "ghi_chu": "Tồn kho ghi: NPP 606 thùng và CTy PB 586 thùng; chữ ký NPP là nét ký không đọc được tên"
+ },
+ {
+  "key": "Đào Xuân Chung - Tùng Anh - 24-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Tùng Anh",
+  "asm": "",
+  "gsbh": "Đào Xuân Chung",
+  "nvbh": [
+   "Trần Văn Quân"
+  ],
+  "npp_nguoi_ky": "Kiều Thị Hiếu",
+  "ton_kho_thung": "518",
+  "ghi_chu": ""
+ },
+ {
+  "key": "Đỗ Quang Tý - Hiếu Thảo - 24-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Hiếu Thảo",
+  "asm": "",
+  "gsbh": "Đỗ Quang Tý",
+  "nvbh": [
+   "Nguyễn Văn Thắng"
+  ],
+  "npp_nguoi_ky": "Đỗ Quang Tính",
+  "ton_kho_thung": "2984",
+  "ghi_chu": ""
+ }
+]

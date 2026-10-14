@@ -1,0 +1,38 @@
+[
+ {"key": "Bùi Thị Thái Hà - Anh Thư - 07-09-2026", "field": "muc1.khac", "gia_tri_moi": "Cần phát huy và hoàn thành KH mục tiêu T09", "ly_do": "giấy ghi 'KH mục tiêu T09', không phải 'kế hoạch/chỉ tiêu tháng'"},
+ {"key": "Bùi Thị Thái Hà - Anh Thư - 07-09-2026", "field": "muc2.hang_hoa", "gia_tri_moi": "Hàng cơ cấu, thị trường chào mẫu PT tốt", "ly_do": "giấy ghi 'Hàng cơ cấu', không phải 'của cty'"},
+ {"key": "Bùi Thị Thái Hà - Anh Thư - 07-09-2026", "field": "muc2.thi_truong", "gia_tri_moi": "Hàng hóa được tiếp cận, có hai mẫu đẹp đủ tùy chọn", "ly_do": "giấy viết 'đc' = được, không phải 'đã'"},
+ {"key": "Bùi Thị Thái Hà - Anh Thư - 07-09-2026", "field": "muc3", "gia_tri_moi": "Tập trung bán lẻ, giải quyết hàng tồn đọng kho bãi, hoàn thành chỉ tiêu nhập bán T9", "ly_do": "dòng 2 là 'hoàn thành chỉ tiêu nhập bán T9'"},
+ {"key": "Bùi Thị Thái Hà - Anh Thư - 07-09-2026", "field": "muc4", "gia_tri_moi": "Cần thúc đẩy PT phủ lẻ, giải quyết hàng tồn kho, không như hợp kế hoạch", "ly_do": "giấy ghi 'phủ lẻ' không phải 'bán lẻ'"},
+ {"key": "Bùi Thị Thái Hà - Anh Thư - 07-09-2026", "field": "muc5", "gia_tri_moi": "Nhập T09: 404 thùng (101%); Bán T09: 404 thùng (101%) - Hoàn thành", "ly_do": "giấy có ghi chú 'Hoàn thành' bên phải"},
+
+ {"key": "Bùi Thị Thái Hà - Hùng Phát lẻ - 08-09-2026", "field": "m1", "gia_tri_moi": "Hàng trôi khu vực giáp danh diễn biến phức tạp", "ly_do": "'diễn biến' không phải 'chiến biến'"},
+ {"key": "Bùi Thị Thái Hà - Hùng Phát lẻ - 08-09-2026", "field": "m2", "gia_tri_moi": "Tỷ lệ nhập: chỉ tiêu 500 thùng, đã bán 508 thùng, 101%. Chỉ tiêu bán: 400 thùng, đã bán 480 thùng, về 120%", "ly_do": "chỉ tiêu bán là 400 (480/400 = 120%), 'đã bán' không phải 'đã đến'"},
+ {"key": "Bùi Thị Thái Hà - Hùng Phát lẻ - 08-09-2026", "field": "m3", "gia_tri_moi": "Hỗ trợ điểm bán mới và sỉ: 2,5 → 3%", "ly_do": "'mới' không phải 'mua'"},
+ {"key": "Bùi Thị Thái Hà - Hùng Phát lẻ - 08-09-2026", "field": "m5", "gia_tri_moi": "Cháo sen, ĐX, ĐĐ, N cuộn, Yến mạch ngô", "ly_do": "giấy ghi 'Cháo sen', 'Yến mạch Ngô'"},
+ {"key": "Bùi Thị Thái Hà - Hùng Phát lẻ - 08-09-2026", "field": "m7", "gia_tri_moi": "- Cần thúc đẩy phủ lẻ - Rà soát lại hàng trôi - Tăng lại giá sỉ hàng mất bay giá duy", "ly_do": "dòng 2 'hàng trôi', dòng 3 'giá sỉ'"},
+ {"key": "Bùi Thị Thái Hà - Hùng Phát lẻ - 08-09-2026", "field": "m8", "gia_tri_moi": "Kính mong cty có nhiều CT hỗ trợ cho SP để có nhiều tiềm năng cả kênh khác", "ly_do": "đọc lại nguyên văn: 'Kính mong cty có nhiều ct hỗ trợ cho sp để có nhiều tiềm năng cả kênh khác'"},
+ {"key": "Bùi Thị Thái Hà - Hùng Phát lẻ - 08-09-2026", "field": "m9", "gia_tri_moi": "Hoàn thành chỉ tiêu nhập bán T09; Rà soát hàng móp bẹp", "ly_do": "dòng 2 là 'Rà soát hg móp bẹp'"},
+
+ {"key": "Chu Công Kiên - Huy Đạt - 07-09-2026", "field": "muc2.hang_hoa", "gia_tri_moi": "Đã có, bán đáp ứng được đầy đủ", "ly_do": "thiếu chữ 'được'"},
+ {"key": "Chu Công Kiên - Huy Đạt - 07-09-2026", "field": "muc3", "gia_tri_moi": "Bám sát thị trường, cùng NPP có chính sách bán hàng linh hoạt kịp thời hỗ trợ NVBH thúc đẩy doanh số", "ly_do": "'hỗ trợ NVBH' không phải 'hỗ trợ nhân'"},
+ {"key": "Chu Công Kiên - Huy Đạt - 07-09-2026", "field": "muc4", "gia_tri_moi": "Hiện tại thị trường đang ở giai đoạn mùa vụ trung thu, cần tiếp tục bám sát thị trường, đẩy bán hàng có hiệu quả tốt nhất đảm bảo doanh số được giao", "ly_do": "nửa sau giấy ghi 'bán hàng có hiệu quả tốt nhất đảm bảo doanh số được giao'"},
+
+ {"key": "Chu Công Kiên - Mạnh Long - 08-09-2026", "field": "muc2.thi_truong", "gia_tri_moi": "Sản phẩm hữu nghị đang từng bước cạnh tranh điểm bán", "ly_do": "giấy ghi 'đang từng bước cạnh tranh điểm bán'"},
+
+ {"key": "Cầm Thế Khái - Vĩnh Hoàn - 10-09-2026", "field": "m1", "gia_tri_moi": "Bán chậm, cần tăng thêm điểm bán", "ly_do": "giấy ghi 'Bán chậm - cần tăng thêm điểm bán', không có 'kinh doanh ổn định'"},
+ {"key": "Cầm Thế Khái - Vĩnh Hoàn - 10-09-2026", "field": "m4", "gia_tri_moi": "Không có", "ly_do": "giấy ghi '0 có'"},
+ {"key": "Cầm Thế Khái - Vĩnh Hoàn - 10-09-2026", "field": "m7", "gia_tri_moi": "- Tiếp tục tăng phủ kín khách hàng tiềm năng - Tủ bày đẹp - Phủ lẻ vẫn khá chưa xát đến - Chốt đơn kỹ", "ly_do": "'tăng phủ kín', 'Tủ bày đẹp' không phải 'Tủ lạnh'"},
+ {"key": "Cầm Thế Khái - Vĩnh Hoàn - 10-09-2026", "field": "m9", "gia_tri_moi": "Xem xét hỗ trợ thị trường năm ngoái sau; Đi tuyến vùng cao làm giá + tuyến mới", "ly_do": "dòng 2 là 'Đi tuyến vùng cao làm giá + tuyến mới'"},
+
+ {"key": "Lê Quốc Việt - Vy Đức Anh - 07-09-2026", "field": "m1", "gia_tri_moi": "Khai thác phát triển thêm SKU vào cửa hàng", "ly_do": "giấy ghi 'Khai thác phát triển thêm SKU vào cửa hàng'"},
+ {"key": "Lê Quốc Việt - Vy Đức Anh - 07-09-2026", "field": "m2", "gia_tri_moi": "Nhập 350 thùng, bán 606 thùng", "ly_do": "giấy ghi 350T, 606T -> thùng"},
+ {"key": "Lê Quốc Việt - Vy Đức Anh - 07-09-2026", "field": "m5", "gia_tri_moi": "Xúc xích S2, Vừng lạc, bánh kẹo nhập khẩu, Sữa dê cho trẻ, bột gạo hạt sen VV, cháo sen + kem mứt", "ly_do": "'Vừng lạc', 'bánh kẹo nhập khẩu', 'bột gạo hạt sen VV', 'cháo sen'; chữ cuối không đọc được nên bỏ"},
+ {"key": "Lê Quốc Việt - Vy Đức Anh - 07-09-2026", "field": "m7", "gia_tri_moi": "Mở mới thêm điểm bán", "ly_do": "lặp chữ 'Mở mở'"},
+ {"key": "Lê Quốc Việt - Vy Đức Anh - 07-09-2026", "field": "m9", "gia_tri_moi": "GSBH + NV mở mới thêm điểm bán trên tuyến", "ly_do": "'trên tuyến' không phải 'kênh tuyến'"},
+
+ {"key": "Lê Thị Trâm - Minh Anh - 07-09-2026", "field": "m2", "gia_tri_moi": "Đã lên đơn hàng T9 chưa chuyển tiền", "ly_do": "giấy ghi 'Đã lên đơn ... T9 chưa chuyển tiền'"},
+ {"key": "Lê Thị Trâm - Minh Anh - 07-09-2026", "field": "m3", "gia_tri_moi": "Không có KM", "ly_do": "giấy ghi '0 có KM'"},
+
+ {"key": "Lê Thị Trâm - Tâm An - 11-09-2026", "field": "dia_chi", "gia_tri_moi": "Quảng Xương - ĐTX", "ly_do": "giấy ghi 'Quảng Xương', không phải 'Quốc Xuân'"}
+]

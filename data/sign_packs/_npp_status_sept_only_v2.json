@@ -1,0 +1,558 @@
+{
+ "status": {
+  "Đức Mạnh": {
+   "01-06/09": false,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": true
+  },
+  "Phương Anh": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": false
+  },
+  "Minh Hưng": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": true
+  },
+  "Hoa Hồng": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": true
+  },
+  "Vĩnh Hoàn": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": true
+  },
+  "Đức Long": {
+   "01-06/09": false,
+   "07-13/09": false,
+   "14-20/09": true,
+   "21-27/09": false,
+   "28-30/09": false
+  },
+  "Thịnh Long": {
+   "01-06/09": false,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": true
+  },
+  "Thảo Nam": {
+   "01-06/09": false,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": true
+  },
+  "Xuân Liêm": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": true
+  },
+  "Mạnh Long": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": true
+  },
+  "Huy Đạt": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": true
+  },
+  "Mạnh Lực": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": false
+  },
+  "Đức Nam": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": false,
+   "21-27/09": true,
+   "28-30/09": false
+  },
+  "Thành Thanh": {
+   "01-06/09": false,
+   "07-13/09": false,
+   "14-20/09": false,
+   "21-27/09": false,
+   "28-30/09": false
+  },
+  "Trình Oanh": {
+   "01-06/09": false,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": false
+  },
+  "Đức Thủy": {
+   "01-06/09": true,
+   "07-13/09": false,
+   "14-20/09": false,
+   "21-27/09": true,
+   "28-30/09": false
+  },
+  "Minh Phúc HD": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": false
+  },
+  "Cường Long": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": false
+  },
+  "Hồng Minh": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": true
+  },
+  "Phương Nam": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": false
+  },
+  "Minh Anh": {
+   "01-06/09": false,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": true
+  },
+  "Tâm An": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": false
+  },
+  "Hương Nhài": {
+   "01-06/09": false,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": true
+  },
+  "Huệ Phát": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": false
+  },
+  "Đặng Tiến Trung": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": false
+  },
+  "Tuấn Huyền": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": false
+  },
+  "Thành Trung LS": {
+   "01-06/09": false,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": false,
+   "28-30/09": false
+  },
+  "Ánh Thu": {
+   "01-06/09": false,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": false,
+   "28-30/09": false
+  },
+  "Thi Hương": {
+   "01-06/09": false,
+   "07-13/09": true,
+   "14-20/09": false,
+   "21-27/09": false,
+   "28-30/09": false
+  },
+  "Phương Đông": {
+   "01-06/09": false,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": true
+  },
+  "Phượng Hoàn": {
+   "01-06/09": false,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": true
+  },
+  "Phúc Thành Đạt": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": true
+  },
+  "Hiền Tuệ": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": true
+  },
+  "Phạm Bảo Khánh": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": false
+  },
+  "Vy Đức Anh": {
+   "01-06/09": false,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": false
+  },
+  "An Vy": {
+   "01-06/09": true,
+   "07-13/09": false,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": false
+  },
+  "Tùng Anh": {
+   "01-06/09": false,
+   "07-13/09": true,
+   "14-20/09": false,
+   "21-27/09": true,
+   "28-30/09": true
+  },
+  "Nam Huệ": {
+   "01-06/09": false,
+   "07-13/09": false,
+   "14-20/09": false,
+   "21-27/09": false,
+   "28-30/09": false
+  },
+  "Hiếu Thảo": {
+   "01-06/09": false,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": true
+  },
+  "Hùng Mạnh": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": false
+  },
+  "Hà Sơn": {
+   "01-06/09": false,
+   "07-13/09": true,
+   "14-20/09": false,
+   "21-27/09": true,
+   "28-30/09": false
+  },
+  "Quân Phát": {
+   "01-06/09": false,
+   "07-13/09": false,
+   "14-20/09": false,
+   "21-27/09": false,
+   "28-30/09": false
+  },
+  "Hoa Hùng": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": false
+  },
+  "AI": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": true
+  },
+  "Kiên Cường": {
+   "01-06/09": false,
+   "07-13/09": false,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": false
+  },
+  "Vạn An Lộc": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": false
+  },
+  "Hùng Phát lẻ": {
+   "01-06/09": false,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": true
+  },
+  "Anh Thư": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": true
+  },
+  "Minh Ý": {
+   "01-06/09": true,
+   "07-13/09": false,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": false
+  },
+  "Đại Dương": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": false
+  },
+  "Mạnh Nam": {
+   "01-06/09": false,
+   "07-13/09": true,
+   "14-20/09": false,
+   "21-27/09": true,
+   "28-30/09": true
+  },
+  "Linh Anh": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": true
+  },
+  "Bảo Cường": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": true
+  },
+  "Hồng Hạnh": {
+   "01-06/09": false,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": true
+  },
+  "Hoàng Phát": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": false,
+   "28-30/09": true
+  },
+  "Minh Khuê": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": false
+  },
+  "Hoa Thắng": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": false
+  },
+  "Duyên Hùng": {
+   "01-06/09": false,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": true
+  },
+  "Bảo Thắm": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": false
+  },
+  "Ngọc Bích": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": false
+  },
+  "Minh Lâm": {
+   "01-06/09": false,
+   "07-13/09": true,
+   "14-20/09": false,
+   "21-27/09": true,
+   "28-30/09": false
+  },
+  "Long Giang": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": false
+  },
+  "Trung Hiếu": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": true
+  },
+  "Long Minh Trang": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": true
+  },
+  "Định Nhuận": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": false
+  },
+  "Hữu Hiền": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": true
+  },
+  "Tuấn Anh": {
+   "01-06/09": true,
+   "07-13/09": false,
+   "14-20/09": false,
+   "21-27/09": true,
+   "28-30/09": false
+  },
+  "An Viên Phát": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": true
+  },
+  "Hùng Phát sỉ": {
+   "01-06/09": true,
+   "07-13/09": true,
+   "14-20/09": true,
+   "21-27/09": true,
+   "28-30/09": true
+  }
+ },
+ "gsbh_of": {
+  "Đức Mạnh": "Trần Ngọc Lâm",
+  "Phương Anh": "Trần Ngọc Lâm",
+  "Minh Hưng": "Phan Ngọc Bích",
+  "Hoa Hồng": "Phan Ngọc Bích",
+  "Vĩnh Hoàn": "Cầm Thế Khải",
+  "Đức Long": "Đào Văn Sơn",
+  "Thịnh Long": "Đào Văn Sơn",
+  "Thảo Nam": "Nguyễn Đức Tôn",
+  "Xuân Liêm": "Nguyễn Đức Tôn",
+  "Mạnh Long": "Chu Công Kiên",
+  "Huy Đạt": "Chu Công Kiên",
+  "Mạnh Lực": "Nguyễn Tuệ Tuấn",
+  "Đức Nam": "Nguyễn Tuệ Tuấn",
+  "Thành Thanh": "Nguyễn Xuân Vinh",
+  "Trình Oanh": "Trịnh Văn Dũng",
+  "Đức Thủy": "Hoàng Thu Thủy",
+  "Minh Phúc HD": "Nhữ Hồng Huy",
+  "Cường Long": "Nhữ Hồng Huy",
+  "Hồng Minh": "Lê Văn Thế",
+  "Phương Nam": "Lê Văn Thế",
+  "Minh Anh": "Lê Thị Trâm",
+  "Tâm An": "Lê Thị Trâm",
+  "Hương Nhài": "Nguyễn Thị Phương Thúy",
+  "Huệ Phát": "Nguyễn Thị Phương Thúy",
+  "Đặng Tiến Trung": "Nguyễn Thị Phương Thúy",
+  "Tuấn Huyền": "Đinh Xuân Mỹ",
+  "Thành Trung LS": "Toàn Văn Thuận",
+  "Ánh Thu": "Nguyễn Hữu Dực",
+  "Thi Hương": "Nguyễn Hữu Dực",
+  "Phương Đông": "Ngô Huy Thanh",
+  "Phượng Hoàn": "Phan Thị Thanh Hải",
+  "Phúc Thành Đạt": "Phan Thị Thanh Hải",
+  "Hiền Tuệ": "Mai Thị Hạnh",
+  "Phạm Bảo Khánh": "Mai Thị Hạnh",
+  "Vy Đức Anh": "Lê Quốc Việt",
+  "An Vy": "Lê Quốc Việt",
+  "Tùng Anh": "Đào Xuân Chung",
+  "Nam Huệ": "Đào Xuân Chung",
+  "Hiếu Thảo": "Đỗ Quang Tý",
+  "Hùng Mạnh": "Nguyễn Thị Liên",
+  "Hà Sơn": "Nguyễn Thị Hồng",
+  "Quân Phát": "Nguyễn Thị Hồng",
+  "Hoa Hùng": "Nguyễn Xuân Trường",
+  "AI": "Nguyễn Xuân Trường",
+  "Kiên Cường": "Nguyễn Xuân Trường",
+  "Vạn An Lộc": "Bùi Thị Thái Hà",
+  "Hùng Phát lẻ": "Bùi Thị Thái Hà",
+  "Anh Thư": "Bùi Thị Thái Hà",
+  "Minh Ý": "Trần Hữu Đoàn",
+  "Đại Dương": "Trần Hữu Đoàn",
+  "Mạnh Nam": "Trần Hữu Đoàn",
+  "Linh Anh": "Nguyễn Quốc Thắm",
+  "Bảo Cường": "Nguyễn Quốc Thắm",
+  "Hồng Hạnh": "Nguyễn Quốc Thắm",
+  "Hoàng Phát": "Nguyễn Xuân Thắng",
+  "Minh Khuê": "Nguyễn Xuân Thắng",
+  "Hoa Thắng": "Nguyễn Xuân Thắng",
+  "Duyên Hùng": "Phạm Thanh Sơn",
+  "Bảo Thắm": "Phạm Thanh Sơn",
+  "Ngọc Bích": "Lại Văn Thịnh",
+  "Minh Lâm": "Trần Đức Phong",
+  "Long Giang": "Trần Đức Phong",
+  "Trung Hiếu": "Đàm Ngọc Sơn",
+  "Long Minh Trang": "Đàm Ngọc Sơn",
+  "Định Nhuận": "Nguyễn Văn Tuấn",
+  "Hữu Hiền": "Nguyễn Văn Tuấn",
+  "Tuấn Anh": "Đinh Văn Huấn",
+  "An Viên Phát": "Nguyễn Văn Toàn",
+  "Hùng Phát sỉ": "Nguyễn Văn Toàn"
+ }
+}

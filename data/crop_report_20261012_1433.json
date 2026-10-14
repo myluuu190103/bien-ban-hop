@@ -1,0 +1,192 @@
+[
+ {
+  "file": "Chu Công Kiên - Huy Đạt - 12-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1800,
+   2688
+  ],
+  "crop": [
+   1800,
+   2417
+  ],
+  "box": [
+   0,
+   0,
+   1800,
+   2417
+  ],
+  "area_reduction_pct": 10.1
+ },
+ {
+  "file": "Nguyễn Hữu Dực - Ánh Thu - 12-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   949,
+   1275
+  ],
+  "crop": [
+   939,
+   1275
+  ],
+  "box": [
+   10,
+   0,
+   949,
+   1275
+  ],
+  "area_reduction_pct": 1.1
+ },
+ {
+  "file": "Nguyễn Quốc Thắm - Bảo Cường - 12-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1037,
+   1499
+  ],
+  "crop": [
+   1037,
+   1499
+  ],
+  "box": [
+   0,
+   0,
+   1037,
+   1499
+  ],
+  "area_reduction_pct": 0.0
+ },
+ {
+  "file": "Nguyễn Thị Phương Thúy - Hương Nhài - 12-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1371,
+   2619
+  ],
+  "crop": [
+   1371,
+   2141
+  ],
+  "box": [
+   0,
+   271,
+   1371,
+   2412
+  ],
+  "area_reduction_pct": 18.3
+ },
+ {
+  "file": "Nguyễn Văn Tuấn - Hữu Hiền - 12-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   894,
+   1279
+  ],
+  "crop": [
+   894,
+   1279
+  ],
+  "box": [
+   0,
+   0,
+   894,
+   1279
+  ],
+  "area_reduction_pct": 0.0
+ },
+ {
+  "file": "Nguyễn Đức Tôn - liêm Xuân - 12-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1199,
+   1712
+  ],
+  "crop": [
+   1199,
+   1469
+  ],
+  "box": [
+   0,
+   0,
+   1199,
+   1469
+  ],
+  "area_reduction_pct": 14.2
+ },
+ {
+  "file": "Ngô Huy Thanh - Phương Đông - 12-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1053,
+   1405
+  ],
+  "crop": [
+   1053,
+   1405
+  ],
+  "box": [
+   0,
+   0,
+   1053,
+   1405
+  ],
+  "area_reduction_pct": 0.0
+ },
+ {
+  "file": "Đào Văn Sơn - Thịnh Long - 12-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1506,
+   2641
+  ],
+  "crop": [
+   1506,
+   2226
+  ],
+  "box": [
+   0,
+   0,
+   1506,
+   2226
+  ],
+  "area_reduction_pct": 15.7
+ },
+ {
+  "file": "Đào Xuân Chung - Tùng Anh - 12-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1265,
+   2602
+  ],
+  "crop": [
+   1265,
+   2411
+  ],
+  "box": [
+   0,
+   0,
+   1265,
+   2411
+  ],
+  "area_reduction_pct": 7.3
+ },
+ {
+  "file": "Đỗ Quang Tý - Hiếu Thảo - 12-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   832,
+   1182
+  ],
+  "crop": [
+   832,
+   1182
+  ],
+  "box": [
+   0,
+   0,
+   832,
+   1182
+  ],
+  "area_reduction_pct": 0.0
+ }
+]

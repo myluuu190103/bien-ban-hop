@@ -1,0 +1,156 @@
+[
+  {
+    "key": "Lê Quốc Việt - An Vy - 03-09-2026",
+    "gsbh_ky": "Việt",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Xuân Đường",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu khác GĐ02/KTTT/GĐ03 (Biên bản kiểm tra thị trường NPP dạng khác), không có mục ASM/NPP ký riêng; chỉ có ô GSBH và NV ký"
+  },
+  {
+    "key": "Mai Thị Hạnh - Hiền Tuệ - 03-09-2026",
+    "gsbh_ky": "Mai Thị Hạnh",
+    "asm_ky": null,
+    "npp_ky": "Hiền",
+    "nvbh_du_hop": "Đào Thị Diệu, Bùi Thị Thuý Cúc",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mục ASM để trống, không có người ký ASM"
+  },
+  {
+    "key": "Nguyễn Xuân Trường - Hoa Hùng - 03-09-2026",
+    "gsbh_ky": "Nguyễn Xuân Trường",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Nguyễn Khắc Bốn",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "NPP có ký ở ô Xác nhận NPP nhưng chữ ký quá mờ, không đọc rõ họ tên đầy đủ"
+  },
+  {
+    "key": "Nguyễn Đình Trọng - Huy Đạt - 03-09-2026",
+    "gsbh_ky": "Chu Thị Kiều",
+    "asm_ky": "Nguyễn Đình Trọng",
+    "npp_ky": "Phương Thị Lê",
+    "nvbh_du_hop": "Phùng Văn Đại, Đỗ Ngọc Hậu",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu Biên bản kiểm tra thị trường NPP (khác GĐ02), không có ô NPP ký riêng rạch ròi; suy đoán 'Phương Thị Lê' là người ký đại diện NPP vì không ở trong danh sách GSBH/NVBH/ASM"
+  },
+  {
+    "key": "Lê Văn Thế - Hồng Minh - 03-09-2026",
+    "gsbh_ky": "Lê Văn Thế",
+    "asm_ky": null,
+    "npp_ky": "Nguyễn Văn Mạnh",
+    "nvbh_du_hop": "Nguyễn Thị Nhung",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mục ASM để trống, không có người ký ASM; tên NPP ký đọc không chắc chắn hoàn toàn"
+  },
+  {
+    "key": "Nhữ Hồng Huy - Minh Phúc HD - 03-09-2026",
+    "gsbh_ky": "Nhữ Hồng Huy",
+    "asm_ky": null,
+    "npp_ky": "Đỗ Thị Tâm",
+    "nvbh_du_hop": "Lê Quý Quỳnh, Lê Văn Tuyến",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu Biên bản kiểm tra thị trường NPP; người ghi/ký là GSBH (Nhữ Hồng Huy), không có ASM"
+  },
+  {
+    "key": "Phan Thị Thanh Hải - Phúc Thành Đạt - 03-09-2026",
+    "gsbh_ky": "Phan Thị Thanh Hải",
+    "asm_ky": null,
+    "npp_ky": "Hoàng Thị Linh",
+    "nvbh_du_hop": "Đỗ Thị Nhung, Trần Thị Dung",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": ""
+  },
+  {
+    "key": "Đàm Ngọc Sơn - Trung Hiếu - 03-09-2026",
+    "gsbh_ky": "Đàm Ngọc Sơn",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Nguyễn Quang Chữ",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Ô Xác nhận NPP bỏ trống, không có chữ ký"
+  },
+  {
+    "key": "Lê Thị Trâm - Tâm An - 03-09-2026",
+    "gsbh_ky": "Lê Thị Trâm",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Vàng Thị Dự",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu Biên bản kiểm tra thị trường NPP dạng rút gọn, chỉ có 2 chữ ký (GSBH và NVBH), không có xác nhận của NPP; tên NVBH đọc không chắc chắn hoàn toàn"
+  },
+  {
+    "key": "Cầm Thế Khái - Vĩnh Hoàn - 03-09-2026",
+    "gsbh_ky": "Cầm Thị Khái",
+    "asm_ky": null,
+    "npp_ky": "Thao",
+    "nvbh_du_hop": "Dương Văn Hợp",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Lưu ý: key ghi 'Cầm Thế Khái' nhưng trên biên bản ghi GSBH là 'Cầm Thị Khái'; NPP chỉ ký tên 'Thao' không ghi rõ họ"
+  },
+  {
+    "key": "Bùi Thị Thái Hà - Vạn An Lộc - 03-09-2026",
+    "gsbh_ky": "Bùi Thị Thái Hà",
+    "asm_ky": "Nguyễn Văn Đồng",
+    "npp_ky": "Nguyễn Thị Ân",
+    "nvbh_du_hop": "Hoa",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu Biên bản kiểm tra thị trường NPP (ASM đi cùng GSBH); chữ ký NVBH và NPP khó đọc đầy đủ họ tên"
+  },
+  {
+    "key": "Nguyễn Văn Đồng - Vạn An Lộc - 03-09-2026",
+    "gsbh_ky": "Bùi Thị Thái Hà",
+    "asm_ky": "Nguyễn Văn Đồng",
+    "npp_ky": "Nguyễn Thị Ân",
+    "nvbh_du_hop": "Hoa",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "image_path trùng với key 'Bùi Thị Thái Hà - Vạn An Lộc' (cùng 1 ảnh, cùng 1 biên bản); chữ ký NVBH và NPP khó đọc đầy đủ họ tên"
+  },
+  {
+    "key": "Nguyễn Đức Tôn - Liêm Xuân - 03-09-2026",
+    "gsbh_ky": "Nguyễn Đức Tôn",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Nguyễn Xuân Thắng",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Ô Xác nhận NPP bỏ trống, không có chữ ký"
+  },
+  {
+    "key": "Nguyễn Xuân Trường - AI - 04-09-2026",
+    "gsbh_ky": "Nguyễn Xuân Trường",
+    "asm_ky": null,
+    "npp_ky": "Trịnh Thiên Hương",
+    "nvbh_du_hop": "Phạm Thị Luận",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": ""
+  }
+]

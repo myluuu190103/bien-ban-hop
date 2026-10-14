@@ -1,0 +1,59 @@
+[
+ {
+  "file": "Bùi Thị Thái Hà - Hùng Phát lẻ - 22-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   960,
+   1434
+  ],
+  "crop": [
+   960,
+   1272
+  ],
+  "box": [
+   0,
+   0,
+   960,
+   1272
+  ],
+  "area_reduction_pct": 11.3
+ },
+ {
+  "file": "Nguyễn Văn Đồng - Hùng Phát - 22-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1778,
+   2684
+  ],
+  "crop": [
+   1473,
+   1818
+  ],
+  "box": [
+   110,
+   293,
+   1583,
+   2111
+  ],
+  "area_reduction_pct": 43.9
+ },
+ {
+  "file": "Nguyễn Xuân Trường - AI - 22-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1371,
+   2619
+  ],
+  "crop": [
+   1371,
+   2117
+  ],
+  "box": [
+   0,
+   173,
+   1371,
+   2290
+  ],
+  "area_reduction_pct": 19.2
+ }
+]

@@ -1,0 +1,383 @@
+[
+ {
+  "key": "Nguyễn Thị Phương Thúy - Đặng Tiến Trung - 04-09-2026",
+  "loai": "GD02",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Nguyễn Thị Phương Thúy - Đặng Tiến Trung - 04-09-2026 - Ảnh 01.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_thi_phuong_thuy_đang_tien_trung_04_09_2026_1.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_thi_phuong_thuy_đang_tien_trung_04_09_2026_2.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_thi_phuong_thuy_đang_tien_trung_04_09_2026_3.jpg"
+  ],
+  "nguoi_gui": "Nguyễn Thị Phương Thúy",
+  "nvbh_trong_tuyen": [
+   "Nguyễn Thị Hằng",
+   "Nguyễn Văn Tuấn"
+  ],
+  "gsbh_tuyen": "Tây Hồ, Đống Đa, BĐình",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ],
+  "du_lieu_hien_co": {
+   "ngay": "04",
+   "thang": "09",
+   "nam": "2026",
+   "tai_npp": "Đặng Tiến Trung",
+   "dia_ban": "Hoàn Kiếm",
+   "asm": "Đinh Thị Huệ",
+   "gsbh": "Nguyễn Thị Phương Thúy",
+   "nvbh": "Trần Thị Thu Hiền",
+   "muc1": {
+    "ton_kho": "",
+    "thi_truong": "Ổn định",
+    "nhan_su": "Ổn định",
+    "khac": "NPP đề xuất nhập 1 tá gói hàm sâm đổi lấy từ kho nhập những hàng khó bán theo CT KM T9"
+   },
+   "muc2": {
+    "hang_hoa": "Đầy đủ",
+    "thi_truong": "Ổn định, hàng khó bán",
+    "chinh_sach": "Xin hỗ trợ đổi trả hàng, sale, CP, sup, theo chế độ",
+    "bao_cao": "Đầy đủ",
+    "ho_tro": "Có"
+   },
+   "muc3": "ASM thông qua BB, nắm báo cáo tại cuộc họp. Tháng qua CT KM tháng 9",
+   "muc4": "",
+   "muc5": "KH nhập: 101%. KH bán: 101%"
+  }
+ },
+ {
+  "key": "Nguyễn Tuệ Tuấn - Mạnh Lực - 04-09-2026",
+  "loai": "GD02",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Nguyễn Tuệ Tuấn - Mạnh Lực - 04-09-2026 - Ảnh 01.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_tue_tuan_manh_luc_04_09_2026_1.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_tue_tuan_manh_luc_04_09_2026_2.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_tue_tuan_manh_luc_04_09_2026_3.jpg"
+  ],
+  "nguoi_gui": "Nguyễn Tuệ Tuấn",
+  "nvbh_trong_tuyen": [
+   "Nguyễn Thị Lan Anh",
+   "Phạm Thị Hảo",
+   "Đỗ Thị Mến"
+  ],
+  "gsbh_tuyen": "Thái Nguyên",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ],
+  "du_lieu_hien_co": {
+   "ngay": "04",
+   "thang": "09",
+   "nam": "2026",
+   "tai_npp": "Mạnh Lực",
+   "dia_ban": "",
+   "asm": "",
+   "gsbh": "Nguyễn Tuệ Tuấn",
+   "nvbh": "Nguyễn Thị Lan Anh",
+   "muc1": {
+    "ton_kho": "",
+    "thi_truong": "",
+    "nhan_su": "Bình thường",
+    "khac": ""
+   },
+   "muc2": {
+    "hang_hoa": "Thiếu SKU đậu đỏ, đậu xanh",
+    "thi_truong": "Bình thường",
+    "chinh_sach": "Hỗ trợ hàng về sớm đủ SKU",
+    "bao_cao": "Đủ, đúng",
+    "ho_tro": "Có"
+   },
+   "muc3": "Đi tuyến hỗ trợ nhân viên, kiểm tra thị trường",
+   "muc4": "Mong công ty cung cấp đủ hàng",
+   "muc5": "101%"
+  }
+ },
+ {
+  "key": "Nguyễn Tuệ Tuấn - Đức Nam - 05-09-2026",
+  "loai": "GD02",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Nguyễn Tuệ Tuấn - Đức Nam - 05-09-2026 - Ảnh 01.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_tue_tuan_đuc_nam_05_09_2026_1.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_tue_tuan_đuc_nam_05_09_2026_2.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_tue_tuan_đuc_nam_05_09_2026_3.jpg"
+  ],
+  "nguoi_gui": "Nguyễn Tuệ Tuấn",
+  "nvbh_trong_tuyen": [
+   "Nguyễn Thị Lan Anh",
+   "Phạm Thị Hảo",
+   "Đỗ Thị Mến"
+  ],
+  "gsbh_tuyen": "Thái Nguyên",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ],
+  "du_lieu_hien_co": {
+   "ngay": "05",
+   "thang": "09",
+   "nam": "2026",
+   "tai_npp": "Đức Nam",
+   "dia_ban": "Thái Nguyên",
+   "asm": "",
+   "gsbh": "Nguyễn Tuệ Tuấn",
+   "nvbh": "Đỗ Thị Mến",
+   "muc1": {
+    "ton_kho": "6-3 tháng",
+    "thi_truong": "",
+    "nhan_su": "Ổn",
+    "khac": "Hợp tác nhập hàng sớm"
+   },
+   "muc2": {
+    "hang_hoa": "Thiếu SKU",
+    "thi_truong": "Hàng không đủ SKU cung cấp KH",
+    "chinh_sach": "",
+    "bao_cao": "Làm việc nhân viên, nộp báo cáo sổ sách, tủ tiết",
+    "ho_tro": ""
+   },
+   "muc3": "Đi tuyến hỗ trợ nhân viên bán hàng. Tìm kiếm, cung cấp hàng khách thiện từ thiện",
+   "muc4": "",
+   "muc5": "DS đạt 100%"
+  }
+ },
+ {
+  "key": "Nguyễn Văn Toàn - An Viên Phát - 04-09-2026",
+  "loai": "GD02",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Nguyễn Văn Toàn - An Viên Phát - 04-09-2026 - Ảnh 01.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_van_toan_an_vien_phat_04_09_2026_1.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_van_toan_an_vien_phat_04_09_2026_2.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_van_toan_an_vien_phat_04_09_2026_3.jpg"
+  ],
+  "nguoi_gui": "Nguyễn Văn Toàn",
+  "nvbh_trong_tuyen": [],
+  "gsbh_tuyen": "Kênh chợ",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ],
+  "du_lieu_hien_co": {
+   "ngay": "04",
+   "thang": "09",
+   "nam": "2026",
+   "tai_npp": "An Viên Phát",
+   "dia_ban": "Chợ La Phù",
+   "asm": "",
+   "gsbh": "Nguyễn Văn Toàn",
+   "nvbh": "",
+   "muc1": {
+    "ton_kho": "167 thùng, nợ 1339",
+    "thi_truong": "Hiện tại cả bán, ổn định và giá bán",
+    "nhan_su": "1 GSBH",
+    "khac": "Hàng nợ NPP có nhiều đề xuất hỗ trợ khuyến mãi, T8 dư, cần độ bán phủ"
+   },
+   "muc2": {
+    "hang_hoa": "",
+    "thi_truong": "",
+    "chinh_sach": "",
+    "bao_cao": "",
+    "ho_tro": "Có"
+   },
+   "muc3": "Theo dõi cùng nhà phân phối ổn định giá bán",
+   "muc4": "Các tăng doanh số, + SKU mở vào điểm bán. Thúc đẩy bán hàng, quản lý tốt cho NPP",
+   "muc5": "Nhập hàng đúng tiến độ"
+  }
+ },
+ {
+  "key": "Nguyễn Văn Toàn - Hùng Phát sỉ - 05-09-2026",
+  "loai": "GD02",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Nguyễn Văn Toàn - Hùng Phát sỉ - 05-09-2026 - Ảnh 01.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_van_toan_hung_phat_si_05_09_2026_1.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_van_toan_hung_phat_si_05_09_2026_2.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_van_toan_hung_phat_si_05_09_2026_3.jpg"
+  ],
+  "nguoi_gui": "Nguyễn Văn Toàn",
+  "nvbh_trong_tuyen": [],
+  "gsbh_tuyen": "Kênh chợ",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ],
+  "du_lieu_hien_co": {
+   "ngay": "05",
+   "thang": "09",
+   "nam": "2026",
+   "tai_npp": "Hùng Phát sỉ",
+   "dia_ban": "HBT",
+   "asm": "",
+   "gsbh": "Nguyễn Văn Toàn",
+   "nvbh": "",
+   "muc1": {
+    "ton_kho": "M2",
+    "thi_truong": "Khan hiếm hàng, hàng gia tăng SKU vừa bán được",
+    "nhan_su": "1 GSBH",
+    "khac": "Thuê đại lý mảng gạo, tồn kho. Ổn định giá bán, giao vận hợp tác"
+   },
+   "muc2": {
+    "hang_hoa": "",
+    "thi_truong": "",
+    "chinh_sach": "",
+    "bao_cao": "",
+    "ho_tro": ""
+   },
+   "muc3": "Tập trung bán hàng, thúc đẩy doanh số. Kết hợp cùng NPP giải quyết hàng tồn kho",
+   "muc4": "Giải quyết những khó khăn ngành thị trường",
+   "muc5": "Nhập hàng chú ý tiêu doanh số. Lên kế hoạch nhập hàng tháng 9/2026"
+  }
+ },
+ {
+  "key": "Nguyễn Văn Tuấn - Hữu Hiền - 04-09-2026",
+  "loai": "GD02",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Nguyễn Văn Tuấn - Hữu Hiền - 04-09-2026 - Ảnh 01.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_van_tuan_huu_hien_04_09_2026_1.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_van_tuan_huu_hien_04_09_2026_2.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_van_tuan_huu_hien_04_09_2026_3.jpg"
+  ],
+  "nguoi_gui": "Nguyễn Văn Tuấn",
+  "nvbh_trong_tuyen": [
+   "Phạm Thu Hữu",
+   "Đào Xuân Hoá"
+  ],
+  "gsbh_tuyen": "Hòa Bình",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ],
+  "du_lieu_hien_co": {
+   "ngay": "04",
+   "thang": "09",
+   "nam": "2026",
+   "tai_npp": "Hữu Hiền",
+   "dia_ban": "Hòa Bình",
+   "asm": "",
+   "gsbh": "Nguyễn Văn Tuấn",
+   "nvbh": "Phạm Thu Hữu",
+   "muc1": {
+    "ton_kho": "180 triệu",
+    "thi_truong": "Ổn định, 1 số KH lâu chưa hoàn nghĩa vụ",
+    "nhan_su": "LV chuẩn chỉ, chưa khỏe",
+    "khac": "Không có"
+   },
+   "muc2": {
+    "hang_hoa": "Thiếu 1 vài SKU như nếp cẩm",
+    "thi_truong": "Ổn định, 1 vài chưa ứng vừa đủ hạ giai",
+    "chinh_sach": "Xin trợ giúp gia mở mua, BC in ra",
+    "bao_cao": "Xin in bảng sách KK, chép",
+    "ho_tro": "Có"
+   },
+   "muc3": "Đề nghị công ty tăng lượng đủ hợp lý, ổn định, không thiếu hụt",
+   "muc4": "Không có",
+   "muc5": "Đạt lãi 70% DS khoảng T8/2027"
+  }
+ },
+ {
+  "key": "Nguyễn Văn Tuấn - Định Nhuận - 05-09-2026",
+  "loai": "GD02",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Nguyễn Văn Tuấn - Định Nhuận - 05-09-2026 - Ảnh 01.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_van_tuan_đinh_nhuan_05_09_2026_1.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_van_tuan_đinh_nhuan_05_09_2026_2.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_van_tuan_đinh_nhuan_05_09_2026_3.jpg"
+  ],
+  "nguoi_gui": "Nguyễn Văn Tuấn",
+  "nvbh_trong_tuyen": [
+   "Phạm Thu Hữu",
+   "Đào Xuân Hoá"
+  ],
+  "gsbh_tuyen": "Hòa Bình",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ],
+  "du_lieu_hien_co": {
+   "ngay": "05",
+   "thang": "09",
+   "nam": "2026",
+   "tai_npp": "Định Nhuận",
+   "dia_ban": "Hòa Bình",
+   "asm": "",
+   "gsbh": "Nguyễn Văn Tuấn",
+   "nvbh": "Đào Xuân Hoá",
+   "muc1": {
+    "ton_kho": "160.7 triệu",
+    "thi_truong": "Ổn định, các khu vực giáp danh vẫn bị hạ trội",
+    "nhan_su": "Ổn định, ý thức làm việc tốt",
+    "khac": "Không có"
+   },
+   "muc2": {
+    "hang_hoa": "Thiếu hạ chủ mẫu",
+    "thi_truong": "Ổn định, KV giáp danh vẫn bị hạ trội",
+    "chinh_sach": "Tốt, mưa nhiều chưa đảm bảo du lịch",
+    "bao_cao": "Đầy đủ, hoàn thành đúng hạn",
+    "ho_tro": ""
+   },
+   "muc3": "Xin cho NVBH đi du lịch năm 2026",
+   "muc4": "Không có",
+   "muc5": "Đạt kém, tăng khá NV bán ngày 17/8/2026"
+  }
+ },
+ {
+  "key": "Nguyễn Xuân Thắng - Hoa Thắng - 05-09-2026",
+  "loai": "GD02",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Nguyễn Xuân Thắng - Hoa Thắng - 05-09-2026 - Ảnh 01.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_xuan_thang_hoa_thang_05_09_2026_1.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_xuan_thang_hoa_thang_05_09_2026_2.jpg",
+   "C:\\NVAI\\Claude\\bien-ban-hop\\tools\\..\\data\\zoom\\nguyen_xuan_thang_hoa_thang_05_09_2026_3.jpg"
+  ],
+  "nguoi_gui": "Nguyễn Xuân Thắng",
+  "nvbh_trong_tuyen": [
+   "Hoàng Trường Sinh",
+   "Hồ Văn Sang",
+   "Đào Văn Tắc"
+  ],
+  "gsbh_tuyen": "Hưng Yên",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ],
+  "du_lieu_hien_co": {
+   "ngay": "05",
+   "thang": "09",
+   "nam": "2026",
+   "tai_npp": "Hoa Thắng",
+   "dia_ban": "Hưng Yên",
+   "asm": "",
+   "gsbh": "Nguyễn Xuân Thắng",
+   "nvbh": "Hồ Văn Sang",
+   "muc1": {
+    "ton_kho": "3,8 thùng",
+    "thi_truong": "Bán hàng ổn định",
+    "nhan_su": "Ổn định",
+    "khac": "Hay xin mở bán mở đa"
+   },
+   "muc2": {
+    "hang_hoa": "Đảm bảo hàng đa dạng thị trường",
+    "thi_truong": "Khách hàng hay đòi thêm hàng lẻ",
+    "chinh_sach": "Ổn định",
+    "bao_cao": "Đầy đủ",
+    "ho_tro": "Có"
+   },
+   "muc3": "Tập trung bán lô, mở bán",
+   "muc4": "NPP và GS, NVBH đẩy lô hàng khó bán ở NPP, nhập hàng",
+   "muc5": "Triển khai mở bán ở NPP, đẩy hàng ổn định"
+  }
+ }
+]

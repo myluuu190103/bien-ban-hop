@@ -1,0 +1,156 @@
+[
+  {
+    "key": "Trần Hữu Đoàn - Đại Dương - 12-09-2026",
+    "gsbh_ky": "Trần Hữu Đoàn",
+    "asm_ky": null,
+    "npp_ky": "Lê Thị Ngà",
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": ""
+  },
+  {
+    "key": "Nguyễn Thị Phương Thúy - Đặng Tiến Trung - 12-09-2026",
+    "gsbh_ky": "Nguyễn Thị Phương Thúy",
+    "asm_ky": null,
+    "npp_ky": "Trần Thị Thu Trình",
+    "nvbh_du_hop": "Trần Thị Thu Trình",
+    "chi_dong_dau": false,
+    "ky_thay": true,
+    "khong_doc_duoc": false,
+    "ghi_chu": "NVBH Trần Thị Thu Trình ký cả ở ô NVBH và ô Đại diện NPP (ký thay NPP)."
+  },
+  {
+    "key": "Nguyễn Văn Tuấn - Định Nhuận - 12-09-2026",
+    "gsbh_ky": "Nguyễn Văn Tuấn",
+    "asm_ky": null,
+    "npp_ky": "Lê Xuân Phương",
+    "nvbh_du_hop": "Đào Xuân Kiên",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Ảnh chụp nghiêng và mờ, chữ ký khó đọc, đã đọc theo khả năng tốt nhất."
+  },
+  {
+    "key": "Nguyễn Văn Toàn - An Viên Phát - 14-09-2026",
+    "gsbh_ky": "Nguyễn Văn Toàn",
+    "asm_ky": null,
+    "npp_ky": "Giang",
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": ""
+  },
+  {
+    "key": "Nguyễn Quốc Thắm - Bảo Cường - 14-09-2026",
+    "gsbh_ky": "Nguyễn Quốc Thắm",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Cột NPP có chữ ký nhưng tên viết tay không đọc rõ (nét gần giống 'Kiên')."
+  },
+  {
+    "key": "Đỗ Quang Tý - Hiếu Thảo - 14-09-2026",
+    "gsbh_ky": "Đỗ Quang Tý",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Nguyễn Văn Thái",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Chỉ có GSBH và NVBH ký, không có ô/chữ ký của NPP trong biên bản này."
+  },
+  {
+    "key": "Mai Thị Hạnh - Hiền Tuệ - 14-09-2026",
+    "gsbh_ky": "Mai Thị Hạnh",
+    "asm_ky": null,
+    "npp_ky": "Hiến",
+    "nvbh_du_hop": "Diệu, Chy",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu 'Biên bản kiểm tra thị trường (ASM, GS, NVBH)' khác với mẫu NPP thông thường; không có ASM ký trong lần này."
+  },
+  {
+    "key": "Chu Công Kiên - Huy Đạt - 14-09-2026",
+    "gsbh_ky": "Chu Công Kiên",
+    "asm_ky": null,
+    "npp_ky": "Phương Thị Lí",
+    "nvbh_du_hop": "Đỗ Ngọc Hậu, Phùng Văn Đại",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": ""
+  },
+  {
+    "key": "Nguyễn Thị Phương Thúy - Hương Nhài - 14-09-2026",
+    "gsbh_ky": "Nguyễn Thị Phương Thúy",
+    "asm_ky": null,
+    "npp_ky": "Trần Thị Nhài",
+    "nvbh_du_hop": "Nguyễn Thị Hằng",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": ""
+  },
+  {
+    "key": "Nguyễn Phú Lộc - Họp Kinh doanh siêu thị - 14-09-2026",
+    "gsbh_ky": null,
+    "asm_ky": "Nguyễn Phú Lộc",
+    "npp_ky": null,
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Đây là 'Biên bản họp bộ phận kinh doanh siêu thị' (mẫu GĐ03), không phải biên bản ký với một NPP cụ thể. Nhiều GSBH cùng ký (Diệp, Nhung, Yến, Huyền, Linh, Xuân...) và GĐBH siêu thị (Vũ Hải Yến...) nhưng chữ viết tay từng người quá mờ để tách riêng, nên không ghi gsbh_ky cụ thể."
+  },
+  {
+    "key": "Ngô Huy Thanh - Phương Đông - 14-09-2026",
+    "gsbh_ky": "Ngô Huy Thanh",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Vân Anh, Ngân, Vinh, Hương",
+    "chi_dong_dau": true,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Ô NPP có chữ ký tay kèm dấu tròn đỏ của Công ty TNHH TM&DV Phương Đông Bắc Ninh, nhưng tên người ký không đọc rõ."
+  },
+  {
+    "key": "Đào Văn Sơn - Thịnh Long - 14-09-2026",
+    "gsbh_ky": "Đào Văn Sơn",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Đinh Thị Thùy Linh",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Chỉ có GSBH và NVBH ký, không có chữ ký NPP trong biên bản này."
+  },
+  {
+    "key": "Nguyễn Đức Tôn - Liêm Xuân - 14-09-2026",
+    "gsbh_ky": "Nguyễn Đức Tôn",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Nguyễn Xuân Thọ",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Chỉ có GSBH và NVBH ký, không có chữ ký NPP trong biên bản này."
+  },
+  {
+    "key": "Nguyễn Văn Đồng - Hoa Thắng - 15-09-2026",
+    "gsbh_ky": "Nguyễn Xuân Thuỷ",
+    "asm_ky": null,
+    "npp_ky": "Phùng Hưng Tuệ",
+    "nvbh_du_hop": "Hồ Văn Sang",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Đây là mẫu 'Biên bản họp GĐKD và nhà phân phối', người lập biên bản là GĐKD Nguyễn Văn Đồng (ký ở cột riêng ngoài 4 vai trò chuẩn), không phải GSBH/ASM/NPP/NVBH theo đúng schema; tên NPP ký đọc không hoàn toàn chắc chắn."
+  }
+]

@@ -1,0 +1,26 @@
+[
+ {
+  "key": "Trần Đức Phong - Long Giang - 08-09-2026",
+  "field": "ton_kho",
+  "gia_tri_moi": "Có đủ thùng",
+  "ly_do": "Ảnh có ghi dòng Tồn kho (chữ viết tay 'Có đủ thg'), bản gõ đang để trống"
+ },
+ {
+  "key": "Trần Đức Phong - Long Giang - 08-09-2026",
+  "field": "muc5",
+  "gia_tri_moi": "Nhập 101% trước ngày 20 và bán 101%",
+  "ly_do": "Bản gõ thiếu hai con số %: ảnh ghi 'Nhập 101% trước ngày 20 và bán 101%'"
+ },
+ {
+  "key": "Trịnh Văn Dũng - Trình Oanh - 07-09-2026",
+  "field": "ton_kho",
+  "gia_tri_moi": "588 thùng",
+  "ly_do": "Ảnh ghi '5.88 thùng' (dấu chấm phân cách), không phải '5-8'"
+ },
+ {
+  "key": "Đinh Thị Huệ - Hà Sơn - 11-09-2026",
+  "field": "muc1_khac",
+  "gia_tri_moi": "Thông tin trao đổi với nhà phân phối: Ngô Xuân Nam, sinh 25.11.1980. Làm việc tại: Công ty CP Bình Đạt (Thăng Long?) NPP Bắc Á. Có thăng tiến (vận chuyển phân phối) NPP Nhất Vinh đt 090.225.1789. Chủ thức uống/phân thuộc nhóm NPP Vĩnh Thành đt 033.242.3098. Địa chỉ: SN 15A, 15B, xóm Mới, xã Đông Diễn, tỉnh Nghệ An. Thành phần gia đình: có 2 cháu, vợ kinh doanh cửa hàng thiết bị. Bạn: chị tiếp nhận công văn đã nghỉ ở công ty từ tháng 11/2026.",
+  "ly_do": "Đọc lại số: năm sinh 1980 (không phải 1970); đt 1 đuôi 1789 (không phải 4789); đt 2 là 033.242.3098 (không phải 035.292.3098); số nhà 15A, 15B; 'có 2 cháu'; mốc nghỉ việc T11/2026 (không phải 7/2016)"
+ }
+]

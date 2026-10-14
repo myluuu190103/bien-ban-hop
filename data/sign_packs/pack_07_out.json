@@ -1,0 +1,156 @@
+[
+  {
+    "key": "Trần Hữu Đoàn - Mạnh Nam - 10-09-2026",
+    "gsbh_ky": "Trần Hữu Đoàn",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Ng. Thị Thảo",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu chỉ có 2 cột ký: GSBH và NVBH, không có cột ASM/NPP trên trang này"
+  },
+  {
+    "key": "Cầm Thế Khái - Vĩnh Hoàn - 10-09-2026",
+    "gsbh_ky": "Cẩm Thế Khái",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Có chữ ký ở cột 'Nhân viên' nhưng tên viết tay không đọc rõ; không thấy nhãn cột NPP/ASM rõ ràng trên ảnh; dòng 'Làm việc với' ở đầu trang cũng quá mờ không đọc được tên NVBH"
+  },
+  {
+    "key": "Nguyễn Đình Trọng - Đức Mạnh - 10-09-2026",
+    "gsbh_ky": "Trần Ngọc Lâm",
+    "asm_ky": "Nguyễn Đình Trọng",
+    "npp_ky": null,
+    "nvbh_du_hop": "Lê Thị Vân",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu có 3 cột ký: NVBH, GSBH, ASM; không có cột NPP ký riêng trên trang này"
+  },
+  {
+    "key": "Trần Ngọc Lâm - Đức Mạnh - 10-09-2026",
+    "gsbh_ky": "Trần Ngọc Lâm",
+    "asm_ky": "Nguyễn Đình Trọng",
+    "npp_ky": null,
+    "nvbh_du_hop": "Lê Thị Vân",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu có 3 cột ký: GSBH, NVBH, ASM; không có cột NPP ký riêng trên trang này"
+  },
+  {
+    "key": "Phạm Thanh Sơn - Duyên Hùng - 11-09-2026",
+    "gsbh_ky": "Phạm Thanh Sơn",
+    "asm_ky": null,
+    "npp_ky": "Đặng Quang Huy",
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Cột NVBH có 2 chữ ký (một dòng khó đọc, dòng còn lại đọc được gần giống 'Nguyễn Đức Chiến') nhưng đầu trang không ghi rõ tên NVBH nên để trống nvbh_du_hop"
+  },
+  {
+    "key": "Phan Ngọc Bích - Hoa Hồng - 11-09-2026",
+    "gsbh_ky": "Phan Ngọc Bích",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Cột NVBH ghi chú 'đang bận họp' (vắng), không có chữ ký NVBH; mẫu không có cột NPP/ASM riêng"
+  },
+  {
+    "key": "Nguyễn Thị Phương Thúy - Huệ Phát - 11-09-2026",
+    "gsbh_ky": "Nguyễn Thị Phương Thúy",
+    "asm_ky": null,
+    "npp_ky": "Cao Văn Nguyên",
+    "nvbh_du_hop": "Nguyễn Văn Tuấn",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Cột thứ 3 ghi 'Đại diện NPP' với chữ ký Cao Văn Nguyên"
+  },
+  {
+    "key": "Đinh Thị Huệ - Hà Sơn - 11-09-2026",
+    "gsbh_ky": "Ngô Xuân Nam",
+    "asm_ky": "Đinh Thị Huệ",
+    "npp_ky": null,
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu GĐ02 (Biên bản họp GDKD và nhà phân phối); mục 'Xác nhận NPP' để trống, không có chữ ký NPP; nội dung họp nhắc tới NPP 'Nhất Việt Á'"
+  },
+  {
+    "key": "Nguyễn Văn Tuấn - Hữu Hiền - 11-09-2026",
+    "gsbh_ky": "Nguyễn Văn Tuấn",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Có đủ 3 chữ ký (NPP, NVBH, GSBH) nhưng tên viết tay ở cột NPP và NVBH quá khó đọc để ghi chắc chắn"
+  },
+  {
+    "key": "Nguyễn Quốc Thắm - Linh Anh - 11-09-2026",
+    "gsbh_ky": "Nguyễn Quốc Thắm",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Có chữ ký ở cột NPP nhưng tên viết tay không đọc rõ; mẫu chỉ có 2 cột ký GSBH và NPP, không có ASM/NVBH"
+  },
+  {
+    "key": "Đàm Ngọc Sơn - Long Minh Trang - 11-09-2026",
+    "gsbh_ky": "Đàm Ngọc Sơn",
+    "asm_ky": null,
+    "npp_ky": "Vũ Thị Thắm",
+    "nvbh_du_hop": "Nguyễn Hoài Dương",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Tên người ký cột NPP đọc chưa hoàn toàn chắc chắn (gần giống 'Vũ Thị Thắm')"
+  },
+  {
+    "key": "Trần Đức Phong - Minh Lâm - 11-09-2026",
+    "gsbh_ky": "Trần Đức Phong",
+    "asm_ky": null,
+    "npp_ky": "Nguyễn Đình Tuyết",
+    "nvbh_du_hop": "Đỗ Thị Thu Duyên",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu GĐ02; đầu trang ghi ASM tham dự là 'A.Nguyễn Văn Đông' (chữ viết không chắc chắn) nhưng chữ ký ở cột ASM cuối trang quá mờ, không đọc được tên rõ ràng nên để trống asm_ky"
+  },
+  {
+    "key": "Nhữ Hồng Huy - Minh Phúc HD - 11-09-2026",
+    "gsbh_ky": "Nhữ Hồng Huy",
+    "asm_ky": null,
+    "npp_ky": "Đỗ Thị Tâm",
+    "nvbh_du_hop": "Lê Quý Quyết, Cô Văn Tuyến",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Cột NPP ghi 'Đại diện NPP' - Đỗ Thị Tâm; có 2 NVBH cùng ký (2 cột NVBH1, NVBH2)"
+  },
+  {
+    "key": "Nguyễn Tuệ Tuấn - Mạnh Lực - 11-09-2026",
+    "gsbh_ky": "Nguyễn Tuệ Tuấn",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Phạm Thị Hảo",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Đầu trang ghi làm việc với ASM Trọng và chị Trang (chủ NPP); có 4 chữ ký (Hảo, Tuấn, 1 chữ ký không rõ tên có thể là ASM, và NPP) nhưng tên ở 2 chữ ký sau (ASM và NPP) viết tay không đọc rõ nên để trống"
+  }
+]

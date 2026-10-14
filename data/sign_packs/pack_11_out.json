@@ -1,0 +1,156 @@
+[
+  {
+    "key": "Nguyễn Quốc Thắm - Linh Anh - 16-09-2026",
+    "gsbh_ky": null,
+    "asm_ky": null,
+    "npp_ky": "Nguyễn Hưng Vũ",
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu khác thường (GĐKD họp với chủ NPP): các ô ký cuối trang ghi là NPP/NV/GĐ chứ không phải GSBH/ASM/NPP. Ô NV ký tên 'Thái' (không rõ họ tên đầy đủ), ô GĐ ký tên Nguyễn Q Thắm (chính là người lập biên bản)."
+  },
+  {
+    "key": "Nguyễn Đình Trọng - Thảo Nam - 16-09-2026",
+    "gsbh_ky": "Nguyễn Đức Tôn",
+    "asm_ky": "Nguyễn Đình Trọng",
+    "npp_ky": "Trịnh Thị Như",
+    "nvbh_du_hop": "Đào Văn Tài",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": ""
+  },
+  {
+    "key": "Nguyễn Đức Tôn - Thảo Nam Phú Thọ - 16-09-2026",
+    "gsbh_ky": "Nguyễn Đức Tôn",
+    "asm_ky": null,
+    "npp_ky": "Trịnh Thị Như",
+    "nvbh_du_hop": "Đào Văn Tài",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Mẫu GĐ03 (Biên bản họp GĐKD và NPP). NPP ghi ở phần 'Thành phần dự họp' là Trần Thị Huệ nhưng người ký ở ô 'Xác nhận NPP' lại là Trịnh Thị Như; không có ô ký riêng cho ASM dù ASM (Nguyễn Đình Trọng) có tên trong thành phần dự họp."
+  },
+  {
+    "key": "Trần Ngọc Lâm - Đức Mạnh - 16-09-2026",
+    "gsbh_ky": "Trần Ngọc Lâm",
+    "asm_ky": null,
+    "npp_ky": "Nguyễn Thị Huấy",
+    "nvbh_du_hop": "Lê Thị Vân",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Tên NPP ký cuối trang khó đọc chắc chắn, ghi theo nét chữ đọc được gần đúng nhất."
+  },
+  {
+    "key": "Nguyễn Xuân Trường - AI - 17-09-2026",
+    "gsbh_ky": "Nguyễn Xuân Triều",
+    "asm_ky": null,
+    "npp_ky": "Trịnh Thị Hường",
+    "nvbh_du_hop": "Phạm Thị Liễu",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Tên trong key (Nguyễn Xuân Trường) không khớp với tên GSBH ghi/ký trên biên bản (Nguyễn Xuân Triều); biên bản không có người dự họp vai trò ASM."
+  },
+  {
+    "key": "Phan Ngọc Bích - Hoa Hồng - 17-09-2026",
+    "gsbh_ky": "Phan Ngọc Bích",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Đặng Bá Hai",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Biên bản không có ô ký xác nhận NPP riêng (chỉ có NVBH và GSBH ký), phần 'Làm việc với' đầu trang cũng để trống."
+  },
+  {
+    "key": "Bùi Thị Thái Hà - Hùng Phát lẻ - 17-09-2026",
+    "gsbh_ky": "Bùi Thị Thái Hà",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Chữ ký ở ô NPP và NV cuối trang quá khó đọc để ghi rõ họ tên đầy đủ."
+  },
+  {
+    "key": "Nguyễn Văn Tuấn - Hữu Hiền - 17-09-2026",
+    "gsbh_ky": "Nguyễn Văn Tuấn",
+    "asm_ky": null,
+    "npp_ky": "Phan Ngọc Ánh",
+    "nvbh_du_hop": "Phan Thu Huệ",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": ""
+  },
+  {
+    "key": "Trần Đức Phong - Long Giang - 17-09-2026",
+    "gsbh_ky": "Trần Đức Phong",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Ô 'Xác nhận NPP' để trống, không có chữ ký. Ô 'ASM' có ghi chú tay 'NV' phía trên chữ ký (có thể là NVBH ký thay vào ô ASM chứ không phải ô NPP nên không khớp đúng quy tắc ky_thay); tên NVBH ghi ở đầu trang quá mờ không đọc chắc chắn."
+  },
+  {
+    "key": "Đàm Ngọc Sơn - Long Minh Trang - 17-09-2026",
+    "gsbh_ky": "Đàm Ngọc Sơn",
+    "asm_ky": null,
+    "npp_ky": "Vũ Thị Thắm",
+    "nvbh_du_hop": "Nguyễn Hải Dương",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": ""
+  },
+  {
+    "key": "Nguyễn Văn Đồng - Minh Khuê - 17-09-2026",
+    "gsbh_ky": "Nguyễn Xuân Thắng",
+    "asm_ky": "Nguyễn Văn Đồng",
+    "npp_ky": "Vũ Văn Phước",
+    "nvbh_du_hop": "Đào Văn Tài",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "NPP ghi trên đầu trang là 'Mỏ Chè' (địa bàn Thái Nguyên), không phải tên 'Minh Khuê' như trong key. Chữ ký ô ASM chỉ là nét ký ngoáy không có tên viết kèm, gán theo tên ASM đã ghi ở 'Thành phần dự họp'."
+  },
+  {
+    "key": "Nguyễn Xuân Thắng - Minh Khuê - 17-09-2026",
+    "gsbh_ky": "Nguyễn Xuân Thắng",
+    "asm_ky": "Nguyễn Văn Đồng",
+    "npp_ky": "Vũ Văn Phước",
+    "nvbh_du_hop": "Đào Văn Tài",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Ảnh giống hệt với key 'Nguyễn Văn Đồng - Minh Khuê - 17-09-2026' (cùng một biên bản). NPP ghi trên đầu trang là 'Mỏ Chè', không phải 'Minh Khuê' như trong key."
+  },
+  {
+    "key": "Nhữ Hồng Huy - Minh Phúc HD - 17-09-2026",
+    "gsbh_ky": "Nhữ Hồng Huy",
+    "asm_ky": null,
+    "npp_ky": "Đỗ Thị Tâm",
+    "nvbh_du_hop": "Lê Quý Quỳnh, Cổ Văn Tuyên",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "NPP ký với vai trò 'Đại diện NPP' (Đỗ Thị Tâm), có 2 NVBH cùng dự họp và ký."
+  },
+  {
+    "key": "Phan Thị Thanh Hải - Phúc Thành Đạt - 17-09-2026",
+    "gsbh_ky": "Phan Thị Thanh Hải",
+    "asm_ky": null,
+    "npp_ky": "Hoàng Thị Linh",
+    "nvbh_du_hop": "Đỗ Thị Nhung, Trần Thị Dung",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Không có ASM dự họp. Người ký ở ô 'Xác nhận NPP' là Hoàng Thị Linh dù NPP ghi tên là 'Phúc Thành Đạt' (có thể là người đại diện/chủ NPP)."
+  }
+]

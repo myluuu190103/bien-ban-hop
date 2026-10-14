@@ -1,0 +1,134 @@
+[
+ {
+  "key": "Nhữ Hồng Huy - Minh Phúc HD - 26-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Minh Phúc HD",
+  "asm": "Nguyễn Đình Vương",
+  "gsbh": "Nhữ Hồng Huy",
+  "nvbh": ["Lê Quý Quỳnh", "Lê Văn Tuyến"],
+  "npp_nguoi_ky": "Đỗ Thị Bâm",
+  "ton_kho_thung": "1020",
+  "ghi_chu": "Tên ASM viết trên giấy là Nguyễn Đình Vương, không có trong asm_danh_sach. Dòng 'NVBH' trong Thành phần dự họp chỉ ghi Lê Quý Quỳnh, dòng 'NPP' ghi Lê Văn Tuyến (thực tế là NVBH, ký ở cột NVBH1 chân trang)."
+ },
+ {
+  "key": "Phan Ngọc Bích - Hoa Hồng - 27-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Hoa Hồng",
+  "asm": "",
+  "gsbh": "Phan Ngọc Bích",
+  "nvbh": ["Đặng Bá Hải"],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "",
+  "ghi_chu": "NVBH Đặng Bá Hải không nằm trong nvbh_trong_tuyen của gói. Cột Xác nhận NPP bỏ trống, mục Tồn kho bỏ trống."
+ },
+ {
+  "key": "Phan Ngọc Bích - Minh Hưng - 28-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Minh Hưng",
+  "asm": "",
+  "gsbh": "Phan Ngọc Bích",
+  "nvbh": ["Vũ Hồng Sơn"],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "",
+  "ghi_chu": "Cột Xác nhận NPP bỏ trống, mục Tồn kho bỏ trống."
+ },
+ {
+  "key": "Phan Thị Thanh Hải - Phúc Thành Đạt - 27-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Phúc Thành Đạt",
+  "asm": "",
+  "gsbh": "Phan Thị Thanh Hải",
+  "nvbh": ["Đỗ Thị Nhung", "Trần Thị Dung"],
+  "npp_nguoi_ky": "Hoàng Thị Linh",
+  "ton_kho_thung": "865",
+  "ghi_chu": "Tồn kho ghi '865 (chưa bao gồm hàng nợ + KM)'. Cột ASM ký để trống."
+ },
+ {
+  "key": "Phan Thị Thanh Hải - Phượng Hoàn - 25-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Trần Thị Phượng",
+  "asm": "",
+  "gsbh": "Phan Thị Thanh Hải",
+  "nvbh": ["Lê Thị Lan"],
+  "npp_nguoi_ky": "Trần Thị Phượng",
+  "ton_kho_thung": "468",
+  "ghi_chu": "Tên NPP trên giấy là 'Trần Thị Phượng' (tên file ghi 'Phượng Hoàn'). Tồn kho ghi '468 (chưa bao gồm hàng nợ)'. Cột ASM để trống."
+ },
+ {
+  "key": "Phạm Thanh Sơn - Bảo Thắm - 29-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Bảo Thắm",
+  "asm": "Nguyễn Văn Đồng",
+  "gsbh": "Phạm Thanh Sơn",
+  "nvbh": ["Nguyễn Văn Đức"],
+  "npp_nguoi_ky": "Nguyễn Thị Thắm",
+  "ton_kho_thung": "1172",
+  "ghi_chu": ""
+ },
+ {
+  "key": "Phạm Thanh Sơn - Duyên Hùng - 24-08-2026",
+  "mau": "khác",
+  "tai_npp": "",
+  "asm": "",
+  "gsbh": "",
+  "nvbh": [],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "",
+  "ghi_chu": "Ảnh chụp cảnh 3 người ngồi họp (kiểu selfie), không phải ảnh biên bản; tờ giấy trên bàn quá nhỏ và mờ, không đọc được nội dung."
+ },
+ {
+  "key": "Toàn Văn Thuận - Thành Trung LS - 25-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Thành Trung",
+  "asm": "",
+  "gsbh": "Toàn Văn Thuận",
+  "nvbh": ["Nguyễn Thị Ngọc Anh"],
+  "npp_nguoi_ky": "Lê Thị Hoa",
+  "ton_kho_thung": "1195",
+  "ghi_chu": "Dòng ASM trong Thành phần dự họp bỏ trống."
+ },
+ {
+  "key": "Trần Hữu Đoàn - Minh Ý - 29-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Minh Ý",
+  "asm": "",
+  "gsbh": "Trần Hữu Đoàn",
+  "nvbh": ["Nguyễn Thanh Nhân"],
+  "npp_nguoi_ky": "Đinh Xuân Liêu",
+  "ton_kho_thung": "445",
+  "ghi_chu": "Tồn kho ghi 'Tổng tồn 445 T'. NVBH Nguyễn Thanh Nhân không nằm trong nvbh_trong_tuyen của gói (tuyến ghi Nguyễn Quốc Đại, Nguyễn Thị Thạo)."
+ },
+ {
+  "key": "Trần Hữu Đoàn - Mạnh Nam - 24-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Mạnh Nam",
+  "asm": "",
+  "gsbh": "Trần Hữu Đoàn",
+  "nvbh": ["Nguyễn Thị Thạo"],
+  "npp_nguoi_ky": "Đào Văn Nhuận",
+  "ton_kho_thung": "394",
+  "ghi_chu": "Ô Xác nhận NPP là con dấu chức danh đỏ 'GIÁM ĐỐC Đào Văn Nhuận' (không ký tay). Tồn kho ghi 'Tổng tồn 394 T (chưa tính 90 T Cty NĐ)'."
+ },
+ {
+  "key": "Trần Hữu Đoàn - Đại Dương - 28-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Đại Dương",
+  "asm": "",
+  "gsbh": "Trần Hữu Đoàn",
+  "nvbh": ["Nguyễn Quốc Đại"],
+  "npp_nguoi_ky": "Lê Thị Ngà",
+  "ton_kho_thung": "1501",
+  "ghi_chu": "Tồn kho ghi 'Đầy đủ hàng bán - tồn kho 1.501 T, Cty NB 119 T'."
+ },
+ {
+  "key": "Trần Ngọc Lâm - Phương Anh - 28-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Phương Anh",
+  "asm": "",
+  "gsbh": "Trần Ngọc Lâm",
+  "nvbh": ["Nguyễn Thị Miên"],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "714",
+  "ghi_chu": "Cột Xác nhận NPP bỏ trống."
+ }
+]

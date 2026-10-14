@@ -1,0 +1,26 @@
+[
+  {
+    "key": "Phan Ngọc Bích - Minh Hưng - 25-09-2026",
+    "field": "m1",
+    "gia_tri_moi": "Ảnh hưởng Trung Thu, hàng rất ế chậm",
+    "ly_do": "Ảnh zoom đọc rõ chữ 'rất', không phải 'vẫn' (\"Anh hưởng Trung Thu hàng rất ế chậm\")"
+  },
+  {
+    "key": "Phan Ngọc Bích - Minh Hưng - 25-09-2026",
+    "field": "lam_viec_voi",
+    "gia_tri_moi": "Vũ Hồng Sơn - NVBH",
+    "ly_do": "Dòng 'Làm việc với' ở đầu biên bản bị bỏ trống, nhưng phần ký tên cuối trang ghi rõ NVBH là Vũ Hồng Sơn (chữ ký + ghi rõ họ tên khớp)"
+  },
+  {
+    "key": "Phạm Thanh Sơn - Bảo Thắm - 26-09-2026",
+    "field": "lam_viec_voi",
+    "gia_tri_moi": "Nguyễn Văn Đó - NVBH, Hải Phòng",
+    "ly_do": "Dòng 'Làm việc với' chỉ ghi địa bàn 'Hải Phòng', thiếu tên người; phần ký tên NVBH cuối biên bản ghi rõ 'Nguyễn Văn Đó' (không khớp tên nào trong nvbh_trong_tuyen nên giữ theo mặt chữ)"
+  },
+  {
+    "key": "Trần Hữu Đoàn - Minh Ý - 26-09-2026",
+    "field": "m8",
+    "gia_tri_moi": "Xin lô nhập siêu bán chậm, nước sốt, súp lơ, nước trái cây, cà phê. Trả hàng bán cho NPP",
+    "ly_do": "Đoạn cuối bị đọc nhầm thành 'cà phê giả hay bán cho NPP'; ảnh zoom đọc rõ là '...cà phê. Trả hàng bán cho NPP'"
+  }
+]

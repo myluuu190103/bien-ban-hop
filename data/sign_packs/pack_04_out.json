@@ -1,0 +1,156 @@
+[
+  {
+    "key": "Lại Văn Thịnh - Ngọc Bích - 05-09-2026",
+    "gsbh_ky": "Lại Văn Thịnh",
+    "asm_ky": null,
+    "npp_ky": "Vũ Tiến Công",
+    "nvbh_du_hop": "Nguyễn Văn Thắng, Trần Đức Quang",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": ""
+  },
+  {
+    "key": "Mai Thị Hạnh - Phạm Bảo Khánh - 05-09-2026",
+    "gsbh_ky": "Mai Thị Hạnh",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Nguyễn Thị Hiền",
+    "chi_dong_dau": true,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Ô Xác nhận NPP chỉ có dấu mộc đỏ công ty Phạm Bảo Khánh, không có nét ký tay, không ghi rõ tên người ký"
+  },
+  {
+    "key": "Đinh Xuân Mỹ - Tuấn Huyền - 05-09-2026",
+    "gsbh_ky": "Đinh Xuân Mỹ",
+    "asm_ky": null,
+    "npp_ky": "Đào Thị Thanh Huyền",
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": ""
+  },
+  {
+    "key": "Trần Hữu Đoàn - Đại Dương - 05-09-2026",
+    "gsbh_ky": "Trần Hữu Đoàn",
+    "asm_ky": null,
+    "npp_ky": "Lê Thị Nga",
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": ""
+  },
+  {
+    "key": "Nguyễn Văn Tuấn - Định Nhuận - 05-09-2026",
+    "gsbh_ky": "Nguyễn Văn Tuấn",
+    "asm_ky": null,
+    "npp_ky": "Lê Xuân Thủy",
+    "nvbh_du_hop": "Đỗ Xuân Khoa",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Thành phần dự họp ghi NPP để trống nhưng ô Xác nhận NPP cuối trang có người ký tên Lê Xuân Thủy"
+  },
+  {
+    "key": "Nguyễn Tuệ Tuấn - Đức Nam - 05-09-2026",
+    "gsbh_ky": "Nguyễn Tuệ Tuấn",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Đỗ Thị Mến",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Ô Xác nhận NPP và ASM để trống không ký; NVBH Đỗ Thị Mến ký ngay cạnh chữ ký GSBH do form không có cột riêng cho NVBH"
+  },
+  {
+    "key": "Hoàng Thu Thủy - Đức Thủy - 05-09-2026",
+    "gsbh_ky": "Hoàng Thu Thủy",
+    "asm_ky": null,
+    "npp_ky": "Hứa Văn Đức",
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Tên người ký NPP hơi khó đọc, ghi theo tên NPP đã khai ở đầu trang"
+  },
+  {
+    "key": "Bùi Thị Thái Hà - Anh Thư - 07-09-2026",
+    "gsbh_ky": "Bùi Thị Phương Hà",
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": "Nguyễn Thị Nam",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Ô Xác nhận NPP để trống không ký, khớp với phần thành phần dự họp NPP cũng để trống; tên GSBH viết tắt khó đọc trọn vẹn"
+  },
+  {
+    "key": "Nguyễn Quốc Thắm - Bảo Cường - 07-09-2026",
+    "gsbh_ky": "Nguyễn Quốc Thắm",
+    "asm_ky": null,
+    "npp_ky": "Phạm Thị Lan Anh",
+    "nvbh_du_hop": "Tạ Thị Trung Kiên",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Thành phần dự họp để trống tên NPP nhưng ô Xác nhận NPP có người ký tên Phạm Thị Lan Anh"
+  },
+  {
+    "key": "Đỗ Quang Tý - Hiếu Thảo - 07-09-2026",
+    "gsbh_ky": "Đỗ Quang Tý",
+    "asm_ky": null,
+    "npp_ky": "Đỗ Quang Tâm",
+    "nvbh_du_hop": "Nguyễn Văn Thắng",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": ""
+  },
+  {
+    "key": "Nguyễn Xuân Trường - Hoa Hùng - 07-09-2026",
+    "gsbh_ky": "Nguyễn Xuân Trường",
+    "asm_ky": "Nguyễn Văn Ân",
+    "npp_ky": "Đỗ Văn Sỹ",
+    "nvbh_du_hop": "Nguyễn Hải Đăng",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Thành phần dự họp ghi NPP là Hoa Hùng (tên công ty/điểm) nhưng người ký ở ô Xác nhận NPP ghi rõ họ tên là Đỗ Văn Sỹ"
+  },
+  {
+    "key": "Nguyễn Xuân Thắng - Hoàng Phát - 07-09-2026",
+    "gsbh_ky": null,
+    "asm_ky": null,
+    "npp_ky": null,
+    "nvbh_du_hop": null,
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": true,
+    "ghi_chu": "Không phải mẫu GĐ02/KTTT/GĐ03 biên bản họp GDKD-NPP; đây là mẫu khác 'BIÊN BẢN KIỂM TRA THỊ TRƯỜNG NPP' không có cấu trúc ô ký GSBH/ASM/NPP như yêu cầu"
+  },
+  {
+    "key": "Chu Công Kiên - Huy Đạt - 07-09-2026",
+    "gsbh_ky": "Chu Công Kiên",
+    "asm_ky": null,
+    "npp_ky": "Phương Thị Lộ",
+    "nvbh_du_hop": "Đỗ Ngọc Mậu, Phùng Văn Đại",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Tên người ký NPP (Phương Thị Lộ) viết hơi khó đọc, có thể sai lệch nhỏ so với chữ viết tay gốc"
+  },
+  {
+    "key": "Nguyễn Thị Phương Thúy - Hương Nhài - 07-09-2026",
+    "gsbh_ky": "Nguyễn Thị Phương Thúy",
+    "asm_ky": null,
+    "npp_ky": "Đoàn Thị Nhài",
+    "nvbh_du_hop": "Nguyễn Thị Hằng",
+    "chi_dong_dau": false,
+    "ky_thay": false,
+    "khong_doc_duoc": false,
+    "ghi_chu": "Thành phần dự họp để trống tên NPP nhưng ô Xác nhận NPP có người ký; họ có thể là Đoàn/Toàn Thị Nhài, chữ viết khó phân biệt rõ"
+  }
+]

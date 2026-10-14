@@ -1,0 +1,76 @@
+[
+ {
+  "key": "Nguyễn Văn Tuấn - Hữu Hiền - 28-09-2026",
+  "ngay": "29",
+  "thang": "9",
+  "nam": "2026",
+  "ho_ten": "Nguyễn Văn Tuấn",
+  "chuc_vu": "GSBH",
+  "lam_viec_voi": "Phạm Thu Hữu - NVBH - Hòa Bình",
+  "npp": "Hữu Hiền",
+  "dia_chi": "TP Hòa Bình - Hòa Bình",
+  "m1": "Thị trường có nhiều khó khăn, một số mặt hàng thiếu hụt, cạnh tranh cao",
+  "m2": "NPP nhập lô lớn đầu tháng 9/2026; NVBH gần đạt doanh số/khoán của công ty tháng 9/2026",
+  "m3": "Chưa có",
+  "m4": "Các khu vực giáp ranh vẫn có hàng trôi nhưng ít",
+  "m5": "Chào Sen, sữa chua, xịt muỗi Việt",
+  "m6": "NVBH chịu khó, có trách nhiệm, ý thức làm việc tốt",
+  "m7": "Xin điều chỉnh chương trình khuyến mại, hỗ trợ thêm bao bì kệ trưng bày",
+  "m8": "Xin chương trình khuyến mại, hỗ trợ thêm bao bì kệ trưng bày",
+  "m9": "Xin đề xuất chương trình thúc đẩy khuyến mại, hỗ trợ thêm 10 lon chè xanh"
+ },
+ {
+  "key": "Nguyễn Xuân Trường - AI - 29-09-2026",
+  "ngay": "29",
+  "thang": "9",
+  "nam": "2026",
+  "tai_npp": "AI",
+  "dia_ban": "Cầu Giấy, Từ Liêm",
+  "asm": "",
+  "gsbh": "Nguyễn Xuân Trường",
+  "nvbh": "Phạm Thị Lưu",
+  "muc1": {
+   "ton_kho": "129 thùng",
+   "thi_truong": "Bán tạm ổn, còn 1 vài SKU khó bán",
+   "nhan_su": "01 đi làm đầy đủ",
+   "khac": "1 số hàng lỗi khách đổi trả đã xử lý"
+  },
+  "muc2": {
+   "hang_hoa": "Khá đầy đủ hàng bán, thiếu 1 số mã",
+   "thi_truong": "Bán ổn, giá thấp cạnh tranh cao, còn SKU nhỏ khó bán",
+   "chinh_sach": "NPP vẫn đang hỗ trợ NVBH",
+   "bao_cao": "Đầy đủ",
+   "ho_tro": "Có"
+  },
+  "muc3": "Tiếp tục hoàn thiện chỉ tiêu tháng 9; cập nhật sớm, báo cáo hàng ngày",
+  "muc4": "Tiếp tục hoàn thành chỉ tiêu, bán đủ thẻ; cập nhật sớm, báo cáo hàng ngày",
+  "muc5": "Đẩy mạnh lên kế hoạch nhập tháng 10, chủ động hoàn thành chuyển tiếp trong đầu tháng 10"
+ },
+ {
+  "key": "Nguyễn Đức Tôn - Thảo Nam Phú Thọ - 29-09-2026",
+  "ngay": "29",
+  "thang": "9",
+  "nam": "2026",
+  "tai_npp": "Thảo Nam",
+  "dia_ban": "TX Phú Thọ",
+  "asm": "",
+  "gsbh": "Nguyễn Đức Tôn",
+  "nvbh": "Đào Văn Tài",
+  "muc1": {
+   "ton_kho": "947 thùng; công ty nợ 227 thùng",
+   "thi_truong": "Giá Chào Sen, Chào Mâm các loại giá không ổn định",
+   "nhan_su": "1 GS, 1 NV ổn định",
+   "khac": "NPP đề xuất có chương trình khuyến mại cho khách hàng, 1 lon nhựa trước"
+  },
+  "muc2": {
+   "hang_hoa": "Luôn đủ hàng cung ứng cho khách hàng",
+   "thi_truong": "Đủ bao bì, tương đối ổn định",
+   "chinh_sach": "Mong công ty có chính sách như các công ty khác",
+   "bao_cao": "Luôn thực hiện đầy đủ",
+   "ho_tro": "Có"
+  },
+  "muc3": "ASM và GSBH luôn hỗ trợ NV thúc đẩy bán hàng; hỗ trợ NVBH luôn đạt doanh số bán ra hàng tháng",
+  "muc4": "Hàng kênh bán hàng thương mại điện tử bán rẻ hơn giá NPP",
+  "muc5": "Nhập đạt chỉ tiêu nhập vào tháng 9 đạt 101%. Mức tiêu bán đạt doanh số 120%"
+ }
+]

@@ -1,0 +1,151 @@
+[
+ {
+  "key": "Trần Đức Phong - Minh Lâm - 22-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Minh Lâm",
+  "asm": "Nguyễn Văn Đồng",
+  "gsbh": "Trần Đức Phong",
+  "nvbh": [
+   "Nguyễn Thị Thu Quyên"
+  ],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "1700",
+  "ghi_chu": "Chữ ký chân trang cột NPP quá mờ nên không ghi; ASM ghi tắt \"Mr Đồng\", GSBH ghi tắt \"Mr Phong\", NVBH ghi tắt \"Quyên\" - đã đối chiếu với danh sách tuyến"
+ },
+ {
+  "key": "Trịnh Văn Dũng - Trình Oanh - 17-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Trình Oanh",
+  "asm": "",
+  "gsbh": "Trịnh Văn Dũng",
+  "nvbh": [
+   "Vũ Thị Lan Oanh"
+  ],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "295",
+  "ghi_chu": "Ảnh không lấy được phần chân trang chữ ký"
+ },
+ {
+  "key": "Đinh Thị Huệ - Sơn Hà - 22-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Sơn Hà",
+  "asm": "Đinh Thị Huệ",
+  "gsbh": "Nguyễn Thị Hồng",
+  "nvbh": [],
+  "npp_nguoi_ky": "Cao Thị Hà",
+  "ton_kho_thung": "",
+  "ghi_chu": "Bản GĐ02 biến thể (phần thân là \"NỘI DUNG HỌP BÀN\", không có mục Tồn kho); phần Thành phần dự họp ghi GSBH \"Hồng - KV Vinh Hà Tĩnh\", chữ ký chân trang là Nguyễn Thị Hồng"
+ },
+ {
+  "key": "Đinh Thị Huệ - Thành Duy KV Hà Tĩnh - 21-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Thành Duy",
+  "asm": "Đinh Thị Huệ",
+  "gsbh": "Nguyễn Thị Hồng",
+  "nvbh": [
+   "Hoàng Đình Long"
+  ],
+  "npp_nguoi_ky": "Trương Quốc Hoàng",
+  "ton_kho_thung": "",
+  "ghi_chu": "Bản GĐ02 biến thể (\"NỘI DUNG HỌP BÀN\"), không có mục Tồn kho; địa bàn KV Hà Tĩnh"
+ },
+ {
+  "key": "Đinh Văn Huấn - Tuấn Anh - 22-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Tuấn Anh",
+  "asm": "",
+  "gsbh": "Đinh Văn Huấn",
+  "nvbh": [
+   "Bùi Thái Toàn",
+   "Lê Văn Thỏa"
+  ],
+  "npp_nguoi_ky": "Phạm Thị Tuệ",
+  "ton_kho_thung": "1150",
+  "ghi_chu": "Trên giấy NVBH viết \"Lê Minh Thỏa\", đối chiếu danh sách tuyến là Lê Văn Thỏa"
+ },
+ {
+  "key": "Đinh Xuân Mỹ - Tuấn Huyền - 22-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Tuấn Huyền",
+  "asm": "",
+  "gsbh": "Đinh Xuân Mỹ",
+  "nvbh": [],
+  "npp_nguoi_ky": "Đào Thị Thanh Huyền",
+  "ton_kho_thung": "358,7",
+  "ghi_chu": "Mục Tồn kho ghi \"Đủ SKU mặt hàng. Tổng kho = 358,7\""
+ },
+ {
+  "key": "Đàm Ngọc Sơn - Long Minh Trang - 21-08-2026",
+  "mau": "khác",
+  "tai_npp": "",
+  "asm": "",
+  "gsbh": "",
+  "nvbh": [],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "",
+  "ghi_chu": "Ảnh là selfie chân dung, không có biên bản"
+ },
+ {
+  "key": "Đàm Ngọc Sơn - Trung Hiếu - 18-08-2026",
+  "mau": "khác",
+  "tai_npp": "",
+  "asm": "",
+  "gsbh": "",
+  "nvbh": [],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "",
+  "ghi_chu": "Ảnh là selfie chân dung, không có biên bản"
+ },
+ {
+  "key": "Đào Văn Sơn - thinh long - 17-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Thịnh Long",
+  "asm": "",
+  "gsbh": "Đào Văn Sơn",
+  "nvbh": [
+   "Đinh Thị Thuỳ Linh"
+  ],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "1241,7",
+  "ghi_chu": "Tồn kho ghi \"1241,7 thùng và CTy nợ 145 thùng\"; bản này trùng ảnh với key \"Đào Văn Sơn - thịnh long - 17-08-2026\"; chữ ký NPP không đọc rõ"
+ },
+ {
+  "key": "Đào Văn Sơn - thịnh long - 17-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Thịnh Long",
+  "asm": "",
+  "gsbh": "Đào Văn Sơn",
+  "nvbh": [
+   "Đinh Thị Thuỳ Linh"
+  ],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "1241,7",
+  "ghi_chu": "Trùng nội dung/ảnh với key \"Đào Văn Sơn - thinh long - 17-08-2026\" (chỉ khác dấu trong tên file); chữ ký NPP không đọc rõ"
+ },
+ {
+  "key": "Đào Xuân Chung - NAM HUỆ - 17-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Nam Huệ",
+  "asm": "",
+  "gsbh": "Đào Xuân Chung",
+  "nvbh": [
+   "Lê Thị Hoà"
+  ],
+  "npp_nguoi_ky": "Vũ Thị Huệ",
+  "ton_kho_thung": "182",
+  "ghi_chu": ""
+ },
+ {
+  "key": "Đỗ Quang Tý - Hiếu Thảo - 19-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Hiếu Thảo",
+  "asm": "",
+  "gsbh": "Đỗ Quang Tý",
+  "nvbh": [
+   "Nguyễn Văn Thắng"
+  ],
+  "npp_nguoi_ky": "Đỗ Quang Tam",
+  "ton_kho_thung": "2432",
+  "ghi_chu": ""
+ }
+]

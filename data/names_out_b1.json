@@ -1,0 +1,158 @@
+[
+ {
+  "key": "Bùi Thị Thái Hà - Anh Thư - 21-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Anh Thư",
+  "asm": "",
+  "gsbh": "Bùi Thị Thái Hà",
+  "nvbh": [
+   "Nguyễn Thọ Nam"
+  ],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "179",
+  "ghi_chu": ""
+ },
+ {
+  "key": "Bùi Thị Thái Hà - Hùng Phát lẻ - 19-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Hùng Phát",
+  "asm": "",
+  "gsbh": "Bùi Thị Thái Hà",
+  "nvbh": [
+   "Lương Văn Tuy"
+  ],
+  "npp_nguoi_ky": "Đào Thị Hường",
+  "ton_kho_thung": "275",
+  "ghi_chu": "Tên NVBH không có trong danh sách tuyến của gói"
+ },
+ {
+  "key": "Bùi Thị Thái Hà - Vạn An Lộc - 18-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Vạn An Lộc",
+  "asm": "",
+  "gsbh": "Bùi Thị Thái Hà",
+  "nvbh": [
+   "Tạ T.P Hoa"
+  ],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "198",
+  "ghi_chu": "Tên NVBH viết tắt trên giấy, không có trong danh sách tuyến của gói"
+ },
+ {
+  "key": "Chu Công Kiên - Huy Đạt VP - 17-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Huy Đạt VP",
+  "asm": "",
+  "gsbh": "Chu Công Kiên",
+  "nvbh": [
+   "Đỗ Ngọc Hậu",
+   "Phùng Văn Đại"
+  ],
+  "npp_nguoi_ky": "Phương Thị Lệ",
+  "ton_kho_thung": "1763",
+  "ghi_chu": ""
+ },
+ {
+  "key": "Chu Công Kiên - Mạnh Long lẻ - 19-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Mạnh Long",
+  "asm": "",
+  "gsbh": "Chu Công Kiên",
+  "nvbh": [
+   "Vũ Xuân Toàn",
+   "Kim Đức Tiệp"
+  ],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "1796",
+  "ghi_chu": "Ngày trên giấy là 18/8, tên file ghi 19/8"
+ },
+ {
+  "key": "Cầm Thế Khái - Vĩnh Hoàn - 18-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Vĩnh Hoàn",
+  "asm": "",
+  "gsbh": "Cầm Thế Khái",
+  "nvbh": [
+   "Nông Thị Nhung",
+   "Dương Văn Ngọ"
+  ],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "639",
+  "ghi_chu": ""
+ },
+ {
+  "key": "Hoàng Thu Thủy - Đức Thủy - 22-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Đức Thủy",
+  "asm": "",
+  "gsbh": "Hoàng Thu Thủy",
+  "nvbh": [],
+  "npp_nguoi_ky": "Ma Văn Đức",
+  "ton_kho_thung": "270",
+  "ghi_chu": "Dòng NVBH bỏ trống; ảnh mờ, số tồn kho đọc được là 270"
+ },
+ {
+  "key": "Lê Thị Trâm - Minh Anh - 22-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Minh Anh",
+  "asm": "",
+  "gsbh": "Lê Thị Trâm",
+  "nvbh": [
+   "Lê Thị Dung"
+  ],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "1128",
+  "ghi_chu": "Ngày trên giấy là 17/8, tên file ghi 22/8; cột Xác nhận NPP bỏ trống"
+ },
+ {
+  "key": "Lê Thị Trâm - Tâm An - 21-08-2026",
+  "mau": "KTTT",
+  "tai_npp": "Tâm An",
+  "asm": "Nguyễn Đình Trọng",
+  "gsbh": "Lê Thị Trâm",
+  "nvbh": [],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "",
+  "ghi_chu": "Mẫu kiểm tra thị trường NPP; làm việc với PT.GĐ Đàm Thị Hạnh và ASM Nguyễn Đình Trọng; mẫu không có mục tồn kho, phần ký tên bỏ trống"
+ },
+ {
+  "key": "Lê Văn Thế - Hồng Minh - 20-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Minh Hồng",
+  "asm": "Nguyễn Đình Trọng",
+  "gsbh": "Lê Văn Thế",
+  "nvbh": [
+   "Nghiêm Thị Nhung"
+  ],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "",
+  "ghi_chu": "Biến thể mẫu GĐ02 (phần NỘI DUNG HỌP BÀN), không có mục tồn kho; ASM in sẵn Nguyễn Đình Trọng, chân trang còn chữ ký Đinh Thị Huệ"
+ },
+ {
+  "key": "Lê Văn Thế - Phương Nam - 17-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Phương Nam",
+  "asm": "",
+  "gsbh": "Lê Văn Thế",
+  "nvbh": [
+   "Hà Thị Dung"
+  ],
+  "npp_nguoi_ky": "Lê Văn Cường",
+  "ton_kho_thung": "57",
+  "ghi_chu": "Mục tồn kho ghi \"tồn thấp 57\""
+ },
+ {
+  "key": "Lại Văn Thịnh - Ngọc Bích - 21-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Ngọc Bích",
+  "asm": "Nguyễn Văn Đồng",
+  "gsbh": "Lại Văn Thịnh",
+  "nvbh": [
+   "Trần Đức Quang",
+   "Nguyễn Văn Thắng"
+  ],
+  "npp_nguoi_ky": "Vũ Tiến Công",
+  "ton_kho_thung": "1770",
+  "ghi_chu": ""
+ }
+]

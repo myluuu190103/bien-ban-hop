@@ -1,0 +1,268 @@
+[
+ {
+  "file": "Lê Thị Trâm - Tâm An - 19-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1403,
+   2624
+  ],
+  "crop": [
+   1403,
+   2152
+  ],
+  "box": [
+   0,
+   260,
+   1403,
+   2412
+  ],
+  "area_reduction_pct": 18.0
+ },
+ {
+  "file": "Lại Văn Thịnh - Ngọc Bích - 19-09-2026 - Ảnh 02.jpg",
+  "status": "cropped",
+  "orig": [
+   1802,
+   2688
+  ],
+  "crop": [
+   1802,
+   2252
+  ],
+  "box": [
+   0,
+   165,
+   1802,
+   2417
+  ],
+  "area_reduction_pct": 16.2
+ },
+ {
+  "file": "Mai Thị Hạnh - Phạm Bảo Khánh - 19-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1605,
+   2657
+  ],
+  "crop": [
+   1605,
+   2263
+  ],
+  "box": [
+   0,
+   152,
+   1605,
+   2415
+  ],
+  "area_reduction_pct": 14.8
+ },
+ {
+  "file": "Nguyễn Thị Phương Thúy - Đặng Tiến Trung - 19-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1371,
+   2619
+  ],
+  "crop": [
+   1371,
+   2184
+  ],
+  "box": [
+   0,
+   0,
+   1371,
+   2184
+  ],
+  "area_reduction_pct": 16.6
+ },
+ {
+  "file": "Nguyễn Văn Toàn - Hùng Phát sỉ - 19-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1800,
+   2688
+  ],
+  "crop": [
+   1800,
+   2417
+  ],
+  "box": [
+   0,
+   0,
+   1800,
+   2417
+  ],
+  "area_reduction_pct": 10.1
+ },
+ {
+  "file": "Nguyễn Văn Tuấn - Định Nhuận - 19-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1458,
+   2633
+  ],
+  "crop": [
+   1458,
+   2179
+  ],
+  "box": [
+   0,
+   88,
+   1458,
+   2267
+  ],
+  "area_reduction_pct": 17.2
+ },
+ {
+  "file": "Nguyễn Văn Đồng - Kiên Cường - 19-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1778,
+   2684
+  ],
+  "crop": [
+   1363,
+   1651
+  ],
+  "box": [
+   110,
+   317,
+   1473,
+   1968
+  ],
+  "area_reduction_pct": 52.8
+ },
+ {
+  "file": "Nguyễn Xuân Thắng - Hoàng Phát - 19-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   880,
+   1342
+  ],
+  "crop": [
+   880,
+   1207
+  ],
+  "box": [
+   0,
+   0,
+   880,
+   1207
+  ],
+  "area_reduction_pct": 10.1
+ },
+ {
+  "file": "Nguyễn Xuân Trường - Kiên Cường - 19-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1330,
+   2613
+  ],
+  "crop": [
+   1330,
+   1765
+  ],
+  "box": [
+   0,
+   646,
+   1330,
+   2411
+  ],
+  "area_reduction_pct": 32.5
+ },
+ {
+  "file": "Nhữ Hồng Huy - Cường Long - 19-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1613,
+   2658
+  ],
+  "crop": [
+   1613,
+   2018
+  ],
+  "box": [
+   0,
+   397,
+   1613,
+   2415
+  ],
+  "area_reduction_pct": 24.1
+ },
+ {
+  "file": "Phan Ngọc Bích - Minh Hưng - 19-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1473,
+   2636
+  ],
+  "crop": [
+   1473,
+   2028
+  ],
+  "box": [
+   0,
+   0,
+   1473,
+   2028
+  ],
+  "area_reduction_pct": 23.1
+ },
+ {
+  "file": "Phạm Thanh Sơn - Bảo Thắm - 19-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1647,
+   2664
+  ],
+  "crop": [
+   1647,
+   2185
+  ],
+  "box": [
+   0,
+   0,
+   1647,
+   2185
+  ],
+  "area_reduction_pct": 18.0
+ },
+ {
+  "file": "Toàn Văn Thuận - Thành Trung LS - 19-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1800,
+   2688
+  ],
+  "crop": [
+   1800,
+   2417
+  ],
+  "box": [
+   0,
+   0,
+   1800,
+   2417
+  ],
+  "area_reduction_pct": 10.1
+ },
+ {
+  "file": "Trần Hữu Đoàn - Minh Ý - 19-09-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1785,
+   2686
+  ],
+  "crop": [
+   1785,
+   2417
+  ],
+  "box": [
+   0,
+   0,
+   1785,
+   2417
+  ],
+  "area_reduction_pct": 10.0
+ }
+]

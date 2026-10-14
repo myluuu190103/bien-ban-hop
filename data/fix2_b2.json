@@ -1,0 +1,14 @@
+[
+ {
+  "key": "Mai Thị Hạnh - Hiền Tuệ - 10-09-2026",
+  "field": "muc5",
+  "gia_tri_moi": "NPP kết hợp tác và tăng hoàn thành D.S tháng 05",
+  "ly_do": "Phóng to thấy rõ chữ '05' (nét 5 có đầu ngang), khác hẳn số 9 tròn đầu ở dòng ngày 10/09"
+ },
+ {
+  "key": "Nguyễn Hữu Dực - Thi Hương - 11-09-2026",
+  "field": "m2_doanh_so",
+  "gia_tri_moi": "Trao đổi tiêu đề cân kì cty tháng 9, NPP phải nhập ~ 707 thùng đã lên đơn; chỉ tiêu NVBH ~ 400 tr",
+  "ly_do": "Đọc lại: 'nhập = 707 thùng' chứ không phải '40% thu'; số cuối là '400/tr' (400 triệu), không phải '400/lít'; không có 'chào sen - kem chào miền'"
+ }
+]

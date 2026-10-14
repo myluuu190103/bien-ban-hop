@@ -1,0 +1,154 @@
+[
+ {
+  "key": "Nguyễn Tuệ Tuấn - Mạnh Lực - 21-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Mạnh Lực",
+  "asm": "",
+  "gsbh": "Nguyễn Tuệ Tuấn",
+  "nvbh": [
+   "Nguyễn Thị Lan Anh",
+   "Phạm Thị Hảo"
+  ],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "648",
+  "ghi_chu": "Cột NPP ghi \"Vắng mặt\", không có chữ ký NPP"
+ },
+ {
+  "key": "Nguyễn Tuệ Tuấn - đức nam - 17-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Đức Nam",
+  "asm": "",
+  "gsbh": "Nguyễn Tuệ Tuấn",
+  "nvbh": [
+   "Đỗ Thị Mến"
+  ],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "",
+  "ghi_chu": "Ảnh chụp mờ, nhoè; mục Tồn kho để trống; cột NPP không ký"
+ },
+ {
+  "key": "Nguyễn Văn Toàn - An Viên Phát - 18-08-2026",
+  "mau": "GD02",
+  "tai_npp": "An Viên Phát",
+  "asm": "Nguyễn Đình Trọng",
+  "gsbh": "Nguyễn Văn Toàn",
+  "nvbh": [],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "101",
+  "ghi_chu": "Dòng NPP ghi \"Vắng mặt\", cột xác nhận NPP bỏ trống"
+ },
+ {
+  "key": "Nguyễn Văn Toàn - Hùng Phát sỉ - 21-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Hùng Phát Sỉ",
+  "asm": "",
+  "gsbh": "Nguyễn Văn Toàn",
+  "nvbh": [],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "83",
+  "ghi_chu": "Cột NPP chỉ có chữ ký nguệch ngoạc, không ghi rõ họ tên"
+ },
+ {
+  "key": "Nguyễn Văn Tuấn - Hữu Hiền - 22-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Hữu Hiền",
+  "asm": "",
+  "gsbh": "Nguyễn Văn Tuấn",
+  "nvbh": [
+   "Phạm Thu Hữu"
+  ],
+  "npp_nguoi_ky": "Phan Ngọc Ánh",
+  "ton_kho_thung": "180",
+  "ghi_chu": "Trên giấy ghi ngày 21/8 trong khi tên file là 22-08-2026"
+ },
+ {
+  "key": "Nguyễn Văn Tuấn - Định Nhuận - 19-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Định Nhuận",
+  "asm": "Nguyễn Văn Đồng",
+  "gsbh": "Nguyễn Văn Tuấn",
+  "nvbh": [
+   "Đào Xuân Hoá"
+  ],
+  "npp_nguoi_ky": "Lê Xuân Trường",
+  "ton_kho_thung": "180",
+  "ghi_chu": "Trên giấy ghi ngày 18/8 trong khi tên file là 19-08-2026; ASM chỉ viết tắt \"Đồng\""
+ },
+ {
+  "key": "Nguyễn Văn Đồng - Hoa Thắng - 19-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Hoa Thắng",
+  "asm": "Nguyễn Văn Đồng",
+  "gsbh": "Nguyễn Xuân Thắng",
+  "nvbh": [
+   "Hồ Văn Sang"
+  ],
+  "npp_nguoi_ky": "Lê Thị Kim Nhung",
+  "ton_kho_thung": "752",
+  "ghi_chu": "Tồn kho ghi \"752 thùng (Cty nợ 512 thùng)\"; dòng NVBH ở đầu trang viết như \"Hồ Xuân Sang\" nhưng chữ ký cuối trang rõ là Hồ Văn Sang"
+ },
+ {
+  "key": "Nguyễn Văn Đồng - Ngoc bích - 21-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Ngọc Bích",
+  "asm": "Nguyễn Văn Đồng",
+  "gsbh": "Lại Văn Thịnh",
+  "nvbh": [
+   "Trần Đức Quy",
+   "Nguyễn Văn Thắng"
+  ],
+  "npp_nguoi_ky": "Vũ Tiến Công",
+  "ton_kho_thung": "1770",
+  "ghi_chu": ""
+ },
+ {
+  "key": "Nguyễn Xuân Thắng - Minh Khuê - 22-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Minh Khuê",
+  "asm": "",
+  "gsbh": "Nguyễn Xuân Thắng",
+  "nvbh": [],
+  "npp_nguoi_ky": "",
+  "ton_kho_thung": "",
+  "ghi_chu": "Ảnh chụp trong xe, rất mờ: không đọc được tên NVBH và tên người ký NPP; mục Tồn kho để trống"
+ },
+ {
+  "key": "Nguyễn Xuân Thắng - hoa thắng - 19-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Hoa Thắng",
+  "asm": "Nguyễn Văn Đồng",
+  "gsbh": "Nguyễn Xuân Thắng",
+  "nvbh": [
+   "Hồ Văn Sang"
+  ],
+  "npp_nguoi_ky": "Lê Thị Kim Nhung",
+  "ton_kho_thung": "752",
+  "ghi_chu": "TRÙNG: cùng một tờ biên bản với bản \"Nguyễn Văn Đồng - Hoa Thắng - 19-08-2026\" (hai người chụp cùng một tờ, cùng dấu đỏ Hoa Thắng); ảnh này mờ nên nội dung lấy theo bản kia"
+ },
+ {
+  "key": "Nguyễn Xuân Trường - AI - 21-08-2026",
+  "mau": "GD02",
+  "tai_npp": "AI",
+  "asm": "",
+  "gsbh": "Nguyễn Xuân Trường",
+  "nvbh": [
+   "Phạm Thị Lưu"
+  ],
+  "npp_nguoi_ky": "Trịnh Thiên Hương",
+  "ton_kho_thung": "308",
+  "ghi_chu": ""
+ },
+ {
+  "key": "Nguyễn Xuân Trường - Hoa Hùng - 22-08-2026",
+  "mau": "GD02",
+  "tai_npp": "Hoa Hùng",
+  "asm": "",
+  "gsbh": "Nguyễn Xuân Trường",
+  "nvbh": [
+   "Nguyễn Tiến Dũng"
+  ],
+  "npp_nguoi_ky": "Đỗ Văn Luy",
+  "ton_kho_thung": "290",
+  "ghi_chu": "NVBH Nguyễn Tiến Dũng không nằm trong danh sách tuyến của GSBH Nguyễn Xuân Trường"
+ }
+]
