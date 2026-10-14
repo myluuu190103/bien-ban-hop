@@ -8,3 +8,11 @@ bien-ban-hop-thu-2/
 bien-ban-hop-thu-2-theo-cong-ty/
 bien-ban-thu-2-cong-ty/
 minh-chung/
+data/crop_report_*.json
+data/sheet_goc_*.jpg
+data/sheet_cat_*.jpg
+data/ocr_*.json
+data/ocr*_out_*.json
+data/danh-sach-nhan-su-*.xlsx
+data/batch_99.json
+data/kttt20261014_01.json

@@ -59,3 +59,15 @@ KHÔNG áp ngay/thang/nam và "Liêm Xuân"). Kết quả: tuần 31/08–06/09 
    và `qa_week.py` (cũng không bắt buộc `--xlsx`).
 Cột "NVBH đi kèm" với mẫu KTTT lấy từ dòng "Làm việc với", chỉ giữ tên có trong danh sách nhân sự.
 File Word đang mở trong Word thì không ghi đè được → xuất tên `_v2`.
+
+## Prompt agent OCR và kiểm định ngữ nghĩa
+
+Prompt dùng cho agent OCR nằm ở [`docs/agent-ocr-prompt.md`](docs/agent-ocr-prompt.md). Agent phải đọc theo từng vùng phóng to, đối chiếu roster và chỉ ghi nội dung khi vừa nhìn rõ vừa có ý nghĩa nghiệp vụ. Số liệu không có đơn vị/ngữ cảnh, tên không khớp tuyến, câu cụt hoặc chuỗi ký tự vô nghĩa phải để trống.
+
+Quy trình tối thiểu trước khi gửi Word:
+
+1. Ingest ảnh và kiểm tra bản trùng ASM/GSBH.
+2. OCR độc lập từng mẫu GD02/KTTT/GD03.
+3. Đối chiếu tên với roster mới nhất; không dùng roster để tự bịa nội dung bị mờ.
+4. QA số liệu, đơn vị, ngày, tên, ô trống và crop.
+5. Chỉ sau QA mới chạy `build_docx.py` và gửi file. Nếu Word đang mở, dùng hậu tố `_v2`.
