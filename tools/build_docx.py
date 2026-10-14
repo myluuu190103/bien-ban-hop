@@ -330,6 +330,7 @@ KTTT_KEYS = {
     "Nguyễn Đức Tôn - Thảo Nam Phú Thọ - 13-10-2026",
     "Trần Đức Phong - Minh Lâm - 13-10-2026",
     "Đinh Thị Huệ - An Vy - 13-10-2026",
+    "Nhữ Hồng Huy - Minh Phúc HD - 13-10-2026",
 }
 
 ASM_CHECK_KEYS = {
@@ -390,6 +391,7 @@ DUP_DROP_KEYS = {
     "Nguyễn Văn Đồng - Hùng Phát - 22-09-2026",       # trùng Bùi Thị Thái Hà - Hùng Phát lẻ (ASM chụp lại)
     "Nguyễn Văn Đồng - Minh Ý - 26-09-2026",          # trùng Trần Hữu Đoàn - Minh Ý (ASM chụp lại đúng ảnh của GSBH)
     "Nguyễn Văn Đồng - Anh Thư - 07-10-2026",         # ASM chụp lại tờ của Bùi Thị Thái Hà
+    "Nguyễn Văn Đồng - Hùng Phát - 13-10-2026",       # trùng Bùi Thị Thái Hà - Hùng Phát lẻ (ASM chụp lại)
 }
 
 with open(MEETINGS_JSON, "r", encoding="utf-8") as f:

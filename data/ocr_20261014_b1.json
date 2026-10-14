@@ -1,0 +1,68 @@
+[
+ {
+  "key": "Bùi Thị Thái Hà - Hùng Phát lẻ - 13-10-2026",
+  "loai": "KTTT hoặc GD02 (xem tiêu đề tờ giấy)",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Bùi Thị Thái Hà - Hùng Phát lẻ - 13-10-2026 - Ảnh 01.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\repo-bien-ban-hop-v2\\data\\zoom\\bui_thi_thai_ha_hung_phat_le_13_10_2026_1.jpg",
+   "C:\\NVAI\\Claude\\repo-bien-ban-hop-v2\\data\\zoom\\bui_thi_thai_ha_hung_phat_le_13_10_2026_2.jpg",
+   "C:\\NVAI\\Claude\\repo-bien-ban-hop-v2\\data\\zoom\\bui_thi_thai_ha_hung_phat_le_13_10_2026_3.jpg"
+  ],
+  "nguoi_gui": "Bùi Thị Thái Hà",
+  "npp_theo_ten_file": "Hùng Phát lẻ",
+  "nvbh_trong_tuyen": [
+   "Nguyễn Thọ Nam"
+  ],
+  "gsbh_tuyen": "LBiên, Gia Lâm, HMai",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ]
+ },
+ {
+  "key": "Nguyễn Văn Đồng - Hùng Phát - 13-10-2026",
+  "loai": "KTTT hoặc GD02 (xem tiêu đề tờ giấy)",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Nguyễn Văn Đồng - Hùng Phát - 13-10-2026 - Ảnh 01.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\repo-bien-ban-hop-v2\\data\\zoom\\nguyen_van_đong_hung_phat_13_10_2026_1.jpg",
+   "C:\\NVAI\\Claude\\repo-bien-ban-hop-v2\\data\\zoom\\nguyen_van_đong_hung_phat_13_10_2026_2.jpg",
+   "C:\\NVAI\\Claude\\repo-bien-ban-hop-v2\\data\\zoom\\nguyen_van_đong_hung_phat_13_10_2026_3.jpg"
+  ],
+  "nguoi_gui": "Nguyễn Văn Đồng",
+  "npp_theo_ten_file": "Hùng Phát",
+  "nvbh_trong_tuyen": [],
+  "gsbh_tuyen": "",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ]
+ },
+ {
+  "key": "Nhữ Hồng Huy - Minh Phúc HD - 13-10-2026",
+  "loai": "KTTT hoặc GD02 (xem tiêu đề tờ giấy)",
+  "anh_goc": "C:\\Users\\desig\\Downloads\\Anh_bien_ban_da_cat\\Nhữ Hồng Huy - Minh Phúc HD - 13-10-2026 - Ảnh 01.jpg",
+  "anh_zoom": [
+   "C:\\NVAI\\Claude\\repo-bien-ban-hop-v2\\data\\zoom\\nhu_hong_huy_minh_phuc_hd_13_10_2026_1.jpg",
+   "C:\\NVAI\\Claude\\repo-bien-ban-hop-v2\\data\\zoom\\nhu_hong_huy_minh_phuc_hd_13_10_2026_2.jpg",
+   "C:\\NVAI\\Claude\\repo-bien-ban-hop-v2\\data\\zoom\\nhu_hong_huy_minh_phuc_hd_13_10_2026_3.jpg"
+  ],
+  "nguoi_gui": "Nhữ Hồng Huy",
+  "npp_theo_ten_file": "Minh Phúc HD",
+  "nvbh_trong_tuyen": [
+   "Lê Quý Quỳnh",
+   "Lê Văn Tuyến",
+   "Nguyễn Đình Phương"
+  ],
+  "gsbh_tuyen": "Hải Dương",
+  "asm_danh_sach": [
+   "Đinh Thị Huệ",
+   "Nguyễn Văn Đồng",
+   "Nguyễn Đình Trọng",
+   "Nguyễn Phú Lộc"
+  ]
+ }
+]

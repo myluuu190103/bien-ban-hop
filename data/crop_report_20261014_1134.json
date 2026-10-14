@@ -1,0 +1,59 @@
+[
+ {
+  "file": "Bùi Thị Thái Hà - Hùng Phát lẻ - 13-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   960,
+   1434
+  ],
+  "crop": [
+   960,
+   1287
+  ],
+  "box": [
+   0,
+   0,
+   960,
+   1287
+  ],
+  "area_reduction_pct": 10.3
+ },
+ {
+  "file": "Nguyễn Văn Đồng - Hùng Phát - 13-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1800,
+   2688
+  ],
+  "crop": [
+   1800,
+   2417
+  ],
+  "box": [
+   0,
+   0,
+   1800,
+   2417
+  ],
+  "area_reduction_pct": 10.1
+ },
+ {
+  "file": "Nhữ Hồng Huy - Minh Phúc HD - 13-10-2026 - Ảnh 01.jpg",
+  "status": "cropped",
+  "orig": [
+   1673,
+   2668
+  ],
+  "crop": [
+   1465,
+   2136
+  ],
+  "box": [
+   0,
+   280,
+   1465,
+   2416
+  ],
+  "area_reduction_pct": 29.9
+ }
+]

@@ -5836,5 +5836,35 @@
   "mm": "10",
   "yyyy": "2026",
   "n_images": 1
+ },
+ {
+  "key": "Bùi Thị Thái Hà - Hùng Phát lẻ - 13-10-2026",
+  "image": "Bùi Thị Thái Hà - Hùng Phát lẻ - 13-10-2026 - Ảnh 01.jpg",
+  "nguoi_gui": "Bùi Thị Thái Hà",
+  "npp_ten": "Hùng Phát lẻ",
+  "dd": "13",
+  "mm": "10",
+  "yyyy": "2026",
+  "n_images": 1
+ },
+ {
+  "key": "Nguyễn Văn Đồng - Hùng Phát - 13-10-2026",
+  "image": "Nguyễn Văn Đồng - Hùng Phát - 13-10-2026 - Ảnh 01.jpg",
+  "nguoi_gui": "Nguyễn Văn Đồng",
+  "npp_ten": "Hùng Phát",
+  "dd": "13",
+  "mm": "10",
+  "yyyy": "2026",
+  "n_images": 1
+ },
+ {
+  "key": "Nhữ Hồng Huy - Minh Phúc HD - 13-10-2026",
+  "image": "Nhữ Hồng Huy - Minh Phúc HD - 13-10-2026 - Ảnh 01.jpg",
+  "nguoi_gui": "Nhữ Hồng Huy",
+  "npp_ten": "Minh Phúc HD",
+  "dd": "13",
+  "mm": "10",
+  "yyyy": "2026",
+  "n_images": 1
  }
 ]
